@@ -44,10 +44,10 @@ links:
   - title: Categories
     url: /categories
   - title: Forum
-    url: forum.fablab-lannion.org
+    url: https://forum.fablab-lannion.org
     external: true
   - title: Wiki
-    url: wiki.fablab-lannion.org
+    url: https://wiki.fablab-lannion.org
     external: true
   - title: A propos
     url: /about
