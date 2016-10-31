@@ -42,6 +42,8 @@ links:
     icon: home
   - title: Favoris
     url: /featured
+  - title: Tags
+    url: /tags
   - title: Categories
     url: /categories
   - title: Forum
