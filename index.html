@@ -1,9 +1,9 @@
 ---
-layout: home
-title: BLOG
-description: "The personal blog of Hossain Mohd. Faysal, a doctoral candidate in Electrical Engineering at University of Pennsylvania."
-headline: An Engineer's Diary
-tags: [Hossain, Mohd, Faysal, electrical, engineering, blog, university, pennsylvania, doha, Qatar]
+layout: Accueil
+title: Blog
+description: "Le Blog du Fablab de Lannion"
+headline: Le Blog du Fablab de Lannion
+tags:
 ---
 {% if site.paginate %}
     {% for post in paginator.posts %}
@@ -14,8 +14,35 @@ tags: [Hossain, Mohd, Faysal, electrical, engineering, blog, university, pennsyl
                     <span class="day">
                         {{ post.date | date: "%d" }}
                     </span>
+                      {% assign m = post.date | date: "%-m" %}
+                      {% case m %}
+                        {% when '1' %}
+                          {% capture month %}janvier{% endcapture %}
+                        {% when '2' %}
+                          {% capture month %}février{% endcapture %}
+                        {% when '3' %}
+                          {% capture month %}mars{% endcapture %}
+                        {% when '4' %}
+                          {% capture month %}avril{% endcapture %}
+                        {% when '5' %}
+                          {% capture month %}mai{% endcapture %}
+                        {% when '6' %}
+                          {% capture month %}juin{% endcapture %}
+                        {% when '7' %}
+                          {% capture month %}juillet{% endcapture %}
+                        {% when '8' %}
+                          {% capture month %}août{% endcapture %}
+                        {% when '9' %}
+                          {% capture month %}septembre{% endcapture %}
+                        {% when '10' %}
+                          {% capture month %}octobre{% endcapture %}
+                        {% when '11' %}
+                          {% capture month %}novembre{% endcapture %}
+                        {% when '12' %}
+                          {% capture month %}décembre{% endcapture %}
+                      {% endcase %}
                     <span class="month-year">
-                        {{ post.date | date: "%B %Y" }}
+                        {{month}} {{ post.date | date: "%Y" }}
                     </span>
                 </time>
             </span>
