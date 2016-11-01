@@ -1,14 +1,13 @@
 ---
-author: Morgan Richomme
-author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s=96&d=mm&r=g
-comments: 'true'
-date: '2016-09-06'
-feature: http://fablab-lannion.org/wp-content/uploads/2015/01/vse4pv.png
-layout: post
 slug: adonnantes-3-19-octobre-2016
+author-gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s=96&d=mm&r=g
+layout: post
+comments: True
+category: Adonnantes
+title: Adonnantes #3: 19 octobre 2016 19h
+feature: http://fablab-lannion.org/wp-content/uploads/2015/01/vse4pv.png
 tags: []
-title: 'Adonnantes #3: 19 octobre 2016 19h'
-
+date: 2016-09-06
 ---
 Les adonnantes , 3ème édition, en partenariat avec l'ADIT.
 

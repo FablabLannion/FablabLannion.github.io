@@ -1,13 +1,12 @@
 ---
-author: Morgan Richomme
-author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s=96&d=mm&r=g
-comments: true
-date: 2016-10-16
-layout: post
 slug: adonnantes-demandez-programme
-tags: []
+author-gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s=96&d=mm&r=g
+layout: post
+comments: True
+category: Adonnantes
 title: Adonnantes, demandez le programme
-
+tags: []
+date: 2016-10-16
 ---
 3ème édition des adonnantes mercredi 19 Octobre à 19h
 

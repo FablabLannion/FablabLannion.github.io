@@ -40,18 +40,16 @@ links:
     url: /
     external: false
     icon: home
-  - title: Favoris
-    url: /featured
-  - title: Tags
-    url: /tags
-  - title: Categories
-    url: /categories
+  - title: Archives
+    url: /archives
   - title: Forum
     url: https://forum.fablab-lannion.org
     external: true
   - title: Wiki
     url: https://wiki.fablab-lannion.org
     external: true
+  - title: Infos pratiques
+    url: /pratique
   - title: A propos
     url: /about
 

@@ -1,17 +1,13 @@
 ---
-author: Jérôme Labidurie
-author_gravatar: http://2.gravatar.com/avatar/29020340fd48c04adad04976cb909b4f?s=96&d=mm&r=g
-comments: 'true'
-date: '2016-10-02'
-feature: http://fablab-lannion.org/wp-content/uploads/2016/10/aiga-elevator-e1475518529290.png
-layout: post
 slug: formation-elevator-pitch
-tags:
-- Adonnantes
-- formation
-- projet
+author-gravatar: http://2.gravatar.com/avatar/29020340fd48c04adad04976cb909b4f?s=96&d=mm&r=g
+layout: post
+comments: True
+category: Actualité
 title: Formation Elevator Pitch &#8211; 5 octobre 21h30
-
+feature: http://fablab-lannion.org/wp-content/uploads/2016/10/aiga-elevator-e1475518529290.png
+tags: ['Adonnantes', 'formation', 'projet']
+date: 2016-10-02
 ---
 Dans le cadre des Adonnantes #3, Cédric propose une formation pour s'initier à
 la présentation rapide de projet.
