@@ -1,7 +1,7 @@
 ---
 author: tangi
 tags: Actualité
-feature: https://static.fablab-lannion.org/index.jpeg
+imagefeature: https://static.fablab-lannion.org/index.jpeg
 layout: post
 slug: appel-projet-fab-labs-2013-encore-peu-suspense
 date: 2013-11-18

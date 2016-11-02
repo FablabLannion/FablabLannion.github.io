@@ -1,7 +1,7 @@
 ---
 author: yann
 tags: []
-feature: https://static.fablab-lannion.org/christmas1.jpg
+imagefeature: https://static.fablab-lannion.org/christmas1.jpg
 layout: post
 slug: une-petite-pause-pour-les-fetes-de-fin-d-annee
 date: 2012-12-21

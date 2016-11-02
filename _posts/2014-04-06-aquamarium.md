@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: arduino
-feature: https://static.fablab-lannion.org/Aquarium_dessin.png
+imagefeature: https://static.fablab-lannion.org/Aquarium_dessin.png
 layout: post
 slug: aquamarium
 date: 2014-04-06

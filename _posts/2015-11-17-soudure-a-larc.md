@@ -1,7 +1,7 @@
 ---
 author: david-blaisonneau
 tags: Formation
-feature: https://static.fablab-lannion.org/unnamed.jpg
+imagefeature: https://static.fablab-lannion.org/unnamed.jpg
 layout: post
 slug: soudure-a-larc
 date: 2015-11-17

@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/IMG_4316.jpg
+imagefeature: https://static.fablab-lannion.org/IMG_4316.jpg
 layout: post
 slug: il-fait-8-degres-a-morlaix-et-personne-na-de-fil-de-peche
 date: 2013-02-20

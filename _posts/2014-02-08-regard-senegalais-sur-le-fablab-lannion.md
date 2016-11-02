@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/uriel.png
+imagefeature: https://static.fablab-lannion.org/uriel.png
 layout: post
 slug: regard-senegalais-sur-le-fablab-lannion
 date: 2014-02-08

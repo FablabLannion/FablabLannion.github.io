@@ -1,7 +1,7 @@
 ---
 author: pofexpray
 tags: Machines
-feature: https://static.fablab-lannion.org/DSC_0059.jpg
+imagefeature: https://static.fablab-lannion.org/DSC_0059.jpg
 layout: post
 slug: ou-charly-au-fablab
 date: 2014-01-31

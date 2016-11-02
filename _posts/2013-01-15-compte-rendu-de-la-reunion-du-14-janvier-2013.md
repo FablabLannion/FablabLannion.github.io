@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: Compte Rendu réunion
-feature: https://static.fablab-lannion.org/20130114_134744.jpg
+imagefeature: https://static.fablab-lannion.org/20130114_134744.jpg
 layout: post
 slug: compte-rendu-de-la-reunion-du-14-janvier-2013
 date: 2013-01-15

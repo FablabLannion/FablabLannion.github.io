@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/20140301_113454.jpg
+imagefeature: https://static.fablab-lannion.org/20140301_113454.jpg
 layout: post
 slug: adonnantes-innovlannion-data-repartout-votez-fablab
 date: 2014-03-22

@@ -1,7 +1,7 @@
 ---
 author: pofexpray
 tags: Actualité
-feature: https://static.fablab-lannion.org/arton617-e0df21.jpg
+imagefeature: https://static.fablab-lannion.org/arton617-e0df21.jpg
 layout: post
 slug: le-fablab-a-la-fete-de-la-science
 date: 2014-10-10

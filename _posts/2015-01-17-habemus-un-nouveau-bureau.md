@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/B7V2J08CAAEaTVP.jpg
+imagefeature: https://static.fablab-lannion.org/B7V2J08CAAEaTVP.jpg
 layout: post
 slug: habemus-un-nouveau-bureau
 date: 2015-01-17

@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/800px-Bzzz-logo_fond_blanc.jpg
+imagefeature: https://static.fablab-lannion.org/800px-Bzzz-logo_fond_blanc.jpg
 layout: post
 slug: bzzz-lenvol-ou-le-bourdon
 date: 2013-06-03

@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/affiche_salon_infothema_30_mars_2013_begard.jpg
+imagefeature: https://static.fablab-lannion.org/affiche_salon_infothema_30_mars_2013_begard.jpg
 layout: post
 slug: fablab-lannion-a-infothema
 date: 2013-04-02

@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/20131106_221140.jpg
+imagefeature: https://static.fablab-lannion.org/20131106_221140.jpg
 layout: post
 slug: cogitomus-ergo-sumus
 date: 2013-11-10

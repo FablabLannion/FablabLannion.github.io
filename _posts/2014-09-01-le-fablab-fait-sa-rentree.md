@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/Welcome_Back_to_school_1.png
+imagefeature: https://static.fablab-lannion.org/Welcome_Back_to_school_1.png
 layout: post
 slug: le-fablab-fait-sa-rentree
 date: 2014-09-01

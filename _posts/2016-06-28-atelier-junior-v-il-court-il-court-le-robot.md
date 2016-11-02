@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: Formation
-feature: https://static.fablab-lannion.org/AtelierJuniorSoudure1.jpeg
+imagefeature: https://static.fablab-lannion.org/AtelierJuniorSoudure1.jpeg
 layout: post
 slug: atelier-junior-v-il-court-il-court-le-robot
 date: 2016-06-28

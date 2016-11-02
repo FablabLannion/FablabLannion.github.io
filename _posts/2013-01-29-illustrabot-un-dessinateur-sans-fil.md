@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: Compte Rendu réunion
-feature: https://static.fablab-lannion.org/concept.png
+imagefeature: https://static.fablab-lannion.org/concept.png
 layout: post
 slug: illustrabot-un-dessinateur-sans-fil
 date: 2013-01-29

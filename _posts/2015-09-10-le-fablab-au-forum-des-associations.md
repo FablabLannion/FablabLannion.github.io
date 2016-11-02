@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: []
-feature: https://static.fablab-lannion.org/upload_-12.jpg
+imagefeature: https://static.fablab-lannion.org/upload_-12.jpg
 layout: post
 slug: le-fablab-au-forum-des-associations
 date: 2015-09-10

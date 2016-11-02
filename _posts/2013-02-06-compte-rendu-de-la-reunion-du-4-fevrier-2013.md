@@ -1,7 +1,7 @@
 ---
 author: david-blaisonneau
 tags: Compte Rendu réunion
-feature: https://static.fablab-lannion.org/prototypes.jpg
+imagefeature: https://static.fablab-lannion.org/prototypes.jpg
 layout: post
 slug: compte-rendu-de-la-reunion-du-4-fevrier-2013
 date: 2013-02-06

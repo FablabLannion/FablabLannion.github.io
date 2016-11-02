@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: []
-feature: https://static.fablab-lannion.org/IMG_4228.jpg
+imagefeature: https://static.fablab-lannion.org/IMG_4228.jpg
 layout: post
 slug: illustrabot-ca-les-botte
 date: 2013-02-10

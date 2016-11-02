@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/Capture-d’écran_2016-06-08_20-30-41.png
+imagefeature: https://static.fablab-lannion.org/Capture-d’écran_2016-06-08_20-30-41.png
 layout: post
 slug: atelier-junior-v-de-lart-de-la-soudure-18-juin-14-17h
 date: 2016-06-08

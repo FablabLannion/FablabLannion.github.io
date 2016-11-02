@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/upload_-1.jpg
+imagefeature: https://static.fablab-lannion.org/upload_-1.jpg
 layout: post
 slug: atelier-junior-iv-avengers-et-fete-des-mamans
 date: 2016-05-29

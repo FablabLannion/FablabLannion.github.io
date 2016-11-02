@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/fablab-Noël.jpg
+imagefeature: https://static.fablab-lannion.org/fablab-Noël.jpg
 layout: post
 slug: samedi-du-fablab-special-noel
 date: 2015-12-13

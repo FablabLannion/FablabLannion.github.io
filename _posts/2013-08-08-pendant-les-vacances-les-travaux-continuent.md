@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: Actualité
-feature: https://static.fablab-lannion.org/20130807_211052.jpg.jpg
+imagefeature: https://static.fablab-lannion.org/20130807_211052.jpg.jpg
 layout: post
 slug: pendant-les-vacances-les-travaux-continuent
 date: 2013-08-08

@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: 3D
-feature: https://static.fablab-lannion.org/upload_-1-3.jpg
+imagefeature: https://static.fablab-lannion.org/upload_-1-3.jpg
 layout: post
 slug: libre-en-fete-2016-un-vrai-succes-populaire
 date: 2016-03-29

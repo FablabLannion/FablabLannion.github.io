@@ -1,7 +1,7 @@
 ---
 author: yann
 tags: Mis en avant
-feature: https://static.fablab-lannion.org/cnc-machine_fr.jpg
+imagefeature: https://static.fablab-lannion.org/cnc-machine_fr.jpg
 layout: post
 slug: fablab-securite-machines-commande-numerique-cnc
 date: 2013-10-03

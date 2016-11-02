@@ -1,7 +1,7 @@
 ---
 author: yvon
 tags: []
-feature: https://static.fablab-lannion.org/Devoxx2013.jpg
+imagefeature: https://static.fablab-lannion.org/Devoxx2013.jpg
 layout: post
 slug: initiation-la-programmation-informatique-pour-les-jeunes-devoxx-4-kids
 date: 2013-12-10

@@ -1,7 +1,7 @@
 ---
 author: tangi
 tags: Actualité
-feature: https://static.fablab-lannion.org/1236209_479901635445159_8525855238339731848_n.jpg
+imagefeature: https://static.fablab-lannion.org/1236209_479901635445159_8525855238339731848_n.jpg
 layout: post
 slug: whereisthebeach-gagnant-du-concours-innovlannion-2-0
 date: 2014-04-10

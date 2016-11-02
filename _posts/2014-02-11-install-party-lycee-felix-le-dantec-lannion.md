@@ -1,7 +1,7 @@
 ---
 author: installparty14
 tags: Prochainement
-feature: https://static.fablab-lannion.org/Tux-G2.png
+imagefeature: https://static.fablab-lannion.org/Tux-G2.png
 layout: post
 slug: install-party-lycee-felix-le-dantec-lannion
 date: 2014-02-11

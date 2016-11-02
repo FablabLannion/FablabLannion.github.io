@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/400px-EShapeOko_dual_Y_with_LXP.jpg
+imagefeature: https://static.fablab-lannion.org/400px-EShapeOko_dual_Y_with_LXP.jpg
 layout: post
 slug: shapeoko-notre-premiere-machine-crowd-fundee-du-fablab
 date: 2014-12-08

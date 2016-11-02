@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/1522287_443079422460714_1747593952_n.jpg
+imagefeature: https://static.fablab-lannion.org/1522287_443079422460714_1747593952_n.jpg
 layout: post
 slug: la-fablab-de-lannion-partenaire-du-concours-innovlannion-2-0
 date: 2014-01-19

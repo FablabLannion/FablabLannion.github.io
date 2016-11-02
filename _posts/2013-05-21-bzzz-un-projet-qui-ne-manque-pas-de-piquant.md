@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: []
-feature: https://static.fablab-lannion.org/800px-Bzzz-logo_fond_blanc.jpg
+imagefeature: https://static.fablab-lannion.org/800px-Bzzz-logo_fond_blanc.jpg
 layout: post
 slug: bzzz-un-projet-qui-ne-manque-pas-de-piquant
 date: 2013-05-21

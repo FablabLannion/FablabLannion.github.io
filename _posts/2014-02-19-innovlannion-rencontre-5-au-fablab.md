@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/1522287_443079422460714_1747593952_n.jpg
+imagefeature: https://static.fablab-lannion.org/1522287_443079422460714_1747593952_n.jpg
 layout: post
 slug: innovlannion-rencontre-5-au-fablab
 date: 2014-02-19

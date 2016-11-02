@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/DSCN9168.jpg
+imagefeature: https://static.fablab-lannion.org/DSCN9168.jpg
 layout: post
 slug: bzzz-a-la-conquete-de-louest
 date: 2014-06-01

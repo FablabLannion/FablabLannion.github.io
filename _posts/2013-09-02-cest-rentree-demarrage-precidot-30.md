@@ -1,7 +1,7 @@
 ---
 author: pofexpray
 tags: Actualité
-feature: https://static.fablab-lannion.org/IMG_20130902_225911.jpg
+imagefeature: https://static.fablab-lannion.org/IMG_20130902_225911.jpg
 layout: post
 slug: cest-rentree-demarrage-precidot-30
 date: 2013-09-02

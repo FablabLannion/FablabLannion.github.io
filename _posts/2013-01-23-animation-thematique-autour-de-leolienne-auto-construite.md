@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: []
-feature: https://static.fablab-lannion.org/etest8.jpg
+imagefeature: https://static.fablab-lannion.org/etest8.jpg
 layout: post
 slug: animation-thematique-autour-de-leolienne-auto-construite
 date: 2013-01-23

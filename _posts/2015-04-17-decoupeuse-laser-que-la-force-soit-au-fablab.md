@@ -1,7 +1,7 @@
 ---
 author: tangi
 tags: 3D
-feature: https://static.fablab-lannion.org/light-sabre.jpg
+imagefeature: https://static.fablab-lannion.org/light-sabre.jpg
 layout: post
 slug: decoupeuse-laser-que-la-force-soit-au-fablab
 date: 2015-04-17

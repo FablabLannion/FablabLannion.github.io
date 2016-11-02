@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Adonnantes
-feature: https://static.fablab-lannion.org/vse4pv.png
+imagefeature: https://static.fablab-lannion.org/vse4pv.png
 layout: post
 slug: adonnantes-3-19-octobre-2016
 date: 2016-09-06

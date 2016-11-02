@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/20150321_160930.jpg
+imagefeature: https://static.fablab-lannion.org/20150321_160930.jpg
 layout: post
 slug: libre-en-fete-au-2eme-tour
 date: 2015-03-22

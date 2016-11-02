@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/61a8a29a9be162013b8721174f890ef1.png
+imagefeature: https://static.fablab-lannion.org/61a8a29a9be162013b8721174f890ef1.png
 layout: post
 slug: aidons-le-woelab-vivre-le-reve-americain
 date: 2014-01-27

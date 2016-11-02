@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/opendata_6585.png
+imagefeature: https://static.fablab-lannion.org/opendata_6585.png
 layout: post
 slug: 2eme-rencontre-innovlannion-2-0-ce-jeudi
 date: 2014-02-02

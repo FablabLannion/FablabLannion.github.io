@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: []
-feature: https://static.fablab-lannion.org/Lego_Color_Bricks.jpg
+imagefeature: https://static.fablab-lannion.org/Lego_Color_Bricks.jpg
 layout: post
 slug: 1ere-rencontre-du-samedi-lego-ergo-sum
 date: 2015-09-22

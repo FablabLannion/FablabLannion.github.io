@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: Compte Rendu réunion
-feature: https://static.fablab-lannion.org/FABLAB2.jpg
+imagefeature: https://static.fablab-lannion.org/FABLAB2.jpg
 layout: post
 slug: assemblee-constituante
 date: 2012-12-06

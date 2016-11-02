@@ -1,7 +1,7 @@
 ---
 author: theo
 tags: []
-feature: https://static.fablab-lannion.org/barbecue-1.jpg
+imagefeature: https://static.fablab-lannion.org/barbecue-1.jpg
 layout: post
 slug: bbqfablab-lannion
 date: 2016-06-14

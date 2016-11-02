@@ -1,7 +1,7 @@
 ---
 author: yann
 tags: bientôt
-feature: https://static.fablab-lannion.org/toms4m.jpg
+imagefeature: https://static.fablab-lannion.org/toms4m.jpg
 layout: post
 slug: atelier-auto-construction-eolienne
 date: 2013-01-18

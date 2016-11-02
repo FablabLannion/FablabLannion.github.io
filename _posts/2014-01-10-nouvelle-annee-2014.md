@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: Actualité
-feature: https://static.fablab-lannion.org/index.jpeg
+imagefeature: https://static.fablab-lannion.org/index.jpeg
 layout: post
 slug: nouvelle-annee-2014
 date: 2014-01-10

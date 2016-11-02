@@ -1,7 +1,7 @@
 ---
 author: yann
 tags: Vie de l'association
-feature: https://static.fablab-lannion.org/twitter_like_button.png
+imagefeature: https://static.fablab-lannion.org/twitter_like_button.png
 layout: post
 slug: retrouvez-nous-sur-les-reseaux-sociaux
 date: 2013-01-10

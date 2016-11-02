@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/zeimusu_Laurel_wreath.png
+imagefeature: https://static.fablab-lannion.org/zeimusu_Laurel_wreath.png
 layout: post
 slug: le-fablab-selectionne-pour-les-carrefours-des-possibles-avec-bzzz
 date: 2013-06-13

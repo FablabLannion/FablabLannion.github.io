@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: Actualité
-feature: https://static.fablab-lannion.org/OuestFrance_20130606_p1.jpg
+imagefeature: https://static.fablab-lannion.org/OuestFrance_20130606_p1.jpg
 layout: post
 slug: revue-de-presse
 date: 2013-06-17

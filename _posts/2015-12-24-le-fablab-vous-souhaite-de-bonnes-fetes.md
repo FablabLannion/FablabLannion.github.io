@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: []
-feature: https://static.fablab-lannion.org/upload_-11.jpg
+imagefeature: https://static.fablab-lannion.org/upload_-11.jpg
 layout: post
 slug: le-fablab-vous-souhaite-de-bonnes-fetes
 date: 2015-12-24

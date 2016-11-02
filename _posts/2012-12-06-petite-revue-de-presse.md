@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: []
-feature: https://static.fablab-lannion.org/logoSeul.jpg
+imagefeature: https://static.fablab-lannion.org/logoSeul.jpg
 layout: post
 slug: petite-revue-de-presse
 date: 2012-12-06

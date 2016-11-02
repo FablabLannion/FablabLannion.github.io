@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: []
-feature: https://static.fablab-lannion.org/20160227_172206.jpg
+imagefeature: https://static.fablab-lannion.org/20160227_172206.jpg
 layout: post
 slug: atelier-junior-robotique
 date: 2016-03-07

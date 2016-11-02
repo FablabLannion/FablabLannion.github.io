@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: Bzzz
-feature: https://static.fablab-lannion.org/20130704_130433.jpg
+imagefeature: https://static.fablab-lannion.org/20130704_130433.jpg
 layout: post
 slug: bzzz-bientot-pret-pour-les-bees
 date: 2013-07-04

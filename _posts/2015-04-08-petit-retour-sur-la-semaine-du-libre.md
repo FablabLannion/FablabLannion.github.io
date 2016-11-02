@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Mis en avant
-feature: https://static.fablab-lannion.org/libre_en_fete_2015_infothema_18.jpg
+imagefeature: https://static.fablab-lannion.org/libre_en_fete_2015_infothema_18.jpg
 layout: post
 slug: petit-retour-sur-la-semaine-du-libre
 date: 2015-04-08

@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/256px-Openstreetmap_logo.svg.png
+imagefeature: https://static.fablab-lannion.org/256px-Openstreetmap_logo.svg.png
 layout: post
 slug: 3eme-rencontre-innovlannion-openstreetmap
 date: 2014-02-10

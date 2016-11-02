@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: Actualité
-feature: https://static.fablab-lannion.org/20131218_212416.jpg.jpg
+imagefeature: https://static.fablab-lannion.org/20131218_212416.jpg.jpg
 layout: post
 slug: assemblee-generale-2013
 date: 2013-12-20

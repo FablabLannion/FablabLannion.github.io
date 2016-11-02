@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: arduino
-feature: https://static.fablab-lannion.org/arduino01_3.jpg
+imagefeature: https://static.fablab-lannion.org/arduino01_3.jpg
 layout: post
 slug: introduction-larduino
 date: 2013-09-18

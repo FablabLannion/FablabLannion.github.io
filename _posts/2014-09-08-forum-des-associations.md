@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: Actualité
-feature: https://static.fablab-lannion.org/Bw2d9SlIIAA3XZm.jpg-large.jpg
+imagefeature: https://static.fablab-lannion.org/Bw2d9SlIIAA3XZm.jpg-large.jpg
 layout: post
 slug: forum-des-associations
 date: 2014-09-08

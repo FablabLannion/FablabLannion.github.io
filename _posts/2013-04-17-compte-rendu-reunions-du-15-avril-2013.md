@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: Actualité
-feature: https://static.fablab-lannion.org/MecaniqueSpiderCam.jpg
+imagefeature: https://static.fablab-lannion.org/MecaniqueSpiderCam.jpg
 layout: post
 slug: compte-rendu-reunions-du-15-avril-2013
 date: 2013-04-17

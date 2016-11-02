@@ -1,7 +1,7 @@
 ---
 author: nico
 tags: Actualité
-feature: https://static.fablab-lannion.org/Photo-0034.jpg
+imagefeature: https://static.fablab-lannion.org/Photo-0034.jpg
 layout: post
 slug: club-fab-lab-les-petits-debrouillards
 date: 2013-09-30

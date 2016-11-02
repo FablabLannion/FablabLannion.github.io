@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/10089175635_a9fc818492_o.jpg
+imagefeature: https://static.fablab-lannion.org/10089175635_a9fc818492_o.jpg
 layout: post
 slug: operation-laser-au-fablab-we-need-you
 date: 2015-04-03

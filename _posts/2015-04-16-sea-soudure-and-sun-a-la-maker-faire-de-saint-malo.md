@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/20150412_181540.jpg
+imagefeature: https://static.fablab-lannion.org/20150412_181540.jpg
 layout: post
 slug: sea-soudure-and-sun-a-la-maker-faire-de-saint-malo
 date: 2015-04-16

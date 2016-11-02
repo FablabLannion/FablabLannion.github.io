@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: Actualité
-feature: https://static.fablab-lannion.org/aiga-elevator-e1475518529290.png
+imagefeature: https://static.fablab-lannion.org/aiga-elevator-e1475518529290.png
 layout: post
 slug: formation-elevator-pitch
 date: 2016-10-02

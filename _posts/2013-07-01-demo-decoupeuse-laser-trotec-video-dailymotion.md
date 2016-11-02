@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: []
-feature: https://static.fablab-lannion.org/Screenshot-from-2013-07-01-174417.png
+imagefeature: https://static.fablab-lannion.org/Screenshot-from-2013-07-01-174417.png
 layout: post
 slug: demo-decoupeuse-laser-trotec-video-dailymotion
 date: 2013-07-01

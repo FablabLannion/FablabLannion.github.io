@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/IMG_20130907_095017.jpg
+imagefeature: https://static.fablab-lannion.org/IMG_20130907_095017.jpg
 layout: post
 slug: forum-associations-lannion-9-12h
 date: 2013-09-07

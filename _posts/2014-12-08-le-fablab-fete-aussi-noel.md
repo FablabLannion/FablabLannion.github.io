@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Vie de l'association
-feature: https://static.fablab-lannion.org/20140625_192113.jpg
+imagefeature: https://static.fablab-lannion.org/20140625_192113.jpg
 layout: post
 slug: le-fablab-fete-aussi-noel
 date: 2014-12-08

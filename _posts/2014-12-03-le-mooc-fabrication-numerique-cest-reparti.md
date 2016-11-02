@@ -1,7 +1,7 @@
 ---
 author: yann
 tags: []
-feature: https://static.fablab-lannion.org/moocfab.png
+imagefeature: https://static.fablab-lannion.org/moocfab.png
 layout: post
 slug: le-mooc-fabrication-numerique-cest-reparti
 date: 2014-12-03

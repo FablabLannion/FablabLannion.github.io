@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/Gerald-G-Light-Emiting-Diodes-300px.png
+imagefeature: https://static.fablab-lannion.org/Gerald-G-Light-Emiting-Diodes-300px.png
 layout: post
 slug: atelier-junior-acte-iii-electronique-samedi-30-avril-14-17h
 date: 2016-04-25

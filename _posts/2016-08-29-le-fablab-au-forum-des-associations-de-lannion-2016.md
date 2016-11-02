@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: []
-feature: https://static.fablab-lannion.org/20150412_180503-e1429216173937.jpg
+imagefeature: https://static.fablab-lannion.org/20150412_180503-e1429216173937.jpg
 layout: post
 slug: le-fablab-au-forum-des-associations-de-lannion-2016
 date: 2016-08-29

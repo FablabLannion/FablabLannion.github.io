@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: Compte Rendu réunion
-feature: https://static.fablab-lannion.org/IMG_20131001_135336.jpg
+imagefeature: https://static.fablab-lannion.org/IMG_20131001_135336.jpg
 layout: post
 slug: visite-deuro-process
 date: 2013-10-03

@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/eole-souffle1.png
+imagefeature: https://static.fablab-lannion.org/eole-souffle1.png
 layout: post
 slug: les-adonnantes-du-fablab-coup-de-pouce-votre-projet
 date: 2014-02-22

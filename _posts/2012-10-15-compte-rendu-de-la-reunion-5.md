@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: Compte Rendu réunion
-feature: https://static.fablab-lannion.org/logoSeul.jpg
+imagefeature: https://static.fablab-lannion.org/logoSeul.jpg
 layout: post
 slug: compte-rendu-de-la-reunion-5
 date: 2012-10-15

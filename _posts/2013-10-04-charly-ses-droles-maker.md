@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/vlcsnap-2013-10-04-22h21m48s240.png
+imagefeature: https://static.fablab-lannion.org/vlcsnap-2013-10-04-22h21m48s240.png
 layout: post
 slug: charly-ses-droles-maker
 date: 2013-10-04

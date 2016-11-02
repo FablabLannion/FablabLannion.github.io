@@ -1,7 +1,7 @@
 ---
 author: david
 tags: ["'visite fablab'"]
-feature: https://static.fablab-lannion.org/IMG_20121108_181519.jpg
+imagefeature: https://static.fablab-lannion.org/IMG_20121108_181519.jpg
 layout: post
 slug: visite-du-fablab-casemate-de-grenoble
 date: 2012-11-11

@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: []
-feature: https://static.fablab-lannion.org/Pac-man.png
+imagefeature: https://static.fablab-lannion.org/Pac-man.png
 layout: post
 slug: nouveau-au-projet-au-fablab-venez-construire-votre-borne-darcade
 date: 2015-10-01

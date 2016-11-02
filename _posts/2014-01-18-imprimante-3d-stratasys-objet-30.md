@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: Actualité
-feature: https://static.fablab-lannion.org/LD10.jpg
+imagefeature: https://static.fablab-lannion.org/LD10.jpg
 layout: post
 slug: imprimante-3d-stratasys-objet-30
 date: 2014-01-18

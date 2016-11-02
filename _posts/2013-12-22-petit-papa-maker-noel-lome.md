@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Mis en avant
-feature: https://static.fablab-lannion.org/bootwoecamp.jpg
+imagefeature: https://static.fablab-lannion.org/bootwoecamp.jpg
 layout: post
 slug: petit-papa-maker-noel-lome
 date: 2013-12-22

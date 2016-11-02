@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: []
-feature: https://static.fablab-lannion.org/tweet_original.png
+imagefeature: https://static.fablab-lannion.org/tweet_original.png
 layout: post
 slug: sequence-souvenir
 date: 2013-08-30

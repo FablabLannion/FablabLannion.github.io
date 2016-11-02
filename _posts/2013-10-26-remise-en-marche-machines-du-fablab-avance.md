@@ -1,7 +1,7 @@
 ---
 author: david-blaisonneau
 tags: Actualité
-feature: https://static.fablab-lannion.org/vlcsnap-2013-10-28-12h26m15s208.png
+imagefeature: https://static.fablab-lannion.org/vlcsnap-2013-10-28-12h26m15s208.png
 layout: post
 slug: remise-en-marche-machines-du-fablab-avance
 date: 2013-10-26

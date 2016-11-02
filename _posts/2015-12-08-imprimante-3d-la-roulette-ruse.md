@@ -1,7 +1,7 @@
 ---
 author: laurenta
 tags: []
-feature: https://static.fablab-lannion.org/Roulettes3D.jpg
+imagefeature: https://static.fablab-lannion.org/Roulettes3D.jpg
 layout: post
 slug: imprimante-3d-la-roulette-ruse
 date: 2015-12-08

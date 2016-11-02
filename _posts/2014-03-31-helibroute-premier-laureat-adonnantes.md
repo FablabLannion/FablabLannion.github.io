@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/Helib1.png
+imagefeature: https://static.fablab-lannion.org/Helib1.png
 layout: post
 slug: helibroute-premier-laureat-adonnantes
 date: 2014-03-31

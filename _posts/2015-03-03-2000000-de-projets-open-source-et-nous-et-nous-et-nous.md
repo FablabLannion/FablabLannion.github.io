@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/affiche-couleur.png
+imagefeature: https://static.fablab-lannion.org/affiche-couleur.png
 layout: post
 slug: 2000000-de-projets-open-source-et-nous-et-nous-et-nous
 date: 2015-03-03

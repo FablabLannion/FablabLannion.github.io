@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/20140521_222202.jpg
+imagefeature: https://static.fablab-lannion.org/20140521_222202.jpg
 layout: post
 slug: mooc-le-fablab-de-lannion-fait-son-cinema
 date: 2014-05-25

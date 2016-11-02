@@ -1,7 +1,7 @@
 ---
 author: yann
 tags: ailleurs
-feature: https://static.fablab-lannion.org/banniereHackathon.jpg
+imagefeature: https://static.fablab-lannion.org/banniereHackathon.jpg
 layout: post
 slug: un-hackathon-sur-lopen-data-dans-les-cotes-darmor
 date: 2014-12-04

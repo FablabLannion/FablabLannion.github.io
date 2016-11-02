@@ -1,7 +1,7 @@
 ---
 author: yann
 tags: []
-feature: https://static.fablab-lannion.org/weNeedYouPetit.png
+imagefeature: https://static.fablab-lannion.org/weNeedYouPetit.png
 layout: post
 slug: rendez-vous-a-lassemblee-constituante
 date: 2012-11-29

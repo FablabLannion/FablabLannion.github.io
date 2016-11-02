@@ -1,7 +1,7 @@
 ---
 author: tangi
 tags: 3D
-feature: https://static.fablab-lannion.org/microDelta.jpg
+imagefeature: https://static.fablab-lannion.org/microDelta.jpg
 layout: post
 slug: fabriquez-imprimante-3d-au-fablab
 date: 2014-11-12

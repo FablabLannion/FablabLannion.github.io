@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: bientôt
-feature: https://static.fablab-lannion.org/fablab-1.jpg
+imagefeature: https://static.fablab-lannion.org/fablab-1.jpg
 layout: post
 slug: mais-oui-mais-oui-barbecue-party-mercredi-1er-juillet-a-partir-de-19h
 date: 2015-06-25

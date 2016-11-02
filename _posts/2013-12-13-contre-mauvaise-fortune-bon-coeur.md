@@ -1,7 +1,7 @@
 ---
 author: yann
 tags: Mis en avant
-feature: https://static.fablab-lannion.org/annonceAAP2013_montebourg_pellerin.jpeg
+imagefeature: https://static.fablab-lannion.org/annonceAAP2013_montebourg_pellerin.jpeg
 layout: post
 slug: contre-mauvaise-fortune-bon-coeur
 date: 2013-12-13

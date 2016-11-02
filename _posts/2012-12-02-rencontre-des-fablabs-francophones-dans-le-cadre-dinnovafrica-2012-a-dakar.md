@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: ["'visite fablab'"]
-feature: https://static.fablab-lannion.org/img_0001.jpg
+imagefeature: https://static.fablab-lannion.org/img_0001.jpg
 layout: post
 slug: rencontre-des-fablabs-francophones-dans-le-cadre-dinnovafrica-2012-a-dakar
 date: 2012-12-02

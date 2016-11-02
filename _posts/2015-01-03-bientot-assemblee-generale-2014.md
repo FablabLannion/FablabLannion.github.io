@@ -1,7 +1,7 @@
 ---
 author: yann
 tags: bientôt
-feature: https://static.fablab-lannion.org/5279081853_64c2e06b14_o1.jpg
+imagefeature: https://static.fablab-lannion.org/5279081853_64c2e06b14_o1.jpg
 layout: post
 slug: bientot-assemblee-generale-2014
 date: 2015-01-03

@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: []
-feature: https://static.fablab-lannion.org/cyb-santa-claus-2400px.png
+imagefeature: https://static.fablab-lannion.org/cyb-santa-claus-2400px.png
 layout: post
 slug: un-samedi-au-fablab-pour-bien-preparer-noel
 date: 2015-12-04

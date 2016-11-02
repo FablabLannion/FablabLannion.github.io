@@ -1,7 +1,7 @@
 ---
 author: pofexpray
 tags: Actualité
-feature: https://static.fablab-lannion.org/IMG_20130904_230148.jpg
+imagefeature: https://static.fablab-lannion.org/IMG_20130904_230148.jpg
 layout: post
 slug: premiere-presentation-theme-decouverte-larduino
 date: 2013-09-04

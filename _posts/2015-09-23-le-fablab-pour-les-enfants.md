@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: Actualité
-feature: https://static.fablab-lannion.org/Photo-0034.jpg
+imagefeature: https://static.fablab-lannion.org/Photo-0034.jpg
 layout: post
 slug: le-fablab-pour-les-enfants
 date: 2015-09-23

@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/cf18d532-9145-43cd-9f58-cfb5ac55c72b.jpg
+imagefeature: https://static.fablab-lannion.org/cf18d532-9145-43cd-9f58-cfb5ac55c72b.jpg
 layout: post
 slug: kino-donner-seconde-chance-vos-vieux-camescopes
 date: 2014-02-22

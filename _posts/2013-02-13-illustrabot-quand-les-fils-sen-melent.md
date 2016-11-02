@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: arduino
-feature: https://static.fablab-lannion.org/P1070203.jpg
+imagefeature: https://static.fablab-lannion.org/P1070203.jpg
 layout: post
 slug: illustrabot-quand-les-fils-sen-melent
 date: 2013-02-13

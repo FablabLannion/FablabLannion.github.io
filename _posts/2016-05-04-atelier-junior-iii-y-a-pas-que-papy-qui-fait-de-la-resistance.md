@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/20160430_151838.jpg
+imagefeature: https://static.fablab-lannion.org/20160430_151838.jpg
 layout: post
 slug: atelier-junior-iii-y-a-pas-que-papy-qui-fait-de-la-resistance
 date: 2016-05-04

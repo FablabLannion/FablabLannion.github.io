@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/WhereIsTheBeach2.png
+imagefeature: https://static.fablab-lannion.org/WhereIsTheBeach2.png
 layout: post
 slug: whereisthebeach
 date: 2014-02-15

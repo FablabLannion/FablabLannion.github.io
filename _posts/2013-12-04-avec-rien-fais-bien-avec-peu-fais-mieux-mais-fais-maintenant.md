@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/1441368_648242858559804_2092244904_n.jpg
+imagefeature: https://static.fablab-lannion.org/1441368_648242858559804_2092244904_n.jpg
 layout: post
 slug: avec-rien-fais-bien-avec-peu-fais-mieux-mais-fais-maintenant
 date: 2013-12-04

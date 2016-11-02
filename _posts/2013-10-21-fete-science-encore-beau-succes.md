@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: Actualité
-feature: https://static.fablab-lannion.org/IMG_20131013_162338.jpg
+imagefeature: https://static.fablab-lannion.org/IMG_20131013_162338.jpg
 layout: post
 slug: fete-science-encore-beau-succes
 date: 2013-10-21

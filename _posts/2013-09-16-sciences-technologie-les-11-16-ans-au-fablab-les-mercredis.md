@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: Actualité
-feature: https://static.fablab-lannion.org/logo_petits_debrouillards_150x143.png
+imagefeature: https://static.fablab-lannion.org/logo_petits_debrouillards_150x143.png
 layout: post
 slug: sciences-technologie-les-11-16-ans-au-fablab-les-mercredis
 date: 2013-09-16

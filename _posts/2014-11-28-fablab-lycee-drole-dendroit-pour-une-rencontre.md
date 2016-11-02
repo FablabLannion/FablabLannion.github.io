@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: []
-feature: https://static.fablab-lannion.org/20141115_101931.jpg
+imagefeature: https://static.fablab-lannion.org/20141115_101931.jpg
 layout: post
 slug: fablab-lycee-drole-dendroit-pour-une-rencontre
 date: 2014-11-28

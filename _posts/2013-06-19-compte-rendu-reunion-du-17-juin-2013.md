@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: Actualité
-feature: https://static.fablab-lannion.org/logoSeul-300x300.jpg
+imagefeature: https://static.fablab-lannion.org/logoSeul-300x300.jpg
 layout: post
 slug: compte-rendu-reunion-du-17-juin-2013
 date: 2013-06-19

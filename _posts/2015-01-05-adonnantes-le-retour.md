@@ -1,7 +1,7 @@
 ---
 author: tangi
 tags: Adonnantes
-feature: https://static.fablab-lannion.org/vse4pv.png
+imagefeature: https://static.fablab-lannion.org/vse4pv.png
 layout: post
 slug: adonnantes-le-retour
 date: 2015-01-05

@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: Actualité
-feature: https://static.fablab-lannion.org/IMG_0544.jpg
+imagefeature: https://static.fablab-lannion.org/IMG_0544.jpg
 layout: post
 slug: en-mai-fablab-fait-ce-quil-plait
 date: 2014-05-16

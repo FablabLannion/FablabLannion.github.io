@@ -1,7 +1,7 @@
 ---
 author: pofexpray
 tags: Actualité
-feature: https://static.fablab-lannion.org/IMG_20131002_223030.jpg
+imagefeature: https://static.fablab-lannion.org/IMG_20131002_223030.jpg
 layout: post
 slug: fablab-en-ebullition-beaucoup-projet-en-cours
 date: 2013-10-17

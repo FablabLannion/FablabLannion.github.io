@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: Compte Rendu réunion
-feature: https://static.fablab-lannion.org/logoSeul-300x300.jpg
+imagefeature: https://static.fablab-lannion.org/logoSeul-300x300.jpg
 layout: post
 slug: compte-rendu-reunion-du-1012
 date: 2012-12-10

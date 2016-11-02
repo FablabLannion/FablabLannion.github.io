@@ -1,7 +1,7 @@
 ---
 author: tangi
 tags: Formation
-feature: https://static.fablab-lannion.org/Hybrid_Apps1.jpg
+imagefeature: https://static.fablab-lannion.org/Hybrid_Apps1.jpg
 layout: post
 slug: formation-application-mobile-hybride-android
 date: 2014-11-25

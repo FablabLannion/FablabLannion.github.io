@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: []
-feature: https://static.fablab-lannion.org/LD5.jpg
+imagefeature: https://static.fablab-lannion.org/LD5.jpg
 layout: post
 slug: visite-du-lycee-le-dantec
 date: 2013-01-11

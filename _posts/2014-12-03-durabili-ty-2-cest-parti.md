@@ -1,7 +1,7 @@
 ---
 author: yann
 tags: Mis en avant
-feature: https://static.fablab-lannion.org/Encart-Durability.png
+imagefeature: https://static.fablab-lannion.org/Encart-Durability.png
 layout: post
 slug: durabili-ty-2-cest-parti
 date: 2014-12-03

@@ -1,7 +1,7 @@
 ---
 author: yann
 tags: 3D
-feature: https://static.fablab-lannion.org/logoOpenSCAD2.png
+imagefeature: https://static.fablab-lannion.org/logoOpenSCAD2.png
 layout: post
 slug: semaine-de-la-modelisation-et-de-limpression-3d
 date: 2014-10-09

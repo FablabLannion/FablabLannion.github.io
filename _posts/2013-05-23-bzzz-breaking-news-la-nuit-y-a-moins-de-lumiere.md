@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/800px-Bzzz-logo_fond_blanc.jpg
+imagefeature: https://static.fablab-lannion.org/800px-Bzzz-logo_fond_blanc.jpg
 layout: post
 slug: bzzz-breaking-news-la-nuit-y-a-moins-de-lumiere
 date: 2013-05-23

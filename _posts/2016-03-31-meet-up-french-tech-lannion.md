@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: Actualité
-feature: https://static.fablab-lannion.org/FrenchTech.jpg
+imagefeature: https://static.fablab-lannion.org/FrenchTech.jpg
 layout: post
 slug: meet-up-french-tech-lannion
 date: 2016-03-31

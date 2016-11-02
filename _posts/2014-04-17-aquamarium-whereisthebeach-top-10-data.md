@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/cérémonie_whereisthebeach.png
+imagefeature: https://static.fablab-lannion.org/cérémonie_whereisthebeach.png
 layout: post
 slug: aquamarium-whereisthebeach-top-10-data
 date: 2014-04-17

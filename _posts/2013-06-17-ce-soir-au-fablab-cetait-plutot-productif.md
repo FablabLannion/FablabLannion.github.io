@@ -1,7 +1,7 @@
 ---
 author: david-blaisonneau
 tags: Actualité
-feature: https://static.fablab-lannion.org/wpid-IMG_20130617_230524.jpg
+imagefeature: https://static.fablab-lannion.org/wpid-IMG_20130617_230524.jpg
 layout: post
 slug: ce-soir-au-fablab-cetait-plutot-productif
 date: 2013-06-17

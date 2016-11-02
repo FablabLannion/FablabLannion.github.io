@@ -1,7 +1,7 @@
 ---
 author: david-blaisonneau
 tags: Compte Rendu réunion
-feature: https://static.fablab-lannion.org/20130121_124134.jpg
+imagefeature: https://static.fablab-lannion.org/20130121_124134.jpg
 layout: post
 slug: compte-rendu-de-la-reunion-du-21-janvier
 date: 2013-01-22

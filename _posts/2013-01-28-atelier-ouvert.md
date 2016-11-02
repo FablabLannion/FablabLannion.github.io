@@ -1,7 +1,7 @@
 ---
 author: yann
 tags: bientôt
-feature: https://static.fablab-lannion.org/open-innovation.jpg
+imagefeature: https://static.fablab-lannion.org/open-innovation.jpg
 layout: post
 slug: atelier-ouvert
 date: 2013-01-28

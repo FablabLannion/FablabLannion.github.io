@@ -1,7 +1,7 @@
 ---
 author: tangi
 tags: []
-feature: https://static.fablab-lannion.org/roues_Magnum.png
+imagefeature: https://static.fablab-lannion.org/roues_Magnum.png
 layout: post
 slug: pieces-de-lego-en-impression-3d-des-roues-mecanum
 date: 2015-10-02

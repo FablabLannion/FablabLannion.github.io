@@ -1,7 +1,7 @@
 ---
 author: david-blaisonneau
 tags: []
-feature: https://static.fablab-lannion.org/barbecue-1.jpg
+imagefeature: https://static.fablab-lannion.org/barbecue-1.jpg
 layout: post
 slug: atelier-barbecue
 date: 2014-06-16

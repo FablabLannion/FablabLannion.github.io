@@ -1,7 +1,7 @@
 ---
 author: cebernard
 tags: []
-feature: https://static.fablab-lannion.org/logoSeul-300x300.jpg
+imagefeature: https://static.fablab-lannion.org/logoSeul-300x300.jpg
 layout: post
 slug: resultat-du-sondage
 date: 2012-11-14

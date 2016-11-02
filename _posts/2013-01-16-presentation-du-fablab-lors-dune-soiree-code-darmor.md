@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: []
-feature: https://static.fablab-lannion.org/IMG_20130115_205839.jpg
+imagefeature: https://static.fablab-lannion.org/IMG_20130115_205839.jpg
 layout: post
 slug: presentation-du-fablab-lors-dune-soiree-code-darmor
 date: 2013-01-16

@@ -1,7 +1,7 @@
 ---
 author: david-blaisonneau
 tags: Compte Rendu réunion
-feature: https://static.fablab-lannion.org/logoSeul-300x300.jpg
+imagefeature: https://static.fablab-lannion.org/logoSeul-300x300.jpg
 layout: post
 slug: compte-rendu-des-reunions-du-18-et-25-fevrier-2013
 date: 2013-03-04

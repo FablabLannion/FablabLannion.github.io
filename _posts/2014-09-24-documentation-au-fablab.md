@@ -1,7 +1,7 @@
 ---
 author: tangi
 tags: []
-feature: https://static.fablab-lannion.org/iconeDocumentation.png
+imagefeature: https://static.fablab-lannion.org/iconeDocumentation.png
 layout: post
 slug: documentation-au-fablab
 date: 2014-09-24

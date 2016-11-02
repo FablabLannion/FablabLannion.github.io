@@ -1,7 +1,7 @@
 ---
 author: yann
 tags: Reconditionnement
-feature: https://static.fablab-lannion.org/HP_DC5750.jpg
+imagefeature: https://static.fablab-lannion.org/HP_DC5750.jpg
 layout: post
 slug: materiel-informatique-ecole-association-obsolete
 date: 2014-11-14

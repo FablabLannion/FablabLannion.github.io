@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: Actualité
-feature: https://static.fablab-lannion.org/20141115_165438.jpg
+imagefeature: https://static.fablab-lannion.org/20141115_165438.jpg
 layout: post
 slug: aux-portes-ouvertes-du-fablab
 date: 2014-11-17
