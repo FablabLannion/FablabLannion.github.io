@@ -1,6 +1,4 @@
 ---
-author_gravatar: http://1.gravatar.com/avatar/47bb95d605c88f1038bd415412814eae?s=96&d=mm&r=g
-author_fullname: Yann
 author: yann
 tags: Reconditionnement
 feature: https://static.fablab-lannion.org/HP_DC5750.jpg

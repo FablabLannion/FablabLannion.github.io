@@ -1,6 +1,4 @@
 ---
-author_gravatar: http://1.gravatar.com/avatar/d04670b347e106df6309c4a3235f00b9?s=96&d=mm&r=g
-author_fullname: Tangi Lavanant
 author: tangi
 tags: Actualité
 feature: https://static.fablab-lannion.org/1236209_479901635445159_8525855238339731848_n.jpg

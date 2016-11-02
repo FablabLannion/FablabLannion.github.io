@@ -1,6 +1,4 @@
 ---
-author_gravatar: http://2.gravatar.com/avatar/29020340fd48c04adad04976cb909b4f?s=96&d=mm&r=g
-author_fullname: Jérôme Labidurie
 author: jerome
 tags: Actualité
 feature: https://static.fablab-lannion.org/IMG_0544.jpg

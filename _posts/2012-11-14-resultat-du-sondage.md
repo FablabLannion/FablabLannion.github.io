@@ -1,6 +1,4 @@
 ---
-author_gravatar: http://2.gravatar.com/avatar/e7882ed2e25bdafbf2fef7c6643aa89f?s=96&d=mm&r=g
-author_fullname: Cédric Bernard
 author: cebernard
 tags: []
 feature: https://static.fablab-lannion.org/logoSeul-300x300.jpg

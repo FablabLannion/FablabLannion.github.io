@@ -1,6 +1,4 @@
 ---
-author_gravatar: http://0.gravatar.com/avatar/6a767bcd26d052496dac0f142243cb82?s=96&d=mm&r=g
-author_fullname: Nicolas Guédon
 author: pofexpray
 tags: Actualité
 feature: https://static.fablab-lannion.org/IMG_20131002_223030.jpg

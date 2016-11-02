@@ -1,6 +1,4 @@
 ---
-author_gravatar: http://1.gravatar.com/avatar/d6cd7628bc242b87449712f0fef53924?s=96&d=mm&r=g
-author_fullname: David Blaisonneau
 author: david-blaisonneau
 tags: Mis en avant
 feature: https://static.fablab-lannion.org/800px-Bzzz-logo_fond_blanc.jpg

@@ -1,6 +1,4 @@
 ---
-author_gravatar: http://1.gravatar.com/avatar/d6cd7628bc242b87449712f0fef53924?s=96&d=mm&r=g
-author_fullname: David Blaisonneau
 author: david-blaisonneau
 tags: Compte Rendu réunion
 feature: https://static.fablab-lannion.org/20130121_124134.jpg

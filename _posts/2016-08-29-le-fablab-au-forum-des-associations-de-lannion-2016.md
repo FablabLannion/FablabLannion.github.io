@@ -1,6 +1,4 @@
 ---
-author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s=96&d=mm&r=g
-author_fullname: Morgan Richomme
 author: colvert
 tags: []
 feature: https://static.fablab-lannion.org/20150412_180503-e1429216173937.jpg

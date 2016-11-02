@@ -1,6 +1,4 @@
 ---
-author_gravatar: http://2.gravatar.com/avatar/bfa9da2fe4514a96f1e51ef49f98676f?s=96&d=mm&r=g
-author_fullname: Youns Bouachra
 author: installparty14
 tags: Prochainement
 feature: https://static.fablab-lannion.org/Tux-G2.png

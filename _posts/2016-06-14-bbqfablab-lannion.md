@@ -1,6 +1,4 @@
 ---
-author_gravatar: http://0.gravatar.com/avatar/9502acf1be9fecea08fdb1baca814060?s=96&d=mm&r=g
-author_fullname: Théophile Paimparay
 author: theo
 tags: []
 feature: https://static.fablab-lannion.org/barbecue-1.jpg

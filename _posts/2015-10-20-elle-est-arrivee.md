@@ -1,6 +1,4 @@
 ---
-author_gravatar: http://1.gravatar.com/avatar/d6cd7628bc242b87449712f0fef53924?s=96&d=mm&r=g
-author_fullname: David Blaisonneau
 author: david-blaisonneau
 tags: []
 feature: https://static.fablab-lannion.org/20151020_114231.jpg

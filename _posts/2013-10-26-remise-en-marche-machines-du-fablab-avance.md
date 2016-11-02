@@ -1,6 +1,4 @@
 ---
-author_gravatar: http://1.gravatar.com/avatar/d6cd7628bc242b87449712f0fef53924?s=96&d=mm&r=g
-author_fullname: David Blaisonneau
 author: david-blaisonneau
 tags: Actualité
 feature: https://static.fablab-lannion.org/vlcsnap-2013-10-28-12h26m15s208.png

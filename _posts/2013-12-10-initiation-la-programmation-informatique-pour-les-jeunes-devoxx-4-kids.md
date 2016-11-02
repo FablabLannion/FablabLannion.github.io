@@ -1,6 +1,4 @@
 ---
-author_gravatar: http://1.gravatar.com/avatar/ae240ab5523214b3f4fad6717028461f?s=96&d=mm&r=g
-author_fullname: Yvon Guillot
 author: yvon
 tags: []
 feature: https://static.fablab-lannion.org/Devoxx2013.jpg

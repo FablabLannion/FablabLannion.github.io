@@ -1,6 +1,4 @@
 ---
-author_gravatar: http://0.gravatar.com/avatar/343d3f84aca2865b6af1ca90c66c6a42?s=96&d=mm&r=g
-author_fullname: Laurent Aubertin
 author: laurenta
 tags: []
 feature: https://static.fablab-lannion.org/Roulettes3D.jpg

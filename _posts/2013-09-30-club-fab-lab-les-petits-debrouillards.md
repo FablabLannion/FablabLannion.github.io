@@ -1,6 +1,4 @@
 ---
-author_gravatar: http://2.gravatar.com/avatar/2c46b82b58bc4450c49fe66569d4c421?s=96&d=mm&r=g
-author_fullname: Nicolas Serre
 author: nico
 tags: Actualité
 feature: https://static.fablab-lannion.org/Photo-0034.jpg

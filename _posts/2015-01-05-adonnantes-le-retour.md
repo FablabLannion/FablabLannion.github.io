@@ -1,6 +1,4 @@
 ---
-author_gravatar: http://1.gravatar.com/avatar/d04670b347e106df6309c4a3235f00b9?s=96&d=mm&r=g
-author_fullname: Tangi Lavanant
 author: tangi
 tags: Adonnantes
 feature: https://static.fablab-lannion.org/vse4pv.png

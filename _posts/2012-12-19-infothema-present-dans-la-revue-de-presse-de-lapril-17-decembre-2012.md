@@ -1,6 +1,4 @@
 ---
-author_gravatar: http://fablablannion.github.io/media/logo.jpg
-author_fullname: Fablab Lannion
 author: fablab
 tags: ailleurs
 layout: post

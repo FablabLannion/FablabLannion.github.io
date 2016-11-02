@@ -1,6 +1,4 @@
 ---
-author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s=96&d=mm&r=g
-author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
 feature: https://static.fablab-lannion.org/vlcsnap-2013-10-04-22h21m48s240.png
