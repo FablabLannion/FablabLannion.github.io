@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /pratiques/index.html
+permalink: /horaires-et-acces/
 title: Contacts, accès et horaires
 tags: [contacts, Acces, Horaires]
 imagefeature: cover3.jpg
@@ -59,6 +59,6 @@ Accès
 
 L'accès au fablab se fait par le 14 rue de Beauchamp à Lannion. (voir la carte). Passez le portail situé en face des locaux de la Protection Civile. Dirigez-vous vers la porte vitrée. Si besoin, utilisez la sonnette pour demander l'ouverture par un FabManager. (cf. ci-dessous)
 
-<iframe width="800" height="600" style="display:block; margin: 0 auto;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://cartosm.eu/map?lon=-3.4511099856155&lat=48.731973129626&zoom=17&width=800&height=600&mark=true&nav=true&pan=true&zb=inout&style=default&icon=down"></iframe>
-![Accès au fablab depuis l'exterieur]({{site.url}}/images/rAccesFablab1.jpg)
-![Accès au fablab : la sonette]({{site.url}}/images/rAccesFablab3.jpg)
+[![Carto OSM]({{site.static_url}}/osm_carte_fablab.png)](http://cartosm.eu/map?lon=-3.4511099856155&lat=48.731973129626&zoom=17&width=800&height=600&mark=true&nav=true&pan=true&zb=inout&style=default&icon=down)
+![Accès au fablab depuis l'exterieur]({{site.static_url}}/rAccesFablab1.jpg)
+![Accès au fablab : la sonette]({{site.static_url}}/rAccesFablab3.jpg)

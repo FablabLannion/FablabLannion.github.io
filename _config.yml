@@ -9,6 +9,7 @@ dropcap:            true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
+static_url:       https://static.fablab-lannion.org
 url:              https://fablablannion.github.io
 # url:              http://127.0.0.1:4000
 
@@ -23,7 +24,7 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        fablablannion
   facebook:       fablablannion
-  github:         fablab-lannion
+  github:         fablablannion
   # instagram:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    https://plus.google.com/+FablabLannion
@@ -50,7 +51,7 @@ links:
     url: https://wiki.fablab-lannion.org
     external: true
   - title: Infos pratiques
-    url: /pratiques
+    url: /horaires-et-acces
   - title: A propos
     url: /about
 
@@ -81,6 +82,7 @@ authors:
         name: Tangi Lavanant
         function: Secrétaire 2016
         gravatar: d04670b347e106df6309c4a3235f00b9
+        github: fabtangi
     fablab:
         name: Fablab Lannion
     jerome:
