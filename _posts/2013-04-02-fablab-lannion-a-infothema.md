@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/affiche_salon_infothema_30_mars_2013_begard.jpg
+feature: https://static.fablab-lannion.org/affiche_salon_infothema_30_mars_2013_begard.jpg
 layout: post
 slug: fablab-lannion-a-infothema
 date: 2013-04-02

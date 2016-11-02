@@ -3,14 +3,14 @@ author_gravatar: http://1.gravatar.com/avatar/47bb95d605c88f1038bd415412814eae?s
 author_fullname: Yann
 author: yann
 tags: bientôt
-feature: http://fablablannion.github.io/images/toms4m.jpg
+feature: https://static.fablab-lannion.org/toms4m.jpg
 layout: post
 slug: atelier-auto-construction-eolienne
 date: 2013-01-18
 title: "Lundi 21 janvier, atelier thématique sur l&#8217;auto-construction d&#8217;éolienne"
 comments: True
 ---
-![](http://fablablannion.github.io/images/toms4m-150x150.jpg)
+![](https://static.fablab-lannion.org/toms4m-150x150.jpg)
 
 Éolienne Piggott
 

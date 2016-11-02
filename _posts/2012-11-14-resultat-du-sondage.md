@@ -3,7 +3,7 @@ author_gravatar: http://2.gravatar.com/avatar/e7882ed2e25bdafbf2fef7c6643aa89f?s
 author_fullname: Cédric Bernard
 author: cebernard
 tags: []
-feature: http://fablablannion.github.io/images/logoSeul-300x300.jpg
+feature: https://static.fablab-lannion.org/logoSeul-300x300.jpg
 layout: post
 slug: resultat-du-sondage
 date: 2012-11-14
@@ -17,12 +17,12 @@ plus de curiosité lors du sondage surveymonkey:
 
 
 
-[![](http://fablablannion.github.io/images/sondage.jpg)](http://fablablannion.github.io/images/sondage.jpg)
+[![](https://static.fablab-lannion.org/sondage.jpg)](https://static.fablab-lannion.org/sondage.jpg)
 
 Le détail des résultats est accessible sur le lien ci-dessous:
 
 [SurveyMonkey - Résultats du sondage FabLab
-Lannion](http://fablablannion.github.io/images/SurveyMonkey-Résultats-du-
+Lannion](https://static.fablab-lannion.org/SurveyMonkey-Résultats-du-
 sondage-FabLab-Lannion.pdf)
 
 Merci aux 19 participants!

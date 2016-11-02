@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/zeimusu_Laurel_wreath.png
+feature: https://static.fablab-lannion.org/zeimusu_Laurel_wreath.png
 layout: post
 slug: le-fablab-selectionne-pour-les-carrefours-des-possibles-avec-bzzz
 date: 2013-06-13
@@ -11,8 +11,8 @@ title: "Le Fablab selectionné pour le carrefour des possibles avec Bzzz"
 comments: True
 ---
 L[![Screenshot from 2013-06-13
-17:17:59](http://fablablannion.github.io/images/Screenshot-
-from-2013-06-13-171759.png)](http://fablablannion.github.io/images/Screenshot-
+17:17:59](https://static.fablab-lannion.org/Screenshot-
+from-2013-06-13-171759.png)](https://static.fablab-lannion.org/Screenshot-
 from-2013-06-13-171759.png)a FING organise depuis 9 ans les carrefours des
 possibles en Bretagne (<http://fing.org/?-Bretagne->), rendez-vous des acteurs
 de l'innovation de la région.

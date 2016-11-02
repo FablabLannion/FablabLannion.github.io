@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/d04670b347e106df6309c4a3235f00b9?s
 author_fullname: Tangi Lavanant
 author: tangi
 tags: Actualité
-feature: http://fablablannion.github.io/images/index.jpeg
+feature: https://static.fablab-lannion.org/index.jpeg
 layout: post
 slug: appel-projet-fab-labs-2013-encore-peu-suspense
 date: 2013-11-18

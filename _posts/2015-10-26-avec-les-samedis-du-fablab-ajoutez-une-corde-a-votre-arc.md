@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: []
-feature: http://fablablannion.github.io/images/2179849680_13e6e714ab_m.jpg
+feature: https://static.fablab-lannion.org/2179849680_13e6e714ab_m.jpg
 layout: post
 slug: avec-les-samedis-du-fablab-ajoutez-une-corde-a-votre-arc
 date: 2015-10-26

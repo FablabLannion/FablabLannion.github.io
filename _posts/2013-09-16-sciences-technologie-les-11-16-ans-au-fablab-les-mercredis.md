@@ -3,7 +3,7 @@ author_gravatar: http://2.gravatar.com/avatar/29020340fd48c04adad04976cb909b4f?s
 author_fullname: Jérôme Labidurie
 author: jerome
 tags: Actualité
-feature: http://fablablannion.github.io/images/logo_petits_debrouillards_150x143.png
+feature: https://static.fablab-lannion.org/logo_petits_debrouillards_150x143.png
 layout: post
 slug: sciences-technologie-les-11-16-ans-au-fablab-les-mercredis
 date: 2013-09-16

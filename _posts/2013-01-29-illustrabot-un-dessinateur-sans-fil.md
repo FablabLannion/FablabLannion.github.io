@@ -3,7 +3,7 @@ author_gravatar: http://2.gravatar.com/avatar/29020340fd48c04adad04976cb909b4f?s
 author_fullname: Jérôme Labidurie
 author: jerome
 tags: Compte Rendu réunion
-feature: http://fablablannion.github.io/images/concept.png
+feature: https://static.fablab-lannion.org/concept.png
 layout: post
 slug: illustrabot-un-dessinateur-sans-fil
 date: 2013-01-29
@@ -12,7 +12,7 @@ comments: True
 ---
 Le 12 mars 2013, Alcatel-Lucent organise sur son site de Lannion une journée
 de démonstrations technologiques
-[![concept](http://fablablannion.github.io/images/concept-300x201.png)](http://fablab-
+[![concept](https://static.fablab-lannion.org/concept-300x201.png)](http://fablab-
 lannion.org/wp-content/uploads/2013/01/concept.png)intitulée Wireless days.
 Dans ce cadre, notre association a été contactée en vue de proposer une
 animation sur la journée. Après quelques brainstorming une idée a fait
@@ -34,7 +34,7 @@ C'est ainsi que le 28 au soir, une grosse dizaine de personnes se sont
 retrouvées pour réfléchir à la réalisation de cet ensemble.
 
 Vous trouverez les résultats de ces cogitations dans la [présentation attachée
-à cet article](http://fablablannion.github.io/images/présentation_v2.pdf).
+à cet article](https://static.fablab-lannion.org/présentation_v2.pdf).
 Pour le développement à proprement parler, rendez-vous dans le [forum
 usagers](/groupes/usagers/forum/)
 

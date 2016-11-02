@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/IMG_4316.jpg
+feature: https://static.fablab-lannion.org/IMG_4316.jpg
 layout: post
 slug: il-fait-8-degres-a-morlaix-et-personne-na-de-fil-de-peche
 date: 2013-02-20
@@ -16,10 +16,10 @@ jusqu'au bout de la nuit (et toujours pas une bière même sans alcool..on
 attend l'arrivée du chêquier…)[  
 ](http://fablab-lannion.org/wp-content/uploads/2013/02/IMG_4319.jpg)
 
-[![IMG_4303](http://fablablannion.github.io/images/IMG_4303-300x200.jpg)](http://fablab-
+[![IMG_4303](https://static.fablab-lannion.org/IMG_4303-300x200.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/02/IMG_4303.jpg)
 
-[![IMG_4312](http://fablablannion.github.io/images/IMG_4312-300x200.jpg)](http://fablab-
+[![IMG_4312](https://static.fablab-lannion.org/IMG_4312-300x200.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/02/IMG_4312.jpg)
 
 
@@ -40,16 +40,16 @@ lannion.org/wp-content/uploads/2013/02/IMG_4312.jpg)
 
 Pour résumer,
 
-![IMG_4319](http://fablablannion.github.io/images/IMG_4319-300x200.jpg)
+![IMG_4319](https://static.fablab-lannion.org/IMG_4319-300x200.jpg)
 
 désormais, d'un côté l'application androïd parle au RPi à travers une
 websocket au dessus de LTE, de l'autre du GCode envoyé à la main est transféré
 via le SPI au arduino qui pilote les moteurs de l'Illustrabot qui dessine plus
 ou moins bien ce qu'on lui demande…..[  
 ](http://fablab-lannion.org/wp-
-content/uploads/2013/02/IMG_4309.jpg)[![IMG_4316](http://fablablannion.github.io/images/IMG_4316-300x200.jpg)](http://fablab-
+content/uploads/2013/02/IMG_4309.jpg)[![IMG_4316](https://static.fablab-lannion.org/IMG_4316-300x200.jpg)](http://fablab-
 lannion.org/wp-
-content/uploads/2013/02/IMG_4316.jpg)![IMG_4309](http://fablablannion.github.io/images/IMG_4309-300x200.jpg)
+content/uploads/2013/02/IMG_4316.jpg)![IMG_4309](https://static.fablab-lannion.org/IMG_4309-300x200.jpg)
 
 Le maillon faible est donc …le RPi et plus précisément le serveur web socket
 qui reçoit bien le GCode mais ne parvient pas à le transmettre à l'arduino..A
@@ -58,7 +58,7 @@ lannion.org/membres/david.blaisonneau/) déclare "Le serveur web socket, c'est
 moi et python" à 1h17 il rajoute "p***** de python"…bref on est sur la bonne
 voie…
 
-![IMG_4307](http://fablablannion.github.io/images/IMG_4307-300x200.jpg)
+![IMG_4307](https://static.fablab-lannion.org/IMG_4307-300x200.jpg)
 
 Forts de leurs longues et diffficiles études - "Le cercle est tellement grand
 que ça passe pour une droite" - , nos experts en robotique sont formels: il

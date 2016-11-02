@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/20131106_221140.jpg
+feature: https://static.fablab-lannion.org/20131106_221140.jpg
 layout: post
 slug: cogitomus-ergo-sumus
 date: 2013-11-10
@@ -30,7 +30,7 @@ mécano géant fraisant avec la [Shapeoko,](http://fablab-
 lannion.org/wiki/index.php?title=Shapeoko) imprimer en 3D (et en étant
 patient).
 
-[![20131106_221140](http://fablablannion.github.io/images/20131106_221140-1024x576.jpg)](http://fablab-
+[![20131106_221140](https://static.fablab-lannion.org/20131106_221140-1024x576.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/11/20131106_221140.jpg)
 
 On pouvait aussi participer à la finalisation (bon finalement le sprint était

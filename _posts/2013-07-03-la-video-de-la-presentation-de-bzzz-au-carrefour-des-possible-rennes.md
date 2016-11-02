@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/d6cd7628bc242b87449712f0fef53924?s
 author_fullname: David Blaisonneau
 author: david-blaisonneau
 tags: Mis en avant
-feature: http://fablablannion.github.io/images/800px-Bzzz-logo_fond_blanc.jpg
+feature: https://static.fablab-lannion.org/800px-Bzzz-logo_fond_blanc.jpg
 layout: post
 slug: la-video-de-la-presentation-de-bzzz-au-carrefour-des-possible-rennes
 date: 2013-07-03

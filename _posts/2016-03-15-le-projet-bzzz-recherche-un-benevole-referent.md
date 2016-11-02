@@ -40,7 +40,7 @@ avons besoin de vous pour faire aboutir l'un des projets historiques de
 l'association!
 
 [![Bzzz à
-Ouessant](http://fablablannion.github.io/images/P4-1024x768-1024x768.jpg)](http://fablab-
+Ouessant](https://static.fablab-lannion.org/P4-1024x768-1024x768.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2016/03/P4-1024x768.jpg)
 
 

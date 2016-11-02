@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/Welcome_Back_to_school_1.png
+feature: https://static.fablab-lannion.org/Welcome_Back_to_school_1.png
 layout: post
 slug: le-fablab-fait-sa-rentree
 date: 2014-09-01
@@ -22,7 +22,7 @@ demandent qu'à se faire des ami(e)s:
 Bref, les outils sont prêts, le local est tout propre, les fraises sont
 afutées et les cerveaux reposés par un été breton de compétition.
 
-[![Outils](http://fablablannion.github.io/images/Outils.jpg)](http://fablablannion.github.io/images/Outils.jpg)
+[![Outils](https://static.fablab-lannion.org/Outils.jpg)](https://static.fablab-lannion.org/Outils.jpg)
 
 Il ne manque plus que vous, vos idées, votre imagination, votre savoir faire,
 votre faire savoir, votre bonne humeur, vos questions candides ou super

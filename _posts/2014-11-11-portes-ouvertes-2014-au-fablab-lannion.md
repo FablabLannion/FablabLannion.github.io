@@ -18,8 +18,8 @@ Tout ce que vous avez toujours voulu savoir sur le fablab (ou presque) sans
 jamais oser le demander…
 
 [![David et Cédric \(et la
-prusa\)](http://fablablannion.github.io/images/Bw2BAUFCYAAbb1u.jpg-
-large.jpg)](http://fablablannion.github.io/images/Bw2BAUFCYAAbb1u.jpg-
+prusa\)](https://static.fablab-lannion.org/Bw2BAUFCYAAbb1u.jpg-
+large.jpg)](https://static.fablab-lannion.org/Bw2BAUFCYAAbb1u.jpg-
 large.jpg)
 
 David et Cédric (et la prusa)
@@ -42,7 +42,7 @@ Au programme des micros conférences (15′):
 Les démonstrations permettront de voir en action la désormais célèbre
 imprimante 3D, mais aussi les trop méconnues fraiseuses numériques.
 
-[![](http://fablablannion.github.io/images/IMG_20130907_095017-1024x768.jpg)](http://fablab-
+[![](https://static.fablab-lannion.org/IMG_20130907_095017-1024x768.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2014/11/IMG_20130907_095017.jpg)
 
 MC Jérôme en pleine action

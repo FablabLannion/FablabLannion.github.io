@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: bientôt
-feature: http://fablablannion.github.io/images/fablab-1.jpg
+feature: https://static.fablab-lannion.org/fablab-1.jpg
 layout: post
 slug: mais-oui-mais-oui-barbecue-party-mercredi-1er-juillet-a-partir-de-19h
 date: 2015-06-25
@@ -28,10 +28,10 @@ roue il y a quelques semaines et promet du spectacle…
 
 Quelques images d'archives en attendant de pouvoir admirer la bête.
 
-[![upload_-1\(2\)](http://fablablannion.github.io/images/upload_-12-1024x576.jpg)](http://fablab-
+[![upload_-1\(2\)](https://static.fablab-lannion.org/upload_-12-1024x576.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2015/06/upload_-12.jpg)
 
-[![upload_-1\(1\)](http://fablablannion.github.io/images/upload_-11-1024x576.jpg)](http://fablab-
+[![upload_-1\(1\)](https://static.fablab-lannion.org/upload_-11-1024x576.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2015/06/upload_-11.jpg)
 
 Le Barbecue sera surtout l'occasion de célébrer notre 2ème saison au lycée et

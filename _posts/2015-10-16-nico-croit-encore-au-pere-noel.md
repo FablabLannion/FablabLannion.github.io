@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: []
-feature: http://fablablannion.github.io/images/Capture-1.png
+feature: https://static.fablab-lannion.org/Capture-1.png
 layout: post
 slug: nico-croit-encore-au-pere-noel
 date: 2015-10-16

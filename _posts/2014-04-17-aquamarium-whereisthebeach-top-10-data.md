@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/cérémonie_whereisthebeach.png
+feature: https://static.fablab-lannion.org/cérémonie_whereisthebeach.png
 layout: post
 slug: aquamarium-whereisthebeach-top-10-data
 date: 2014-04-17
@@ -42,6 +42,6 @@ Bravo aux 2 équipes (Anatole, Olivier, Jérôme, Tangi, Antoine, Morgan et les
 autres)
 
 Merci à tous ceux qui ont voté pour nous ainsi qu'aux organisateurs!  
-[![cérémonie_aquamarium](http://fablablannion.github.io/images/cérémonie_aquamarium.png)](http://fablablannion.github.io/images/cérémonie_aquamarium.png)
+[![cérémonie_aquamarium](https://static.fablab-lannion.org/cérémonie_aquamarium.png)](https://static.fablab-lannion.org/cérémonie_aquamarium.png)
 
 

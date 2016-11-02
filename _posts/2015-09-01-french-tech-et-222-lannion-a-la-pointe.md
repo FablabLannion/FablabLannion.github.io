@@ -14,7 +14,7 @@ labellisation French Tech de Brest+ (Brest, Morlaix, Quimper et Lannion), le
 lancement du très prometteur et passionant dispositif
 _[222BusinessPool](http://www.le222businesspool.com/)_.
 
-![-4](http://fablablannion.github.io/images/4-300x198.jpg)
+![-4](https://static.fablab-lannion.org/4-300x198.jpg)
 
 Le FabLab soutient bien sûr complètement ces initiatives qui donneront une
 visibilité internationale au territoires de l'Ouest breton ! Qui sait une
@@ -25,7 +25,7 @@ Désormais officiellement partenaire de la Technopole
 continuer à collaborer avec les start-up locales et contribuer à faire du
 fablab un outil/atout supplémentaire de l'écosystème innovant trégorrois!
 
-[![-3](http://fablablannion.github.io/images/3-300x198.jpg)](http://fablab-
+[![-3](https://static.fablab-lannion.org/3-300x198.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2014/02/3.jpg)N'hésitez pas à nous rejoindre et
 restez connecté pour découvrir les nouveautés de la rentrée…Nous serons
 présents ce samedi au forum des associations, venez nous rencontrer!

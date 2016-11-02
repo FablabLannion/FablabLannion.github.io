@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: []
-feature: http://fablablannion.github.io/images/Pac-man.png
+feature: https://static.fablab-lannion.org/Pac-man.png
 layout: post
 slug: nouveau-au-projet-au-fablab-venez-construire-votre-borne-darcade
 date: 2015-10-01

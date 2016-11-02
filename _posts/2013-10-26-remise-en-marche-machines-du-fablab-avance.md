@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/d6cd7628bc242b87449712f0fef53924?s
 author_fullname: David Blaisonneau
 author: david-blaisonneau
 tags: Actualité
-feature: http://fablablannion.github.io/images/vlcsnap-2013-10-28-12h26m15s208.png
+feature: https://static.fablab-lannion.org/vlcsnap-2013-10-28-12h26m15s208.png
 layout: post
 slug: remise-en-marche-machines-du-fablab-avance
 date: 2013-10-26

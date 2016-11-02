@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/affiche-couleur.png
+feature: https://static.fablab-lannion.org/affiche-couleur.png
 layout: post
 slug: 2000000-de-projets-open-source-et-nous-et-nous-et-nous
 date: 2015-03-03
@@ -25,7 +25,7 @@ Plus de renseignements sur <http://libre-en-fete-tregor.fr/>
 
 Demandez le programme:
 
-[![Flyer-libre en fête](http://fablablannion.github.io/images/Flyer-libre-en-
+[![Flyer-libre en fête](https://static.fablab-lannion.org/Flyer-libre-en-
 fête-746x1024.png)](http://fablab-lannion.org/wp-
 content/uploads/2015/03/Flyer-libre-en-fête.png)
 

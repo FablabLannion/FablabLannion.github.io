@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: 3D
-feature: http://fablablannion.github.io/images/upload_-1-3.jpg
+feature: https://static.fablab-lannion.org/upload_-1-3.jpg
 layout: post
 slug: libre-en-fete-2016-un-vrai-succes-populaire
 date: 2016-03-29
@@ -41,40 +41,40 @@ logiciel libre et ses usages.
 la shaepoko qui dessine de mieux en mieux et les fameuses bornes d'arcade ont
 ravi petits et grands.
 
-[![upload_-1](http://fablablannion.github.io/images/upload_-1-150x150.jpg)](http://fablab-
+[![upload_-1](https://static.fablab-lannion.org/upload_-1-150x150.jpg)](http://fablab-
 lannion.org/2016/03/libre-en-fete-2016-un-vrai-succes-populaire/upload_-1-7/)
 
 [![upload_-1
-\(3\)](http://fablablannion.github.io/images/upload_-1-3-150x150.jpg)](http://fablab-
+\(3\)](https://static.fablab-lannion.org/upload_-1-3-150x150.jpg)](http://fablab-
 lannion.org/2016/03/libre-en-fete-2016-un-vrai-succes-
 populaire/upload_-1-3-2/)
 
 [![upload_-1
-\(5\)](http://fablablannion.github.io/images/upload_-1-5-150x150.jpg)](http://fablab-
+\(5\)](https://static.fablab-lannion.org/upload_-1-5-150x150.jpg)](http://fablab-
 lannion.org/2016/03/libre-en-fete-2016-un-vrai-succes-populaire/upload_-1-5/)
 
   
 
 [![upload_-1
-\(6\)](http://fablablannion.github.io/images/upload_-1-6-150x150.jpg)](http://fablab-
+\(6\)](https://static.fablab-lannion.org/upload_-1-6-150x150.jpg)](http://fablab-
 lannion.org/2016/03/libre-en-fete-2016-un-vrai-succes-populaire/upload_-1-6/)
 
 [![upload_-1
-\(10\)](http://fablablannion.github.io/images/upload_-1-10-150x150.jpg)](http://fablab-
+\(10\)](https://static.fablab-lannion.org/upload_-1-10-150x150.jpg)](http://fablab-
 lannion.org/2016/03/libre-en-fete-2016-un-vrai-succes-populaire/upload_-1-10/)
 
 [![upload_-1
-\(11\)](http://fablablannion.github.io/images/upload_-1-11-150x150.jpg)](http://fablab-
+\(11\)](https://static.fablab-lannion.org/upload_-1-11-150x150.jpg)](http://fablab-
 lannion.org/2016/03/libre-en-fete-2016-un-vrai-succes-populaire/upload_-1-11/)
 
   
 
 [![upload_-1
-\(12\)](http://fablablannion.github.io/images/upload_-1-12-150x150.jpg)](http://fablab-
+\(12\)](https://static.fablab-lannion.org/upload_-1-12-150x150.jpg)](http://fablab-
 lannion.org/2016/03/libre-en-fete-2016-un-vrai-succes-populaire/upload_-1-12/)
 
 [![upload_-1
-\(16\)](http://fablablannion.github.io/images/upload_-1-16-150x150.jpg)](http://fablab-
+\(16\)](https://static.fablab-lannion.org/upload_-1-16-150x150.jpg)](http://fablab-
 lannion.org/2016/03/libre-en-fete-2016-un-vrai-succes-populaire/upload_-1-16/)
 
   

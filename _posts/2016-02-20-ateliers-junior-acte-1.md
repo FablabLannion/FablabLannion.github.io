@@ -16,7 +16,7 @@ au Fablab): découverte robotique. Fan de Wall-E, R2D2, Astro, Nono (l'ami
 d'Ulysse), Optimus Prime, Goldorak, venez découvrir le monde de la robotique
 et fabriquer votre premier robot…
 
-[![Blue-Robot-300px](http://fablablannion.github.io/images/Blue-
+[![Blue-Robot-300px](https://static.fablab-lannion.org/Blue-
 Robot-300px.png)](http://fablab-lannion.org/?attachment_id=13166)
 
 
@@ -47,7 +47,7 @@ l'animation:
 illustration OpenClipart ([Blue Robot by
 Scout](https://openclipart.org/detail/191072/blue-robot))
 
-[![fondation_fr_quadri](http://fablablannion.github.io/images/fondation_fr_quadri.jpg)](http://fablab-
+[![fondation_fr_quadri](https://static.fablab-lannion.org/fondation_fr_quadri.jpg)](http://fablab-
 lannion.org/2015/12/un-samedi-au-fablab-pour-bien-preparer-
 noel/fondation_fr_quadri/)
 

@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/d04670b347e106df6309c4a3235f00b9?s
 author_fullname: Tangi Lavanant
 author: tangi
 tags: Actualité
-feature: http://fablablannion.github.io/images/1236209_479901635445159_8525855238339731848_n.jpg
+feature: https://static.fablab-lannion.org/1236209_479901635445159_8525855238339731848_n.jpg
 layout: post
 slug: whereisthebeach-gagnant-du-concours-innovlannion-2-0
 date: 2014-04-10

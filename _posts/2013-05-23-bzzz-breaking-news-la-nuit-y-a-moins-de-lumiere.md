@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/800px-Bzzz-logo_fond_blanc.jpg
+feature: https://static.fablab-lannion.org/800px-Bzzz-logo_fond_blanc.jpg
 layout: post
 slug: bzzz-breaking-news-la-nuit-y-a-moins-de-lumiere
 date: 2013-05-23
@@ -24,8 +24,8 @@ afin de faire des économies d'énergie.
 Et du coup nous avons obtenu une jolie courbe
 
 [![Screenshot from 2013-05-23
-12:37:04](http://fablablannion.github.io/images/Screenshot-
-from-2013-05-23-123704.png)](http://fablablannion.github.io/images/Screenshot-
+12:37:04](https://static.fablab-lannion.org/Screenshot-
+from-2013-05-23-123704.png)](https://static.fablab-lannion.org/Screenshot-
 from-2013-05-23-123704.png)
 
 Ce petit test a permis de montrer la limite de l'endormissement logiciel du

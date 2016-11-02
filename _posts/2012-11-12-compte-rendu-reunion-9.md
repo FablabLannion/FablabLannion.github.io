@@ -3,7 +3,7 @@ author_gravatar: http://2.gravatar.com/avatar/29020340fd48c04adad04976cb909b4f?s
 author_fullname: Jérôme Labidurie
 author: jerome
 tags: Compte Rendu réunion
-feature: http://fablablannion.github.io/images/logoSeul.jpg
+feature: https://static.fablab-lannion.org/logoSeul.jpg
 layout: post
 slug: compte-rendu-reunion-9
 date: 2012-11-12
@@ -13,7 +13,7 @@ comments: True
 Présents: [David](/qui-sommes-nous/david-blaisonneau/), [Yann](/qui-sommes-
 nous/yann/), [Morgan](/qui-sommes-nous/colvert/), [Yvon](/qui-sommes-
 nous/yvon/), Théo, Nicolas, Claude, [Jérôme](/qui-sommes-
-nous/jerome/)[![](http://fablablannion.github.io/images/logoSeul-300x300.jpg)](http://fablab-
+nous/jerome/)[![](https://static.fablab-lannion.org/logoSeul-300x300.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2012/10/logoSeul.jpg)
 
 Dans ces présents, 2 nouveaux :

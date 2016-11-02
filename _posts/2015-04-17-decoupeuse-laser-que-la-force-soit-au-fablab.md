@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/d04670b347e106df6309c4a3235f00b9?s
 author_fullname: Tangi Lavanant
 author: tangi
 tags: 3D
-feature: http://fablablannion.github.io/images/light-sabre.jpg
+feature: https://static.fablab-lannion.org/light-sabre.jpg
 layout: post
 slug: decoupeuse-laser-que-la-force-soit-au-fablab
 date: 2015-04-17

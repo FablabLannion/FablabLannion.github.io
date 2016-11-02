@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/d6cd7628bc242b87449712f0fef53924?s
 author_fullname: David Blaisonneau
 author: david-blaisonneau
 tags: Compte Rendu réunion
-feature: http://fablablannion.github.io/images/prototypes.jpg
+feature: https://static.fablab-lannion.org/prototypes.jpg
 layout: post
 slug: compte-rendu-de-la-reunion-du-4-fevrier-2013
 date: 2013-02-06

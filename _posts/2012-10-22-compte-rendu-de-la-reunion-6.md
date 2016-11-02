@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/47bb95d605c88f1038bd415412814eae?s
 author_fullname: Yann
 author: yann
 tags: Compte Rendu réunion
-feature: http://fablablannion.github.io/images/logoSeul.jpg
+feature: https://static.fablab-lannion.org/logoSeul.jpg
 layout: post
 slug: compte-rendu-de-la-reunion-6
 date: 2012-10-22

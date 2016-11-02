@@ -3,7 +3,7 @@ author_gravatar: http://2.gravatar.com/avatar/bfa9da2fe4514a96f1e51ef49f98676f?s
 author_fullname: Youns Bouachra
 author: installparty14
 tags: Prochainement
-feature: http://fablablannion.github.io/images/Tux-G2.png
+feature: https://static.fablab-lannion.org/Tux-G2.png
 layout: post
 slug: install-party-lycee-felix-le-dantec-lannion
 date: 2014-02-11

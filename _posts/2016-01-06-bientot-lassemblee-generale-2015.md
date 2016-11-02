@@ -9,7 +9,7 @@ date: 2016-01-06
 title: "Bientôt l&#8217;Assemblée Générale 2015 !"
 comments: True
 ---
-[![5279081853_64c2e06b14_o\[1\]](http://fablablannion.github.io/images/5279081853_64c2e06b14_o1-300x234.jpg)](http://fablab-
+[![5279081853_64c2e06b14_o\[1\]](https://static.fablab-lannion.org/5279081853_64c2e06b14_o1-300x234.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2014/12/5279081853_64c2e06b14_o1.jpg)Comme tous
 les ans, après les galettes des Rois, c'est l'AG!
 

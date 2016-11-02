@@ -3,14 +3,14 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Mis en avant
-feature: http://fablablannion.github.io/images/libre_en_fete_2015_infothema_18.jpg
+feature: https://static.fablab-lannion.org/libre_en_fete_2015_infothema_18.jpg
 layout: post
 slug: petit-retour-sur-la-semaine-du-libre
 date: 2015-04-08
 title: "Petit retour sur la semaine du libre"
 comments: True
 ---
-[![20150325_185017](http://fablablannion.github.io/images/20150325_185017-1024x576.jpg)](http://fablab-
+[![20150325_185017](https://static.fablab-lannion.org/20150325_185017-1024x576.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2015/04/20150325_185017.jpg)La semaine du libre
 <http://libre-en-fete-tregor.fr/> s'est achevée sur un dernier atelier pour
 les enfants animé par les petits débrouillards au fablab marquant la fin d'une
@@ -22,7 +22,7 @@ OpenStreetMap, Ubuntu, les logiciels libres ou arduino. Mention spéciale aux
 étudiants du BTS IRIS et de l'Enssat pour leur implication, leur talent et
 leur enthousiasme communicatif.
 
-[![20150324_190133](http://fablablannion.github.io/images/20150324_190133-1024x576.jpg)](http://fablab-
+[![20150324_190133](https://static.fablab-lannion.org/20150324_190133-1024x576.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2015/04/20150324_190133.jpg)
 
 Rendez-vous l'année prochaine?

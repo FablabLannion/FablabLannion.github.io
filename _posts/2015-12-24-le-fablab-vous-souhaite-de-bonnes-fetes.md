@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: []
-feature: http://fablablannion.github.io/images/upload_-11.jpg
+feature: https://static.fablab-lannion.org/upload_-11.jpg
 layout: post
 slug: le-fablab-vous-souhaite-de-bonnes-fetes
 date: 2015-12-24
@@ -40,7 +40,7 @@ qui s'annonce d'ors et déjà comme un événement majeur du numérique sur notr
 territoire réunissant associations, académiques, institutionnels et
 professionnels.
 
-[![upload_-1](http://fablablannion.github.io/images/upload_-12.jpg)](http://fablablannion.github.io/images/upload_-12.jpg)
+[![upload_-1](https://static.fablab-lannion.org/upload_-12.jpg)](https://static.fablab-lannion.org/upload_-12.jpg)
 
 Cette année n'aurait bien entendu pas été possible sans l'enthousiasme et la
 générosité des bénévoles, qui ont toujours répondu présents. Mention spéciale

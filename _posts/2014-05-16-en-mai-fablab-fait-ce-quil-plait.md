@@ -3,7 +3,7 @@ author_gravatar: http://2.gravatar.com/avatar/29020340fd48c04adad04976cb909b4f?s
 author_fullname: Jérôme Labidurie
 author: jerome
 tags: Actualité
-feature: http://fablablannion.github.io/images/IMG_0544.jpg
+feature: https://static.fablab-lannion.org/IMG_0544.jpg
 layout: post
 slug: en-mai-fablab-fait-ce-quil-plait
 date: 2014-05-16
@@ -26,7 +26,7 @@ calvaire est fini 😉 Un [tableau d'outils](http://fablab-
 lannion.org/wiki/index.php?title=Outils) est maintenant disponible dans le
 local. Pensez à les replacer pour la prochaine utilisation.
 
-[![Outils](http://fablablannion.github.io/images/Outils-150x150.jpg)](http://fablab-
+[![Outils](https://static.fablab-lannion.org/Outils-150x150.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2014/05/Outils.jpg)Ceux qui nous suivent sur
 twitter le savent déjà. La CharlyRobot a fait des siennes en [grillant le
 moteur de l'axe
@@ -49,7 +49,7 @@ avance à grands pas sous l'impulsion d'Erwan.
 
 ### Les projets ne sont pas en reste.
 
-[![helibroute_elec](http://fablablannion.github.io/images/helibroute_elec-150x150.jpg)](http://fablab-
+[![helibroute_elec](https://static.fablab-lannion.org/helibroute_elec-150x150.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2014/05/helibroute_elec.jpg)Lauréat des
 adonnantes, [Helibroute](http://fablab-
 lannion.org/wiki/index.php?title=HeliBroute) poursuit son bonhomme de chemin

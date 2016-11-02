@@ -3,14 +3,14 @@ author_gravatar: http://2.gravatar.com/avatar/29020340fd48c04adad04976cb909b4f?s
 author_fullname: Jérôme Labidurie
 author: jerome
 tags: Actualité
-feature: http://fablablannion.github.io/images/Photo-0034.jpg
+feature: https://static.fablab-lannion.org/Photo-0034.jpg
 layout: post
 slug: le-fablab-pour-les-enfants
 date: 2015-09-23
 title: "Le Fablab pour les enfants"
 comments: True
 ---
-[![Photo-0034](http://fablablannion.github.io/images/Photo-0034-150x150.jpg)](http://fablab-
+[![Photo-0034](https://static.fablab-lannion.org/Photo-0034-150x150.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/09/Photo-0034.jpg)Bidouille électronique,
 électricité, fabrication numérique, programmation… Voici le monde dans lequel
 nos enfants grandissent ! Pour ne pas les laisser démunis comme une poule
@@ -28,7 +28,7 @@ temps pour vous de les inscrire et les préparer au monde de demain 😉
   * Pour des 10 à 14 ans.
   * Tous les mercredis du mercredi 30 septembre 2015, de 13H30 à 15H30 et de 15H30 à 17H30, sauf pendant les vacances scolaires, jusqu’au mercredi 22 juin 2016 soit 30 séances.
   * Tarifs : 150 € + 20 ou 10 euros d’adhésion (Étudiants ou personnes en recherche d’emploi).
-  * Thèmes : Atelier de bidouille électronique et numérique.[![battlebot](http://fablablannion.github.io/images/battlebot-150x150.jpg)](http://www.dailymotion.com/video/x20oifp_battle-robot-movie_tech)
+  * Thèmes : Atelier de bidouille électronique et numérique.[![battlebot](https://static.fablab-lannion.org/battlebot-150x150.jpg)](http://www.dailymotion.com/video/x20oifp_battle-robot-movie_tech)
 
 **MINI STAGE FAB LAB LANNION**
 

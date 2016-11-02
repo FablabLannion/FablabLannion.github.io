@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/uriel.png
+feature: https://static.fablab-lannion.org/uriel.png
 layout: post
 slug: regard-senegalais-sur-le-fablab-lannion
 date: 2014-02-08
@@ -11,8 +11,8 @@ title: "Regard Sénégalais sur le Fablab Lannion"
 comments: True
 ---
 [![Innovafrica 2013 & Hackathon OCIT -
-30](http://fablablannion.github.io/images/Innovafrica-2013-Hackathon-
-OCIT-30.jpg)](http://fablablannion.github.io/images/Innovafrica-2013-Hackathon-
+30](https://static.fablab-lannion.org/Innovafrica-2013-Hackathon-
+OCIT-30.jpg)](https://static.fablab-lannion.org/Innovafrica-2013-Hackathon-
 OCIT-30.jpg)Le mercredi 05 février 2014 à 21 heure, après en avoir longtemps
 entendu parlé, nous nous rendons au Fablab Lannion pour découvrir ce
 laboratoire communautaire de la ville de Lannion. En raison de l'heure avancée

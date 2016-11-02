@@ -3,7 +3,7 @@ author_gravatar: http://2.gravatar.com/avatar/29020340fd48c04adad04976cb909b4f?s
 author_fullname: Jérôme Labidurie
 author: jerome
 tags: Actualité
-feature: http://fablablannion.github.io/images/OuestFrance_20130606_p1.jpg
+feature: https://static.fablab-lannion.org/OuestFrance_20130606_p1.jpg
 layout: post
 slug: revue-de-presse
 date: 2013-06-17
@@ -19,14 +19,14 @@ Lannion](http://www.ouest-france.fr/actu/actuLocale_-Lannion.-L-atelier-
 participatif-fablab-rentre-au-lycee-Le-Dantec_40805-2199563------
 22113-aud_actu.Htm) :
 
-[![OuestFrance_20130606_p1](http://fablablannion.github.io/images/OuestFrance_20130606_p1-300x235.jpg)](http://fablab-
+[![OuestFrance_20130606_p1](https://static.fablab-lannion.org/OuestFrance_20130606_p1-300x235.jpg)](http://fablab-
 lannion.org/wp-
-content/uploads/2013/06/OuestFrance_20130606_p1.jpg)[![OuestFrance_20130606_px](http://fablablannion.github.io/images/OuestFrance_20130606_px-300x252.jpg)](http://fablab-
+content/uploads/2013/06/OuestFrance_20130606_p1.jpg)[![OuestFrance_20130606_px](https://static.fablab-lannion.org/OuestFrance_20130606_px-300x252.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/06/OuestFrance_20130606_px.jpg)
 
 Puis un 2ème le 12 juin en page 9
 
-[![OuestFrance_20130612_p9](http://fablablannion.github.io/images/OuestFrance_20130612_p9-300x221.jpg)](http://fablab-
+[![OuestFrance_20130612_p9](https://static.fablab-lannion.org/OuestFrance_20130612_p9-300x221.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/06/OuestFrance_20130612_p9.jpg)
 
 

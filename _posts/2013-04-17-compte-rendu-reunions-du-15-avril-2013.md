@@ -3,7 +3,7 @@ author_gravatar: http://2.gravatar.com/avatar/29020340fd48c04adad04976cb909b4f?s
 author_fullname: Jérôme Labidurie
 author: jerome
 tags: Actualité
-feature: http://fablablannion.github.io/images/MecaniqueSpiderCam.jpg
+feature: https://static.fablab-lannion.org/MecaniqueSpiderCam.jpg
 layout: post
 slug: compte-rendu-reunions-du-15-avril-2013
 date: 2013-04-17
@@ -11,7 +11,7 @@ title: "Compte rendu réunions du 15 avril 2013"
 comments: True
 ---
 [![Mecanique Caméra sur
-Fil](http://fablablannion.github.io/images/MecaniqueSpiderCam-235x300.jpg)](http://fablab-
+Fil](https://static.fablab-lannion.org/MecaniqueSpiderCam-235x300.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/04/MecaniqueSpiderCam.jpg)Le beau temps,
 même s'il est bienvenu, a fait en sorte que nous ne soyons qu'une dizaine ce
 jour. Cela n'a pas empêché la réunion d'être productive !

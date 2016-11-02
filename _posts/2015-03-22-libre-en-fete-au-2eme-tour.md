@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/20150321_160930.jpg
+feature: https://static.fablab-lannion.org/20150321_160930.jpg
 layout: post
 slug: libre-en-fete-au-2eme-tour
 date: 2015-03-22
@@ -36,7 +36,7 @@ du Lycée le Dantec. Tous les groupes ont brillament relevé le défi et ont pu
 reprendre à leur compte le slogan du jour "je code donc je suis" sous le
 regard bienveillant de la masquotte Mankig Tux.
 
-[![20150321_161054](http://fablablannion.github.io/images/20150321_161054-1024x576.jpg)](http://fablab-
+[![20150321_161054](https://static.fablab-lannion.org/20150321_161054-1024x576.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2015/03/20150321_161054.jpg)
 
 A noter le passage de monsieur le maire de Lannion, qui, du coup a eu le droit

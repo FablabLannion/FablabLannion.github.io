@@ -3,14 +3,14 @@ author_gravatar: http://1.gravatar.com/avatar/47bb95d605c88f1038bd415412814eae?s
 author_fullname: Yann
 author: yann
 tags: bientôt
-feature: http://fablablannion.github.io/images/open-innovation.jpg
+feature: https://static.fablab-lannion.org/open-innovation.jpg
 layout: post
 slug: atelier-ouvert
 date: 2013-01-28
 title: "Atelier ouvert"
 comments: True
 ---
-![open-innovation](http://fablablannion.github.io/images/open-
+![open-innovation](https://static.fablab-lannion.org/open-
 innovation-150x150.jpg)
 
 

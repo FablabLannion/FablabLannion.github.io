@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/47bb95d605c88f1038bd415412814eae?s
 author_fullname: Yann
 author: yann
 tags: []
-feature: http://fablablannion.github.io/images/weNeedYouPetit.png
+feature: https://static.fablab-lannion.org/weNeedYouPetit.png
 layout: post
 slug: rendez-vous-a-lassemblee-constituante
 date: 2012-11-29

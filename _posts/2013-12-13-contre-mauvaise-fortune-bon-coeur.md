@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/47bb95d605c88f1038bd415412814eae?s
 author_fullname: Yann
 author: yann
 tags: Mis en avant
-feature: http://fablablannion.github.io/images/annonceAAP2013_montebourg_pellerin.jpeg
+feature: https://static.fablab-lannion.org/annonceAAP2013_montebourg_pellerin.jpeg
 layout: post
 slug: contre-mauvaise-fortune-bon-coeur
 date: 2013-12-13

@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/256px-Openstreetmap_logo.svg.png
+feature: https://static.fablab-lannion.org/256px-Openstreetmap_logo.svg.png
 layout: post
 slug: 3eme-rencontre-innovlannion-openstreetmap
 date: 2014-02-10
@@ -16,7 +16,7 @@ lannion.org/membres/twitter_fablablannion/). Professeurs et étudiants de
 l'IUT, ENSSAT et du lycée mais aussi des membres du fablab et des particuliers
 (dont 2 anciens lauréats).
 
-[![1623627_459853877449935_289071109_n](http://fablablannion.github.io/images/1623627_459853877449935_289071109_n.jpg)](http://fablablannion.github.io/images/1623627_459853877449935_289071109_n.jpg)
+[![1623627_459853877449935_289071109_n](https://static.fablab-lannion.org/1623627_459853877449935_289071109_n.jpg)](https://static.fablab-lannion.org/1623627_459853877449935_289071109_n.jpg)
 
 Si le sujet du jour était l'utilisation de la plate-forme d'innovation
 Emerginov, le rendez-vous a été pris pour le 20 février pour une visite plus

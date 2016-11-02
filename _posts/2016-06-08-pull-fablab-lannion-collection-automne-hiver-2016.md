@@ -12,8 +12,8 @@ comments: True
 Le fablab lance sa collection automne-hiver 2016. Un seul et unique modèle
 exceptionnel sublimé du logo officiel.
 
-[![pullFab](http://fablablannion.github.io/images/pullFab.jpg)](http://fablablannion.github.io/images/pullFab.jpg)
-[![pullFab_back](http://fablablannion.github.io/images/pullFabBack_fab.jpg)](http://fablablannion.github.io/images/pullFabBack_fab.jpg)
+[![pullFab](https://static.fablab-lannion.org/pullFab.jpg)](https://static.fablab-lannion.org/pullFab.jpg)
+[![pullFab_back](https://static.fablab-lannion.org/pullFabBack_fab.jpg)](https://static.fablab-lannion.org/pullFabBack_fab.jpg)
 
 
 

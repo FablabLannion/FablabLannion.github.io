@@ -3,14 +3,14 @@ author_gravatar: http://1.gravatar.com/avatar/d6cd7628bc242b87449712f0fef53924?s
 author_fullname: David Blaisonneau
 author: david-blaisonneau
 tags: Compte Rendu réunion
-feature: http://fablablannion.github.io/images/20130121_124134.jpg
+feature: https://static.fablab-lannion.org/20130121_124134.jpg
 layout: post
 slug: compte-rendu-de-la-reunion-du-21-janvier
 date: 2013-01-22
 title: "Compte-rendu de la réunion du 21 janvier"
 comments: True
 ---
-[![20130121_124134](http://fablablannion.github.io/images/20130121_124134-225x300.jpg)](http://fablab-
+[![20130121_124134](https://static.fablab-lannion.org/20130121_124134-225x300.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/01/20130121_124134.jpg)Aujourd'hui, pour
 continuer sur notre bonne lancée, c'est 21 personnes qui étaient présentes à
 la réunion hebdomadaire et à la présentation "Éolienne auto-construite"

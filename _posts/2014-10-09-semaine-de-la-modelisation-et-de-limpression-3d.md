@@ -3,14 +3,14 @@ author_gravatar: http://1.gravatar.com/avatar/47bb95d605c88f1038bd415412814eae?s
 author_fullname: Yann
 author: yann
 tags: 3D
-feature: http://fablablannion.github.io/images/logoOpenSCAD2.png
+feature: https://static.fablab-lannion.org/logoOpenSCAD2.png
 layout: post
 slug: semaine-de-la-modelisation-et-de-limpression-3d
 date: 2014-10-09
 title: "Semaine de la modélisation et de l&#8217;impression 3D"
 comments: True
 ---
-[![logoOpenSCAD2](http://fablablannion.github.io/images/logoOpenSCAD2-300x168.png)](http://fablab-
+[![logoOpenSCAD2](https://static.fablab-lannion.org/logoOpenSCAD2-300x168.png)](http://fablab-
 lannion.org/wp-content/uploads/2014/10/logoOpenSCAD2.png)
 
 Le fablab de Lannion organise la Semaine de la modélisation et de l'impression

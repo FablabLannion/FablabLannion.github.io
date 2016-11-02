@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/eole-souffle1.png
+feature: https://static.fablab-lannion.org/eole-souffle1.png
 layout: post
 slug: les-adonnantes-du-fablab-coup-de-pouce-votre-projet
 date: 2014-02-22
@@ -23,7 +23,7 @@ par manque d'un shield arduino ou de petites pièces.
 C'est dans ce cadre que l'association a décidé de mettre en place un système
 d'aide aux projets: les adonnantes.
 
-[![-7](http://fablablannion.github.io/images/7-1024x492.jpg)](http://fablab-
+[![-7](https://static.fablab-lannion.org/7-1024x492.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2014/02/7.jpg)
 
 En navigation, une adonnante est un coup de pouce du dieu Eole au cours d'une
@@ -40,7 +40,7 @@ est éligible. Les seules conditions: les membres et porteurs du projet doivent
 Le choix sera effectué par le CA de l'association à l'occasion d'un vote du
 lundi.
 
-[![List_Projets_022014](http://fablablannion.github.io/images/List_Projets_022014-1024x644.jpg)](http://fablab-
+[![List_Projets_022014](https://static.fablab-lannion.org/List_Projets_022014-1024x644.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2014/02/List_Projets_022014.jpg)
 
 Rendez-vous le 24 mars prochain pour la première édition des adonnantes. Si

@@ -3,7 +3,7 @@ author_gravatar: http://2.gravatar.com/avatar/29020340fd48c04adad04976cb909b4f?s
 author_fullname: Jérôme Labidurie
 author: jerome
 tags: Compte Rendu réunion
-feature: http://fablablannion.github.io/images/IMG_20131001_135336.jpg
+feature: https://static.fablab-lannion.org/IMG_20131001_135336.jpg
 layout: post
 slug: visite-deuro-process
 date: 2013-10-03
@@ -11,7 +11,7 @@ title: "Visite d&#8217;Euro-Process"
 comments: True
 ---
 [![Les membres concentrés sur les explications de
-Christophe](http://fablablannion.github.io/images/IMG_20131001_140546-150x150.jpg)](http://fablab-
+Christophe](https://static.fablab-lannion.org/IMG_20131001_140546-150x150.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/10/IMG_20131001_140546.jpg)
 
 Les membres concentrés sur les explications de Christophe
@@ -38,13 +38,13 @@ passage dans les réserves ! Véritable magasin de jouets au moment de Noël pou
 les bricoleurs/électroniciens que nous sommes.
 
 [![Magasin de
-composants](http://fablablannion.github.io/images/IMG_20131001_133835-150x150.jpg)](http://fablab-
+composants](https://static.fablab-lannion.org/IMG_20131001_133835-150x150.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/10/IMG_20131001_133835.jpg)
 
 Magasin de composants
 
 [![Magasin de composants contrôlé en t° et
-humidité](http://fablablannion.github.io/images/IMG_20131001_134340-150x150.jpg)](http://fablab-
+humidité](https://static.fablab-lannion.org/IMG_20131001_134340-150x150.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/10/IMG_20131001_134340.jpg)
 
 Magasin de composants contrôlé en t° et humidité
@@ -60,19 +60,19 @@ sérigraphie. Le PCB est ensuite transporté (via des tapis roulants) vers la
 passe par un premier contrôle visuel pour terminer sa course dans un four.
 
 [![La chaîne CMS \(presque\) au
-complet](http://fablablannion.github.io/images/PANO_20131001_140018-150x150.jpg)](http://fablab-
+complet](https://static.fablab-lannion.org/PANO_20131001_140018-150x150.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/10/PANO_20131001_140018.jpg)
 
 La chaîne CMS (presque) au complet
 
 [![Dépôt de pâte à
-braser](http://fablablannion.github.io/images/IMG_20131001_135336-150x150.jpg)](http://fablab-
+braser](https://static.fablab-lannion.org/IMG_20131001_135336-150x150.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/10/IMG_20131001_135336.jpg)
 
 Dépôt de pâte à braser
 
 [![Vidéo
-Pick&Place](http://fablablannion.github.io/images/pickplace-150x150.jpeg)](http://www.dailymotion.com/video/x15g0py_placement-
+Pick&Place](https://static.fablab-lannion.org/pickplace-150x150.jpeg)](http://www.dailymotion.com/video/x15g0py_placement-
 cms_tech)
 
 Vidéo Pick&amp;Place
@@ -91,13 +91,13 @@ dire que ce travail demande une forte compétence technique. N'est pas capable
 de souder ou modifier du CMS qui veut !
 
 [![Reprise et retouche
-manuelle](http://fablablannion.github.io/images/IMG_20131001_142143-150x150.jpg)](http://fablab-
+manuelle](https://static.fablab-lannion.org/IMG_20131001_142143-150x150.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/10/IMG_20131001_142143.jpg)
 
 Reprise et retouche manuelle
 
 [![Installation des composants
-traversants](http://fablablannion.github.io/images/IMG_20131001_141724-150x150.jpg)](http://fablab-
+traversants](https://static.fablab-lannion.org/IMG_20131001_141724-150x150.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/10/IMG_20131001_141724.jpg)
 
 Installation des composants traversants
@@ -107,7 +107,7 @@ le vieillissement en étuve. Bien entendu, les cartes sont aussi testées
 fonctionnellement suivant les spécifications demandées.
 
 [![Banc de
-tests](http://fablablannion.github.io/images/IMG_20131001_142804-150x150.jpg)](http://fablab-
+tests](https://static.fablab-lannion.org/IMG_20131001_142804-150x150.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/10/IMG_20131001_142804.jpg)
 
 Banc de tests
@@ -117,7 +117,7 @@ sommes impressionnés par les deux machines à vague permettant de souder
 automatiquement les composants traversants.
 
 [![Machine à
-vague](http://fablablannion.github.io/images/IMG_20131001_144714-150x150.jpg)](http://fablab-
+vague](https://static.fablab-lannion.org/IMG_20131001_144714-150x150.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/10/IMG_20131001_144714.jpg)
 
 Machine à vague
@@ -127,7 +127,7 @@ nous présentons le concept de Fablab et nos particularités aux salariés
 d'Euro-Process.
 
 [![Vue de
-l'atelier](http://fablablannion.github.io/images/PANO_20131001_140832-300x64.jpg)](http://fablab-
+l'atelier](https://static.fablab-lannion.org/PANO_20131001_140832-300x64.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/10/PANO_20131001_140832.jpg)
 
 Vue de l'atelier

@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/47bb95d605c88f1038bd415412814eae?s
 author_fullname: Yann
 author: yann
 tags: Mis en avant
-feature: http://fablablannion.github.io/images/cnc-machine_fr.jpg
+feature: https://static.fablab-lannion.org/cnc-machine_fr.jpg
 layout: post
 slug: fablab-securite-machines-commande-numerique-cnc
 date: 2013-10-03

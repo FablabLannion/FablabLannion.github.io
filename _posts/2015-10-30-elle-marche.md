@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/CScHdSTWUAAcykm.jpglarge.jpeg
+feature: https://static.fablab-lannion.org/CScHdSTWUAAcykm.jpglarge.jpeg
 layout: post
 slug: elle-marche
 date: 2015-10-30
@@ -13,7 +13,7 @@ comments: True
 Grâce à un peu d'eau, Théo, Claude et les autres, un volcan s'éteint, une
 découpeuse LASER s'éveille…
 
-[![CScHdSTWUAAcykm.jpg:large](http://fablablannion.github.io/images/CScHdSTWUAAcykm.jpglarge-1024x576.jpeg)](http://fablab-
+[![CScHdSTWUAAcykm.jpg:large](https://static.fablab-lannion.org/CScHdSTWUAAcykm.jpglarge-1024x576.jpeg)](http://fablab-
 lannion.org/wp-content/uploads/2015/10/CScHdSTWUAAcykm.jpglarge.jpeg)
 
 

@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: []
-feature: http://fablablannion.github.io/images/cyb-santa-claus-2400px.png
+feature: https://static.fablab-lannion.org/cyb-santa-claus-2400px.png
 layout: post
 slug: un-samedi-au-fablab-pour-bien-preparer-noel
 date: 2015-12-04
@@ -14,7 +14,7 @@ Samedis du fablab acte III, après les Legos, après la soudure à l'arc, le
 fablab se transforme en annexe de l'atelier des lutins du Père Noël.
 
 [![Gingerbread-Xmas-
-Set-2400px](http://fablablannion.github.io/images/Gingerbread-Xmas-
+Set-2400px](https://static.fablab-lannion.org/Gingerbread-Xmas-
 Set-2400px-1024x813.png)](http://fablab-lannion.org/wp-
 content/uploads/2015/11/Gingerbread-Xmas-Set-2400px.png)
 
@@ -36,6 +36,6 @@ contact@fablab-lannion.org.
 
 Le FabLab est soutenu par
 
-[![fondation_fr_quadri](http://fablablannion.github.io/images/fondation_fr_quadri.jpg)](http://www.fondationorange.com/)
+[![fondation_fr_quadri](https://static.fablab-lannion.org/fondation_fr_quadri.jpg)](http://www.fondationorange.com/)
 
 

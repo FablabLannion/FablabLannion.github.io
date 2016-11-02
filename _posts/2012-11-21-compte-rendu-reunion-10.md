@@ -3,14 +3,14 @@ author_gravatar: http://2.gravatar.com/avatar/29020340fd48c04adad04976cb909b4f?s
 author_fullname: Jérôme Labidurie
 author: jerome
 tags: Compte Rendu réunion
-feature: http://fablablannion.github.io/images/Reunion10.jpg
+feature: https://static.fablab-lannion.org/Reunion10.jpg
 layout: post
 slug: compte-rendu-reunion-10
 date: 2012-11-21
 title: "<!--:fr-->Compte rendu réunion #10<!--:-->"
 comments: True
 ---
-[![](http://fablablannion.github.io/images/Reunion10-300x225.jpg)](http://fablab-
+[![](https://static.fablab-lannion.org/Reunion10-300x225.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2012/11/Reunion10.jpg)
 
 Bonjour,

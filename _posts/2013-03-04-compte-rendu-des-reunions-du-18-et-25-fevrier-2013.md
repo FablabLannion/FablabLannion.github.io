@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/d6cd7628bc242b87449712f0fef53924?s
 author_fullname: David Blaisonneau
 author: david-blaisonneau
 tags: Compte Rendu réunion
-feature: http://fablablannion.github.io/images/logoSeul-300x300.jpg
+feature: https://static.fablab-lannion.org/logoSeul-300x300.jpg
 layout: post
 slug: compte-rendu-des-reunions-du-18-et-25-fevrier-2013
 date: 2013-03-04
@@ -29,7 +29,7 @@ crayon de l'Illustrabot et bricoler pour le lève crayon).
 
 ## Partenariats
 
-  * [![IMG_4307](http://fablablannion.github.io/images/IMG_4307-150x150.jpg)](http://fablab-lannion.org/wp-content/uploads/2013/02/IMG_4307.jpg)Partenariat avec les Bell Labs: Les cadeaux du Bell Labs sont arrivés: 1 Kinect, 1 Raspberry Pi, des Arduino, des Led…, et d'autres colis devraient suivre pour d'autres expérimentations autour du LTE.
+  * [![IMG_4307](https://static.fablab-lannion.org/IMG_4307-150x150.jpg)](http://fablab-lannion.org/wp-content/uploads/2013/02/IMG_4307.jpg)Partenariat avec les Bell Labs: Les cadeaux du Bell Labs sont arrivés: 1 Kinect, 1 Raspberry Pi, des Arduino, des Led…, et d'autres colis devraient suivre pour d'autres expérimentations autour du LTE.
   * Alcatel: Une demande de récupération de portables HP déclassés a été faite.
   * Orange Labs: 
     * Accord de principe sur une subvention financière et matérielle (équipements télécoms, matériel en reclassement).

@@ -3,7 +3,7 @@ author_gravatar: http://2.gravatar.com/avatar/29020340fd48c04adad04976cb909b4f?s
 author_fullname: Jérôme Labidurie
 author: jerome
 tags: Actualité
-feature: http://fablablannion.github.io/images/aiga-elevator-e1475518529290.png
+feature: https://static.fablab-lannion.org/aiga-elevator-e1475518529290.png
 layout: post
 slug: formation-elevator-pitch
 date: 2016-10-02

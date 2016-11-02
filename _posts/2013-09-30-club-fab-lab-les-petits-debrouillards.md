@@ -3,16 +3,16 @@ author_gravatar: http://2.gravatar.com/avatar/2c46b82b58bc4450c49fe66569d4c421?s
 author_fullname: Nicolas Serre
 author: nico
 tags: Actualité
-feature: http://fablablannion.github.io/images/Photo-0034.jpg
+feature: https://static.fablab-lannion.org/Photo-0034.jpg
 layout: post
 slug: club-fab-lab-les-petits-debrouillards
 date: 2013-09-30
 title: "Club Fab Lab et Les Petits Débrouillards"
 comments: True
 ---
-[![Photo-0032](http://fablablannion.github.io/images/Photo-0032-300x225.jpg)](http://fablab-
+[![Photo-0032](https://static.fablab-lannion.org/Photo-0032-300x225.jpg)](http://fablab-
 lannion.org/wp-
-content/uploads/2013/09/Photo-0032.jpg)[![Photo-0034](http://fablablannion.github.io/images/Photo-0034-300x225.jpg)](http://fablab-
+content/uploads/2013/09/Photo-0032.jpg)[![Photo-0034](https://static.fablab-lannion.org/Photo-0034-300x225.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/09/Photo-0034.jpg)
 
 

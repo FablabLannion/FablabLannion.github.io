@@ -3,7 +3,7 @@ author_gravatar: http://2.gravatar.com/avatar/29020340fd48c04adad04976cb909b4f?s
 author_fullname: Jérôme Labidurie
 author: jerome
 tags: Actualité
-feature: http://fablablannion.github.io/images/index.jpeg
+feature: https://static.fablab-lannion.org/index.jpeg
 layout: post
 slug: nouvelle-annee-2014
 date: 2014-01-10
@@ -12,7 +12,7 @@ comments: True
 ---
 Avec cette nouvelle année, la formule des réunions hebdomadaires du lundi
 évolue un
-peu.[![index](http://fablablannion.github.io/images/index-150x150.jpeg)](http://fablab-
+peu.[![index](https://static.fablab-lannion.org/index-150x150.jpeg)](http://fablab-
 lannion.org/wp-content/uploads/2013/10/index.jpeg)
 
 Le changement principal, déjà entamé en fin d'année dernière, est la migration

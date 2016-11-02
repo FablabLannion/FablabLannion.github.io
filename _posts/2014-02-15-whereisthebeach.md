@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/WhereIsTheBeach2.png
+feature: https://static.fablab-lannion.org/WhereIsTheBeach2.png
 layout: post
 slug: whereisthebeach
 date: 2014-02-15

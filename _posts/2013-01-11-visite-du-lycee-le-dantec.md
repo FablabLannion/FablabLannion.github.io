@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: []
-feature: http://fablablannion.github.io/images/LD5.jpg
+feature: https://static.fablab-lannion.org/LD5.jpg
 layout: post
 slug: visite-du-lycee-le-dantec
 date: 2013-01-11
@@ -17,7 +17,7 @@ Le bureau retourne à l'école pour la bonne cause.
 Nous avons eu en effet la chance et l'opportunité de découvrir le lycée Le
 Dantec.
 
-[![SAMSUNG](http://fablablannion.github.io/images/LD5-300x225.jpg)](http://fablab-
+[![SAMSUNG](https://static.fablab-lannion.org/LD5-300x225.jpg)](http://fablab-
 lannion.org/2013/01/visite-du-lycee-le-dantec/samsung-4/)
 
 Paradoxalement, on avait constaté lors de la réunion hebdomadaire que, sur les
@@ -27,7 +27,7 @@ Lannionais, donc petite séance de rattrapage ce mardi pour le bureau.
 Nous avons pu constater que le lycée technique possède un super cadre: de
 l'espace et une variété de belles machines.
 
-[![SAMSUNG](http://fablablannion.github.io/images/LD7-300x225.jpg)](http://fablab-
+[![SAMSUNG](https://static.fablab-lannion.org/LD7-300x225.jpg)](http://fablab-
 lannion.org/2013/01/visite-du-lycee-le-dantec/samsung-3/)
 
 En fait toutes les machines qui font un fablab (fraiseuse CNC, imprimante 3D,
@@ -40,7 +40,7 @@ faire quelque chose qui se rapproche mais c'est pas gagné. La qualité de
 l'impression est vraiment bluffante. On a pu voir une clé à molette
 imprimée..avec les molettes qui fonctionnent….
 
-[![SAMSUNG](http://fablablannion.github.io/images/LD10-300x225.jpg)](http://fablab-
+[![SAMSUNG](https://static.fablab-lannion.org/LD10-300x225.jpg)](http://fablab-
 lannion.org/2013/01/visite-du-lycee-le-dantec/samsung-5/)
 
 On a pu aussi visiter la salle de modélisation 3D; les machines sont à la

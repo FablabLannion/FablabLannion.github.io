@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: arduino
-feature: http://fablablannion.github.io/images/P1070203.jpg
+feature: https://static.fablab-lannion.org/P1070203.jpg
 layout: post
 slug: illustrabot-quand-les-fils-sen-melent
 date: 2013-02-13
@@ -15,7 +15,7 @@ L'horaire de fin des plus téméraires fut peu raisonnable mais a permis
 d'avancer de manière significative. The nouvelle of the soirée est que tout
 marche ..plus ou moins unitairement…y compris le robot!  
 
-[![P1070207](http://fablablannion.github.io/images/P1070207-300x225.jpg)](http://fablab-
+[![P1070207](https://static.fablab-lannion.org/P1070207-300x225.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/02/P1070207.jpg)Il y a encore du travail,
 et pas qu'un peu, mais on peut noter quand même, non sans satisfaction que le
 projet collaboratif est dans la bonne voie. De nouvelles têtes sont d'ailleurs
@@ -37,12 +37,12 @@ reprap), [@vbarreaud](http://fablab-lannion.org/membres/vbarreaud/),
 
 Que les oubliés m'excusent et n'hésitent pas à faire connaître leur avatar..
 
-[![fablab](http://fablablannion.github.io/images/fablab-200x300.jpg)](http://fablab-
+[![fablab](https://static.fablab-lannion.org/fablab-200x300.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/02/fablab.jpg)
 
 Mais revenons un peu sur le robot made in [@jerome](http://fablab-
 lannion.org/membres/jerome/), "et en plus il
-trace!".[![P1070205-1024x684-2](http://fablablannion.github.io/images/P1070205-1024x684-2-200x300.jpg)](http://fablab-
+trace!".[![P1070205-1024x684-2](https://static.fablab-lannion.org/P1070205-1024x684-2-200x300.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/02/P1070205-1024x684-2.jpg) L'arduino
 pilote 2 moteurs qui permettent de tracer des figures. Après un timide mais
 régulier carré, Jérôme a osé le cube, promesse d'arabesques printanières.
@@ -79,7 +79,7 @@ led) d'une droite de 2m à 1m du sol.
 Opération réussie, on voit la trace des leds grâce à la pause longue de
 l'appareil photo
 
-[![IMG_0153](http://fablablannion.github.io/images/IMG_0153-300x200.png)](http://fablab-
+[![IMG_0153](https://static.fablab-lannion.org/IMG_0153-300x200.png)](http://fablab-
 lannion.org/wp-content/uploads/2013/02/IMG_0153.png)
 
 mais il va falloir ruser, le drone utilise sa caméra pour se caller et a donc

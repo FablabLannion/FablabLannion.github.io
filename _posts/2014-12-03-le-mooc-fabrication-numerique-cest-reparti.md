@@ -3,14 +3,14 @@ author_gravatar: http://1.gravatar.com/avatar/47bb95d605c88f1038bd415412814eae?s
 author_fullname: Yann
 author: yann
 tags: []
-feature: http://fablablannion.github.io/images/moocfab.png
+feature: https://static.fablab-lannion.org/moocfab.png
 layout: post
 slug: le-mooc-fabrication-numerique-cest-reparti
 date: 2014-12-03
 title: "Le MOOC Fabrication Numérique, c&#8217;est reparti !"
 comments: True
 ---
-[![moocfab](http://fablablannion.github.io/images/moocfab-300x97.png)](http://fablab-
+[![moocfab](https://static.fablab-lannion.org/moocfab-300x97.png)](http://fablab-
 lannion.org/wp-content/uploads/2014/12/moocfab.png)  
 **Vous souhaitez vous initier à la fabrication numérique ? Vous vibrez à La seule idée d'apprendre des tas de choses sur l'électronique, la programmation Arduino, le design, l'internet des objets, la modélisation 2D/3D, et les imprimantes 3D ?**
 

@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/Helib1.png
+feature: https://static.fablab-lannion.org/Helib1.png
 layout: post
 slug: helibroute-premier-laureat-adonnantes
 date: 2014-03-31
@@ -30,7 +30,7 @@ Plusieurs critères ont donc été pris en compte: l'originalité, le potentiel,
 le nombre de personnes mobilisables. Chaque membre du CA pouvait attribuer 9,
 6 ou 3 points.
 
-[![20140331_131353](http://fablablannion.github.io/images/20140331_131353-1024x768.jpg)](http://fablab-
+[![20140331_131353](https://static.fablab-lannion.org/20140331_131353-1024x768.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2014/03/20140331_131353.jpg)Le lauréat de cette
 première édition est de saison puisqu'il s'agit d'Hélibroute, le robot
 tondeuse avec 72 points contre 45 pour Dolly, 36 pour CableCam et 0 pour

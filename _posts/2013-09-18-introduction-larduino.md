@@ -3,14 +3,14 @@ author_gravatar: http://2.gravatar.com/avatar/29020340fd48c04adad04976cb909b4f?s
 author_fullname: Jérôme Labidurie
 author: jerome
 tags: arduino
-feature: http://fablablannion.github.io/images/arduino01_3.jpg
+feature: https://static.fablab-lannion.org/arduino01_3.jpg
 layout: post
 slug: introduction-larduino
 date: 2013-09-18
 title: "Introduction à l&#8217;Arduino"
 comments: True
 ---
-[![arduino01_3](http://fablablannion.github.io/images/arduino01_3-150x150.jpg)](http://fablab-
+[![arduino01_3](https://static.fablab-lannion.org/arduino01_3-150x150.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/09/arduino01_3.jpg)Beau succès pour cette
 1ère présentation conjointe entre le Fablab et [Code
 d'Armor](http://codedarmor.fr/). En effet, ce sont prêt de 60 personnes qui
@@ -19,7 +19,7 @@ sont venues découvrir ce qu'était l'Arduino et ce que l'on pouvait en faire.
 La présentation associait un peu de théorie avec des démonstrations en direct
 (incroyable, tout a fonctionné du 1er coup!). Le tout suivi de
 questions/réponses qui se sont prolongées autour des pizzas de
-l'organisation.[![arduino01_2](http://fablablannion.github.io/images/arduino01_2-150x150.jpg)](http://fablab-
+l'organisation.[![arduino01_2](https://static.fablab-lannion.org/arduino01_2-150x150.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/09/arduino01_2.jpg)
 
 L'objectif : l'**Arduino c'est à la portée de tout le monde** me semble

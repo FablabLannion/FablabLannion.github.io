@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/47bb95d605c88f1038bd415412814eae?s
 author_fullname: Yann
 author: yann
 tags: Vie de l'association
-feature: http://fablablannion.github.io/images/twitter_like_button.png
+feature: https://static.fablab-lannion.org/twitter_like_button.png
 layout: post
 slug: retrouvez-nous-sur-les-reseaux-sociaux
 date: 2013-01-10

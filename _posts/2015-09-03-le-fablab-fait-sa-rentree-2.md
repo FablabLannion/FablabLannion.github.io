@@ -10,7 +10,7 @@ title: "Le fablab fait sa rentrée !"
 comments: True
 ---
 [![stockvault-school-
-supplies109181](http://fablablannion.github.io/images/stockvault-school-
+supplies109181](https://static.fablab-lannion.org/stockvault-school-
 supplies109181-300x200.jpg)](http://fablab-lannion.org/wp-
 content/uploads/2015/09/stockvault-school-supplies109181.jpg)
 
@@ -33,7 +33,7 @@ Les projets du FabLab suivent leur cours, par exemple la découpeuse Laser
 lannion.org/wiki/index.php?title=D%C3%A9coupeuse_laser_DIY) ou le Kart
 électrique DAFY01 qu'on verra bientôt sur les circuits.
 
-[![upload_-1](http://fablablannion.github.io/images/upload_-11-169x300.jpg)](http://fablab-
+[![upload_-1](https://static.fablab-lannion.org/upload_-11-169x300.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2015/09/upload_-11.jpg)Le kart en toute
 sécurité par Fred
 

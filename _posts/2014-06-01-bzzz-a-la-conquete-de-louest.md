@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/DSCN9168.jpg
+feature: https://static.fablab-lannion.org/DSCN9168.jpg
 layout: post
 slug: bzzz-a-la-conquete-de-louest
 date: 2014-06-01
@@ -18,7 +18,7 @@ l'île d'Ouessant sur une vraie ruche avec de vraies abeilles.
 Toute la partie mécanique à base du système de pesée par pomme-potes made in
 Anatole est donc en place à quelques encablures du phare du Créac'h.
 
-[![DSCN9168](http://fablablannion.github.io/images/DSCN9168-1024x768.jpg)](http://fablab-
+[![DSCN9168](https://static.fablab-lannion.org/DSCN9168-1024x768.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2014/06/DSCN9168.jpg)
 
 L'expédition sur l'île a conduit Anatole, les élèves et professeurs du Lycée
@@ -35,7 +35,7 @@ sur le sujet 🙂
 
 
 
-[![DSCN9178](http://fablablannion.github.io/images/DSCN9178-1024x738.jpg)](http://fablab-
+[![DSCN9178](https://static.fablab-lannion.org/DSCN9178-1024x738.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2014/06/DSCN9178.jpg) Bref on espère que
 l'abeille ouessantine puisse Bzzziser très bientôt.
 

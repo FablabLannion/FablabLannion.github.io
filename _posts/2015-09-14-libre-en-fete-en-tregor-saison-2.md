@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: []
-feature: http://fablablannion.github.io/images/CAfTlRFWcAEJVm-.jpg
+feature: https://static.fablab-lannion.org/CAfTlRFWcAEJVm-.jpg
 layout: post
 slug: libre-en-fete-en-tregor-saison-2
 date: 2015-09-14

@@ -3,7 +3,7 @@ author_gravatar: http://0.gravatar.com/avatar/6a767bcd26d052496dac0f142243cb82?s
 author_fullname: Nicolas Guédon
 author: pofexpray
 tags: Actualité
-feature: http://fablablannion.github.io/images/IMG_20131002_223030.jpg
+feature: https://static.fablab-lannion.org/IMG_20131002_223030.jpg
 layout: post
 slug: fablab-en-ebullition-beaucoup-projet-en-cours
 date: 2013-10-17
@@ -16,7 +16,7 @@ d'ouvertures connaissent un succès grandissant.
 
 **Nous en profitons pour faire un appel aux bonnes volontés qui souhaitent s'investir dans la réhabilitation des machines déjà disponibles au Labo**. Apprentissage des technologies et du fonctionnement des machines sont au menu.
 
-[![SeanceFabLabLannion](http://fablablannion.github.io/images/IMG_20131002_223030-300x225.jpg)](http://fablab-
+[![SeanceFabLabLannion](https://static.fablab-lannion.org/IMG_20131002_223030-300x225.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/10/IMG_20131002_223030.jpg)
 
 Il y a beaucoup de travail mais cela permettra au FabLab d'être doté de
@@ -98,6 +98,6 @@ du grand public. Nous sommes en train de finaliser le règlement intérieur mais
 nous comptons déjà sur vous pour adhérer et soutenir ce nouvel espace innovant
 sur Lannion.
 
-[![logoFablabLannion129x129](http://fablablannion.github.io/images/logoFablabLannion129x129.png)](http://fablablannion.github.io/images/logoFablabLannion129x129.png)
+[![logoFablabLannion129x129](https://static.fablab-lannion.org/logoFablabLannion129x129.png)](https://static.fablab-lannion.org/logoFablabLannion129x129.png)
 
 

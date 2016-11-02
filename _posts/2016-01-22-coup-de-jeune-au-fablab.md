@@ -13,7 +13,7 @@ Grâce au support de la [fondation Orange](http://www.fondationorange.com/), le
 fablab va proposer une série de rencontres "Junior" tout au long du premier
 semestre 2016.
 
-[![20150325_185017](http://fablablannion.github.io/images/20150325_185017-1024x576.jpg)](http://fablab-
+[![20150325_185017](https://static.fablab-lannion.org/20150325_185017-1024x576.jpg)](http://fablab-
 lannion.org/2015/04/petit-retour-sur-la-semaine-du-libre/20150325_185017/)
 
 Le but est de faire découvrir à un jeune public notre fablab et nos machines
@@ -34,7 +34,7 @@ des descriptifs seront proposés à certaines écoles (identifiées comme
 prioritaires sur le développement numérique). Un système de réservation sera
 mis en place via le web 15 jours avant chaque événement.
 
-[![Photo-0034](http://fablablannion.github.io/images/Photo-0034-1024x768.jpg)](http://fablab-
+[![Photo-0034](https://static.fablab-lannion.org/Photo-0034-1024x768.jpg)](http://fablab-
 lannion.org/2013/09/club-fab-lab-les-petits-debrouillards/photo-0034/)
 
 Les petits robots réalisés lors de la session robotique, les objets fabriqués
@@ -46,7 +46,7 @@ robotique seront mis à disposition des animateurs pour la réalisation des TAP
 en école primaire.
 
 Le Fablab est soutenu par
-[![fondation_fr_quadri](http://fablablannion.github.io/images/fondation_fr_quadri.jpg)](http://fablab-
+[![fondation_fr_quadri](https://static.fablab-lannion.org/fondation_fr_quadri.jpg)](http://fablab-
 lannion.org/2015/12/un-samedi-au-fablab-pour-bien-preparer-
 noel/fondation_fr_quadri/)
 

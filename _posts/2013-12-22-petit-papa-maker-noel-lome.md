@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Mis en avant
-feature: http://fablablannion.github.io/images/bootwoecamp.jpg
+feature: https://static.fablab-lannion.org/bootwoecamp.jpg
 layout: post
 slug: petit-papa-maker-noel-lome
 date: 2013-12-22
@@ -13,7 +13,7 @@ comments: True
 Dans sa hotte cette année, le papa maker Noël a mis un prometteur BootWoeCamp
 à Lomé.
 
-[![bootwoecamp](http://fablablannion.github.io/images/bootwoecamp.jpg)](http://fablablannion.github.io/images/bootwoecamp.jpg)
+[![bootwoecamp](https://static.fablab-lannion.org/bootwoecamp.jpg)](https://static.fablab-lannion.org/bootwoecamp.jpg)
 
 
 

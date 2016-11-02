@@ -3,7 +3,7 @@ author_gravatar: http://2.gravatar.com/avatar/29020340fd48c04adad04976cb909b4f?s
 author_fullname: Jérôme Labidurie
 author: jerome
 tags: Compte Rendu réunion
-feature: http://fablablannion.github.io/images/20130114_134744.jpg
+feature: https://static.fablab-lannion.org/20130114_134744.jpg
 layout: post
 slug: compte-rendu-de-la-reunion-du-14-janvier-2013
 date: 2013-01-15
@@ -12,7 +12,7 @@ comments: True
 ---
 Ce ne sont pas moins de 18 personnes qui se sont retrouvées pour notre réunion
 hebdomadaire. Parmi celles-ci, 3 nouveaux se sont présentés
-:[![20130114_134744](http://fablablannion.github.io/images/20130114_134744-300x225.jpg)](http://fablab-
+:[![20130114_134744](https://static.fablab-lannion.org/20130114_134744-300x225.jpg)](http://fablab-
 lannion.org/2013/01/compte-rendu-de-la-reunion-
 du-14-janvier-2013/20130114_134744/)
 

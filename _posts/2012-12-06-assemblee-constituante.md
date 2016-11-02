@@ -3,7 +3,7 @@ author_gravatar: http://2.gravatar.com/avatar/29020340fd48c04adad04976cb909b4f?s
 author_fullname: Jérôme Labidurie
 author: jerome
 tags: Compte Rendu réunion
-feature: http://fablablannion.github.io/images/FABLAB2.jpg
+feature: https://static.fablab-lannion.org/FABLAB2.jpg
 layout: post
 slug: assemblee-constituante
 date: 2012-12-06
@@ -28,7 +28,7 @@ réunion, lundi 10/12 à l'ADIT.
 
 Le CA/bureau élu est composé de:
 
-[![](http://fablablannion.github.io/images/FABLAB2-300x200.jpg)](http://fablab-
+[![](https://static.fablab-lannion.org/FABLAB2-300x200.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2012/12/FABLAB2.jpg)
 
 Photo de "Le Telegramme"

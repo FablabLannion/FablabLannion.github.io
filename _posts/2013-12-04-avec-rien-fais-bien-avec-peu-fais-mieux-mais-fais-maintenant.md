@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/1441368_648242858559804_2092244904_n.jpg
+feature: https://static.fablab-lannion.org/1441368_648242858559804_2092244904_n.jpg
 layout: post
 slug: avec-rien-fais-bien-avec-peu-fais-mieux-mais-fais-maintenant
 date: 2013-12-04
@@ -29,7 +29,7 @@ FabLabs/159514010814943?fref=ts) (Burkina), qui connaît Yvon et qui
 connaissait le Fablab Lannion via la vidéo sur l'éolienne de Laurent a
 construit sa propre éolienne Pigott à Ouagadougou.
 
-[![1441368_648242858559804_2092244904_n](http://fablablannion.github.io/images/1441368_648242858559804_2092244904_n.jpg)](http://fablablannion.github.io/images/1441368_648242858559804_2092244904_n.jpg)[![1450196_680524678638032_722555012_n](http://fablablannion.github.io/images/1450196_680524678638032_722555012_n.jpg)](http://fablablannion.github.io/images/1450196_680524678638032_722555012_n.jpg)
+[![1441368_648242858559804_2092244904_n](https://static.fablab-lannion.org/1441368_648242858559804_2092244904_n.jpg)](https://static.fablab-lannion.org/1441368_648242858559804_2092244904_n.jpg)[![1450196_680524678638032_722555012_n](https://static.fablab-lannion.org/1450196_680524678638032_722555012_n.jpg)](https://static.fablab-lannion.org/1450196_680524678638032_722555012_n.jpg)
 
 Le WɔɛLab de Lomé, qui a soutenu la candidature à l'appel à projet du fablab
 de Lannion, était également bien représenté avec notamment la W.Afate,

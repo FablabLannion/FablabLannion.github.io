@@ -3,7 +3,7 @@ author_gravatar: http://2.gravatar.com/avatar/29020340fd48c04adad04976cb909b4f?s
 author_fullname: Jérôme Labidurie
 author: jerome
 tags: Bzzz
-feature: http://fablablannion.github.io/images/20130704_130433.jpg
+feature: https://static.fablab-lannion.org/20130704_130433.jpg
 layout: post
 slug: bzzz-bientot-pret-pour-les-bees
 date: 2013-07-04
@@ -14,7 +14,7 @@ Le prototype de suivit des ruches avance très nettement !
 
 Hier soir quelques tests de pesée ont eu lieu.
 
-[![20130703_234206](http://fablablannion.github.io/images/20130703_234206-225x300.jpg)](http://fablab-
+[![20130703_234206](https://static.fablab-lannion.org/20130703_234206-225x300.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/07/20130703_234206.jpg)Incroyable ce que
 l'on peut réaliser avec quelques appareils de mesure 😉
 
@@ -26,7 +26,7 @@ Ce test d'une durée prévue d'une semaine va nous permettre de vérifier la
 réaction du capteur aux éléments perturbateurs que l'on trouve dans un milieu
 (presque) naturel : vent, pluie, soleil et autres phénomènes rares.
 
-[![20130704_130433](http://fablablannion.github.io/images/20130704_130433-300x225.jpg)](http://fablab-
+[![20130704_130433](https://static.fablab-lannion.org/20130704_130433-300x225.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/07/20130704_130433.jpg)
 
 À bientôt pour de nouvelles aventures !

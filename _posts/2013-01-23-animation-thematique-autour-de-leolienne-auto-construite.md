@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: []
-feature: http://fablablannion.github.io/images/etest8.jpg
+feature: https://static.fablab-lannion.org/etest8.jpg
 layout: post
 slug: animation-thematique-autour-de-leolienne-auto-construite
 date: 2013-01-23

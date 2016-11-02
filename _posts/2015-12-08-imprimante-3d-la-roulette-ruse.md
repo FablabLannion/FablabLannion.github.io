@@ -3,7 +3,7 @@ author_gravatar: http://0.gravatar.com/avatar/343d3f84aca2865b6af1ca90c66c6a42?s
 author_fullname: Laurent Aubertin
 author: laurenta
 tags: []
-feature: http://fablablannion.github.io/images/Roulettes3D.jpg
+feature: https://static.fablab-lannion.org/Roulettes3D.jpg
 layout: post
 slug: imprimante-3d-la-roulette-ruse
 date: 2015-12-08
@@ -35,6 +35,6 @@ La modélisation au format freecad est disponible [ici](http://fablab-
 lannion.org:8080/wiki/index.php?title=Fichier:RouletteV5.zip).
 
 ![Nouvelle et ancienne
-roulettes](http://fablablannion.github.io/images/Roulettes3D.jpg)
+roulettes](https://static.fablab-lannion.org/Roulettes3D.jpg)
 
 

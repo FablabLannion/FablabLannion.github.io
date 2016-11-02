@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/fablab-Noël.jpg
+feature: https://static.fablab-lannion.org/fablab-Noël.jpg
 layout: post
 slug: samedi-du-fablab-special-noel
 date: 2015-12-13

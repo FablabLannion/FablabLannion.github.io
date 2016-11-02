@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/eole-souffle1.png
+feature: https://static.fablab-lannion.org/eole-souffle1.png
 layout: post
 slug: les-adonnantes-rappel
 date: 2014-03-17

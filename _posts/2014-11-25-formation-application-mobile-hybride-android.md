@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/d04670b347e106df6309c4a3235f00b9?s
 author_fullname: Tangi Lavanant
 author: tangi
 tags: Formation
-feature: http://fablablannion.github.io/images/Hybrid_Apps1.jpg
+feature: https://static.fablab-lannion.org/Hybrid_Apps1.jpg
 layout: post
 slug: formation-application-mobile-hybride-android
 date: 2014-11-25

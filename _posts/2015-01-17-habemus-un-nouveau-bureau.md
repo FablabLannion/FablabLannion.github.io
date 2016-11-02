@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/B7V2J08CAAEaTVP.jpg
+feature: https://static.fablab-lannion.org/B7V2J08CAAEaTVP.jpg
 layout: post
 slug: habemus-un-nouveau-bureau
 date: 2015-01-17
@@ -39,7 +39,7 @@ Bref un fablab bien dans ses baskets, à taille humaine qui ne demande qu'à
 être corrompu par des subventions publiques indécentes ou pas. Cette bonne
 ambiance n'a pas empêché un petit renouvellement des cadres.
 
-[![B7V2J08CAAEaTVP](http://fablablannion.github.io/images/B7V2J08CAAEaTVP.jpg)](http://fablablannion.github.io/images/B7V2J08CAAEaTVP.jpg)Ainsi
+[![B7V2J08CAAEaTVP](https://static.fablab-lannion.org/B7V2J08CAAEaTVP.jpg)](https://static.fablab-lannion.org/B7V2J08CAAEaTVP.jpg)Ainsi
 les excellents galilabeurs Cédric et Jérôme ont passé le carnet de chèque, le
 crayon et la main à David et Tangi. Un grand merci à eux, ils entrent
 directement (et sans passer par la case départ ni recevoir 20.000) dans le

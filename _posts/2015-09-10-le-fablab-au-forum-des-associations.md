@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: []
-feature: http://fablablannion.github.io/images/upload_-12.jpg
+feature: https://static.fablab-lannion.org/upload_-12.jpg
 layout: post
 slug: le-fablab-au-forum-des-associations
 date: 2015-09-10

@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/1522287_443079422460714_1747593952_n.jpg
+feature: https://static.fablab-lannion.org/1522287_443079422460714_1747593952_n.jpg
 layout: post
 slug: innovlannion-rencontre-5-au-fablab
 date: 2014-02-19

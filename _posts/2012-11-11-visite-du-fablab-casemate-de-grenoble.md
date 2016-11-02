@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/d6cd7628bc242b87449712f0fef53924?s
 author_fullname: David Blaisonneau
 author: david-blaisonneau
 tags: ["'visite fablab'"]
-feature: http://fablablannion.github.io/images/IMG_20121108_181519.jpg
+feature: https://static.fablab-lannion.org/IMG_20121108_181519.jpg
 layout: post
 slug: visite-du-fablab-casemate-de-grenoble
 date: 2012-11-11

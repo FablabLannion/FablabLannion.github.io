@@ -3,7 +3,7 @@ author_gravatar: http://2.gravatar.com/avatar/29020340fd48c04adad04976cb909b4f?s
 author_fullname: Jérôme Labidurie
 author: jerome
 tags: Actualité
-feature: http://fablablannion.github.io/images/IMG_20131013_162338.jpg
+feature: https://static.fablab-lannion.org/IMG_20131013_162338.jpg
 layout: post
 slug: fete-science-encore-beau-succes
 date: 2013-10-21
@@ -24,7 +24,7 @@ Corinne Erhel qui nous a même
 [twittés](https://twitter.com/c_erhel_deputee/status/389054247062347776)
 
 [![Beaucoup d'intérêt pour
-l'imprimante.](http://fablablannion.github.io/images/IMG_20131013_162338-300x225.jpg)](http://fablab-
+l'imprimante.](https://static.fablab-lannion.org/IMG_20131013_162338-300x225.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/10/IMG_20131013_162338.jpg)
 
 Beaucoup d'intérêt pour l'imprimante.
@@ -52,11 +52,11 @@ elle a repris le travail depuis et est à nouveau fonctionnelle).
 Bref, beaucoup de contacts et de découverte pour les visiteurs. Une action à
 renouveler l'an prochain.
 
-[![IMG_20131013_174936](http://fablablannion.github.io/images/IMG_20131013_174936-150x150.jpg)](http://fablab-
+[![IMG_20131013_174936](https://static.fablab-lannion.org/IMG_20131013_174936-150x150.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/10/IMG_20131013_174936.jpg)
-[![cerhel](http://fablablannion.github.io/images/cerhel-150x150.jpg)](http://fablab-
+[![cerhel](https://static.fablab-lannion.org/cerhel-150x150.jpg)](http://fablab-
 lannion.org/wp-
-content/uploads/2013/10/cerhel.jpg)[![IMG_20131013_175055](http://fablablannion.github.io/images/IMG_20131013_175055-150x150.jpg)](http://fablab-
+content/uploads/2013/10/cerhel.jpg)[![IMG_20131013_175055](https://static.fablab-lannion.org/IMG_20131013_175055-150x150.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/10/IMG_20131013_175055.jpg)
 
 Merci à ceux qui ont assuré les permanences ([@pofexpray](http://fablab-

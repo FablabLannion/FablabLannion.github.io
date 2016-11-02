@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/47bb95d605c88f1038bd415412814eae?s
 author_fullname: Yann
 author: yann
 tags: []
-feature: http://fablablannion.github.io/images/christmas1.jpg
+feature: https://static.fablab-lannion.org/christmas1.jpg
 layout: post
 slug: une-petite-pause-pour-les-fetes-de-fin-d-annee
 date: 2012-12-21

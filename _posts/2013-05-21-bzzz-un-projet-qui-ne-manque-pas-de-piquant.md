@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: []
-feature: http://fablablannion.github.io/images/800px-Bzzz-logo_fond_blanc.jpg
+feature: https://static.fablab-lannion.org/800px-Bzzz-logo_fond_blanc.jpg
 layout: post
 slug: bzzz-un-projet-qui-ne-manque-pas-de-piquant
 date: 2013-05-21
@@ -19,7 +19,7 @@ d'un kit de suivi des ruches.
 
 on peut résumer tout ça sous le schéma suivant:
 
-[![Bzzz](http://fablablannion.github.io/images/Bzzz-1024x599.png)](http://fablab-
+[![Bzzz](https://static.fablab-lannion.org/Bzzz-1024x599.png)](http://fablab-
 lannion.org/wp-content/uploads/2013/05/Bzzz.png)
 
 Comme pour l'Illustrabot, le projet nécessite l'intégration de divers éléments

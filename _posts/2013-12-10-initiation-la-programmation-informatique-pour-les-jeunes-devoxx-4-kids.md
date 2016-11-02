@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/ae240ab5523214b3f4fad6717028461f?s
 author_fullname: Yvon Guillot
 author: yvon
 tags: []
-feature: http://fablablannion.github.io/images/Devoxx2013.jpg
+feature: https://static.fablab-lannion.org/Devoxx2013.jpg
 layout: post
 slug: initiation-la-programmation-informatique-pour-les-jeunes-devoxx-4-kids
 date: 2013-12-10
@@ -16,7 +16,7 @@ les locaux du FabLab, pour proposer un atelier gratuit sur le thème de
 l'initiation à la programmation informatique : Devoxx 4 Kids.
 
 [![Initiation à la programmation au FabLab avec Code d'Armor et les petits
-débrouillards](http://fablablannion.github.io/images/Devoxx2013-300x225.jpg)](http://fablab-
+débrouillards](https://static.fablab-lannion.org/Devoxx2013-300x225.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/12/Devoxx2013.jpg)
 
 Le Devoxx est un salon européen annuel, qui regroupe des passionnés

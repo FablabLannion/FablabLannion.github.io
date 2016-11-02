@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/d6cd7628bc242b87449712f0fef53924?s
 author_fullname: David Blaisonneau
 author: david-blaisonneau
 tags: Formation
-feature: http://fablablannion.github.io/images/unnamed.jpg
+feature: https://static.fablab-lannion.org/unnamed.jpg
 layout: post
 slug: soudure-a-larc
 date: 2015-11-17
@@ -16,7 +16,7 @@ technology shop here redesigned the inside of the truck to increase the
 capacity from two to six transfer cases. Airman Trammell is assigned to the
 436th Equipment Maintenance Squadron. \(U.S. Air Force photo by William M.
 Plate
-Jr.\)](http://fablablannion.github.io/images/GMAW.welding.af_.ncs_-266x300.jpg)](http://fablab-
+Jr.\)](https://static.fablab-lannion.org/GMAW.welding.af_.ncs_-266x300.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2015/11/GMAW.welding.af_.ncs_.jpg)
 
 _"Il n'y a pas que le numérique dans la vie !"_
@@ -28,13 +28,13 @@ l'arc !
 
 
 
-[![GYS_-_MMA_Arc_Welder](http://fablablannion.github.io/images/GYS_-
+[![GYS_-_MMA_Arc_Welder](https://static.fablab-lannion.org/GYS_-
 _MMA_Arc_Welder-150x150.jpg)](http://fablab-lannion.org/wp-
 content/uploads/2015/11/GYS_-_MMA_Arc_Welder.jpg)
 
 
 
-[![arc-88073_640](http://fablablannion.github.io/images/arc-88073_640-300x225.jpg)](http://fablab-
+[![arc-88073_640](https://static.fablab-lannion.org/arc-88073_640-300x225.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2015/11/arc-88073_640.jpg)
 
 
@@ -58,9 +58,9 @@ notre [wiki ](http://fablab-
 lannion.org:8080/wiki/index.php?title=Formation_soudure_%C3%A0_l%27arc)et si
 le besoin se fait sentir vous pourrez bientôt louer le petit poste du Fablab !
 
-[![unnamed](http://fablablannion.github.io/images/unnamed-225x300.jpg)](http://fablab-
+[![unnamed](https://static.fablab-lannion.org/unnamed-225x300.jpg)](http://fablab-
 lannion.org/wp-
-content/uploads/2015/11/unnamed.jpg)[![DSCN8130](http://fablablannion.github.io/images/DSCN8130-225x300.jpg)](http://fablab-
+content/uploads/2015/11/unnamed.jpg)[![DSCN8130](https://static.fablab-lannion.org/DSCN8130-225x300.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2015/11/DSCN8130.jpg)
 
 

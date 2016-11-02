@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/cf18d532-9145-43cd-9f58-cfb5ac55c72b.jpg
+feature: https://static.fablab-lannion.org/cf18d532-9145-43cd-9f58-cfb5ac55c72b.jpg
 layout: post
 slug: kino-donner-seconde-chance-vos-vieux-camescopes
 date: 2014-02-22

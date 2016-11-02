@@ -3,14 +3,14 @@ author_gravatar: http://2.gravatar.com/avatar/29020340fd48c04adad04976cb909b4f?s
 author_fullname: Jérôme Labidurie
 author: jerome
 tags: Actualité
-feature: http://fablablannion.github.io/images/20131218_212416.jpg.jpg
+feature: https://static.fablab-lannion.org/20131218_212416.jpg.jpg
 layout: post
 slug: assemblee-generale-2013
 date: 2013-12-20
 title: "Assemblée Générale 2013"
 comments: True
 ---
-[![AG2013](http://fablablannion.github.io/images/20131218_212416.jpg-150x150.jpg)](http://fablab-
+[![AG2013](https://static.fablab-lannion.org/20131218_212416.jpg-150x150.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/12/20131218_212416.jpg.jpg)Le mercredi 18
 décembre 2013 s'est tenue l'assemblée générale de l'association KerNEL
 porteuse du Fablab de Lannion.
@@ -71,7 +71,7 @@ cette année !
 
 Enfin, les tarifs d'adhésion pour la nouvelle année 2014 ont été débattus puis
 votés (19 voix). Ils sont donc fixés
-à[![AG2013](http://fablablannion.github.io/images/20131218_230923.jpg-150x150.jpg)](http://fablab-
+à[![AG2013](https://static.fablab-lannion.org/20131218_230923.jpg-150x150.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/12/20131218_230923.jpg.jpg)
 
   * normal : 20€

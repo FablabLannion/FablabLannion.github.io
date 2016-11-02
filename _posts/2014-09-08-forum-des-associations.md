@@ -3,7 +3,7 @@ author_gravatar: http://2.gravatar.com/avatar/29020340fd48c04adad04976cb909b4f?s
 author_fullname: Jérôme Labidurie
 author: jerome
 tags: Actualité
-feature: http://fablablannion.github.io/images/Bw2d9SlIIAA3XZm.jpg-large.jpg
+feature: https://static.fablab-lannion.org/Bw2d9SlIIAA3XZm.jpg-large.jpg
 layout: post
 slug: forum-des-associations
 date: 2014-09-08
@@ -11,7 +11,7 @@ title: "Forum des associations"
 comments: True
 ---
 [![David et Cédric \(et la
-prusa\)](http://fablablannion.github.io/images/Bw2BAUFCYAAbb1u.jpg-
+prusa\)](https://static.fablab-lannion.org/Bw2BAUFCYAAbb1u.jpg-
 large-150x150.jpg)](http://fablab-lannion.org/wp-
 content/uploads/2014/09/Bw2BAUFCYAAbb1u.jpg-large.jpg)
 
@@ -33,7 +33,7 @@ et les grands. Nous avons ainsi pu expliquer (de nombreuses fois) le concept
 du fablab et les services que nous offrons à tout un chacun.
 
 [![Yoda avec nous
-était](http://fablablannion.github.io/images/Bw2d9SlIIAA3XZm.jpg-
+était](https://static.fablab-lannion.org/Bw2d9SlIIAA3XZm.jpg-
 large-150x150.jpg)](http://fablab-lannion.org/wp-
 content/uploads/2014/09/Bw2d9SlIIAA3XZm.jpg-large.jpg)
 

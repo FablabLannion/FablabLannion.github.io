@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/10089175635_a9fc818492_o.jpg
+feature: https://static.fablab-lannion.org/10089175635_a9fc818492_o.jpg
 layout: post
 slug: operation-laser-au-fablab-we-need-you
 date: 2015-04-03

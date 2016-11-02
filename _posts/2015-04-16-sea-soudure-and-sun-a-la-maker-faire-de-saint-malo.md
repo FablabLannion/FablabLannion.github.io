@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/20150412_181540.jpg
+feature: https://static.fablab-lannion.org/20150412_181540.jpg
 layout: post
 slug: sea-soudure-and-sun-a-la-maker-faire-de-saint-malo
 date: 2015-04-16
@@ -12,7 +12,7 @@ comments: True
 ---
 L'été sera chaud, l'été sera chaud, tous les makers à St Malo.
 
-[![20150411_151631](http://fablablannion.github.io/images/20150411_151631-1024x576.jpg)](http://fablab-
+[![20150411_151631](https://static.fablab-lannion.org/20150411_151631-1024x576.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2015/04/20150411_151631.jpg)
 
 Le 11 et 12 avril dernier se tenait la Mini maker-Faire de Saint Malo,
@@ -31,7 +31,7 @@ profiter des explications avisées de David et Fred. Ils ont pu par la suite
 découvrir tout un tas d'autres modèles car l'imprimante 3D était vraiment la
 star de cette édition.
 
-[![20150412_160710](http://fablablannion.github.io/images/20150412_160710-1024x576.jpg)](http://fablab-
+[![20150412_160710](https://static.fablab-lannion.org/20150412_160710-1024x576.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2015/04/20150412_160710.jpg)  
 Nous avions également apporté avec nous le WhereIsTheBeach édition Saint Malo,
 pas totalement fini mais suffisant pour expliquer ce que peut faire un fablab
@@ -44,7 +44,7 @@ pu se régaler non pas de croquettes mais de bonbons.
 
 
 
-[![20150412_124249](http://fablablannion.github.io/images/20150412_124249-1024x576.jpg)](http://fablab-
+[![20150412_124249](https://static.fablab-lannion.org/20150412_124249-1024x576.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2015/04/20150412_124249.jpg)  
 2 jours intenses donc, où on a pu quand même aller voir les copains. Le maker
 space 56 était venu avec son openRov (dont un des papas US était aussi
@@ -55,22 +55,22 @@ via des disques dessinés (lus par une kinect), Géo trouvetout à bretelles et 
 l'arduino sous la casquette, enseignant diplomé en légos, droneurs sous marins
 ou volants, chimistes artistes ou artisans, il y en avait pour tous.
 
-[![20150412_124459](http://fablablannion.github.io/images/20150412_124459-1024x576.jpg)](http://fablab-
+[![20150412_124459](https://static.fablab-lannion.org/20150412_124459-1024x576.jpg)](http://fablab-
 lannion.org/wp-
-content/uploads/2015/04/20150412_124459.jpg)[![20150412_125848](http://fablablannion.github.io/images/20150412_125848-1024x576.jpg)](http://fablab-
+content/uploads/2015/04/20150412_124459.jpg)[![20150412_125848](https://static.fablab-lannion.org/20150412_125848-1024x576.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2015/04/20150412_125848.jpg)
 
-[![20150412_125621](http://fablablannion.github.io/images/20150412_125621-1024x576.jpg)](http://fablab-
+[![20150412_125621](https://static.fablab-lannion.org/20150412_125621-1024x576.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2015/04/20150412_125621.jpg)
 
-[![20150412_130246](http://fablablannion.github.io/images/20150412_130246-1024x576.jpg)](http://fablab-
+[![20150412_130246](https://static.fablab-lannion.org/20150412_130246-1024x576.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2015/04/20150412_130246.jpg)
 
 Une entreprise montrait son bac à sable interactif; surmonté d'une kinect et
 d'une caméra, le bac à sable s'enrichissait de mares et de crabes en fonction
 du relief réalisé par le sable.
 
-[![20150412_123147](http://fablablannion.github.io/images/20150412_123147-1024x576.jpg)](http://fablab-
+[![20150412_123147](https://static.fablab-lannion.org/20150412_123147-1024x576.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2015/04/20150412_123147.jpg)
 
 
@@ -84,7 +84,7 @@ lannion.org/wp-content/uploads/2015/04/20150412_123147.jpg)
 On pourra noter aussi le grand stand du Fabshop, organisateur de l'événement
 et l'énorme stand de Leroy Merlin (présent à Dinard non loin de là).
 
-[![20150412_123909](http://fablablannion.github.io/images/20150412_123909-1024x576.jpg)](http://fablab-
+[![20150412_123909](https://static.fablab-lannion.org/20150412_123909-1024x576.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2015/04/20150412_123909.jpg)Pour le fablab de
 Lannion c'était l'occasion de montrer avec les petits copains de Vannes,
 Lorient, Saint-Malo, Brest ou Saint-Brieuc, la vitalité des fablabs ainsi que
@@ -97,7 +97,7 @@ et leur enthousiasme communicant (et aussi à Cédric pour l'imprimante, Jérôm
 et Tangi pour leurs soudures, Arnaud et Benoit pour le Breizhinnovattitude et
 Mankig pour son rôle d'attracteur d'enfants).
 
-[![20150412_180503](http://fablablannion.github.io/images/20150412_180503-e1429216173937-1024x576.jpg)](http://fablab-
+[![20150412_180503](https://static.fablab-lannion.org/20150412_180503-e1429216173937-1024x576.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2015/04/20150412_180503.jpg)
 
 

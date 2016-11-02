@@ -3,15 +3,15 @@ author_gravatar: http://1.gravatar.com/avatar/47bb95d605c88f1038bd415412814eae?s
 author_fullname: Yann
 author: yann
 tags: Mis en avant
-feature: http://fablablannion.github.io/images/Encart-Durability.png
+feature: https://static.fablab-lannion.org/Encart-Durability.png
 layout: post
 slug: durabili-ty-2-cest-parti
 date: 2014-12-03
 title: "Durabili-ty #2, c&#8217;est parti !"
 comments: True
 ---
-[![Encart Durability](http://fablablannion.github.io/images/Encart-
-Durability.png)](http://fablablannion.github.io/images/Encart-Durability.png)
+[![Encart Durability](https://static.fablab-lannion.org/Encart-
+Durability.png)](https://static.fablab-lannion.org/Encart-Durability.png)
 
 **Lannion-Trégor-Communauté organise une nouvelle édition du concours Durabili'ty. Le thème adopté cette année est "Performance énergétique : en transition vers les usages de demain".  
 Les domaines pour lesquels il est possible de proposer un projet sont donc

@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/d6cd7628bc242b87449712f0fef53924?s
 author_fullname: David Blaisonneau
 author: david-blaisonneau
 tags: Actualité
-feature: http://fablablannion.github.io/images/wpid-IMG_20130617_230524.jpg
+feature: https://static.fablab-lannion.org/wpid-IMG_20130617_230524.jpg
 layout: post
 slug: ce-soir-au-fablab-cetait-plutot-productif
 date: 2013-06-17
@@ -15,16 +15,16 @@ nous étions plutôt productif:
 
 * Les abeilles surveillent leur poids sur du Xbee:
 
-[![image](http://fablablannion.github.io/images/wpid-
-IMG_20130617_224454.jpg)](http://fablablannion.github.io/images/wpid-
+[![image](https://static.fablab-lannion.org/wpid-
+IMG_20130617_224454.jpg)](https://static.fablab-lannion.org/wpid-
 IMG_20130617_224454.jpg)
 
 * les boitiers de pilotage d'APN se font percer
 
 * et l'imprimante fonctionne à nouveau, au plus grand plaisir de Nico qui a pu repartir avec son décapsuleur FabLab pour la somme modique de 1€:
 
-[![image](http://fablablannion.github.io/images/wpid-
-IMG_20130617_230524.jpg)](http://fablablannion.github.io/images/wpid-
+[![image](https://static.fablab-lannion.org/wpid-
+IMG_20130617_230524.jpg)](https://static.fablab-lannion.org/wpid-
 IMG_20130617_230524.jpg)
 
 …le tout sur un fond musical alternant entre Acdc et Iron Maiden (et ce

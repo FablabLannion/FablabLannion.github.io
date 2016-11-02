@@ -3,14 +3,14 @@ author_gravatar: http://2.gravatar.com/avatar/29020340fd48c04adad04976cb909b4f?s
 author_fullname: Jérôme Labidurie
 author: jerome
 tags: Actualité
-feature: http://fablablannion.github.io/images/FrenchTech.jpg
+feature: https://static.fablab-lannion.org/FrenchTech.jpg
 layout: post
 slug: meet-up-french-tech-lannion
 date: 2016-03-31
 title: "Meet Up French Tech #Lannion"
 comments: True
 ---
-[![FrenchTech](http://fablablannion.github.io/images/FrenchTech-150x150.jpg)](https://docs.google.com/forms/d/1CFwXgMx43iQ92drxK1zHi2pft9MfiaxIrptu5zvBaAs/viewform?c=0&w=1)L’initiative
+[![FrenchTech](https://static.fablab-lannion.org/FrenchTech-150x150.jpg)](https://docs.google.com/forms/d/1CFwXgMx43iQ92drxK1zHi2pft9MfiaxIrptu5zvBaAs/viewform?c=0&w=1)L’initiative
 **French Tech** mobilise tous les acteurs sur le territoire (publics, media,
 grand public etc…) et se donne pour mission de placer la France parmi les
 grandes **startups nations** : _« Les startups championnes de demain seront

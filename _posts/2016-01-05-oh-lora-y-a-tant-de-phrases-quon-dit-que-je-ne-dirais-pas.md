@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/CV0GOozWoAAfllu.jpg
+feature: https://static.fablab-lannion.org/CV0GOozWoAAfllu.jpg
 layout: post
 slug: oh-lora-y-a-tant-de-phrases-quon-dit-que-je-ne-dirais-pas
 date: 2016-01-05

@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Vie de l'association
-feature: http://fablablannion.github.io/images/20140625_192113.jpg
+feature: https://static.fablab-lannion.org/20140625_192113.jpg
 layout: post
 slug: le-fablab-fete-aussi-noel
 date: 2014-12-08
@@ -12,7 +12,7 @@ comments: True
 ---
 Fort du succès du barbecue participatif organisé en début d'été, le fablab
 prévoit sa fête de Noël le mercredi 17 décembre à partir de 19h.  
-[![20140625_192113](http://fablablannion.github.io/images/20140625_192113-1024x768.jpg)](http://fablab-
+[![20140625_192113](https://static.fablab-lannion.org/20140625_192113-1024x768.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2014/12/20140625_192113.jpg)  
 Pas d'inquiétude: pas de chorégraphie improbable à apprendre, pas plus de
 chants de Noël à endurer au fond d'une église sous chauffée, pas non plus de

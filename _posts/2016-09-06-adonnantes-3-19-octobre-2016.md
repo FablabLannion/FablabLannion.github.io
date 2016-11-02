@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Adonnantes
-feature: http://fablablannion.github.io/images/vse4pv.png
+feature: https://static.fablab-lannion.org/vse4pv.png
 layout: post
 slug: adonnantes-3-19-octobre-2016
 date: 2016-09-06

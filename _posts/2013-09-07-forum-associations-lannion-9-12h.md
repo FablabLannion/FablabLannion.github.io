@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/IMG_20130907_095017.jpg
+feature: https://static.fablab-lannion.org/IMG_20130907_095017.jpg
 layout: post
 slug: forum-associations-lannion-9-12h
 date: 2013-09-07
@@ -21,7 +21,7 @@ joueuses de bridge parlant le tibétain et calées sur le Knipowitschia bergi
 (utile pour le scrabble). Cette année le fablab vient compléter la liste déjà
 impréssionante des possibles envies associatives.
 
-[![SAMSUNG](http://fablablannion.github.io/images/IMG_20130907_101925-1024x768.jpg)](http://fablab-
+[![SAMSUNG](https://static.fablab-lannion.org/IMG_20130907_101925-1024x768.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/09/IMG_20130907_101925.jpg)
 
 C'est l'occasion d'aller à la rencontre des futurs utilisateurs.Flyers,
@@ -29,7 +29,7 @@ autocollants et posters sont de sortie pour l'occasion. Le stand est partagé
 avec les petits débrouillards (qui sont aussi en bas). Nicolas, Yvon, Jérôme,
 Guillaume et Morgan sont sur le pont.
 
-[![SAMSUNG](http://fablablannion.github.io/images/IMG_20130907_101239-e1378559399837-768x1024.jpg)](http://fablab-
+[![SAMSUNG](https://static.fablab-lannion.org/IMG_20130907_101239-e1378559399837-768x1024.jpg)](http://fablab-
 lannion.org/wp-
 content/uploads/2013/09/IMG_20130907_101239-e1378559399837.jpg)Jérôme a sorti
 son radar de recul made in arduino (n'hésitez pas à vous inscrire pour [la
@@ -42,12 +42,12 @@ dernier…
 L'imprimante 3D est également de la fête et suscite bon nombre de questions de
 la part de curieux de tous ages.
 
-[![SAMSUNG](http://fablablannion.github.io/images/IMG_20130907_095013-1024x768.jpg)](http://fablab-
+[![SAMSUNG](https://static.fablab-lannion.org/IMG_20130907_095013-1024x768.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/09/IMG_20130907_095013.jpg)
 
 Guillaume fait voler l'AR Drône au dessus de la foule.
 
-[![SAMSUNG](http://fablablannion.github.io/images/IMG_20130907_111552-1024x768.jpg)](http://fablab-
+[![SAMSUNG](https://static.fablab-lannion.org/IMG_20130907_111552-1024x768.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/09/IMG_20130907_111552.jpg)
 
   

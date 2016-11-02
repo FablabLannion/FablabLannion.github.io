@@ -3,7 +3,7 @@ author_gravatar: http://0.gravatar.com/avatar/6a767bcd26d052496dac0f142243cb82?s
 author_fullname: Nicolas Guédon
 author: pofexpray
 tags: Actualité
-feature: http://fablablannion.github.io/images/IMG_20130902_225911.jpg
+feature: https://static.fablab-lannion.org/IMG_20130902_225911.jpg
 layout: post
 slug: cest-rentree-demarrage-precidot-30
 date: 2013-09-02
@@ -18,7 +18,7 @@ en route la Precidot 30 (et voir le travail qu'il reste à accomplir pour
 pouvoir l'utiliser).
 
 [![Démarrage de la Precidot
-30](http://fablablannion.github.io/images/IMG_20130902_225911-225x300.jpg)](http://fablab-
+30](https://static.fablab-lannion.org/IMG_20130902_225911-225x300.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/09/IMG_20130902_225911.jpg)
 
 Comment ca marche ?
@@ -36,7 +36,7 @@ ce soir:
 
 
 [![Ecran / Caméra de la Precidot
-30](http://fablablannion.github.io/images/IMG_20130902_225921-300x225.jpg)](http://fablab-
+30](https://static.fablab-lannion.org/IMG_20130902_225921-300x225.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/09/IMG_20130902_225921.jpg)
 
 Ecran / Caméra de la Precidot 30

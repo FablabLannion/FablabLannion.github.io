@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: []
-feature: http://fablablannion.github.io/images/20141115_101931.jpg
+feature: https://static.fablab-lannion.org/20141115_101931.jpg
 layout: post
 slug: fablab-lycee-drole-dendroit-pour-une-rencontre
 date: 2014-11-28

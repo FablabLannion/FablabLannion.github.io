@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: []
-feature: http://fablablannion.github.io/images/IMG_20130115_205839.jpg
+feature: https://static.fablab-lannion.org/IMG_20130115_205839.jpg
 layout: post
 slug: presentation-du-fablab-lors-dune-soiree-code-darmor
 date: 2013-01-16
@@ -15,7 +15,7 @@ construire une communauté de développeurs sur la région de Lannion organisait
 une soirée ce mardi. Après avoir exploré l'an dernier Dart, Eclipse 4, NoSQL,
 HTML5 ou GWT, cette première séance de l'année était destinée à l'open source.
 
-[![SAMSUNG](http://fablablannion.github.io/images/IMG_20130115_205839-300x225.jpg)](http://fablab-
+[![SAMSUNG](https://static.fablab-lannion.org/IMG_20130115_205839-300x225.jpg)](http://fablab-
 lannion.org/2013/01/presentation-du-fablab-lors-dune-soiree-code-
 darmor/samsung-9/)
 

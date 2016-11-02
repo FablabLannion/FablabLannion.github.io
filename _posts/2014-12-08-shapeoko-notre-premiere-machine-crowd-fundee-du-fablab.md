@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/400px-EShapeOko_dual_Y_with_LXP.jpg
+feature: https://static.fablab-lannion.org/400px-EShapeOko_dual_Y_with_LXP.jpg
 layout: post
 slug: shapeoko-notre-premiere-machine-crowd-fundee-du-fablab
 date: 2014-12-08

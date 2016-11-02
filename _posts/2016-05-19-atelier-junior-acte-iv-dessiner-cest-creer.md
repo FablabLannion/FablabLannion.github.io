@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: []
-feature: http://fablablannion.github.io/images/CScHdSTWUAAcykm.jpglarge.jpeg
+feature: https://static.fablab-lannion.org/CScHdSTWUAAcykm.jpglarge.jpeg
 layout: post
 slug: atelier-junior-acte-iv-dessiner-cest-creer
 date: 2016-05-19
@@ -16,7 +16,7 @@ Quatrième et avant dernier atelier junior de la saison samedi 28 mai de 14h à
 Les enfants partiront à la découverte d'un être étrange, inquiétant, efficace
 et fascinant monstre: la découpeuse LASER.
 
-[![CScHdSTWUAAcykm.jpg:large](http://fablablannion.github.io/images/CScHdSTWUAAcykm.jpglarge-1024x576.jpeg)](http://fablab-
+[![CScHdSTWUAAcykm.jpg:large](https://static.fablab-lannion.org/CScHdSTWUAAcykm.jpglarge-1024x576.jpeg)](http://fablab-
 lannion.org/2015/10/elle-marche/cschdstwuaacykm-jpglarge/)Mais avant d'avoir
 le droit de jouer avec elle, il faudra apprendre à dessiner un peu afin de lui
 donner à manger….

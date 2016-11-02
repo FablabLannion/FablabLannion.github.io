@@ -3,7 +3,7 @@ author_gravatar: http://0.gravatar.com/avatar/6a767bcd26d052496dac0f142243cb82?s
 author_fullname: Nicolas Guédon
 author: pofexpray
 tags: Actualité
-feature: http://fablablannion.github.io/images/arton617-e0df21.jpg
+feature: https://static.fablab-lannion.org/arton617-e0df21.jpg
 layout: post
 slug: le-fablab-a-la-fete-de-la-science
 date: 2014-10-10

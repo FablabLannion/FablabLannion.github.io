@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/d6cd7628bc242b87449712f0fef53924?s
 author_fullname: David Blaisonneau
 author: david-blaisonneau
 tags: []
-feature: http://fablablannion.github.io/images/barbecue-1.jpg
+feature: https://static.fablab-lannion.org/barbecue-1.jpg
 layout: post
 slug: atelier-barbecue
 date: 2014-06-16

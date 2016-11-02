@@ -3,7 +3,7 @@ author_gravatar: http://2.gravatar.com/avatar/29020340fd48c04adad04976cb909b4f?s
 author_fullname: Jérôme Labidurie
 author: jerome
 tags: Actualité
-feature: http://fablablannion.github.io/images/LD10.jpg
+feature: https://static.fablab-lannion.org/LD10.jpg
 layout: post
 slug: imprimante-3d-stratasys-objet-30
 date: 2014-01-18
@@ -41,7 +41,7 @@ molette qui nous avait tant impressionnés lors de notre [première visite au
 Lycée](http://fablab-lannion.org/2013/01/visite-du-lycee-le-dantec/ "Visite du
 Lycée Le Dantec" )
 
-[![SAMSUNG](http://fablablannion.github.io/images/LD10-150x150.jpg)](http://fablab-
+[![SAMSUNG](https://static.fablab-lannion.org/LD10-150x150.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/01/LD10.jpg)
 
 Comme préalable, était la formation obligatoire des Fabmanagers. C'est

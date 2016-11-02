@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/d04670b347e106df6309c4a3235f00b9?s
 author_fullname: Tangi Lavanant
 author: tangi
 tags: 3D
-feature: http://fablablannion.github.io/images/microDelta.jpg
+feature: https://static.fablab-lannion.org/microDelta.jpg
 layout: post
 slug: fabriquez-imprimante-3d-au-fablab
 date: 2014-11-12

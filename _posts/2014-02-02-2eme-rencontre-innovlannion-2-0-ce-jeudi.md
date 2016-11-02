@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/opendata_6585.png
+feature: https://static.fablab-lannion.org/opendata_6585.png
 layout: post
 slug: 2eme-rencontre-innovlannion-2-0-ce-jeudi
 date: 2014-02-02
@@ -15,12 +15,12 @@ médiathèque de Lannion jeudi dernier pour la première rencontre
 d'innov[@lannion](http://fablab-lannion.org/membres/twitter_fablablannion/)
 2.0. Cette première portait sur les modalités du concours, une introduction
 aux smart cities ainsi qu'une présentation sur les données publiques ouvertes.
-[![opendata_6585](http://fablablannion.github.io/images/opendata_6585-1024x596.png)](http://fablab-
+[![opendata_6585](https://static.fablab-lannion.org/opendata_6585-1024x596.png)](http://fablab-
 lannion.org/wp-content/uploads/2014/02/opendata_6585.png) Un petit débat a
 prolongé les présentations et débordé un peu sur la 3ème rencontre qui portera
 sur l'utilisation d'openStreetMap. [![BfPdsr-IMAETcaJ.jpg
-large](http://fablablannion.github.io/images/BfPdsr-IMAETcaJ.jpg-
-large.jpg)](http://fablablannion.github.io/images/BfPdsr-IMAETcaJ.jpg-
+large](https://static.fablab-lannion.org/BfPdsr-IMAETcaJ.jpg-
+large.jpg)](https://static.fablab-lannion.org/BfPdsr-IMAETcaJ.jpg-
 large.jpg) Le fablab était bien représenté avec la participation de notre
 vice-président Nico, de Morgan et d'Antoine. 4 autres rencontres sont au
 programme d'ici la fin mars (résultats annoncés le 8 avril). Plus qu'un
@@ -29,7 +29,7 @@ connaissances autour de la problématique des villes intelligentes. La deuxième
 rencontre est programmée cette semaine au fablab de 17 à 19h. Elle portera sur
 une présentation et une petite formation à la plate-forme open source de co-
 innovation (made in Brittany) [Emerginov](http://emerginov.ow2.org).
-[![emerginov_logo_black_huge](http://fablablannion.github.io/images/emerginov_logo_black_huge-1024x1024.png)](http://fablab-
+[![emerginov_logo_black_huge](https://static.fablab-lannion.org/emerginov_logo_black_huge-1024x1024.png)](http://fablab-
 lannion.org/wp-content/uploads/2014/02/emerginov_logo_black_huge.png) Cette
 plate-forme a déjà été utilisée dans quelques projets du fablab tels que Bzzz,
 la clé ou WhereIsTheBeach. On parlera donc plus de développement web, de micro

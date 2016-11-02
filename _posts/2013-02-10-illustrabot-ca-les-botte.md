@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: []
-feature: http://fablablannion.github.io/images/IMG_4228.jpg
+feature: https://static.fablab-lannion.org/IMG_4228.jpg
 layout: post
 slug: illustrabot-ca-les-botte
 date: 2013-02-10
@@ -17,7 +17,7 @@ peu) serré lié à la présentation du prototype lors des jours sans fils
 gannt élaborés…il faut pouvoir tout faire et au plus vite sans trop (trop) se
 poser de questions.
 
-[![IMG_4222](http://fablablannion.github.io/images/IMG_4222-300x200.jpg)](http://fablab-
+[![IMG_4222](https://static.fablab-lannion.org/IMG_4222-300x200.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/02/IMG_4222.jpg)
 
 Jérôme a donc organisé l'urgence et coordonne les différentes équipes, la
@@ -36,7 +36,7 @@ de personnes avaient répondu présent avec plusieurs objectifs: définir le
 robot et intégrer la chaîne androïd/rasberry pi/SPI arduino via un accès 4G.
 Des démos étaient même promises alors bilan…
 
-[![IMG_4228](http://fablablannion.github.io/images/IMG_4228-300x200.jpg)](http://fablab-
+[![IMG_4228](https://static.fablab-lannion.org/IMG_4228-300x200.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2013/02/IMG_4228.jpg)
 
 Pendant que les hardeux se battaient avec une règle de 12 cm pour définir le

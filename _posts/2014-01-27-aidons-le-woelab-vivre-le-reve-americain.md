@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/61a8a29a9be162013b8721174f890ef1.png
+feature: https://static.fablab-lannion.org/61a8a29a9be162013b8721174f890ef1.png
 layout: post
 slug: aidons-le-woelab-vivre-le-reve-americain
 date: 2014-01-27
@@ -33,7 +33,7 @@ contenu avant le 10 février, date de cloture du financement participatif.
 
 Une affiche de soutien (présente au FabLab):
 
-[![SoutienAuWoeLab](http://fablablannion.github.io/images/SoutienAuWoeLab-300x212.png)](http://fablab-
+[![SoutienAuWoeLab](https://static.fablab-lannion.org/SoutienAuWoeLab-300x212.png)](http://fablab-
 lannion.org/wp-content/uploads/2014/01/SoutienAuWoeLab.png)
 
 

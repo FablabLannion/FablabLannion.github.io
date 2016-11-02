@@ -3,14 +3,14 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/20140301_113454.jpg
+feature: https://static.fablab-lannion.org/20140301_113454.jpg
 layout: post
 slug: adonnantes-innovlannion-data-repartout-votez-fablab
 date: 2014-03-22
 title: "Adonnantes, Innov@lannion, Data+, Repartout: votez fablab!"
 comments: True
 ---
-[![20140226_223425](http://fablablannion.github.io/images/20140226_223425-1024x768.jpg)](http://fablab-
+[![20140226_223425](https://static.fablab-lannion.org/20140226_223425-1024x768.jpg)](http://fablab-
 lannion.org/wp-content/uploads/2014/02/20140226_223425.jpg)A l'heure où bien
 des candidats attendent fébrilement la soirée de dimanche, petit retour sur
 les actions publiques en cours au fablab.

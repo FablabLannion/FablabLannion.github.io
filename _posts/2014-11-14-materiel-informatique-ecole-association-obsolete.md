@@ -3,14 +3,14 @@ author_gravatar: http://1.gravatar.com/avatar/47bb95d605c88f1038bd415412814eae?s
 author_fullname: Yann
 author: yann
 tags: Reconditionnement
-feature: http://fablablannion.github.io/images/HP_DC5750.jpg
+feature: https://static.fablab-lannion.org/HP_DC5750.jpg
 layout: post
 slug: materiel-informatique-ecole-association-obsolete
 date: 2014-11-14
 title: "Le matériel informatique de votre école ou de votre association est obsolète ?"
 comments: True
 ---
-![HP_DC5750](http://fablablannion.github.io/images/HP_DC5750-300x300.jpg)
+![HP_DC5750](https://static.fablab-lannion.org/HP_DC5750-300x300.jpg)
 
 Le fablab de Lannion met en place une activité de reconditionnement
 informatique, et propose des ordinateurs reconditionnés à prix modique aux

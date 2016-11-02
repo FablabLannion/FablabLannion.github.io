@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: []
-feature: http://fablablannion.github.io/images/logoSeul.jpg
+feature: https://static.fablab-lannion.org/logoSeul.jpg
 layout: post
 slug: petite-revue-de-presse
 date: 2012-12-06

@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: []
-feature: http://fablablannion.github.io/images/Lego_Color_Bricks.jpg
+feature: https://static.fablab-lannion.org/Lego_Color_Bricks.jpg
 layout: post
 slug: 1ere-rencontre-du-samedi-lego-ergo-sum
 date: 2015-09-22

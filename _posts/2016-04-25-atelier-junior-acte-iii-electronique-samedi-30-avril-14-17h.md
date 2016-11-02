@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: Actualité
-feature: http://fablablannion.github.io/images/Gerald-G-Light-Emiting-Diodes-300px.png
+feature: https://static.fablab-lannion.org/Gerald-G-Light-Emiting-Diodes-300px.png
 layout: post
 slug: atelier-junior-acte-iii-electronique-samedi-30-avril-14-17h
 date: 2016-04-25
@@ -18,7 +18,7 @@ Vous avez entre 10 et 14 ans et vous rêvez de découvrir le monde merveilleux
 d'arduino, le couteau suisse (italien) de l'électronicien en herbe, cet
 atelier est pour vous!
 
-![arduino-publicdomain-300px](http://fablablannion.github.io/images/arduino-
+![arduino-publicdomain-300px](https://static.fablab-lannion.org/arduino-
 publicdomain-300px.png)
 
 Résistances, Leds, Transistors , venez découvrir ce qui se cache derrière les
@@ -31,10 +31,10 @@ beauchamps à Lannion.
 Inscription gratuite dans la limite des places disponibles, envoyer un mail à
 contact@fablab-lannion.org pour réserver votre place.
 
-![Gerald-G-Resistors-300px](http://fablablannion.github.io/images/Gerald-G-
+![Gerald-G-Resistors-300px](https://static.fablab-lannion.org/Gerald-G-
 Resistors-300px.png)
 
-![Gerald-G-Capacitors-300px](http://fablablannion.github.io/images/Gerald-G-
+![Gerald-G-Capacitors-300px](https://static.fablab-lannion.org/Gerald-G-
 Capacitors-300px.png)
 
 
@@ -46,6 +46,6 @@ Capacitors-300px.png)
 Merci à [OpenClipart](https://openclipart.org) pour les illustrations
 
 avec le support de
-![fondation_fr_quadri](http://fablablannion.github.io/images/fondation_fr_quadri.jpg)
+![fondation_fr_quadri](https://static.fablab-lannion.org/fondation_fr_quadri.jpg)
 
 

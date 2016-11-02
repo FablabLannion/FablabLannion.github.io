@@ -10,7 +10,7 @@ title: "Lors des ateliers Répartou, venez remettre votre matériel informatique
 comments: True
 ---
 ![IFixIt - Manifeste du droit à réparer soi-
-même](http://fablablannion.github.io/images/ifixit_manifesto_fr_1650x25501-194x300.jpg)
+même](https://static.fablab-lannion.org/ifixit_manifesto_fr_1650x25501-194x300.jpg)
 
   
 

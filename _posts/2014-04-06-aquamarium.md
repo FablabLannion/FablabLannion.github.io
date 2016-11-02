@@ -3,7 +3,7 @@ author_gravatar: http://2.gravatar.com/avatar/29020340fd48c04adad04976cb909b4f?s
 author_fullname: Jérôme Labidurie
 author: jerome
 tags: arduino
-feature: http://fablablannion.github.io/images/Aquarium_dessin.png
+feature: https://static.fablab-lannion.org/Aquarium_dessin.png
 layout: post
 slug: aquamarium
 date: 2014-04-06

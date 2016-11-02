@@ -3,7 +3,7 @@ author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s
 author_fullname: Morgan Richomme
 author: colvert
 tags: []
-feature: http://fablablannion.github.io/images/20150412_180503-e1429216173937.jpg
+feature: https://static.fablab-lannion.org/20150412_180503-e1429216173937.jpg
 layout: post
 slug: le-fablab-au-forum-des-associations-de-lannion-2016
 date: 2016-08-29
@@ -19,7 +19,7 @@ Imprimante 3D, DIY (Fais le toi-même dans la langue de molière), objets
 connectés, éoliennes, découpeuse Laser, arduino, bornes de retrogaming ou
 simplement l'envie d'apprendre ou de transmettre… On a tous une bonne raison
 d'y aller, pourquoi pas
-vous![![IMG_20131013_174936](http://fablablannion.github.io/images/IMG_20131013_174936.jpg)](http://fablab-
+vous![![IMG_20131013_174936](https://static.fablab-lannion.org/IMG_20131013_174936.jpg)](http://fablab-
 lannion.org/2013/10/fete-science-encore-beau-succes/img_20131013_174936/)
 
 
