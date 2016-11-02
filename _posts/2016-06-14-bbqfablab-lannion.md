@@ -21,12 +21,8 @@ projets en cours, les évolutions futures de notre Fablab, mais aussi pour les
 nouveaux ou _"ceux qui veulent passer depuis le début et qui n'ont as eu
 l'occasion jusqu'ici"_, de nous rencontrer et de discuter !
 
-[![rw_IMG_20160222_225556](https://static.fablab-lannion.org/rw_IMG_20160222_225556-225x300.jpg)](http://fablab-
-lannion.org/wp-
-content/uploads/2016/02/rw_IMG_20160222_225556.jpg)[![upload_-1](https://static.fablab-lannion.org/upload_-1-169x300.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2015/09/upload_-1.jpg)
-
-
+[![rw_IMG_20160222_225556](https://static.fablab-lannion.org/rw_IMG_20160222_225556-225x300.jpg)](http://fablab-lannion.org/wp-content/uploads/2016/02/rw_IMG_20160222_225556.jpg)
+[![upload_-1](https://static.fablab-lannion.org/upload_-1-169x300.jpg)](http://fablab-lannion.org/wp-content/uploads/2015/09/upload_-1.jpg)
 
 Nouveauté aussi cette année : drones, bornes d'arcade et Kart seront de la
 partie. Nous en profiterons aussi pour inaugurer le nouveau parking tout beau
@@ -39,11 +35,3 @@ simple, chacun amène ce qui lui fait envie et en fait profiter les autres !
 
 Envie de venir ? Une question ? utilisez donc l'@ mail habituelle :
 contact@fablab-lannion.org
-
-
-
-
-
-
-
-
