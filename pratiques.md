@@ -40,6 +40,7 @@ Contacts
     </span>
 </a>
 
+Par téléphone au 02 96 37 84 46. N’hésitez pas à laisser un message, nous vous recontacterons.
 
 Horaires
 ============
