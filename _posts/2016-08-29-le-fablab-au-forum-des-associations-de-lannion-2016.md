@@ -19,7 +19,7 @@ Imprimante 3D, DIY (Fais le toi-même dans la langue de molière), objets
 connectés, éoliennes, découpeuse Laser, arduino, bornes de retrogaming ou
 simplement l'envie d'apprendre ou de transmettre… On a tous une bonne raison
 d'y aller, pourquoi pas
-vous![![IMG_20131013_174936](https://static.fablab-lannion.org/IMG_20131013_174936.jpg)](http://fablab-
+vous!
+
+[![IMG_20131013_174936](https://static.fablab-lannion.org/IMG_20131013_174936.jpg)](http://fablab-
 lannion.org/2013/10/fete-science-encore-beau-succes/img_20131013_174936/)
-
-
