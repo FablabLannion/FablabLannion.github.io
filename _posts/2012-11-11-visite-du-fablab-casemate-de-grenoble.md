@@ -1,7 +1,7 @@
 ---
 author_gravatar: http://1.gravatar.com/avatar/d6cd7628bc242b87449712f0fef53924?s=96&d=mm&r=g
 author_fullname: David Blaisonneau
-author: david-blaisonneau
+author: david
 tags: ["'visite fablab'"]
 feature: https://static.fablab-lannion.org/IMG_20121108_181519.jpg
 layout: post
