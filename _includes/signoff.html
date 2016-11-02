@@ -2,17 +2,57 @@
                 <div class="row">
                     <section class="notepad-post-author small-12 columns">
 
-                            <img src="{{site.url}}/images/{{ site.owner.avatar }}" class="notepad-post-author-avatar" alt="{{ site.owner.name }}'s photo">
-
+                            {% assign author = site.authors[page.author] %}
+                            {% if author.gravatar == '' %}
+                                {% capture author_icon %}{{ site.url }}/images/{{ site.logo }}{% endcapture %}
+                            {% else %}
+                                {% capture author_icon %}http://www.gravatar.com/avatar/{{ author.gravatar }}?s=96&d=mm&r=g{% endcapture %}
+                            {% endif %}
+                            <img src="{{ author_icon }}" class="notepad-post-author-avatar" alt="{{ author.name }}'s photo">
 
                             <span class="author-label">Auteur</span>
-                            <h1>{{ site.owner.name }}</h1>
+                            <h1>{{ author.name }}</h1>
 
+                            {% if author.function %}
+                            <p><i>{{ author.function  }}</i></p>
+                            {% endif %}
+                            {% if author.description %}
+                            <p>{{ author.description  }}</p>
+                            {% endif %}
 
-                            <p><a href="mailto:{{ site.owner.email }}" class="author-website">{{ site.owner.email }}</a></p>
+                            {% if author.twitter %}
+                            <a href="http://twitter.com/{{ author.twitter }}">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                                    <i class="fa fa-twitter fa-stack-1x"></i>
+                                </span>
+                            </a>
+                            {% endif %}
+                            {% if author.google_plus %}
+                            <a href="https://plus.google.com/{{ author.google_plus }}">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                                    <i class="fa fa-google-plus fa-stack-1x"></i>
+                                </span>
+                            </a>
+                            {% endif %}
+                            {% if author.github %}
+                            <a href="http://github.com/{{ author.github }}">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                                    <i class="fa fa-github fa-stack-1x"></i>
+                                </span>
+                            </a>
+                            {% endif %}
+                            {% if author.facebook %}
+                            <a href="http://facebook.com/{{ author.facebook }}">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                                    <i class="fa fa-facebook fa-stack-1x"></i>
+                                </span>
+                            </a>
+                            {% endif %}
 
-
-                            <p>{{ site.owner.description }}</p>
 
                     </section>
                 </div>
