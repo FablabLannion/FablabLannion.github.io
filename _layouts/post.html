@@ -48,7 +48,11 @@
             <div class="bg-img"></div>
         </header>
         <button class="trigger bg-check" data-info="Read more"><span>Trigger</span></button>
+        {% if page.imagefeature contains 'http://' or page.imagefeature contains 'https://' %}
+        <img src="{{ page.imagefeature }}" alt="cover-image" />
+        {% else %}
         <img src="{{ site.url }}/images/{{ page.imagefeature }}" alt="cover-image" />
+        {% endif %}
 {% else %}
                 <div class="notepad-post-title-simple row">
                     <div class="small-12 columns">
