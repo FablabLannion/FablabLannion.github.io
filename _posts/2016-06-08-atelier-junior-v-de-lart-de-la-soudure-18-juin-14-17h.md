@@ -1,14 +1,14 @@
 ---
 author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s=96&d=mm&r=g
 author_fullname: Morgan Richomme
-feature: http://fablab-lannion.org/wp-content/uploads/2016/06/Capture-d’écran_2016-06-08_20-30-41.png
-date: 2016-06-08
+author: colvert
+tags: Actualité
+feature: http://fablablannion.github.io/images/Capture-d’écran_2016-06-08_20-30-41.png
 layout: post
 slug: atelier-junior-v-de-lart-de-la-soudure-18-juin-14-17h
-comments: True
+date: 2016-06-08
 title: "Atelier Junior V: de l&#8217;art de la soudure (18 juin 14-17h)"
-tags: Actualité
-author: colvert
+comments: True
 ---
 Dernier atelier junior de la saison autour de la soudure.[![Capture
 d’écran_2016-06-08_20-30-41](http://fablablannion.github.io/images/Capture-d’écran_2016-06-08_20-30-41.png)](http://fablab-

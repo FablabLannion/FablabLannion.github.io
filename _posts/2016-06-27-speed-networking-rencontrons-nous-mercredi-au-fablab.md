@@ -1,13 +1,13 @@
 ---
 author_gravatar: http://1.gravatar.com/avatar/d04670b347e106df6309c4a3235f00b9?s=96&d=mm&r=g
 author_fullname: Tangi Lavanant
-date: 2016-06-27
+author: tangi
+tags: []
 layout: post
 slug: speed-networking-rencontrons-nous-mercredi-au-fablab
-comments: True
+date: 2016-06-27
 title: "Speed Networking : Rencontrons nous Mercredi au Fablab"
-tags: []
-author: tangi
+comments: True
 ---
 Attention ce Mercredi, ouverture à partir de 21H uniquement, avec au cours de
 la soirée un atelier "Speed Networking", en bon Francais "réseautage rapide".

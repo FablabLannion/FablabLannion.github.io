@@ -1,14 +1,14 @@
 ---
 author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s=96&d=mm&r=g
 author_fullname: Morgan Richomme
-feature: http://fablab-lannion.org/wp-content/uploads/2016/03/upload_-1-3.jpg
-date: 2016-03-29
+author: colvert
+tags: 3D
+feature: http://fablablannion.github.io/images/upload_-1-3.jpg
 layout: post
 slug: libre-en-fete-2016-un-vrai-succes-populaire
-comments: True
+date: 2016-03-29
 title: "Libre en fête 2016: un vrai succès populaire"
-tags: 3D
-author: colvert
+comments: True
 ---
 Ce 26 mars se tenait dans la salle des Ursulines l'édition Trégorroise de
 Libre en Fête. L'objectif était de 500 personnes et il fut largement dépassé…

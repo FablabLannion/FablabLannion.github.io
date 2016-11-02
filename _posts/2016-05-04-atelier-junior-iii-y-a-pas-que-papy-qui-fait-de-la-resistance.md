@@ -1,14 +1,14 @@
 ---
 author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s=96&d=mm&r=g
 author_fullname: Morgan Richomme
-feature: http://fablab-lannion.org/wp-content/uploads/2016/05/20160430_151838.jpg
-date: 2016-05-04
+author: colvert
+tags: Actualité
+feature: http://fablablannion.github.io/images/20160430_151838.jpg
 layout: post
 slug: atelier-junior-iii-y-a-pas-que-papy-qui-fait-de-la-resistance
-comments: True
+date: 2016-05-04
 title: "Atelier Junior III: y a pas que papy qui fait de la résistance"
-tags: Actualité
-author: colvert
+comments: True
 ---
 [![20160430_145622](http://fablablannion.github.io/images/20160430_145622-1024x576.jpg)](http://fablab-
 lannion.org/?attachment_id=13404) Ce troisième volet des ateliers Junior au

@@ -1,14 +1,14 @@
 ---
 author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s=96&d=mm&r=g
 author_fullname: Morgan Richomme
-feature: http://fablab-lannion.org/wp-content/uploads/2015/04/20150412_180503-e1429216173937.jpg
-date: 2016-08-29
+author: colvert
+tags: []
+feature: http://fablablannion.github.io/images/20150412_180503-e1429216173937.jpg
 layout: post
 slug: le-fablab-au-forum-des-associations-de-lannion-2016
-comments: True
+date: 2016-08-29
 title: "Le fablab au forum des associations de Lannion 2016"
-tags: []
-author: colvert
+comments: True
 ---
 Comme il est désormais de coutume, le Fablab tiendra sa place au forum des
 associations. N'hésitez pas à venir nous rencontrer samedi 3 septembre 2016 à

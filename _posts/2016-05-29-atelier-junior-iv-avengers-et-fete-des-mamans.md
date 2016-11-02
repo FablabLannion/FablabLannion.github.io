@@ -1,14 +1,14 @@
 ---
 author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s=96&d=mm&r=g
 author_fullname: Morgan Richomme
-feature: http://fablab-lannion.org/wp-content/uploads/2016/05/upload_-1.jpg
-date: 2016-05-29
+author: colvert
+tags: Actualité
+feature: http://fablablannion.github.io/images/upload_-1.jpg
 layout: post
 slug: atelier-junior-iv-avengers-et-fete-des-mamans
-comments: True
+date: 2016-05-29
 title: "Atelier Junior IV: Avengers et fête des mamans"
-tags: Actualité
-author: colvert
+comments: True
 ---
 Effectif plus réduit mais motivé pour ce quatrième et avant-dernier atelier
 Junior qui a permis aux enfants de découvrir le pouvoir de la découpeuse Laser

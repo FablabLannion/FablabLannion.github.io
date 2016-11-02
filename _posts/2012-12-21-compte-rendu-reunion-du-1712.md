@@ -1,0 +1,52 @@
+---
+author_gravatar: http://2.gravatar.com/avatar/29020340fd48c04adad04976cb909b4f?s=96&d=mm&r=g
+author_fullname: Jérôme Labidurie
+author: jerome
+tags: Compte Rendu réunion
+layout: post
+slug: compte-rendu-reunion-du-1712
+date: 2012-12-21
+title: "Compte rendu réunion du 17/12"
+comments: True
+---
+Encore beaucoup de monde à notre réunion hebdomadaire. Nous avons eu la joie
+d’accueillir 8 nouveaux arrivants.
+
+Cette réunion s'est déroulée en 2 parties :
+
+  * tout le monde regroupé pour une présentation de l'association et des dernières avancées
+  * séparation du CA/bureau et des usagers. Les 1ers s'attelant aux tâches administratives tandis que les seconds "brainstormaient" sur les projets à lancer
+
+Était aussi présent Pierre-Noël Favennec, nouveau président de l’ABRET à qui
+nous avons pu présenter le FabLab et commencer à envisager de futures
+collaborations.
+
+Les avancées de la semaine :
+
+  * [@cebernard](http://fablab-lannion.org/membres/cebernard/) a bien commencé à démarcher les banques en vu de la création du compte et d'éventuels mécénats. Pour le moment, nous n'avons rencontré que le CMB de Lannion
+  * [@yann](http://fablab-lannion.org/membres/yann/) et [@jerome](http://fablab-lannion.org/membres/jerome/) ont rencontré 2 élu(e)s de la mairie pour discuter du projet et préparer un dossier de demande de subvention. L'axe privilégié étant l'éducation populaire. Après une dure nuit pour [@yann](http://fablab-lannion.org/membres/yann/), le dossier est déposé.
+  * [@jerome](http://fablab-lannion.org/membres/jerome/) et [@cebernard](http://fablab-lannion.org/membres/cebernard/) ont aussi rencontré des ingénieurs de [RFS](http://www.rfsworld.com/) qui montrent un intérêt certain pour le projet. Ils sont très intéressés par les possibilités d'échanges et d'émulsion au sein de la communauté. De même l'accès aux machines leur permettrait de réaliser à moindre coût des prototypes de pièces plastiques nécessaire à leur activité professionnelle.
+  * [@david.blaisonneau](http://fablab-lannion.org/membres/david.blaisonneau/) a commencé à démarcher les magasins de bricolage locaux. Lui-même et [@pofexpray](http://fablab-lannion.org/membres/pofexpray/) vont continuer sur cette voie.
+  * Nous avons reçut notre numéro SIRET (ce soir !) mais l'annonce n'est pas encore parue au JO
+  * Une rencontre pour présenter le FabLab est prévue à LTA mercredi 19
+
+Après séparation, les membres du CA se sont regroupés pour étudier :
+
+  * la présentation à faire à [LTA](http://www.lannion-tregor.com/)
+  * le budget prévisionnel 2013 préparé par [@cebernard](http://fablab-lannion.org/membres/cebernard/)
+
+De leur côté, les usagers (et [@colvert](http://fablab-
+lannion.org/membres/colvert/)) ont discutés de plusieurs projet. Des sujets
+existent maintenant dans le forum ou la discussion se poursuit:
+
+  * [Impression 3D](http://fablab-lannion.org/groupes/usagers/forum/topic/impression-3d/)
+  * [Photovoltaïque ](http://fablab-lannion.org/groupes/usagers/forum/topic/projet-photovoltaique/)
+  * [Éolienne](http://fablab-lannion.org/groupes/usagers/forum/topic/projet-deolienne/)
+
+
+
+
+
+
+
+

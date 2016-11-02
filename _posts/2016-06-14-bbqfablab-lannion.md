@@ -1,14 +1,14 @@
 ---
 author_gravatar: http://0.gravatar.com/avatar/9502acf1be9fecea08fdb1baca814060?s=96&d=mm&r=g
 author_fullname: Théophile Paimparay
-feature: http://fablab-lannion.org/wp-content/uploads/2014/06/barbecue-1.jpg
-date: 2016-06-14
+author: theo
+tags: []
+feature: http://fablablannion.github.io/images/barbecue-1.jpg
 layout: post
 slug: bbqfablab-lannion
-comments: True
+date: 2016-06-14
 title: "BBQ#FABLAB-LANNION"
-tags: []
-author: theo
+comments: True
 ---
 **Pour la 3éme année consécutive, c'est avec grand plaisir que nous vous invitons au barbecue annuel du FabLab de Lannion**.
 

@@ -49,9 +49,70 @@ links:
     url: https://wiki.fablab-lannion.org
     external: true
   - title: Infos pratiques
-    url: /pratique
+    url: /pratiques
   - title: A propos
     url: /about
+
+
+
+authors:
+    colvert:
+        name: Morgan Richomme
+        function: Vice secrétaire 2016
+        description:
+        gravatar: 1055c2d168d9878befb9c8810eda96dc
+        twitter: morganrichomme
+        github: colvert
+        google_plus:
+    david:
+        name: David Blaisonneau
+        function: Trésorier 2016
+        description: Make is not an alternative.
+        gravatar: d6cd7628bc242b87449712f0fef53924
+        twitter: davidblaisonneau
+        github: davidblaisonneau
+        google_plus: +DavidBlaisonneau
+    theo:
+        name: Théophile Paimparay
+        function: Membre actif
+        gravatar: 9502acf1be9fecea08fdb1baca814060
+    tangi:
+        name: Tangi Lavanant
+        function: Secrétaire 2016
+        gravatar: d04670b347e106df6309c4a3235f00b9
+    fablab:
+        name: Fablab Lannion
+    jerome:
+        name: Jérôme Labidurie
+        function: Président 2016
+        gravatar: 29020340fd48c04adad04976cb909b4f
+    laurenta:
+        name: Laurent Aubertin
+        function: Vice Trésorier 2016
+        gravatar: 343d3f84aca2865b6af1ca90c66c6a42
+    pofexpray:
+        name: Nicolas Guédon
+        function: Membre actif
+        gravatar: 6a767bcd26d052496dac0f142243cb82
+    yann:
+        name: Yann
+        function: Membre, ancien président 2012-2015
+        gravatar: 47bb95d605c88f1038bd415412814eae
+    nico:
+        name: Nicolas Serre
+        gravatar: 2c46b82b58bc4450c49fe66569d4c421
+    yvon:
+        name: Yvon Guillot
+        gravatar: ae240ab5523214b3f4fad6717028461f
+    cebernard:
+        name: Cédric Bernard
+        function: Membre actif
+        gravatar: e7882ed2e25bdafbf2fef7c6643aa89f
+    installparty14:
+        name: Youns Bouachra
+        gravatar: bfa9da2fe4514a96f1e51ef49f98676f
+
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Paris
@@ -150,45 +211,6 @@ prose:
           element: "checkbox"
           label: "Comments"
           value: false
-
-
-authors:
-    colvert:
-        name: Morgan Richomme
-        function: Vice secrétaire
-        description:
-        gravatar: 1055c2d168d9878befb9c8810eda96dc
-        twitter: morganrichomme
-        github: colvert
-        google_plus:
-    david:
-        name: David Blaisonneau
-        function: Trésorier
-        description: Make is not an alternative.
-        avatar: https://pbs.twimg.com/profile_images/693942838162243584/R7taOPsu.jpg
-        twitter: davidblaisonneau
-        github: davidblaisonneau
-        google_plus: +DavidBlaisonneau
-    theo:
-        name: Théophile Paimparay
-        gravatar: 9502acf1be9fecea08fdb1baca814060
-    tangi:
-        name: Tangi Lavanant
-        gravatar: d04670b347e106df6309c4a3235f00b9
-    fablab:
-        name: Fablab Lannion
-    jerome:
-        name: Jérôme Labidurie
-        gravatar: 29020340fd48c04adad04976cb909b4f
-    laurenta:
-        name: Laurent Aubertin
-        gravatar: 343d3f84aca2865b6af1ca90c66c6a42
-    pofexpray:
-        name: Nicolas Guédon
-        gravatar: 6a767bcd26d052496dac0f142243cb82
-
-
-
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]

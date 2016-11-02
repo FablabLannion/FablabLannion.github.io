@@ -1,14 +1,14 @@
 ---
 author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s=96&d=mm&r=g
 author_fullname: Morgan Richomme
-feature: http://fablab-lannion.org/wp-content/uploads/2016/03/20160227_172206.jpg
-date: 2016-03-07
+author: colvert
+tags: []
+feature: http://fablablannion.github.io/images/20160227_172206.jpg
 layout: post
 slug: atelier-junior-robotique
-comments: True
+date: 2016-03-07
 title: "Atelier Junior Robotique"
-tags: []
-author: colvert
+comments: True
 ---
 Samedi 27 février se tenait le premier acte des ateliers Junior du Fablab,
 soutenu par la fondation Orange. Les ateliers Junior consistent en un cycle

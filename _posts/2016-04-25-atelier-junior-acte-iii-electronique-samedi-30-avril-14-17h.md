@@ -1,14 +1,14 @@
 ---
 author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s=96&d=mm&r=g
 author_fullname: Morgan Richomme
-feature: http://fablab-lannion.org/wp-content/uploads/2016/04/Gerald-G-Light-Emiting-Diodes-300px.png
-date: 2016-04-25
+author: colvert
+tags: Actualité
+feature: http://fablablannion.github.io/images/Gerald-G-Light-Emiting-Diodes-300px.png
 layout: post
 slug: atelier-junior-acte-iii-electronique-samedi-30-avril-14-17h
-comments: True
+date: 2016-04-25
 title: "Atelier Junior Acte III: Electronique samedi 30 Avril 14-17h"
-tags: Actualité
-author: colvert
+comments: True
 ---
 Après la robotique en Février et les ateliers "Libre en Fête" en Mars, les
 makers de demain sont conviés au troisième atelier Junior qui portera sur la

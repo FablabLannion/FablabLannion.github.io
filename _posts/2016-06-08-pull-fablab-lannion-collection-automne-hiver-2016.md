@@ -1,13 +1,13 @@
 ---
 author_gravatar: http://0.gravatar.com/avatar/6a767bcd26d052496dac0f142243cb82?s=96&d=mm&r=g
 author_fullname: Nicolas Guédon
-date: 2016-06-08
+author: pofexpray
+tags: Vie de l'association
 layout: post
 slug: pull-fablab-lannion-collection-automne-hiver-2016
-comments: True
+date: 2016-06-08
 title: "Pull FabLab Lannion: Collection Automne-Hiver 2016"
-tags: Vie de l'association
-author: pofexpray
+comments: True
 ---
 Le fablab lance sa collection automne-hiver 2016. Un seul et unique modèle
 exceptionnel sublimé du logo officiel.

@@ -1,13 +1,13 @@
 ---
 author_gravatar: http://0.gravatar.com/avatar/6a767bcd26d052496dac0f142243cb82?s=96&d=mm&r=g
 author_fullname: Nicolas Guédon
-date: 2016-03-15
+author: pofexpray
+tags: Actualité
 layout: post
 slug: le-projet-bzzz-recherche-un-benevole-referent
-comments: True
+date: 2016-03-15
 title: "Le projet Bzzz recherche un bénévole référent"
-tags: Actualité
-author: pofexpray
+comments: True
 ---
 Le printemps arrive et les abeilles sortent de leur torpeur, les makers
 migrateurs ont aussi pris la route… Pour prendre le relais de notre Géo

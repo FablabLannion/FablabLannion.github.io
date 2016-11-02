@@ -1,14 +1,14 @@
 ---
 author_gravatar: http://1.gravatar.com/avatar/1055c2d168d9878befb9c8810eda96dc?s=96&d=mm&r=g
 author_fullname: Morgan Richomme
-feature: http://fablab-lannion.org/wp-content/uploads/2015/10/CScHdSTWUAAcykm.jpglarge.jpeg
-date: 2016-05-19
+author: colvert
+tags: []
+feature: http://fablablannion.github.io/images/CScHdSTWUAAcykm.jpglarge.jpeg
 layout: post
 slug: atelier-junior-acte-iv-dessiner-cest-creer
-comments: True
+date: 2016-05-19
 title: "Atelier Junior acte IV: dessiner c&#8217;est créer!"
-tags: []
-author: colvert
+comments: True
 ---
 Quatrième et avant dernier atelier junior de la saison samedi 28 mai de 14h à
 17h30.

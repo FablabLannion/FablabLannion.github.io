@@ -1,13 +1,13 @@
 ---
 author_gravatar: http://1.gravatar.com/avatar/d04670b347e106df6309c4a3235f00b9?s=96&d=mm&r=g
 author_fullname: Tangi Lavanant
-date: 2016-07-28
+author: tangi
+tags: []
 layout: post
 slug: stage-petits-debrouillards-electricite-et-transmissions-de-signaux
-comments: True
+date: 2016-07-28
 title: "Stage Petits Débrouillards : Électricité et transmissions de signaux"
-tags: []
-author: tangi
+comments: True
 ---
 ![](http://www.lespetitsdebrouillardsbretagne.org/local/cache-
 vignettes/L162xH200/arton4225-14acd.png)

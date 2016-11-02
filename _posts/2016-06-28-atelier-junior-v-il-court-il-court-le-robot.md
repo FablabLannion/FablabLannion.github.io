@@ -1,14 +1,14 @@
 ---
 author_gravatar: http://2.gravatar.com/avatar/29020340fd48c04adad04976cb909b4f?s=96&d=mm&r=g
 author_fullname: Jérôme Labidurie
-feature: http://fablab-lannion.org/wp-content/uploads/2016/06/AtelierJuniorSoudure1.jpeg
-date: 2016-06-28
+author: jerome
+tags: Formation
+feature: http://fablablannion.github.io/images/AtelierJuniorSoudure1.jpeg
 layout: post
 slug: atelier-junior-v-il-court-il-court-le-robot
-comments: True
+date: 2016-06-28
 title: "Atelier Junior V : il court il court le robot"
-tags: Formation
-author: jerome
+comments: True
 ---
 Ce dernier atelier de la saison a fait le plein, puisque ce sont 10 enfants
 qui étaient présents pour appréhender les mystères de la soudure de

@@ -1,13 +1,13 @@
 ---
 author_gravatar: http://1.gravatar.com/avatar/d04670b347e106df6309c4a3235f00b9?s=96&d=mm&r=g
 author_fullname: Tangi Lavanant
-date: 2016-09-01
+author: tangi
+tags: Actualité
 layout: post
 slug: offres-de-service-civique-au-petits-debrouillards-et-au-fablab
-comments: True
+date: 2016-09-01
 title: "Offres de service civique au Petits Débrouillards et au FabLab"
-tags: Actualité
-author: tangi
+comments: True
 ---
 Les Petits Débrouillards et le Fablab de Lannion proposent 2 offres de service
 civique.
