@@ -6,6 +6,7 @@ slug: adonnantes-demandez-programme
 date: 2016-10-16
 title: "Adonnantes, demandez le programme"
 comments: True
+share: True
 ---
 3ème édition des adonnantes mercredi 19 Octobre à 19h
 
@@ -30,7 +31,3 @@ Les maîtres mots restent partage et bienveillance
 
 L'entrée est libre et gratuite….boissons et pizzas devraient clôturer ce
 moment de convivialité technologique.
-
-
-
-
