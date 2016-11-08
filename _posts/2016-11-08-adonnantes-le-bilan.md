@@ -13,7 +13,7 @@ La 3ème édition des adonnantes s'est déroulé le mercredi 19 Octobre à l'Adi
 Après une bref introduction sur le Fablab, Anticipa, La French Tech et
 code d'Armor, 10 projets ont été présentés devant une salle bien garnie.
 
-![adonnantes](http://fablablannion.github.io//images/posts/20161019_202154.jpg)
+![adonnantes]({{ site.url }}/images/posts/20161019_202154.jpg)
 
 10 projets étaients en effet au programme de cette troisième édition,
 des projets très variés réunissant pour un soir étudiants, entrepreneurs,
@@ -29,17 +29,17 @@ de l'air ainsi qu'un projet de bureau assis debout DIY.
 
 Côté Fablab, Bernard a présenté l'évolution de Bzzz avec un nouveau
 système de pesée et une connectivité LoRa (pas encore tout à fait à la
-hauteur des attentes exprimées par les makers du soir). Julien nous a, 
+hauteur des attentes exprimées par les makers du soir). Julien nous a,
 comme souvent, éclairé de ses lumières, une présentation toute en poésie.
 Manu a présenté son framework robotique à destination des heureux et
-nombreux possesseurs de Légos. 
+nombreux possesseurs de Légos.
 
-Nous avons terminé en beauté avec les benjamins, 2 néo-lycéens venus 
+Nous avons terminé en beauté avec les benjamins, 2 néo-lycéens venus
 partager leur projet de 3ème: une application android ouplée avec des
 capteurs vous alertant d'un risque d'encerclement sur l'île Millau. Leur
 enthousiasme a été impressionant et communicatif!
 
-![adonnantes](http://fablablannion.github.io/images/posts/20161019_213957.jpg)
+![adonnantes]({{ site.url }}/images/posts/20161019_213957.jpg)
 
 Bref si vous souhaitiez vérifier la qualité de l'air pour vos Caméléons
 en ballade dans un char robotique légo quelque part du côté du quai
