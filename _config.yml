@@ -11,7 +11,7 @@ dropcap:          true
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
 static_url:       https://static.fablab-lannion.org
-url:              https://blog.fablab-lannion.org
+url:              https://fablablannion.github.io
 # url:              http://127.0.0.1:4000
 
 
@@ -145,8 +145,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://blog.fablab-lannion.org/'
-  relativeLinks: 'http://blog.fablab-lannion.org/links.jsonp'
+  siteurl: 'http://fablablannion.github.io/'
+  relativeLinks: 'http://fablablannion.github.io/links.jsonp'
   media: 'images'
   metadata:
     _posts:
