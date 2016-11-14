@@ -53,7 +53,7 @@ Grâce à Anatole et Laurent, ce sont 16 personnes qui se sont formées aux base
 de la soudure à l'arc, à sa théorie, mais aussi et surtout a sa pratique dans
 le respect des règles de sécurité. Retrouvez donc au moins la théorie dans
 notre [wiki ](http://fablab-
-lannion.org:8080/wiki/index.php?title=Formation_soudure_%C3%A0_l%27arc)et si
+wiki.fablab-lannion.org/index.php?title=Formation_soudure_%C3%A0_l%27arc)et si
 le besoin se fait sentir vous pourrez bientôt louer le petit poste du Fablab !
 
 [![unnamed](https://static.fablab-lannion.org/unnamed-225x300.jpg)](http://fablab-

@@ -78,7 +78,7 @@ enthousiaste de Lény, avec l'aide précieuse de Yannick.
 Les enfants sont repartis avec leur réalisation et espérons le des envies et
 des rêves de robot. Et pour ceux qui n'auraient pas eu le temps de finir, tout
 est sur le [wiki](http://fablab-
-lannion.org:8080/wiki/index.php?title=Bras_de_Robot)….
+wiki.fablab-lannion.org/index.php?title=Bras_de_Robot)….
 
 [![fondation_fr_quadri](https://static.fablab-lannion.org/fondation_fr_quadri.jpg)](http://fablab-
 lannion.org/2015/12/un-samedi-au-fablab-pour-bien-preparer-

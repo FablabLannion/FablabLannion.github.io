@@ -12,7 +12,7 @@ migrateurs ont aussi pris la route… Pour prendre le relais de notre Géo
 Trouvetou, le FabLab cherche un bénévole référent pour suivre le projet de
 ruche connecté Bzzz
 
-![](http://fablab-lannion.org:8080/wiki/images/thumb/c/c6/Bzzz-
+![](http://fablab-wiki.fablab-lannion.org/images/thumb/c/c6/Bzzz-
 logo_fond_blanc.jpg/800px-Bzzz-logo_fond_blanc.jpg)
 
 Le but du projet de ruche connecté est de créer un système de suivi du poids
@@ -32,7 +32,7 @@ Ouessant](http://www.lycee-ledantec.ac-rennes.fr/agenda21/?p=2226))
 On y est presque !
 
 Si cela vous intéresse vous pouvez consulter [le wiki du
-projet](http://fablab-lannion.org:8080/wiki/index.php?title=Suivi_des_ruches)
+projet](http://fablab-wiki.fablab-lannion.org/index.php?title=Suivi_des_ruches)
 et [prendre contact avec le fablab](http://fablab-lannion.org/contact/), Nous
 avons besoin de vous pour faire aboutir l'un des projets historiques de
 l'association!

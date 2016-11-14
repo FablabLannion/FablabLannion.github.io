@@ -52,8 +52,8 @@ Le nombre minimum pour une session est fixée à 6 projets. Si au 15 septembre,
 on ne pouvait pas compter sur 6 projets, on reporterait à une autre fois.
 
 Pour rappel, liens vers les [adonnantes 1](http://fablab-
-lannion.org:8080/wiki/index.php?title=Adonnantes_1) et les [adonnantes
-2](http://fablab-lannion.org:8080/wiki/index.php?title=Adonnantes_2), sachant
+wiki.fablab-lannion.org/index.php?title=Adonnantes_1) et les [adonnantes
+2](http://fablab-wiki.fablab-lannion.org/index.php?title=Adonnantes_2), sachant
 que la troisième édition ne se limite plus aux projets du fablab….
 
 Les adonnantes, c'est une manière de valoriser les bonnes idées (y compris les

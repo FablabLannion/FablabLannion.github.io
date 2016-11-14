@@ -30,7 +30,7 @@ Plusieurs dizaines de minutes plus tard, les roulettes sont prêtes et vont
 prolonger la vie du lave vaisselle.
 
 La modélisation au format freecad est disponible [ici](http://fablab-
-lannion.org:8080/wiki/index.php?title=Fichier:RouletteV5.zip).
+wiki.fablab-lannion.org/index.php?title=Fichier:RouletteV5.zip).
 
 ![Nouvelle et ancienne
 roulettes](https://static.fablab-lannion.org/Roulettes3D.jpg)

@@ -28,7 +28,7 @@ Les 3h ont été fort remplies et chacun a pu repartir avec son robot
 _grandement_ fonctionnel.
 
 Vous trouverez sur [la page du wiki](http://fablab-
-lannion.org:8080/wiki/index.php?title=Atelier_Soudure) tous les documents
+wiki.fablab-lannion.org/index.php?title=Atelier_Soudure) tous les documents
 utilisés lors de cette séance.
 
 ![AtelierJuniorSoudure4](https://static.fablab-lannion.org/AtelierJuniorSoudure4-300x169.jpeg)

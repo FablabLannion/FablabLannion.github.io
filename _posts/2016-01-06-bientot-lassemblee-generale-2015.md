@@ -26,12 +26,12 @@ l'AG**. La présence de chacun est donc **primordiale**.
 
 Si vous ne pouvez vous déplacer, pensez à donner une
 [procuration](http://fablab-
-lannion.org:8080/wiki/index.php?title=Fichier:Pouvoir_ag.odt). Chaque membre
+wiki.fablab-lannion.org/index.php?title=Fichier:Pouvoir_ag.odt). Chaque membre
 présent est porteur au maximum de 2 procurations.
 
 Et si vous êtes pressés de renouveler votre adhésion ou d'adhérer pour pouvoir
 voter, ne pas hésiter à pré-remplir le bulletin d'adhésion prévu à cet effet :
-[Adhésion](http://fablab-lannion.org:8080/wiki/images/2/20/Fablab-
+[Adhésion](http://fablab-wiki.fablab-lannion.org/images/2/20/Fablab-
 inscription-2016.pdf)
 
 Bien sûr, si des obligations personnelles, familiales voire professionnelles

@@ -34,7 +34,7 @@ antenne au fablab…
 
 Tangi avait déjà défriché le terrain (entre le secrétariat et des boucliers à
 la Charlie) il y a plus d'un an et avait documenté comme il se doit sur notre
-[wiki](http://fablab-lannion.org:8080/wiki/index.php?title=LoRa). Depuis de
+[wiki](http://fablab-wiki.fablab-lannion.org/index.php?title=LoRa). Depuis de
 l'eau a coulé sous les ponts du Leguer, et une équipe de valeureux étudiants
 de l'ENSSAT s'intéresse à un système LoRa pour le suivi de leur raid 2016,
 objectif ne perdre personne entre Beg-Hent et Tonquedec..avec si possible
