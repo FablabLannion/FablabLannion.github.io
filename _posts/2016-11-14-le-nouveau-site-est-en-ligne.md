@@ -29,10 +29,11 @@ Bref, ça allait au delà d'une simple redirection web..
 Ainsi fut fait!
 Le bureau a démontré qu'il le valait bien et met à disposition de
 l'association les ressources web suivantes:
+
 * un portail web responsive proposant les menus principaux: http://fablab-lannion.org/
-* un blog sur une base jekyll https://jekyllrb.com/
-* un forum php BB https://www.phpbb.com/
-* le media wiki https://www.mediawiki.org/wiki/MediaWiki/fr
+* un blog sur une base [jekyll](https://jekyllrb.com/)
+* un forum [php BB](https://www.phpbb.com/)
+* le [media wiki](https://www.mediawiki.org/wiki/MediaWiki/fr)
 
 N'hésitez pas à ouvrir un topic sur le forum pour faire des remarques...
 
