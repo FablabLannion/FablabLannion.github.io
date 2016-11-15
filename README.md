@@ -124,4 +124,16 @@ Les principales sources de documentations sont ici:
 
 * [Jekyll](https://jekyllrb.com/docs/home/)
 * [Notepad Theme](https://github.com/hmfaysal/Notepad)
+
+Pour tester les modifications il y a deux solutions:
+
 * [Tester le site en local](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
+* Forker sur votre compte github et tester les modifications sur votre site:
+ * Forker le projet fablablannion/fablablannion.github.io sur votre compte
+ * Renommer le projet de la manière suivante: ```<votrecompte>.github.io```
+ * modifiez la configuration du projet:
+```
+title:            association KerNEL - site de test
+repository:       <votrecompte>/<votrecompte>.github.io
+url:              https://<votrecompte>.github.io
+```
