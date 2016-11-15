@@ -22,7 +22,7 @@
   <email>{{ site.owner.email }}</email>
 </author>
 {% for post in site.posts limit:20 %}
-{% assign author = site.authors[page.author] %}
+{% assign author = site.authors[post.author] %}
 <entry>
   <title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
   <link rel="alternate" type="text/html" href="{% if post.link %}{{ post.link }}{% else %}{{ site_url }}{{ post.url }}{% endif %}"/>
