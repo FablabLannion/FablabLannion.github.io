@@ -3,7 +3,7 @@ author: colvert
 tags: site web
 layout: post
 slug: nouveau-site
-date: 1916-11-14
+date: 2016-11-14
 title: "Le nouveau site du fablab est arrivé!"
 comments: True
 share: True
