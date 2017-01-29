@@ -43,6 +43,8 @@ links:
     url: /
     external: false
     icon: home
+  - title: Galerie
+    url: https://galerie.fablab-lannion.org
   - title: Archives
     url: /archives
   - title: Forum
