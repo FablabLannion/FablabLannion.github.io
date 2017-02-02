@@ -44,7 +44,7 @@ links:
     external: false
     icon: home
   - title: Galerie
-    url: https://fablablannion.github.io/galerie
+    url: galerie
   - title: Archives
     url: /archives
   - title: Forum
