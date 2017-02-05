@@ -40,7 +40,7 @@ mercredi soir et le vendredi midi:
   * mercredi 8 - 21h: accueil
   * vendredi 10 - 12h30: accueil
   * mercredi 15 - 21h: Découpeuse Laser
-  * vendredi 17 - 12h30: accueil
+  * vendredi 17 - 12h30: Découpeuse Laser
   * mercredi 22 - 21h: Imprimante 3D (Delta)
   * vendredi 24 - 12h30: Imprimante 3D (Delta)
 
