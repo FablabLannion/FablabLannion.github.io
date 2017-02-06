@@ -3,7 +3,7 @@ description:      "Fablab Lannion"
 logo:             logo.png
 disqus_shortname: fablablannion
 default_bg:       laser.jpg
-repository:       colvert/colvert.github.io
+repository:       fablablannion/fablablannion.github.io
 share:            true
 readtime:         true
 dropcap:          true
@@ -11,7 +11,7 @@ dropcap:          true
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
 static_url:       https://static.fablab-lannion.org
-url:              https://colvert.github.io
+url:              https://fablablannion.github.io
 # url:              http://127.0.0.1:4000
 
 
