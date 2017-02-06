@@ -18,11 +18,13 @@ Afin de vous permettre de répondre avec joie et allégresse à ces divers droit
 
 ## Formation accueil
 L'indispensable pour commencer son cursus de FabManager. Vous y apprendrez
+
 * comment présenter et faire visiter le Fablab
 * comment utiliser la caisse pour facturer
 * [plein d'autres choses](http://wiki.fablab-lannion.org/index.php?title=Cat%C3%A9gorie:FichesMachine)
 
 2 séances sont déjà programmées :
+
 * Le mercredi 15 février à 21h
 * Le vendredi 17 février à 12h30
 
