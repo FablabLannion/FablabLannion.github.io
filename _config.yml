@@ -43,6 +43,8 @@ links:
     url: /
     external: false
     icon: home
+  - title: Galerie
+    url: /galerie
   - title: Archives
     url: /archives
   - title: Forum
@@ -61,7 +63,7 @@ links:
 authors:
     colvert:
         name: Morgan Richomme
-        function: Vice secrétaire 2016
+        function: Vice trésorier 2017
         description:
         gravatar: 1055c2d168d9878befb9c8810eda96dc
         twitter: morganrichomme
@@ -69,7 +71,7 @@ authors:
         google_plus:
     david:
         name: David Blaisonneau
-        function: Trésorier 2016
+        function: Trésorier 2017
         description: Make is not an alternative.
         gravatar: d6cd7628bc242b87449712f0fef53924
         twitter: davidblaisonneau
@@ -81,18 +83,20 @@ authors:
         gravatar: 9502acf1be9fecea08fdb1baca814060
     tangi:
         name: Tangi Lavanant
-        function: Secrétaire 2016
+        function: Secrétaire 2017
         gravatar: d04670b347e106df6309c4a3235f00b9
         github: fabtangi
     fablab:
         name: Fablab Lannion
     jerome:
         name: Jérôme Labidurie
-        function: Président 2016
+        function: Président 2017
         gravatar: 29020340fd48c04adad04976cb909b4f
+        twitter: buggerone
+        github: jerome-labidurie
     laurenta:
         name: Laurent Aubertin
-        function: Vice Trésorier 2016
+        function: Membre, ancien vice trésorier 2016
         gravatar: 343d3f84aca2865b6af1ca90c66c6a42
     pofexpray:
         name: Nicolas Guédon

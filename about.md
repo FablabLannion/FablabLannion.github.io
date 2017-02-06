@@ -57,6 +57,7 @@ Informations administratives
 
 L'association a été crée en Décembre 2012 et est déclarée auprès de la sous-préfecture de Lannion
 
+* [Statuts](http://wiki.fablab-lannion.org//index.php?title=Statuts)
 * numéro RNA : W223001420 [Récépissé de déclaration](https://static.fablab-lannion.org//Recepisse_CR.pdf)
 * Parution au JO le 22/12/2012 [Annonce](http://www.journal-officiel.gouv.fr/association/index.php?ACTION=Rechercher&JTY_WALDEC=W223001420)
 * numéro SIREN : 789 912 854
@@ -64,11 +65,11 @@ L'association a été crée en Décembre 2012 et est déclarée auprès de la so
 Informations sur le site
 ========================
 
-Ce site est celui du **FabLab de Lannion**, porté par l'association loi 1901 Kernel. 
+Ce site est celui du **FabLab de Lannion**, porté par l'association loi 1901 Kernel.
 
 Il y a aujourd'hui {{ site.posts | size }} posts dans {{ site.categories | size }} categories contenants {{ total_words }} mots, qui prendront, pour un lecteur moyen ({{ site.wpm }} WPM) environ <span class="time">{{ total_readtime }}</span> minutes a lire.
 
-{% if featuredcount != 0 %}Il y a <a href="{{ site.url }}/featured">{{ featuredcount }} article de qualité</a>, a lire absolument!{% endif %} 
+{% if featuredcount != 0 %}Il y a <a href="{{ site.url }}/featured">{{ featuredcount }} article de qualité</a>, a lire absolument!{% endif %}
 
 L'article le plus récent est {% for post in site.posts limit:1 %}{% if post.description %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}">"{{ post.title }}"</a>{% else %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}" title="Read more about {{ post.title }}">"{{ post.title }}"</a>{% endif %}{% endfor %} publié le {% for post in site.posts limit:1 %}{% assign modifiedtime = post.modified | date: "%Y%m%d" %}{% assign posttime = post.date | date: "%Y%m%d" %}<time datetime="{{ post.date | date_to_xmlschema }}" class="post-time">{{ post.date | date: "%d %b %Y" }}</time>{% if post.modified %}{% if modifiedtime != posttime %} et modifié le <time datetime="{{ post.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ post.modified | date: "%d %b %Y" }}</time>{% endif %}{% endif %}{% endfor %}.
 
