@@ -26,8 +26,8 @@ des objets connectés, des robots, des drones....
 On peut en effet lui associer de nombreux capteurs (température, bruit, ozone, ...),
 leds, moteurs et autres extensions wifi, LoRa, GSM...
 
-![Google logo](https://openclipart.org/image/2400px/svg_to_png/181334/arduino-publicdomain.png)
-*src: openclipart*
+![Google logo](https://upload.wikimedia.org/wikipedia/commons/0/09/Schema_arduino.png)
+*src: SadCloud CC BY-SA 4.0*
 
 Pas besoin d'être électronicien ou informaticien, l'arduino a été conçu pour
 permettre aux grands débrouillards de fabriquer toute sorte de choses sans gros
