@@ -32,12 +32,10 @@ Pour prolonger cette introduction, vous pouvez :
   * participer à un atelier travaux pratiques (dont la forme exacte reste à définir). Passez vous [déclarer sur le forum](http://fablab-lannion.org/groupes/usagers/forum/topic/introduction-arduino-commande-de-starter-kits/).
   * suivre les présentations qui vont se dérouler au long de l'automne/hiver pour découvrir plus en profondeur cette plateforme
 
-Les [slides de la
-présentation(zip)](http://ubuntuone.com/2wrKsabR1vVZdT54Kblqdx) sont
+Les [fichiers de la
+présentation](http://wiki.fablab-lannion.org/index.php?title=FormationArduino) sont
 disponibles sous licence [CC:BY-SA](http://creativecommons.org/licenses/by-
-sa/2.0/fr/) de même que les (petits)
-[schémas(zip)](http://ubuntuone.com/1POzl3r69fHXOWRcfVYaki) et [code
-source(zip)](http://ubuntuone.com/4iUv1ptnGEEvB2OGpSSfdL) des exemples.
+sa/2.0/fr/)
 
 _(Merci à [Marc](https://twitter.com/marcpoppleton) pour les photos)_
 
