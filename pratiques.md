@@ -49,8 +49,12 @@ Horaires
 
 Quel que soit votre niveau de compétence, que vous ayez un projet précis ou que vous soyez simplement curieux, vous êtes bienvenus lors de nos réunions et ateliers hebdomadaires :
 
-* chaque vendredi de 12h30 à 14h00 : réunion d'échanges l'actualité de l'association + atelier ouvert
 * chaque mercredi de 18h00 à 00h00 : atelier ouvert
+* chaque vendredi de 12h30 à 14h00 : réunion d'échanges l'actualité de l'association
+* Chaque vendredi de 14h00 à 18h00 : atelier ouvert
+* chaque samedi de 9h30 à 12h30 : atelier ouvert
+* certains samedis  : atelier thématiques, surveillez le blog et le forum
+
 * A la demande, avec la présence d'un FabManager
 
 Si ce n'est déjà fait, n'hésitez pas à vous inscrire sur le site, afin de recevoir les mises-à-jour sur les dates/heures des ateliers. Chacun peut venir avec son matériel, son projet, ses idées ou avec la simple envie d'apprendre...
