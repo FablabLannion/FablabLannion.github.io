@@ -560,6 +560,7 @@
 
 		// setCaption function
 		setCaption: function () {
+			console.log("setCaption");
 			var iv = this,
 				slide = iv.slides.eq(iv.defs.slide),
 				captions = $('.iview-caption', slide),
