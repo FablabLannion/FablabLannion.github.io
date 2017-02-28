@@ -587,8 +587,8 @@
 				captionContain.css({
 					opacity: 0,
 					position: 'relative',
-					width: w,
-					height: h
+					width: 100%,
+					height: 100%
 				});
 
 				switch (fx) {
