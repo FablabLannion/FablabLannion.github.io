@@ -2,17 +2,7 @@
 <html>
 <head>
 {% include head.html %}
-		<script src="/galerie/js/iview.js"></script>
-		<script>
-			$(document).ready(function(){
-				$('#iview').iView({
-					pauseTime: 3000,
-					directionNav: false,
-					controlNav: true,
-					tooltipY: -15
-				});
-			});
-		</script>
+
 </head>
 <body class="home-template" itemscope itemtype="http://schema.org/WebPage">
 <header class="notepad-site-head">
@@ -199,5 +189,16 @@
     {% include footer.html %}
 
 {% include scripts.html %}
+		<script src="/galerie/js/iview.js"></script>
+		<script>
+			$(document).ready(function(){
+				$('#iview').iView({
+					pauseTime: 3000,
+					directionNav: false,
+					controlNav: true,
+					tooltipY: -15
+				});
+			});
+		</script>
 </body>
 </html>
