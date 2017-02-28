@@ -573,7 +573,7 @@
 					x = (caption.data('x')!="undefined") ? caption.data('x') : "center",
 					y = (caption.data('y')!="undefined") ? caption.data('y') : "center",
 					w = (caption.data('width')) ? caption.data('width') : caption.width(),
-					h = (caption.data('height')) ? caption.data('height') : caption.height(),
+					h = (caption.data('height')) ? caption.data('height') : "auto",
 					oW = caption.outerWidth(),
 					oH = caption.outerHeight();
 					
