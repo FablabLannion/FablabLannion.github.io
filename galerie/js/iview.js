@@ -1411,6 +1411,7 @@
 			//Start Transition
 			iv.defs.lock = true;
 			iv.runTransition(fx);
+			iv.slider.css('background-size', 'cover');
 		},
 
 		playSlider: function () {
@@ -1586,10 +1587,7 @@
 			timerY: 10,
 			tooltipX: 5,
 			tooltipY: -5,
-			onBeforeChange: function () {
-				console.log("onbeforechange");
-				iv.slider = $('.iviewSlider');
-				iv.slider.css('background-size','cover');},
+			onBeforeChange: function () {},
 			onAfterChange: function () {},
 			onAfterLoad: function () {},
 			onLastSlide: function () {},
