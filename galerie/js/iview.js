@@ -399,7 +399,7 @@
 
 			//Set first background
 			iv.slider.css('background', 'url("' + iv.defs.image.data('iview:image') + '") no-repeat');
-
+			iv.slider.css('background-size','cover');
 			//Set initial caption
 			iv.setCaption(iv.options);
 
