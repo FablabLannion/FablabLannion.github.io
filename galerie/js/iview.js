@@ -1523,6 +1523,7 @@
 			oImage.src = p_oImage
 		},
 		OnComplete: function () {
+			console.log("ImagePreload.OnComplete");
 			this.m_nProcessed++;
 			if (this.m_nProcessed == this.m_nICount) this.m_pfnFinished();
 			else this.m_pfnPercent(Math.round((this.m_nProcessed / this.m_nICount) * 10))
