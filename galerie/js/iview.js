@@ -22,8 +22,7 @@
 			//Get slider
 			iv.slider = $('.iviewSlider', iv.sliderContent);
 			iv.slider.css('position', 'relative');
-			console.log("avant de setter le background-size=cover");
-			iv.slider.css('background-size', 'cover');
+
 
 			//Necessary variables.
 			iv.defs = {
@@ -52,6 +51,8 @@
 				iv.defs.images.push(slide.data("iview:image"));
 				if (slide.data("iview:thumbnail")) iv.defs.images.push(slide.data("iview:thumbnail"));
 				slide.css('display', 'none');
+				console.log("avant de setter le background-size=cover dans la slide");
+				slide.css('background-size', 'cover');
 
 				//Find videos
 				if (slide.data("iview:type") == "video") {
