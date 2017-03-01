@@ -839,6 +839,8 @@
 		runTransition: function (fx) {
 			var iv = this;
 
+			iv.slider.css('background-size', 'cover');
+			
 			switch (fx) {
 			case 'strip-up-right':
 			case 'strip-up-left':
