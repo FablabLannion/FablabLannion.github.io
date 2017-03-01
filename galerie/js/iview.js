@@ -74,7 +74,7 @@
 				height: iv.defs.height
 			});
 
-			iv.slides.each(function (i) {
+			$('#iviewSlider').each(function (i) {
 				$( this ).css("background-size", "cover");
 				
 			});
