@@ -314,6 +314,7 @@
 				if ($(this).hasClass('active')) return false;
 				iv.cleanTimer();
 				iv.slider.css('background', 'url("' + iv.defs.image.data('iview:image') + '") no-repeat');
+				iv.slider.css('background-size', 'cover');
 				iv.defs.slide = slide - 1;
 				iv.goTo('control');
 			});
@@ -1359,6 +1360,7 @@
 					iv.slider.css('background', 'url("' + iv.defs.image.data('iview:image') + '") no-repeat');
 				}
 			}
+			iv.slider.css('background-size', 'cover');
 			iv.defs.slide++;
 
 			//Trigger the onSlideShowEnd callback
