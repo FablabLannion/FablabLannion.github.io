@@ -75,7 +75,8 @@
 			});
 
 			iv.slides.each(function (i) {
-				"background-size": "cover"
+				$( this ).css("background-size", "cover");
+				
 			});
 			
 			
