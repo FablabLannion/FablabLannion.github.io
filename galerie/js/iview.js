@@ -1337,6 +1337,7 @@
 
 		// goTo function
 		goTo: function (action) {
+			console.log('goto');
 			var iv = this;
 			//Trigger the onLastSlide callback
 			if (iv.defs && (iv.defs.slide == iv.defs.total - 1)) {
