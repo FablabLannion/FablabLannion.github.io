@@ -341,7 +341,8 @@
 						'-moz-transform' : 'scale('+ ratio +')',
 						'-o-transform' : 'scale('+ ratio +')',
 						'-ms-transform' : 'scale('+ ratio +')',
-						'transform' : 'scale('+ ratio +')'
+						'transform' : 'scale('+ ratio +')',
+						'background-size' : 'cover'
 					});
 					t.css({ height: newHeight });
 					iv.defs.width = tW;
