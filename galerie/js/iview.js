@@ -801,6 +801,7 @@
 					top: top,
 					left: left,
 					background: 'url("' + iv.defs.image.data('iview:image') + '") no-repeat ' + bgPosition,
+					'background-size': 'cover',
 					opacity: 0
 				});
 
