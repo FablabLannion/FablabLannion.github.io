@@ -72,7 +72,7 @@
 			}).css({
 				width: iv.defs.width,
 				height: iv.defs.height,
-				background-size: "cover"
+				background-size: 'cover'
 			});
 
 			//Set Preloader Element
