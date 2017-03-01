@@ -321,7 +321,7 @@
 			
 			//Bind the resize action
 			iv.sliderContent.bind('resize', function () {
-				
+				console.log("resize");
 				t = $(this),
 				tW = t.width(),
 				tH = t.height(),
