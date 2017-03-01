@@ -74,10 +74,7 @@
 				height: iv.defs.height
 			});
 
-			$('#iviewSlider').each(function (i) {
-				$( this ).css("background-size", "cover");
-				
-			});
+			$('.iviewSlider').css("background-size","cover");
 			
 			
 			//Set Preloader Element
