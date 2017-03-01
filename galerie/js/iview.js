@@ -750,7 +750,7 @@
 			iv.slides.eq(iv.defs.slide).show();
 
 			iv.slider.css('background', 'url("' + iv.defs.image.data('iview:image') + '") no-repeat');
-
+			iv.slider.css('background-size', 'cover');
 			// Remove any strips and blocks from last transition
 			$('.iview-strip, .iview-block', iv.slider).remove();
 
