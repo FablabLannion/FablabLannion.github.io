@@ -350,6 +350,7 @@
 					//Set Timer Position
 					iv.setTimerPosition();
 				}
+				iv.slider.css('background-size' : 'cover');
 			});
 			
 			//Bind video display
