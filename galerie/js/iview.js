@@ -384,7 +384,7 @@
 		//Start Slider
 		startSlider: function () {
 			var iv = this;
-			
+			iv.slider.css('background-size', 'cover');
 			var img = new Image();
 			img.src = iv.slides.eq(0).data('iview:image');
 			imgWidth = img.width;
@@ -1341,6 +1341,7 @@
 		goTo: function (action) {
 			console.log('goto');
 			var iv = this;
+			iv.slider.css('background-size', 'cover');
 			//Trigger the onLastSlide callback
 			if (iv.defs && (iv.defs.slide == iv.defs.total - 1)) {
 				iv.options.onLastSlide.call(this);
