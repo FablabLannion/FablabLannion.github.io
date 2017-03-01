@@ -71,10 +71,14 @@
 				iv.defs.total++;
 			}).css({
 				width: iv.defs.width,
-				height: iv.defs.height,
-				background-size: 'cover'
+				height: iv.defs.height
 			});
 
+			iv.slides.each(function (i) {
+				"background-size": "cover"
+			});
+			
+			
 			//Set Preloader Element
 			iv.sliderContent.append('<div id="iview-preloader"><div></div></div>');
 			var iviewPreloader = $('#iview-preloader', iv.sliderContent);
