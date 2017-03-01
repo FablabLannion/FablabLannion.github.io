@@ -26,6 +26,7 @@
 	height: 500px;
 	overflow: hidden;
 	border-radius: 4px;
+	background-size: cover;
 }
 
 .iview-controlNav {
