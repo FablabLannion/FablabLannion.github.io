@@ -1586,7 +1586,10 @@
 			timerY: 10,
 			tooltipX: 5,
 			tooltipY: -5,
-			onBeforeChange: function () {},
+			onBeforeChange: function () {
+				console.log("onbeforechange");
+				iv.slider = $('.iviewSlider');
+				iv.slider.css('background-size','cover');},
 			onAfterChange: function () {},
 			onAfterLoad: function () {},
 			onLastSlide: function () {},
