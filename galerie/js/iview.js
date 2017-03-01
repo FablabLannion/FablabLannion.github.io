@@ -30,7 +30,7 @@
 				image: '',
 				images: [],
 				width: iv.sliderContent.width(),
-				height: iv.sliderContent.height(),
+				height: "100%",// iv.sliderContent.height(),
 				timer: options.timer.toLowerCase(),
 				lock: false,
 				paused: (options.autoAdvance) ? false : true,
