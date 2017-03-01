@@ -1297,6 +1297,7 @@
 				});
 				break;
 			}
+			iv.slider.css('background-size', 'cover');
 		},
 
 		// Shuffle an array
