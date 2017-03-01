@@ -572,7 +572,7 @@
 					easing = (caption.data('easing')) ? caption.data('easing') : iv.options.captionEasing,
 					x = (caption.data('x')!="undefined") ? caption.data('x') : "center",
 					y = (caption.data('y')!="undefined") ? caption.data('y') : "center",
-					w = (caption.data('width')) ? caption.data('width') : caption.width(),
+					w = (caption.data('width')) ? caption.data('width') : "auto",
 					h = (caption.data('height')) ? caption.data('height') : "auto",
 					oW = caption.outerWidth(),
 					oH = caption.outerHeight();
