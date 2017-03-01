@@ -22,6 +22,7 @@
 			//Get slider
 			iv.slider = $('.iviewSlider', iv.sliderContent);
 			iv.slider.css('position', 'relative');
+			console.log("avant de setter le background-size=cover");
 			iv.slider.css('background-size', 'cover');
 
 			//Necessary variables.
