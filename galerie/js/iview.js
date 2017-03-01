@@ -321,7 +321,7 @@
 				tW = t.width(),
 				tH = t.height(),
 				width = iv.slider.width(),
-				height = iv.slider.height();
+				height = "100%"; //iv.slider.height();
 
 				if(iv.defs.width != tW){
 					var ratio = (tW / width),
