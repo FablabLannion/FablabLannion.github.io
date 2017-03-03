@@ -1577,7 +1577,7 @@
 			autoAdvance: true,
 			keyboardNav: true,
 			touchNav: true,
-			pauseOnHover: false,
+			pauseOnHover: true,
 			nextLabel: "Suivant",
 			previousLabel: "Précédent",
 			playLabel: "Play",
