@@ -1559,7 +1559,7 @@
 			blockCols: 10,
 			blockRows: 5,
 			animationSpeed: 500,
-			pauseTime: 7000,
+			pauseTime: 8000,
 			startSlide: 0,
 			directionNav: true,
 			directionNavHoverOpacity: 0.6,
