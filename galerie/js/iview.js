@@ -389,6 +389,7 @@
 			iv.slider.css('background-size', 'cover');
 			var img = new Image();
 			img.src = iv.slides.eq(0).data('iview:image');
+			console.log(img.src);
 			imgWidth = img.width;
 			if(imgWidth != iv.defs.width){
 				iv.defs.width = imgWidth;
