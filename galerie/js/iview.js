@@ -1579,7 +1579,7 @@
 			playLabel: "Play",
 			pauseLabel: "Pause",
 			closeLabel: "Fermer",
-			randomStart: false,
+			randomStart: true,
 			timer: 'Pie',
 			timerBg: '#000',
 			timerColor: '#EEE',
