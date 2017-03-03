@@ -109,7 +109,7 @@
 
 			//Set pauseTime
 			iv.defs.time = (iv.defs.image.data('iview:pausetime')) ? iv.defs.image.data('iview:pausetime') : options.pauseTime;
-
+			console.log(iv.defs.time);
 			//Set easing
 			iv.defs.easing = (iv.defs.image.data('iview:easing')) ? iv.defs.image.data('iview:easing') : options.easing;
 
