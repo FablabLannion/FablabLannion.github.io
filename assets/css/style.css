@@ -8,6 +8,7 @@
   clear: both; }
 
 body {
+  color: #222;
   font-family: "Open Sans", sans-serif;
   height: auto;
   min-height: 100%;
@@ -228,7 +229,7 @@ main, .notepad-share-icons, .notepad-disqus {
       padding-top: 4.375rem;
       padding-bottom: 4.375rem; }
       .notepad-content .notepad-index-post:first-of-type {
-        padding-top: 2rem; }
+        padding-top: 7.5rem; }
       .notepad-content .notepad-index-post .datetime {
         margin-bottom: 0; } }
   .notepad-content .notepad-index-post .notepad-post-meta {
