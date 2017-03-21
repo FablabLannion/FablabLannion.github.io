@@ -12,7 +12,7 @@ share: True
 Au FabLab, nous respectons nos promesses de campagne, et une de ces promesses était la diffusion de la technologie LoRa.
 Suite à la commande de LoPy, ces petits modules LoRa accessibles en terme de prix et de prise en mains,
 nous vous proposons une première session de découverte de la bête,
-pour vous faire partager notre expérience sur l'utilisation de LoPy et vous aider à le prendre en main.
+pour vous faire partager notre expérience sur l'utilisation de LoPy et vous aider à coder votre premier projet.
 
 Au programme (ordre à définir en fonction des envies):
 * Getting started, prise en main du LoPy, du logiciel PyMakr et des alternatives, et quelques notions de MicroPython
