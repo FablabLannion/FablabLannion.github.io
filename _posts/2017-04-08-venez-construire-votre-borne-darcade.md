@@ -21,7 +21,9 @@ Aussi quelques grands enfants du fablab ont décidé de jouer aux kids paddle
 version maker en se lançant dans la fabrication de leur propre borne d'arcade.
 
 Jérôme a réalisé une [super documentation](http://fablab-
-lannion.org/wiki/index.php?title=Borne_d%27arcade)
+lannion.org/wiki/index.php?title=Borne_d%27arcade) permettant de réaliser ce
+sympathique objet qui concentre pas mal de savoir-faire du fablab (découpeuse
+Laser, électronique, raspberry, ...)
 
 Une petite dizaine de bornes a vu le jour au fablab depuis 2015.
 Nous louons d'ailleurs régulièrement les 2 exemplaires réalisés pour Libre en
@@ -40,7 +42,7 @@ lancée prochainement.
 Pour les personnes intéressées, surveillez le forum, un post dédié sera bientôt
 publié.
 
-Amateur de "Street Fighter", "Pang" , "After Burner", "Metal Slug", "Out run" ou Arkanoïd..
+Amateurs de "Street Fighter", "Pang" , "After Burner", "Metal Slug", "Out run" ou Arkanoïd..
 rejoignez le projet!
 
 ![](https://upload.wikimedia.org/wikipedia/en/2/20/SpaceInvaders-
