@@ -25,7 +25,7 @@ une intuition et échanger avec les autres projets ou le public.
 
 Les maîtres mots sont partage et bienveillance.
 
-L'entrée est libre et gratuite
+L'entrée est libre et gratuite.
 
 Boissons et pizzas devraient clôturer ce petit moment de convivialité technologique.
 
