@@ -10,13 +10,16 @@ share: True
 
 ---
 
-Députée de la circonscription de Lannion-Paimpol, Corinne Ehrel est décédée brutalement Vendredi soir. 
-Impliquée avec pertinence et conviction, tant dans dans les dossiers locaux que les dossiers liés au numérique, 
-son soutien n'a jamais fait défaut au Fablab de Lannion.
-Concrètement, l'attribution d'une partie de sa réservè parlementaire nous a permis d'acquérir nos premières machines.
+Députée de la circonscription de Lannion-Paimpol, Corinne Ehrel est décédée brutalement vendredi soir. 
+
+Très impliquée dans les dossiers liés au numérique et au développement du territoire, elle a dès le début apporté son soutien au Fablab de Lannion. 
+
+Toujours à l'écoute, elle a partagé avec conviction sa passion d'une innovation locale au service des Trégorrois.
+
+Concrètement, l'attribution d'une partie de sa réserve parlementaire nous a permis d'acquérir nos premières machines.
 
 On la voit ici porter l'un des projets incubés au Fablab :
 
 ![adonnantes]({{ site.url }}/images/posts/PhotoCEhrelBijou.JPG)
 
-Le Fablab Lannion s'associe à l'émotion et à la douleur provoquée par son décès.
+Le Fablab de Lannion s'associe à la douleur de sa famille et de ses proches.
