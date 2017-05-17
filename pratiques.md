@@ -40,8 +40,7 @@ Contacts
     </span>
 </a>
 
-Par téléphone au 02 96 37 84 46. N’hésitez pas à laisser un message, nous vous recontacterons.
-
+Par mail à l'adresse: [contact@fablab-lannion.org](mailto://contact@fablab-lannion.org)
 Vous pouvez aussi utiliser le [formulaire idoine](https://forum.fablab-lannion.org/memberlist.php?mode=contactadmin).
 
 Horaires
