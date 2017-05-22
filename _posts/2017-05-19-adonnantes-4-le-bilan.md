@@ -18,7 +18,7 @@ code d'Armor, 11 projets ont été présentés devant une salle bien garnie.
 Cette session faisait la part belle aux projets étudiants avec 3 projets du
 Lycée le Dantec et un projet du BTS. Les associations étaient bien représentées
 avec le Fablab, Code d'Armor, Trégor bicyclette. Des projets personnels étaient
-également de la partie. Orange et le Ericsson étaient aussi présents.
+également de la partie. Orange et le garage Ericsson étaient aussi présents.
 
 Le fablab présentait 2 sujets.
 
@@ -51,7 +51,7 @@ LoRa du fablab.
 Les étudiants du Lycée le Dantec avec leur poubelle intelligente
 ![adonnantes](https://pbs.twimg.com/media/DAIGxW5XgAE_Qwf.jpg)
 
-Docteur megret présentant son projet de dossier partagé pour accompagner la
+Docteur Megret présentant son projet de dossier partagé pour accompagner la
 sportive bretonne
 ![adonnantes](https://pbs.twimg.com/media/DAIJFwrXUAEEvGB.jpg)
 
