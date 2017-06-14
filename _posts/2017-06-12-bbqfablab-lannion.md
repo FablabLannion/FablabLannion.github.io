@@ -41,7 +41,7 @@ Chacun amène un peu, et tout le monde mange à tous les rateliers :)
 Saucisses, steacks, grillades en tout genre. Chips, salades et autres accompagnements.
 Boissons pour les petits et les grands, tout est bienvenue.
 
-![BBQ](https://static.fablab-lannion.org/bbq_320.jpg)
+![BBQ](http://static.fablab-lannion.org/bbq_320.jpg)
 
 **Les familles sont bien sûr invitées**, c'est aussi l'occasion de faire découvrir le Fablab à votre moitié(e) et à vos enfants.
 Un moyen de susciter des vocations ? ;)
