@@ -31,7 +31,7 @@ Ce sera aussi l'occasion de s'affronter amicalement autour d'un concours de Stre
 Que vous soyez musicien(ne), acteur(trice), danseur(seuse), roboticien(ne) ou autre, une scène sera à votre disposition
 pour faire découvrir vos autres talents aux membres du Fablab.
 Scène ouverte de TODOh jusqu'à la tombée de la nuit.
-inscriptions en suivant ce lien : TODO Lien d'inscription
+inscriptions en suivant ce lien : https://framadate.org/1qld4ZQxA6V5YTCB
 
 ![Music](http://static.fablab-lannion.org/music_band.jpg)
 
