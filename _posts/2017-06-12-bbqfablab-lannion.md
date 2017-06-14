@@ -11,7 +11,7 @@ comments: True
 
 Cette année, plusieurs évènements seront groupés autour de l'habituel barbecue participatif :
 * La 1ère rencontre internationnale des bornes d'arcades de Lannion à partir de 16h
-* Une scène ouverte à tous les talents que vous pourriez nous montrer de xxh à xxh
+* Une scène ouverte à tous les talents que vous pourriez nous montrer de 18h30 à 20h30
 * le barbecue à la mode : chacun amène, tout le monde mange à partir de 18h
 
 
@@ -30,7 +30,7 @@ Ce sera aussi l'occasion de s'affronter amicalement autour d'un concours de Stre
 ## Scène ouverte
 Que vous soyez musicien(ne), acteur(trice), danseur(seuse), roboticien(ne) ou autre, une scène sera à votre disposition
 pour faire découvrir vos autres talents aux membres du Fablab.
-Scène ouverte de TODOh jusqu'à la tombée de la nuit.
+Scène ouverte de 18h30 jusqu'à 20h30.
 inscriptions en suivant ce lien : https://framadate.org/1qld4ZQxA6V5YTCB
 
 ![Music](http://static.fablab-lannion.org/music_band.jpg)
