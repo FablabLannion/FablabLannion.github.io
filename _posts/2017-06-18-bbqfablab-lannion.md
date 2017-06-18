@@ -19,7 +19,7 @@ Cette année, plusieurs évènements seront groupés autour de l'habituel barbec
 **Le Samedi 1er juillet 2017 à partir de 16h**
 
 ## 1ère rencontre internationnale des bornes d'arcades de Lannion
-À partir de 16, vous pourrez découvrir les différentes réalisations de nos membres (ou futurs membres).
+À partir de 16h, vous pourrez découvrir les différentes réalisations de nos membres (ou futurs membres).
 Toutes les bornes BarTop, manettes, full size sont les bienvenues.
 Ce sera aussi l'occasion de s'affronter amicalement autour d'un concours de Street Fighter II'
 (inscriptions sur place)
@@ -47,6 +47,6 @@ l'occasion jusqu'ici"_, de nous rencontrer et de discuter !
 Envie de venir ? Une question ? utilisez donc l'@ mail habituelle :
 contact@fablab-lannion.org
 
-Source images :
-* https://www.flickr.com/photos/star-one/2584814562/
-* https://www.flickr.com/photos/27190564@N02/28112373163/
+Source image :
+* https://www.flickr.com/photos/27190564@N02/28112373163/ - Kirt Edblom - CC:by-sa
+
