@@ -4,20 +4,19 @@ tags: Vie de l'association, Actualité
 imagefeature: https://static.fablab-lannion.org/barbecue-1.jpg
 layout: post
 slug: bbqfablab17
-date: 2017-06-12
+date: 2017-06-18
 title: "Barbecue participatif : 1er juillet"
 comments: True
 ---
 
+C'est avec grand plaisir que nous vous invitons à cette 4ème édition du barbecue annuel du FabLab de Lannion.
+
 Cette année, plusieurs évènements seront groupés autour de l'habituel barbecue participatif :
 * La 1ère rencontre internationnale des bornes d'arcades de Lannion à partir de 16h
-* Une scène ouverte à tous les talents que vous pourriez nous montrer de 18h30 à 20h30
 * le barbecue à la mode : chacun amène, tout le monde mange à partir de 18h
 
 
 **Le Samedi 1er juillet 2017 à partir de 16h**
-
-C'est avec grand plaisir que nous vous invitons à cette 4ème édition du barbecue annuel du FabLab de Lannion.
 
 ## 1ère rencontre internationnale des bornes d'arcades de Lannion
 À partir de 16, vous pourrez découvrir les différentes réalisations de nos membres (ou futurs membres).
@@ -26,14 +25,6 @@ Ce sera aussi l'occasion de s'affronter amicalement autour d'un concours de Stre
 (inscriptions sur place)
 
 ![Bornes](http://wiki.fablab-lannion.org/images/thumb/6/67/Rw_IMG_20160313_174559.jpg/320px-Rw_IMG_20160313_174559.jpg)
-
-## Scène ouverte
-Que vous soyez musicien(ne), acteur(trice), danseur(seuse), roboticien(ne) ou autre, une scène sera à votre disposition
-pour faire découvrir vos autres talents aux membres du Fablab.
-Scène ouverte de 18h30 jusqu'à 20h30.
-inscriptions en suivant ce lien : https://framadate.org/1qld4ZQxA6V5YTCB
-
-![Music](http://static.fablab-lannion.org/music_band.jpg)
 
 ## Apéritif/Barbecue participatif
 Comme tous les ans, la formule reste le partage et la convivialité.
