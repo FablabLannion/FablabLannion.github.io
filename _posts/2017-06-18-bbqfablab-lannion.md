@@ -12,14 +12,14 @@ comments: True
 C'est avec grand plaisir que nous vous invitons à cette 4ème édition du barbecue annuel du FabLab de Lannion.
 
 Cette année, plusieurs évènements seront groupés autour de l'habituel barbecue participatif :
-* La 1ère rencontre internationnale des bornes d'arcades de Lannion à partir de 16h
+* La 1ère rencontre internationnale des bornes d'arcades de Lannion à partir de 16h30
 * le barbecue à la mode : chacun amène, tout le monde mange à partir de 18h
 
 
-**Le Samedi 1er juillet 2017 à partir de 16h**
+**Le Samedi 1er juillet 2017 à partir de 16h30**
 
 ## 1ère rencontre internationnale des bornes d'arcades de Lannion
-À partir de 16h, vous pourrez découvrir les différentes réalisations de nos membres (ou futurs membres).
+À partir de 16h30, vous pourrez découvrir les différentes réalisations de nos membres (ou futurs membres).
 Toutes les bornes BarTop, manettes, full size sont les bienvenues.
 Ce sera aussi l'occasion de s'affronter amicalement autour d'un concours de Street Fighter II'
 (inscriptions sur place)
