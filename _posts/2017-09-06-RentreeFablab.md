@@ -21,9 +21,9 @@ Nous serons sur la mezzanine, pas loin de [Code d'Armor](www.codedarmor.fr)...
 
 De nombreux projets sont en cours ou à venir, autours de nouvelles machines, de l'IoT, etc...
 
-Nous acueillons bien volontiers tous ceux voulant participer !
+Nous accueillons bien volontiers tous ceux voulant participer !
 
-D'autre rendez-vous suivrons tout au long de l'année comme par exemple la [Fête de la Science](http://www.lannion-tregor.com/fr/evenement/1159-fete-de-la-science-2017.html), [Libre en Fête 2018](http://libre-en-fete-tregor.fr/)
+D'autres rendez-vous suivront tout au long de l'année comme par exemple la [Fête de la Science](http://www.lannion-tregor.com/fr/evenement/1159-fete-de-la-science-2017.html)et [Libre en Fête 2018](http://libre-en-fete-tregor.fr/)
 
 Restez connectés !
 
