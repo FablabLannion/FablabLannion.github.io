@@ -4,7 +4,7 @@ tags: []
 imagefeature: 
 layout: post
 slug: La rentrée du Fablab
-date: 2016-08-29
+date: 2017-09-06
 title: "La rentrée du Fablab"
 comments: True
 ---
