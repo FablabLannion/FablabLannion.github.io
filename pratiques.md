@@ -40,8 +40,7 @@ Contacts
     </span>
 </a>
 
-Par téléphone au 02 96 37 84 46. N’hésitez pas à laisser un message, nous vous recontacterons.
-
+Par mail à l'adresse: [contact@fablab-lannion.org](mailto://contact@fablab-lannion.org)
 Vous pouvez aussi utiliser le [formulaire idoine](https://forum.fablab-lannion.org/memberlist.php?mode=contactadmin).
 
 Horaires
@@ -49,8 +48,8 @@ Horaires
 
 Quel que soit votre niveau de compétence, que vous ayez un projet précis ou que vous soyez simplement curieux, vous êtes bienvenus lors de nos réunions et ateliers hebdomadaires :
 
-* chaque vendredi de 12h30 à 14h00 : réunion d'échanges l'actualité de l'association + atelier ouvert
 * chaque mercredi de 18h00 à 00h00 : atelier ouvert
+* chaque vendredi de 12h30 à 14h00 : réunion d'échanges l'actualité de l'association
 * A la demande, avec la présence d'un FabManager
 
 Si ce n'est déjà fait, n'hésitez pas à vous inscrire sur le site, afin de recevoir les mises-à-jour sur les dates/heures des ateliers. Chacun peut venir avec son matériel, son projet, ses idées ou avec la simple envie d'apprendre...

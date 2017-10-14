@@ -50,8 +50,9 @@ links:
     external: true
   - title: Wiki
     url: https://wiki.fablab-lannion.org
+    external: true
   - title: Git
-    url:http://github.com/FablabLannion 
+    url: http://github.com/FablabLannion 
     external: true
   - title: Infos pratiques
     url: /horaires-et-acces

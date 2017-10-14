@@ -25,8 +25,8 @@ L'indispensable pour commencer son cursus de FabManager. Vous y apprendrez
 
 2 séances sont déjà programmées :
 
-* Le mercredi 15 février à 21h
-* Le vendredi 17 février à 12h30
+* Le mercredi 8 février à 21h
+* Le vendredi 10 février à 12h30
 
 ## Formation Découpeuse Laser
 Comment utiliser et encadrer l'utilisation de la découpeuse laser (Keyland).
