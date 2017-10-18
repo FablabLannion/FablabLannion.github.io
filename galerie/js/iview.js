@@ -22,6 +22,7 @@
 			//Get slider
 			iv.slider = $('.iviewSlider', iv.sliderContent);
 			iv.slider.css('position', 'relative');
+			iv.slider.css('background-size','cover');
 
 			//Necessary variables.
 			iv.defs = {
@@ -29,8 +30,8 @@
 				total: 0,
 				image: '',
 				images: [],
-				width: iv.sliderContent.width(),
-				height: iv.sliderContent.height(),
+				width: "100%", //iv.sliderContent.width(),
+				height: "100%", // iv.sliderContent.height(),
 				timer: options.timer.toLowerCase(),
 				lock: false,
 				paused: (options.autoAdvance) ? false : true,
@@ -73,6 +74,9 @@
 				height: iv.defs.height
 			});
 
+
+			
+			
 			//Set Preloader Element
 			iv.sliderContent.append('<div id="iview-preloader"><div></div></div>');
 			var iviewPreloader = $('#iview-preloader', iv.sliderContent);
@@ -105,7 +109,10 @@
 
 			//Set pauseTime
 			iv.defs.time = (iv.defs.image.data('iview:pausetime')) ? iv.defs.image.data('iview:pausetime') : options.pauseTime;
-
+			console.log(iv.defs.time);
+			console.log(iv.defs.image.data);
+			console.log(iv.defs.image.data('iview:pausetime'));
+			console.log(options.pauseTime);
 			//Set easing
 			iv.defs.easing = (iv.defs.image.data('iview:easing')) ? iv.defs.image.data('iview:easing') : options.easing;
 
@@ -310,18 +317,19 @@
 				if ($(this).hasClass('active')) return false;
 				iv.cleanTimer();
 				iv.slider.css('background', 'url("' + iv.defs.image.data('iview:image') + '") no-repeat');
+				iv.slider.css('background-size', 'cover');
 				iv.defs.slide = slide - 1;
 				iv.goTo('control');
 			});
 			
 			//Bind the resize action
 			iv.sliderContent.bind('resize', function () {
-				
+				console.log("resize");
 				t = $(this),
 				tW = t.width(),
 				tH = t.height(),
 				width = iv.slider.width(),
-				height = iv.slider.height();
+				height = "100%"; //iv.slider.height();
 
 				if(iv.defs.width != tW){
 					var ratio = (tW / width),
@@ -336,7 +344,8 @@
 						'-moz-transform' : 'scale('+ ratio +')',
 						'-o-transform' : 'scale('+ ratio +')',
 						'-ms-transform' : 'scale('+ ratio +')',
-						'transform' : 'scale('+ ratio +')'
+						'transform' : 'scale('+ ratio +')',
+						'background-size' : 'cover'
 					});
 					t.css({ height: newHeight });
 					iv.defs.width = tW;
@@ -344,6 +353,7 @@
 					//Set Timer Position
 					iv.setTimerPosition();
 				}
+				iv.slider.css({'background-size' : 'cover'});
 			});
 			
 			//Bind video display
@@ -379,9 +389,10 @@
 		//Start Slider
 		startSlider: function () {
 			var iv = this;
-			
+			iv.slider.css('background-size', 'cover');
 			var img = new Image();
 			img.src = iv.slides.eq(0).data('iview:image');
+			console.log(img.src);
 			imgWidth = img.width;
 			if(imgWidth != iv.defs.width){
 				iv.defs.width = imgWidth;
@@ -395,7 +406,7 @@
 
 			//Set first background
 			iv.slider.css('background', 'url("' + iv.defs.image.data('iview:image') + '") no-repeat');
-
+			iv.slider.css('background-size','cover');
 			//Set initial caption
 			iv.setCaption(iv.options);
 
@@ -560,6 +571,7 @@
 
 		// setCaption function
 		setCaption: function () {
+			console.log("setCaption");
 			var iv = this,
 				slide = iv.slides.eq(iv.defs.slide),
 				captions = $('.iview-caption', slide),
@@ -571,8 +583,8 @@
 					easing = (caption.data('easing')) ? caption.data('easing') : iv.options.captionEasing,
 					x = (caption.data('x')!="undefined") ? caption.data('x') : "center",
 					y = (caption.data('y')!="undefined") ? caption.data('y') : "center",
-					w = (caption.data('width')) ? caption.data('width') : caption.width(),
-					h = (caption.data('height')) ? caption.data('height') : caption.height(),
+					w = (caption.data('width')) ? caption.data('width') : "auto",
+					h = (caption.data('height')) ? caption.data('height') : "auto",
 					oW = caption.outerWidth(),
 					oH = caption.outerHeight();
 					
@@ -587,8 +599,8 @@
 				captionContain.css({
 					opacity: 0,
 					position: 'relative',
-					width: w,
-					height: h
+					width: '100%',
+					height: '100%'
 				});
 
 				switch (fx) {
@@ -744,7 +756,7 @@
 			iv.slides.eq(iv.defs.slide).show();
 
 			iv.slider.css('background', 'url("' + iv.defs.image.data('iview:image') + '") no-repeat');
-
+			iv.slider.css('background-size', 'cover');
 			// Remove any strips and blocks from last transition
 			$('.iview-strip, .iview-block', iv.slider).remove();
 
@@ -793,6 +805,7 @@
 					top: top,
 					left: left,
 					background: 'url("' + iv.defs.image.data('iview:image') + '") no-repeat ' + bgPosition,
+					'background-size': 'cover',
 					opacity: 0
 				});
 
@@ -833,6 +846,8 @@
 		runTransition: function (fx) {
 			var iv = this;
 
+			iv.slider.css('background-size', 'cover');
+			
 			switch (fx) {
 			case 'strip-up-right':
 			case 'strip-up-left':
@@ -1288,6 +1303,7 @@
 				});
 				break;
 			}
+			iv.slider.css('background-size', 'cover');
 		},
 
 		// Shuffle an array
@@ -1331,7 +1347,9 @@
 
 		// goTo function
 		goTo: function (action) {
+			console.log('goto');
 			var iv = this;
+			iv.slider.css('background-size', 'cover');
 			//Trigger the onLastSlide callback
 			if (iv.defs && (iv.defs.slide == iv.defs.total - 1)) {
 				iv.options.onLastSlide.call(this);
@@ -1354,6 +1372,7 @@
 					iv.slider.css('background', 'url("' + iv.defs.image.data('iview:image') + '") no-repeat');
 				}
 			}
+			iv.slider.css('background-size', 'cover');
 			iv.defs.slide++;
 
 			//Trigger the onSlideShowEnd callback
@@ -1403,6 +1422,7 @@
 			//Start Transition
 			iv.defs.lock = true;
 			iv.runTransition(fx);
+			iv.slider.css('background-size', 'cover');
 		},
 
 		playSlider: function () {
@@ -1509,6 +1529,7 @@
 			oImage.src = p_oImage
 		},
 		OnComplete: function () {
+			console.log("ImagePreload.OnComplete");
 			this.m_nProcessed++;
 			if (this.m_nProcessed == this.m_nICount) this.m_pfnFinished();
 			else this.m_pfnPercent(Math.round((this.m_nProcessed / this.m_nICount) * 10))
@@ -1541,7 +1562,7 @@
 			blockCols: 10,
 			blockRows: 5,
 			animationSpeed: 500,
-			pauseTime: 5000,
+			pauseTime: 8000,
 			startSlide: 0,
 			directionNav: true,
 			directionNavHoverOpacity: 0.6,
@@ -1556,13 +1577,13 @@
 			autoAdvance: true,
 			keyboardNav: true,
 			touchNav: true,
-			pauseOnHover: false,
-			nextLabel: "Next",
-			previousLabel: "Previous",
+			pauseOnHover: true,
+			nextLabel: "Suivant",
+			previousLabel: "Précédent",
 			playLabel: "Play",
 			pauseLabel: "Pause",
-			closeLabel: "Close",
-			randomStart: false,
+			closeLabel: "Fermer",
+			randomStart: true,
 			timer: 'Pie',
 			timerBg: '#000',
 			timerColor: '#EEE',

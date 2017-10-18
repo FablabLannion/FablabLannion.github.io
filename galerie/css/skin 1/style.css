@@ -1,36 +1,40 @@
 .container {
 	display: block;
-	width: 910px;
+	width: 100%;
+	max-width: 62.5rem;
 	margin: 0px auto;
 }
 
 #iview {
 	display: block;
-	width: 900px;
-	height: 500px;
+	width: 100%;
+	height: 46rem;
 	background: #000;
 	background: rgba(0, 0, 0, 0.7);
-	padding: 5px;
-	border-radius: 5px;
+	// padding: 5px;
+	// border-radius: 5px;
 	position: relative;
 	-webkit-box-shadow: 0 38px 30px -18px rgba(0, 0, 0, 0.5);
 	-moz-box-shadow: 0 38px 30px -18px rgba(0, 0, 0, 0.5);
-	box-shadow: 0 38px 30px -18px rgba(0, 0, 0, 0.5);
-	margin: 40px auto;
+	// box-shadow: 0 38px 30px -18px rgba(0, 0, 0, 0.5);
+	// margin: 40px auto;
 }
 
 #iview .iviewSlider {
 	display: block;
-	width: 900px;
-	height: 500px;
+//	width: 900px;
+	width: 100%;
+	height: 46rem;
 	overflow: hidden;
 	border-radius: 4px;
+	background-size: cover !important;
+	
 }
 
 .iview-controlNav {
 	position: absolute;
-	bottom: 30px;
-	left: 347px;
+	bottom: 5%;
+	left: 5%;
 	height: 44px;
 }
 

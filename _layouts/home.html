@@ -2,6 +2,9 @@
 <html>
 <head>
 {% include head.html %}
+		<link rel="stylesheet" href="/galerie/css/styles.css" />
+		<link rel="stylesheet" href="/galerie/css/iview.css" />
+		<link rel="stylesheet" href="/galerie/css/skin 1/style.css" />
 </head>
 <body class="home-template" itemscope itemtype="http://schema.org/WebPage">
 <header class="notepad-site-head">
@@ -29,7 +32,7 @@
 </div>
         <div class="clearfix"></div>
     </div>
-    <div class="notepad-site-head-content" >
+    <div class="notepad-site-head-content" style="display:none" >
         <div class="notepad-site-head-bg"></div>
         <h1 class="notepad-blog-title">
             <span class="notepad-site-head-title-bg">
@@ -39,8 +42,7 @@
         <h2 class="notepad-blog-description">{{ site.description }}</h2>
     </div>
 </header>
-
-
+{% include galerieOnHome.html %}
 <main class="notepad-content" role="main">
 
             {{ content }}
@@ -48,5 +50,18 @@
     {% include footer.html %}
 
 {% include scripts.html %}
+		<script type="text/javascript" src="/galerie/js/raphael-min.js"></script>
+		<script type="text/javascript" src="/galerie/js/jquery.easing.js"></script>
+		<script src="/galerie/js/iview.js"></script>
+		<script>
+			$(document).ready(function(){
+				$('#iview').iView({
+					pauseTime: 4000,
+					directionNav: false,
+					controlNav: true,
+					tooltipY: -15
+				});
+			});
+		</script>
 </body>
 </html>

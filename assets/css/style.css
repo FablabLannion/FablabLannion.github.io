@@ -8,10 +8,13 @@
   clear: both; }
 
 body {
+  color: #222;
   font-family: "Open Sans", sans-serif;
   height: auto;
   min-height: 100%;
-  line-height: 1; }
+  line-height: 1;
+  font-size: normal;
+  }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", sans-serif; }
@@ -228,7 +231,7 @@ main, .notepad-share-icons, .notepad-disqus {
       padding-top: 4.375rem;
       padding-bottom: 4.375rem; }
       .notepad-content .notepad-index-post:first-of-type {
-        padding-top: 7.5rem; }
+        padding-top: 2rem; }
       .notepad-content .notepad-index-post .datetime {
         margin-bottom: 0; } }
   .notepad-content .notepad-index-post .notepad-post-meta {
