@@ -10,7 +10,7 @@ chart: false
 
 ![Trender](images/trender/trender.png)
 
-> "C'est au cours de nos moments les plus sombres que nous devons nous concentrer pour voir la lumière.." Aristote
+> "C'est au cours de nos moments les plus sombres que nous devons nous concentrer pour voir la lumière.." Aristote Onassis
 
 Le Trender est un objet qui transforme des informations en lumière.
 

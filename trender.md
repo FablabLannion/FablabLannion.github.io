@@ -11,11 +11,11 @@ chart: false
 
 ![Trender](images/trender/trender.png)
 
-> "It is during our darkest moments that we must focus to see the light." Aristote
+> "It is during our darkest moments that we must focus to see the light." Aristote Onassis
 
 The Trender is an objet translating different types of information into light.
 
-*Read this in other languages: [English](trender.md), [Français](trender.fr.md), [Brezhoneg](trender.bzh.md)*
+*Read this in other languages: [English](trender.md), [Français](https://github.com/FablabLannion/FablabLannion.github.io/blob/master/trender.fr.md), [Brezhoneg](trender.bzh.md)*
 
 ## Table of Contents
 - [Modes](#modes)
