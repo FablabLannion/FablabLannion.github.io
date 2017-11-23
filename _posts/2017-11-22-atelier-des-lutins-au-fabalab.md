@@ -3,9 +3,9 @@ author: tangi
 tags: []
 imagefeature: https://static.fablab-lannion.org/cyb-santa-claus-2400px.png
 layout: post
-slug: atelier-des-lutins-au-fabalab
+slug: atelier-des-lutins-au-fablab
 date: 2017-11-22
-title: "Atelier des lutins au Fabalab"
+title: "Atelier des lutins au Fablab"
 comments: True
 ---
 Samedi 9 Décembre, le Fablab se transforme en annexe de l'atelier des lutins du Père Noël.
