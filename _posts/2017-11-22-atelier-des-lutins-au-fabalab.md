@@ -26,8 +26,9 @@ carton, bois. Vous pouvez aussi réaliser votre set de table, votre jeu de l'oie
 N'hésitez pas à déssiner vos objets en avance en suivant [le guide](http://wiki.fablab-lannion.org/index.php?title=Chaine_logicielle_pour_d%C3%A9coupeuse_laser) pour réaliser des dessins au format
 vectoriel avec l'outil [inkscape.](https://inkscape.org/fr/).
 
-Cet Atelier est ouvert à tous. Une petite participation de 5 euros
-sera demandée pour les consommables (piles, plexi, leds, bois..) si vous
+Cet Atelier est ouvert à tous et aura lieu de 14H à 17H30.
+
+Une petite participation de 5 euros sera demandée pour les consommables (piles, plexi, leds, bois..) si vous
 voulez repartir avec un objet. 
 Inscription préalable obligatoire par mail à : 
 contact@fablab-lannion.org.
