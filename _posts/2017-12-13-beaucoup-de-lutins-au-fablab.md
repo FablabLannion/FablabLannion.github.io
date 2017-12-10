@@ -14,7 +14,7 @@ Cet atelier a connu une affluence record, probablement la plus importante des at
 De nombreux enfants (mais aussi parents) se sont initiés à la joie de la fabrication numérique.
 
 L'atelier principal a consisté à montrer que la création d'objets est à la portée de tous.
-En effet pour découper au laser, il suffit de savoir dessiner, ce que tout le monde sait faire !
+En effet pour découper au [laser](http://wiki.fablab-lannion.org/index.php?title=D%C3%A9coupeuse_laser_Keyland), il suffit de savoir dessiner, ce que tout le monde sait faire !
 
 ![dessin](http://wiki.fablab-lannion.org/images/b/ba/20171209_153154.jpg)
 
