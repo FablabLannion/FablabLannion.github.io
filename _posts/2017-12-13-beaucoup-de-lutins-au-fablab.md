@@ -29,3 +29,5 @@ Le deuxième atelier (aussi préparé par Emmanuel, décidément très prolifiqu
 Gageons que tous ces petits makers deviendrons de grands makers :)
 
 Remercions aussi ici tous les encadrants de la journée (nous n'étions pas en surnombre!) : Emmanuel, Morgan, Frédéric, Yannick et Jérôme.
+
+À noter, dans l'esprit habituel du Fablab, vous pouver retrouver les [sources et la documentation](http://wiki.fablab-lannion.org//index.php?title=AtelierNoel2017) de l'atelier sur le wiki.
