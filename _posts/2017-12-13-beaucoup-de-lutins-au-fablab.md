@@ -16,7 +16,7 @@ De nombreux enfants (mais aussi parents) se sont livrés à la joie de la fabric
 L'atelier principal a consisté à montrer que la création d'objets est à la portée de tous.
 En effet pour découper au laser, il suffit de savoir dessiner, ce que tout le monde sait faire !
 
-[http://wiki.fablab-lannion.org/images/b/ba/20171209_153154.jpg](http://wiki.fablab-lannion.org/images/b/ba/20171209_153154.jpg)
+![dessin](http://wiki.fablab-lannion.org/images/b/ba/20171209_153154.jpg)
 
 Emmanuel nous avait concocté une chaîne permettant à partir d'un dessin sur papier de découper une boule de noël dans du bois.
 
@@ -24,7 +24,7 @@ TODO: insérer photos dessin->svg->boule de noel
 
 Le deuxième atelier (aussi préparé par Emmanuel, décidément très prolifique) permettait aux enfants de monter une étoile en 3 dimensions et de la faire resplendir aux couleurs de l'arc en ciel.
 
-[http://wiki.fablab-lannion.org/images/8/8b/Etoilenoel.jpg](http://wiki.fablab-lannion.org/images/8/8b/Etoilenoel.jpg)
+![étoile](http://wiki.fablab-lannion.org/images/8/8b/Etoilenoel.jpg)
 
 Gageons que tous ces petits makers deviendrons de grands makers :)
 
