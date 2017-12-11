@@ -9,7 +9,7 @@ chart: false
 Contacts
 ============
 
-<a href="mailto://{{ site.owner.email }}">
+<a href="mailto:{{ site.owner.email }}">
     <span class="fa-stack fa-lg">
         <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
         <i class="fa fa-envelope fa-stack-1x"></i>
