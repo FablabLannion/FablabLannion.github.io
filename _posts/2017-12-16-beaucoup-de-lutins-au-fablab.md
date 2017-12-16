@@ -4,7 +4,7 @@ tags: []
 imagefeature: http://wiki.fablab-lannion.org/images/0/07/20171209_153201.jpg
 layout: post
 slug: beaucoup-de-lutins-au-fablab
-date: 2017-12-13
+date: 2017-12-16
 title: "Beaucoup de lutins au Fablab"
 comments: True
 ---
@@ -20,7 +20,7 @@ En effet pour découper au [laser](http://wiki.fablab-lannion.org/index.php?titl
 
 Emmanuel avait préparé toutes les étapes de façon à transformer le dessin "papier" en un dessin "informatique". Ce dernier peut alors être utilisé par nos machines pour fabriquer une "vraie" boule de Noël en bois.
 
-TODO: insérer photos dessin->svg->boule de noel
+![Process](http://wiki.fablab-lannion.org/images/thumb/4/4c/AtelierNoelProcess.jpg/800px-AtelierNoelProcess.jpg)
 
 Le deuxième atelier (aussi préparé par Emmanuel, décidément très prolifique) permettait aux enfants de monter une étoile en 3 dimensions et de la faire resplendir aux couleurs de l'arc-en-ciel.
 
