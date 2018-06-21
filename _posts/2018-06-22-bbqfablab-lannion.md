@@ -4,22 +4,22 @@ tags: Vie de l'association, Actualité
 imagefeature: https://static.fablab-lannion.org/barbecue-1.jpg
 layout: post
 slug: bbqfablab18
-date: 2018-06-17
-title: "Barbecue participatif : 4er juillet"
+date: 2018-06-22
+title: "Barbecue participatif : 4 juillet à 18H00"
 comments: True
 ---
 
 C'est avec grand plaisir que nous vous invitons à cette 5ème édition du barbecue annuel du FabLab de Lannion.
 
 
-**Le Mercredi 4er juillet 2018 à partir de 18h00**
+**Le Mercredi 4 juillet 2018 à partir de 18h00**
 
 
 ## Apéritif/Barbecue participatif
 Comme tous les ans, la formule reste le partage et la convivialité.
 Chacun amène un peu, et tout le monde mange à tous les rateliers :)
 Saucisses, steacks, grillades en tout genre. Chips, salades et autres accompagnements.
-Boissons pour les petits et les grands, tout est bienvenue.
+Boissons pour les petits et les grands, tout est bienvenu.
 
 ![BBQ](http://static.fablab-lannion.org/bbq_320.jpg)
 
@@ -28,10 +28,11 @@ Un moyen de susciter des vocations ? ;)
 
 Ce petit moment convivial et pré-estival sera l'occasion d'échanger sur les
 projets en cours, les évolutions futures de notre Fablab, mais aussi pour les
-nouveaux ou _"ceux qui veulent passer depuis le début et qui n'ont as eu
+nouveaux ou _"ceux qui veulent passer depuis le début et qui n'ont pas eu
 l'occasion jusqu'ici"_, de nous rencontrer et de discuter !
 
-Les jeunes en formation au Fablab depuis quelques mois nous présenterons l'avancement de leur projet.
+Les jeunes en formation au Fablab depuis quelques mois nous présenteront l'avancement de leur projet.
+Une très bonne occasion pour voir à quoi peuvent servir toutes nos machines !
 
 **Venez nombreux !**
 
