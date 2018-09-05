@@ -4,7 +4,7 @@ tags: []
 imagefeature: 
 layout: post
 slug: La rentrée du Fablab
-date: 2018-09-03
+date: 2018-09-05
 title: "La rentrée du Fablab"
 comments: True
 ---
@@ -24,8 +24,8 @@ Grâce au désormais très riche et très complet [parc de machines](https://wik
 
 Nous accueillons bien volontiers tous ceux voulant participer !
 
-D'autres rendez-vous suivront tout au long de l'année, à commencer par une rencontre avec [FEDERATION – Open Space Makers](http://www.federation-openspacemakers.com/) dès le 22 Septembre.
-La [Fête de la Science](https://www.fetedelascience.fr/) suivra entre le 6 et le 8 Octobre.
+D'autres rendez-vous suivront tout au long de l'année, à commencer par La [Fête de la Science](https://www.fetedelascience.fr/) entre le 6 et le 8 Octobre.
+Très bientôt également, une rencontre avec [FEDERATION – Open Space Makers](http://www.federation-openspacemakers.com/) aura lieu dans nos locaux.
 
 Restez connectés via le [forum](http://forum.fablab-lannion.org/), ce blog ou [twitter](https://twitter.com/fablablannion)
 
