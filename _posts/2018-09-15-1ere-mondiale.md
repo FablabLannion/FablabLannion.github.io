@@ -30,7 +30,7 @@ appelé "Chez FX".
 
 [![Visu TTN Trégor]({{ site.url }}/images/posts/lora-sept-iles-0.png)]
 
-Pour ce premier essai le taux de retransmission a été relativement élevé mais comme l'indique FXP
+Pour ce premier essai le taux d'erreurs a été relativement élevé mais comme l'indique FXP
 "les conditions radio devraient être largement plus favorables pour l'île Rouzic, non masquée par la pointe du Château, ce qui m'encourage à finir la mise au point de la télé-transmission des mesures de comptage des macareux sur radio Lora pour la saison prochaine !"
 
 Le fablab de Lannion a par ailleurs fait l'acquisition récente de 3 nouvelles antennes
