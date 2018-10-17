@@ -50,6 +50,8 @@ links:
     external: true
   - title: Trender
     url: /trender
+  - title: OoRoBoT
+    url: /oorobot
   - title: Wiki
     url: https://wiki.fablab-lannion.org
     external: true
@@ -122,6 +124,11 @@ authors:
     installparty14:
         name: Youns Bouachra
         gravatar: bfa9da2fe4514a96f1e51ef49f98676f
+    matthieu:
+        name: Matthieu Salvat
+        function: Membre actif
+        twitter: matthieu_salvat
+        github: matthieusalvat
 
 
 
