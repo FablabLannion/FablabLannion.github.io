@@ -23,15 +23,16 @@ Vous les trouverez, prêts à découper [ici](https://github.com/FablabLannion/l
 
 Si vous avez déjà le sapin, pourquoi ne pas l'agrémenter de **boules de noël** de votre composition ? Un certain nombre d'exemples n'attendent que d'être découpés [ici](https://github.com/FablabLannion/lasercut/tree/master/projects/noel).
 
-![boules de noel]()
+![boules de noël]()
 
-Si le coeur vous en dis, vous pouvez aussi les faire simplement dessiner par les enfants, comme lors de notre [atelier de noël](https://wiki.fablab-lannion.org/index.php?title=AtelierNoel2017)
+Si le cœur vous en dis, vous pouvez aussi les faire simplement dessiner par les enfants, comme lors de notre [atelier de noël](https://wiki.fablab-lannion.org/index.php?title=AtelierNoel2017)
 
 Enfin, comme dernier exemple, quid de mieux qu'un **sapin de noël clignotant** ? Celui égayera votre table avec panache !
 
 ![sapin clignotant](https://raw.githubusercontent.com/FablabLannion/lasercut/master/projects/sapin/sapin.jpg)
 
-Ce ne sont que quelques exemples. D'autres peuvent être trouvé, par exemple, sur [Thingiverse](https://www.thingiverse.com/search?q=christmas). Votre **créativité** ne demande qu'à s'exprimer, et le Fablab de Lannion à **libérer** celle-ci !
+Ce ne sont que quelques exemples. D'autres peuvent être trouvés, par exemple, sur [Thingiverse](https://www.thingiverse.com/search?q=christmas). Votre **créativité** ne demande qu'à s'exprimer, et le Fablab de Lannion à **libérer** celle-ci !
 
-À bierntôt lors d'un de nos [créneaux d'ouverture](http://www.fablab-lannion.org/horaires-et-acces/) ...
+À bientôt lors d'un de nos [créneaux d'ouverture](http://www.fablab-lannion.org/horaires-et-acces/) ...
+
 
