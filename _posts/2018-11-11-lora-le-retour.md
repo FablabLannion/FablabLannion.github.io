@@ -4,7 +4,7 @@ tags: Actualité
 imagefeature: https://pbs.twimg.com/media/Dro9Ba0X4AAXmtE.jpg
 layout: post
 slug: LoRA, le retour
-date: 2016-01-05
+date: 2016-11-11
 title: "LoRa, le retour"
 comments: True
 ---
@@ -23,16 +23,16 @@ slogan peut se traduire par "construire un Internet des objets ensemble".
 Très populaire aux Pays-bas et en Suisse, ce réseau a l'originalité d'être
 ouvert et collaboratif - "Nous sommes le réseau".
 
-[![TTN monde]({{ site.url }}/images/posts/TTN-2.png)]
+![TTN monde]({{ site.url }}/images/posts/TTN-2.png)
 
 Le fablab de Lannion fidèle à ses missions de promotion des technologies
 libres et ouvertes possèdent 6 gateways (5 Lorix One et 1 Kerlink).
 
-[![TTN monde]({{ site.url }}/images/posts/TTN-Lorix.png)]
+![TTN monde]({{ site.url }}/images/posts/TTN-Lorix.png)
 
 Ces dernières sont installées chez ses membres et couvrent une bonne partie du territoire (Trébeurden, Louannec, Pleumeur Bodou, Lannion, Ploubezre, Caouënnec-Lanvézéac).
 
-[![TTN Trégor]({{ site.url }}/images/posts/TTN-5.png)]
+![TTN Trégor]({{ site.url }}/images/posts/TTN-5.png)
 
 Les données reçues pas les antennes sont transmises de manière cryptée via
 Internet. Le fablab de Lannion est à notre connaissance le seul fablab à
@@ -69,9 +69,9 @@ ouverture de porte,... ).
 
 Des tests de portée et d'autonomie sont en cours.
 
- [![TTN mapper]({{ site.url }}/images/posts/TTN-6.png)]
+ ![TTN mapper]({{ site.url }}/images/posts/TTN-6.png)
 
 Un atelier sera programmé début 2019 pour présenter le réseau et permettre
 la réalisation d'un client. Restez connecté, la date sera communiquée
 prochainement. D'ici là rien ne vous empêche de venir rencontrer Tangi, FX,
-David ou les autres à l'occasion d'un atelier du mercredi soir..
+David ou les autres à l'occasion d'un [atelier du mercredi soir](http://www.fablab-lannion.org/horaires-et-acces/)..
