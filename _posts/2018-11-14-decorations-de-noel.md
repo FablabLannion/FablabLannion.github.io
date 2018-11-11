@@ -25,7 +25,9 @@ Si vous avez déjà le sapin, pourquoi ne pas l'agrémenter de **boules de noël
 
 ![boules de noël]()
 
-Si le cœur vous en dis, vous pouvez aussi les faire simplement dessiner par les enfants, comme lors de notre [atelier de noël](https://wiki.fablab-lannion.org/index.php?title=AtelierNoel2017)
+Si le cœur vous en dit, vous pouvez aussi les faire simplement dessiner par les enfants, comme lors de notre [atelier de noël](https://wiki.fablab-lannion.org/index.php?title=AtelierNoel2017)
+
+![enfant](https://wiki.fablab-lannion.org/images/thumb/1/12/20171209_154149.jpg/800px-20171209_154149.jpg)
 
 Enfin, comme dernier exemple, quid de mieux qu'un **sapin de noël clignotant** ? Celui égayera votre table avec panache !
 
