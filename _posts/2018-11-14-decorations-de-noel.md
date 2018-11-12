@@ -23,15 +23,15 @@ Vous les trouverez, prêts à découper [ici](https://github.com/FablabLannion/l
 
 Si vous avez déjà le sapin, pourquoi ne pas l'agrémenter de **boules de noël** de votre composition ? Un certain nombre d'exemples n'attendent que d'être découpés [ici](https://github.com/FablabLannion/lasercut/tree/master/projects/noel).
 
-![boules de noël]()
+![boules de noël](https://raw.githubusercontent.com/FablabLannion/lasercut/master/projects/noel/boules1.png)
 
 Si le cœur vous en dit, vous pouvez aussi les faire simplement dessiner par les enfants, comme lors de notre [atelier de noël](https://wiki.fablab-lannion.org/index.php?title=AtelierNoel2017)
 
 ![enfant](https://wiki.fablab-lannion.org/images/thumb/1/12/20171209_154149.jpg/800px-20171209_154149.jpg)
 
-Enfin, comme dernier exemple, quid de mieux qu'un **sapin de noël clignotant** ? Celui égayera votre table avec panache !
+Enfin, comme dernier exemple, quid de mieux qu'une **étoile clignotante** ? Celle-çi égayera votre table avec panache !
 
-![sapin clignotant](https://raw.githubusercontent.com/FablabLannion/lasercut/master/projects/sapin/sapin.jpg)
+![étoile clignotante](https://wiki.fablab-lannion.org/images/thumb/d/d7/Etoile_clignotante.jpg/800px-Etoile_clignotante.jpg)
 
 Ce ne sont que quelques exemples. D'autres peuvent être trouvés, par exemple, sur [Thingiverse](https://www.thingiverse.com/search?q=christmas). Votre **créativité** ne demande qu'à s'exprimer, et le Fablab de Lannion à **libérer** celle-ci !
 
