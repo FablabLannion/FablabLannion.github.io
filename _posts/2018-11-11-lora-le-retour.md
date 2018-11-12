@@ -10,7 +10,7 @@ comments: True
 ---
 En 2016, nous prophétisions une année 2017 riche en LoRA.
 Si vous souhaitez vous rafraîchir la mémoire sur la technologie LoRA, n'hésitez
-pas à relire ([l'article de l'époque](http://www.fablab-lannion.org/2016/01/oh-lora-y-a-tant-de-phrases-quon-dit-que-je-ne-dirais-pas.html)).
+pas à relire [l'article de l'époque](http://www.fablab-lannion.org/2016/01/oh-lora-y-a-tant-de-phrases-quon-dit-que-je-ne-dirais-pas.html).
 
 Si les premiers ateliers ont suivi assez rapidement afin de permettre
 la réalisation de nanogateways [TTN](https://www.thethingsnetwork.org/) ou de
@@ -30,7 +30,7 @@ libres et ouvertes possède 6 gateways (5 Lorix One et 1 Kerlink).
 
 ![TTN monde]({{ site.url }}/images/posts/TTN-Lorix.png)
 
-Ces dernières sont installées chez ses membres et couvrent une bonne partie du territoire (Trébeurden, Louannec, Pleumeur Bodou, Lannion, Ploubezre, Caouënnec-Lanvézéac).
+Ces dernières sont installées chez ses membres et couvrent une bonne partie du territoire (Trébeurden, Louannec, Pleumeur-Bodou, Lannion, Ploubezre, Caouënnec-Lanvézéac).
 
 ![TTN Trégor]({{ site.url }}/images/posts/TTN-5.png)
 
@@ -67,7 +67,7 @@ Ces clients peuvent transmettre des informations de position via le GPS intégr�
 et des informations de capteurs divers et variés (température, humidité,
 ouverture de porte,... ).
 
-Des tests de portée et d'autonomie sont en cours.
+Des tests de portée et d'autonomie sont par ailleurs en cours.
 
  ![TTN mapper]({{ site.url }}/images/posts/TTN-6.png)
 
