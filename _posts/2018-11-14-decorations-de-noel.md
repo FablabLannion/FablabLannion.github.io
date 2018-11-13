@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: [noel, laser]
-imagefeature: /images/home.jpg
+imagefeature: http://www.fablab-lannion.org/images/home.jpg
 layout: post
 slug: Décorations de noël
 date: 2018-11-14
