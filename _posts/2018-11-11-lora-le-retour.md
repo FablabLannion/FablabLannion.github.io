@@ -4,7 +4,7 @@ tags: Actualité
 imagefeature: https://pbs.twimg.com/media/Dro9Ba0X4AAXmtE.jpg
 layout: post
 slug: LoRA, le retour
-date: 2016-11-11
+date: 2018-11-11
 title: "LoRa, le retour"
 comments: True
 ---
