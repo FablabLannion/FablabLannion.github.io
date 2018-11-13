@@ -17,7 +17,7 @@ Si l'inspiration vous fait plus défaut que l'envie, nous pouvons vous proposer 
 
 Commençons simplement avec des **sapins** en bois ou carton de 50 cm de hauteur.
 
-![sapins carton]()
+![sapins carton](https://wiki.fablab-lannion.org/images/thumb/3/36/SapinCarton2.jpg/450px-SapinCarton2.jpg)
 
 Vous les trouverez, prêts à découper [ici](https://github.com/FablabLannion/lasercut/tree/master/projects/sapins_carton). À vous de choisir la matière et l'épaisseur.
 
