@@ -37,4 +37,3 @@ Ce ne sont que quelques exemples. D'autres peuvent être trouvés, par exemple, 
 
 À bientôt lors d'un de nos [créneaux d'ouverture](http://www.fablab-lannion.org/horaires-et-acces/) ...
 
-
