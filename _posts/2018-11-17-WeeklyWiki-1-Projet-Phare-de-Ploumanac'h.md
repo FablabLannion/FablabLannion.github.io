@@ -4,7 +4,7 @@ tags: [WeeklyWiki, Projet]
 imagefeature: https://wiki.fablab-lannion.org/images/1/1c/Pharelaser.jpg
 layout: post
 slug: WeeklyWiki-1-Projet-Phare-de-Ploumanac'h
-date: 2018-11-17
+date: 2018-11-17 15:00:00 +0001
 title: "Projet: Phare de Ploumanac'h"
 comments: True
 ---
