@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: [WeeklyWiki, Organisation]
-imagefeature:
+imagefeature: https://static.fablab-lannion.org/FABLAB2.jpg
 layout: post
 slug: WeeklyWiki-4-Organisation-Statuts
 date: 2018-12-08
