@@ -9,7 +9,7 @@ title: "Projet: Phare de Ploumanac'h"
 comments: True
 ---
 
-Le Phare de Ploumanac'h (officiellement pahre de Mean Ruz) est l'un des phares les plus emblématiques du Trégor.
+Le Phare de Ploumanac'h (officiellement phare de Mean Ruz) est l'un des phares les plus emblématiques du Trégor.
 
 Chaque semaine, le Fablab vous propose de (re)découvrir une page du [Wiki](https://wiki.fablab-lannion.org). Cela peut être un projet documenté, une formation ou une page consacrée à l'organisation.
 
