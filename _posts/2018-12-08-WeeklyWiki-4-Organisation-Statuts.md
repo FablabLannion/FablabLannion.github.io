@@ -9,16 +9,13 @@ title: "Organisation: Statuts"
 comments: True
 ---
 
-(insérer ici une description courte)
+La 6ème AG approche, il est temps de relire les status pour être prêt le moment venu :)
 
 Chaque semaine, le Fablab vous propose de (re)découvrir une page du [Wiki](https://wiki.fablab-lannion.org). Cela peut être un projet documenté, une formation ou une page consacrée à l'organisation.
 
-un peu plus de détails
-* auteur
-* description du projet et des compétences
-* photos
-
-Ces pages ne vivent que grâce à nous/vous. Tout le monde est grandement incité à les commenter, voir les corriger !
+Comme toute association dite *Loi de 1901*, le Fablab de Lannion a des status. Ils ont été écrits en collectif lors de l'assemblée constituante du 3 décembre 2012.
+Publiques, vous pouvez les trouver sur [cette page](https://wiki.fablab-lannion.org/index.php?title=Statuts).
+Si vous n'avez pas le courage de les lire, vous pouvez au moins lire [l'article sur les 5 ans](http://www.fablab-lannion.org/2017/08/5ansdeja.html) de notre aventure commune :)
 
 Bien sur, vous retrouverez tous les détails et plus encore dans notre Wiki : [Statuts](https://wiki.fablab-lannion.org/index.php?title=Statuts)
 
