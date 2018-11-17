@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: [WeeklyWiki, Projet]
-imagefeature:
+imagefeature: https://wiki.fablab-lannion.org/images/f/fa/Aquarium_dessin.png
 layout: post
 slug: WeeklyWiki-2-Projet-AquaMarium
 date: 2018-11-24
@@ -9,14 +9,15 @@ title: "Projet: AquaMarium"
 comments: True
 ---
 
-(insérer ici une description courte)
+Réalisation d'un aquarium à marée, voici l'AquaMarium v1. Projet récompensé lors du défi Data+ en 2015.
 
 Chaque semaine, le Fablab vous propose de (re)découvrir une page du [Wiki](https://wiki.fablab-lannion.org). Cela peut être un projet documenté, une formation ou une page consacrée à l'organisation.
 
-un peu plus de détails
-* auteur
-* description du projet et des compétences
-* photos
+Cet aquarium, un peu particulier, vous permet de voir la hauteur d'eau d'un port en temps réèl. Équivalent à une horloge à marée, mais beaucoup plus visuel, il a été réalisé lors du defunt Défi Data+.
+
+Projet estampillé Fablab, de nombreuses bonnes volontées se sont regroupées pour y participer : Philippe, Anatole, Yann ou encore Jérôme.
+
+Il a aussi donné naissance à une autre projet, une [pompe péristaltique](https://wiki.fablab-lannion.org/index.php?title=Pompe_P%C3%A9ristaltique) qui permet de déplacer du liquide sans qu'aucune partie de la pompe ne soit en contact avec celui-ci.
 
 Ces pages ne vivent que grâce à nous/vous. Tout le monde est grandement incité à les commenter, voir les corriger !
 
