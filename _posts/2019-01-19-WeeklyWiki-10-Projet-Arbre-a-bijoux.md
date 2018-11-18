@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: [WeeklyWiki, Projet]
-imagefeature:
+imagefeature: https://wiki.fablab-lannion.org/images/8/8f/CxORMaXW8AAdCSG.jpg
 layout: post
 slug: WeeklyWiki-10-Projet-Arbre-a-bijoux
 date: 2019-01-19
@@ -9,14 +9,12 @@ title: "Projet: Arbre à bijoux"
 comments: True
 ---
 
-(insérer ici une description courte)
+Un support pour des boucles d'oreilles, bracelets et autres colifichets.
 
 Chaque semaine, le Fablab vous propose de (re)découvrir une page du [Wiki](https://wiki.fablab-lannion.org). Cela peut être un projet documenté, une formation ou une page consacrée à l'organisation.
 
-un peu plus de détails
-* auteur
-* description du projet et des compétences
-* photos
+Ici, pas d'électronique, d'objet connecté ou électronique, mais un bel objet de décoration mais néanmoins utile. Cet arbre, réalisé par Yann, supportera gracieusement vos bijoux.
+Découpé dans du plexiglas, il saura se faire faire discret, restant néanmoins élégant pour mettre en valeur vos ornements.
 
 Ces pages ne vivent que grâce à nous/vous. Tout le monde est grandement incité à les commenter, voir les corriger !
 
