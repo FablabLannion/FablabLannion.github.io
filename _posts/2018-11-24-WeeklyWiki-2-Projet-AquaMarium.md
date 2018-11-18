@@ -13,9 +13,9 @@ Réalisation d'un aquarium à marée, voici l'AquaMarium v1. Projet récompensé
 
 Chaque semaine, le Fablab vous propose de (re)découvrir une page du [Wiki](https://wiki.fablab-lannion.org). Cela peut être un projet documenté, une formation ou une page consacrée à l'organisation.
 
-Cet aquarium, un peu particulier, vous permet de voir la hauteur d'eau d'un port en temps réèl. Équivalent à une horloge à marée, mais beaucoup plus visuel, il a été réalisé lors du defunt Défi Data+.
+Cet aquarium, un peu particulier, vous permet de voir la hauteur d'eau d'un port en temps réel. Équivalent à une horloge à marée, mais beaucoup plus visuel, il a été réalisé lors du défunt Défi Data+.
 
-Projet estampillé Fablab, de nombreuses bonnes volontées se sont regroupées pour y participer : Philippe, Anatole, Yann ou encore Jérôme.
+Projet estampillé Fablab, de nombreuses bonnes volontés se sont regroupées pour y participer : Philippe, Anatole, Yann ou encore Jérôme.
 
 Il a aussi donné naissance à une autre projet, une [pompe péristaltique](https://wiki.fablab-lannion.org/index.php?title=Pompe_P%C3%A9ristaltique) qui permet de déplacer du liquide sans qu'aucune partie de la pompe ne soit en contact avec celui-ci.
 
