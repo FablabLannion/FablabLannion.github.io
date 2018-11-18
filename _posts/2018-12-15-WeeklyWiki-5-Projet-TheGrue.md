@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: [WeeklyWiki, Projet]
-imagefeature:
+imagefeature: https://wiki.fablab-lannion.org/images/3/3f/Thegrue.png
 layout: post
 slug: WeeklyWiki-5-Projet-TheGrue
 date: 2018-12-15
@@ -9,14 +9,14 @@ title: "Projet: TheGrue"
 comments: True
 ---
 
-(insérer ici une description courte)
+Une icone connectée qui brille en fonction de l'activitée sur Twitter.
 
 Chaque semaine, le Fablab vous propose de (re)découvrir une page du [Wiki](https://wiki.fablab-lannion.org). Cela peut être un projet documenté, une formation ou une page consacrée à l'organisation.
 
-un peu plus de détails
-* auteur
-* description du projet et des compétences
-* photos
+Cet objet a été créé suite à une solicitation de la [FrenchTech Brest+Lannion](http://frenchtech-brestplus.bzh/). Il combine parfaitement les capacités du Fablab de Lannion.
+Une communauté créative, la fabrication numérique l'électronique et l'intégration logicielle.
+Grace à lui, vous pourrez suivre l'activité de motdièses (hashtags) sur twitter et la rapporter via l'éclairage et les couleurs de l'objet.
+Une manière ludique et visuelle de connecter le monde numérique et physique !
 
 Ces pages ne vivent que grâce à nous/vous. Tout le monde est grandement incité à les commenter, voir les corriger !
 
