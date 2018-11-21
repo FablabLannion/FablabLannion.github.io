@@ -11,8 +11,8 @@ comments: True
 
 Lannion, terre d'innovation de longue date est naturellement tournée vers l'espace. 
 
-Le Fablab a donc saisit l'occasion de participer à [Fédération](https://www.federation-openspacemakers.com/fr/), un projet 
-ayant pour objectif de faire découvrir le monde de l'infrastucture spatiale au plus grand nombre.
+Le Fablab a donc saisi l'occasion de participer à [ Fédération Open Space Makers](https://www.federation-openspacemakers.com/fr/), un projet 
+ayant pour objectif de faire découvrir le monde de l'infrastucture spatiale au plus grand nombre et d'encourager le développement de projets Open Source.
 
 Nous aurons donc la chance d'accueillir  :
 
@@ -22,6 +22,6 @@ Jean-Philippe Blanchard [Ping](https://info.pingbase.net/) et [Plateforme C](htt
 
 Xavier Bailly [Station Biologique de Roscoff](http://www.sb-roscoff.fr/fr), [CNRS-Sorbonne Universités](http://www.sorbonne-universites.fr/)
 
-Le Mercredi 12 Décembre à 21H00 dans les locaux du [Fablab Lannion](http://www.fablab-lannion.org/horaires-et-acces/) pour nous présenter ce grand projet  
+Le Mercredi 12 Décembre à 21H00 dans les locaux du [Fablab Lannion](http://www.fablab-lannion.org/horaires-et-acces/) pour nous présenter ce grand projet.  
 
 
