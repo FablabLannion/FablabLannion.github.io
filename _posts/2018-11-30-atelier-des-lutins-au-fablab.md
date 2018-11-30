@@ -22,11 +22,9 @@ vectoriel avec l'outil [inkscape.](https://inkscape.org/fr/).
 
 Quelques idées...
 
-![1](https://pbs.twimg.com/media/CV2OrIzWoAEAqgM.jpg)
-![2](https://pbs.twimg.com/media/DKV6OLtWkAAviKZ.jpg)
-![3](https://pbs.twimg.com/media/DqYHStHWoAE_x7K.jpg)
-![4](https://pbs.twimg.com/media/DRqaHPgX0AAcved.jpg)
-![5](https://pbs.twimg.com/media/DO2omd_WAAAwji_.jpg)
+![1](https://pbs.twimg.com/media/CV2OrIzWoAEAqgM.jpg:thumb)
+![2](https://pbs.twimg.com/media/DRqaHPgX0AAcved.jpg:thumb)
+![3](https://pbs.twimg.com/media/DO2omd_WAAAwji_.jpg:thumb)
 
 Cet Atelier est ouvert à tous et aura lieu de 14H à 17H00.
 
