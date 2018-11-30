@@ -11,10 +11,7 @@ comments: True
 **Samedi 8 Décembre**, le Fablab se transforme en annexe de l'atelier des lutins
 du Père Noël.
 
-![Gingerbread-Xmas-
-Set-2400px](https://static.fablab-lannion.org/Gingerbread-Xmas-
-Set-2400px-1024x813.png)](http://fablab-lannion.org/wp-
-content/uploads/2015/11/Gingerbread-Xmas-Set-2400px.png)
+![Gingerbread-Xmas-Set-2400px](https://static.fablab-lannion.org/Gingerbread-Xmas-Set-2400px-1024x813.png)](http://fablab-lannion.org/wp-content/uploads/2015/11/Gingerbread-Xmas-Set-2400px.png)
 
 Venez fabriquer vos décorations personnalisées (boules, étoiles et autres
 sapins) et transformer vos dessins en un objet unique grâce à la
