@@ -21,6 +21,6 @@ Nous avons pu voir de nombreuses et belles créations réalisées par les enfant
 
 Remerçions pour finir les bénévoles, sous la houlette d'une organisation parfaite de Emmanuel : Frédéric, Yannick, Morgan, Jérôme, Alain et Thierry.
 
-![decoup](https://wiki.fablab-lannion.org/images/thumb/c/c3/20181208_152849.jpg/800px-20181208_152849.jpg)
+![decoup](https://wiki.fablab-lannion.org/images/thumb/d/d5/20181208_154329.jpg/800px-20181208_154329.jpg)
 
 Retrouvez les détails techniques de l'atelier sur [notre wiki](https://wiki.fablab-lannion.org/index.php?title=AtelierNoel2017).
