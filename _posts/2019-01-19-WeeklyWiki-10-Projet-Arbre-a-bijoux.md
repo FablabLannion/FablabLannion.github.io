@@ -13,7 +13,7 @@ Un support pour des boucles d'oreilles, bracelets et autres colifichets.
 
 Chaque semaine, le Fablab vous propose de (re)découvrir une page du [Wiki](https://wiki.fablab-lannion.org). Cela peut être un projet documenté, une formation ou une page consacrée à l'organisation.
 
-Ici, pas d'électronique, d'objet connecté ou électronique, mais un bel objet de décoration mais néanmoins utile. Cet arbre, réalisé par Yann, supportera gracieusement vos bijoux.
+Ici, pas d'informatique, d'objet connecté ou électronique, mais un bel objet de décoration et néanmoins utile. Cet arbre, réalisé par Yann, supportera gracieusement vos bijoux.
 Découpé dans du plexiglas, il saura se faire faire discret, restant néanmoins élégant pour mettre en valeur vos ornements.
 
 Ces pages ne vivent que grâce à nous/vous. Tout le monde est grandement incité à les commenter, voir les corriger !
