@@ -9,7 +9,7 @@ title: "Organisation: Catégorie:Compte Rendu"
 comments: True
 ---
 
-Tous les vendredi midi, la traditionelle réunion "vie de l'asso" se déroule. Saviez-vous que vous pouvez retrouver sur le wiki les comptes rendus rédigés par notre secretaire ?
+Tous les vendredi midi, la traditionnelle réunion "vie de l'asso" se déroule. Saviez-vous que vous pouvez retrouver sur le wiki les comptes rendus rédigés par notre secrétaire ?
 
 Chaque semaine, le Fablab vous propose de (re)découvrir une page du [Wiki](https://wiki.fablab-lannion.org). Cela peut être un projet documenté, une formation ou une page consacrée à l'organisation.
 
