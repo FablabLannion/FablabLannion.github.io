@@ -29,3 +29,5 @@ fablab.
 
 Cette formation gratuite est ouverte à tous, sans inscription. 
 Rendez-vous à 21h lors de l'[atelier du mercredi](http://www.fablab-lannion.org/horaires-et-acces/) 30 Janvier 2019.
+
+Et n'oubliez pas, demain à 21H Assemblée Générale de l'association !
