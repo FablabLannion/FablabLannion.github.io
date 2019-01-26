@@ -129,11 +129,11 @@ authors:
         function: Membre actif
         twitter: matthieu_salvat
         github: matthieusalvat
-   thierry:
-      name: Thierry Houdoin
-      function: Secrétaire
-      twitter: thoudoin
-      github: thierry7100
+    thierry:
+        name: Thierry Houdoin
+        function: Secrétaire
+        twitter: thoudoin
+        github: thierry7100
 
 
 
