@@ -40,7 +40,7 @@ Contacts
     </span>
 </a>
 
-Par mail à l'adresse: [contact@fablab-lannion.org](mailto://contact@fablab-lannion.org)
+Par mail à l'adresse: [contact@fablab-lannion.org](mailto:contact@fablab-lannion.org)
 Vous pouvez aussi utiliser le [formulaire idoine](https://forum.fablab-lannion.org/memberlist.php?mode=contactadmin).
 
 Horaires
