@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: [WeeklyWiki, Formation]
-imagefeature:
+imagefeature: http://static.fablab-lannion.org/tutos/openscad/images/deFinalise.png
 layout: post
 slug: WeeklyWiki-20-Formation-OpenSCAD
 date: 2019-03-30
