@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: [WeeklyWiki, Projet]
-imagefeature:
+imagefeature: https://wiki.fablab-lannion.org/images/4/48/BoitesMacareux.jpg
 layout: post
 slug: WeeklyWiki-16-Projet-Comptage-Macareux
 date: 2019-03-02
@@ -9,14 +9,11 @@ title: "Projet: Comptage Macareux"
 comments: True
 ---
 
-(insérer ici une description courte)
+Voici un projet de longue haleine, issu d'une collaboration depuis 2015 entre la LPO et le Fablab.
 
 Chaque semaine, le Fablab vous propose de (re)découvrir une page du [Wiki](https://wiki.fablab-lannion.org). Cela peut être un projet documenté, une formation ou une page consacrée à l'organisation.
 
-un peu plus de détails
-* auteur
-* description du projet et des compétences
-* photos
+[Projet](https://wiki.fablab-lannion.org/index.php?title=Comptage_Macareux) fil rouge et emblématique, il a connu de nombreux contributeurs et deux grands leaders : **Anatole** et **FX**. Terre d'expérimentation, il sert aujourd'hui de *flagship* pour notre réseau [LoRa TTN](http://wiki.fablab-lannion.org/index.php?title=Cat%C3%A9gorie:LoRa)
 
 Ces pages ne vivent que grâce à nous/vous. Tout le monde est grandement incité à les commenter, voir les corriger !
 

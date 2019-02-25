@@ -9,14 +9,12 @@ title: "Formation: OpenSCAD"
 comments: True
 ---
 
-(insérer ici une description courte)
+Pour découvrir la modélisation 3D avec OpenSCAD jusqu'à un niveau avancé.
 
 Chaque semaine, le Fablab vous propose de (re)découvrir une page du [Wiki](https://wiki.fablab-lannion.org). Cela peut être un projet documenté, une formation ou une page consacrée à l'organisation.
 
-un peu plus de détails
-* auteur
-* description du projet et des compétences
-* photos
+Un de nos plus gros succès en terme de formation en ligne, elle est disponible depuis 2014.
+Merci à Yann pour cette formation.
 
 Ces pages ne vivent que grâce à nous/vous. Tout le monde est grandement incité à les commenter, voir les corriger !
 
