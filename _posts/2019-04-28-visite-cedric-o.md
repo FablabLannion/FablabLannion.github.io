@@ -1,10 +1,10 @@
 ---
 author: colvert
 tags: [Association]
-imagefeature:
+imagefeature: http://static.fablab-lannion.org/CedricO_MakeIt.jpg
 layout: post
 slug: visite-cedric-o
-date: 2019-04-28
+date: 2019-04-29
 title: "Un député, un secrétaire d'état et deux présidents"
 comments: True
 ---
@@ -12,18 +12,15 @@ comments: True
 Le fablab de Lannion a accueilli [Cédric O](https://fr.wikipedia.org/wiki/C%C3%A9dric_O),
 le tout nouveau secrétaire d'état chargé du numérique vendredi 26 mai.
 
-Cette visite faisait partie du Trégor Tech tour à l'invitation du député Eric
-Bothorel et organisée par la toute nouvelle French Tech Brest + (Lannion)
-avec au programme, outre la
-rencontre avec le fablab, la visite de quelques pépites trégorroises: Apizee,
-DC brain et Ixblue.
+Cette visite à l'invitation du député Eric Bothorel s'inscrivait dans le cadre de la Communauté French Tech Lannion et Capitale French Tech Brest+ avec au programme, outre la
+rencontre avec le fablab, la visite de quelques pépites trégorroises: Apizee, DC brain et Ixblue.
 
 Cette visite a notamment permis d'échanger sur des thématiques chères au Fablab
 de Lannion: l'éducation populaire, le recyclage et l'inclusion numérique.
 Le programme était riche: petite démo à la découpeuse laser, première machine
 emblématique obtenue grâce au soutien de la regrettée C.Ehrel, présentation de
 la découpeuse plasma entièrement conçue et réalisée au fablab, retour sur les
-différents projets (LoRa) et événements initiés par le fablab (Libre en fête)
+différents projets ([LoRa](https://wiki.fablab-lannion.org/index.php?title=Cat%C3%A9gorie:LoRa) / [The Things Network](https://www.thethingsnetwork.org/))) et événements initiés par le fablab ([Libre en Fête](http://libre-en-fete-tregor.fr/))
 pour finir par une présentation du partenariat avec la mission locale et la
 fondation Orange pour la remédiation numérique par le faire sous la houlette de
 Thierry.
