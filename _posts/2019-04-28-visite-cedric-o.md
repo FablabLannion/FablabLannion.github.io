@@ -13,7 +13,8 @@ Le fablab de Lannion a accueilli [Cédric O](https://fr.wikipedia.org/wiki/C%C3%
 le tout nouveau secrétaire d'état chargé du numérique vendredi 26 mai.
 
 Cette visite faisait partie du Trégor Tech tour à l'invitation du député Eric
-Bothorel et organisée par la French Tech de Lannion avec au programme, outre la
+Bothorel et organisée par la toute nouvelle French Tech Brest + (Lannion)
+avec au programme, outre la
 rencontre avec le fablab, la visite de quelques pépites trégorroises: Apizee,
 DC brain et Ixblue.
 
