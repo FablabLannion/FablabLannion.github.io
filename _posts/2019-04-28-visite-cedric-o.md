@@ -10,7 +10,7 @@ comments: True
 ---
 
 Le fablab de Lannion a accueilli [Cédric O](https://fr.wikipedia.org/wiki/C%C3%A9dric_O),
-, le tout nouveau secrétaire d'état chargé du numérique vendredi 26 mai.
+le tout nouveau secrétaire d'état chargé du numérique vendredi 26 mai.
 
 Cette visite faisait partie du Trégor Tech tour à l'invitation du député Eric
 Bothorel et organisée par la French Tech de Lannion avec au programme, outre la
