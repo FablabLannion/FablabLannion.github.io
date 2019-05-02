@@ -33,7 +33,7 @@ Cette visite a valu à notre président d'être retwitté par son homologue de
 l'Elyséee ![twitt]({{ site.url }}/images/posts/PhotoCedricO.jpg) et de figurer
 sur des photos avec un député, un secrétaire d'état, le maire de Lannion et de
 Perros-Guirec, le président de LTC, le sous préfet, le proviseur adjoint du
-lycée le Dantec, le responsable du campus des métiers, le représentant du
+lycée le Dantec, le responsable du [campus des métiers et des qualifications](http://lycee-ledantec.fr/le-lycee/le-campus-des-metiers-et-des-qualifications-du-numerique/), le représentant du
 rectorat, Alain, David, Jean-Louis, Tangi, Fred et bien d'autres...
 
 [Galerie Photos](https://photos.app.goo.gl/QB8f8pD9zkN468Tu6)
