@@ -12,7 +12,7 @@ comments: True
 Le fablab a, comme tous les ans, participé, à la fête de la science.
 Ce fut l'occasion de présenter au grand public un drôle d'objet: "le clinostat".
 
-![clinostat](https://photos.app.goo.gl/UrVdYBbewEAkXQ3Q9)
+![clinostat]({{ site.url }}/images/posts/clinostat/cli1.jpg)
 
 Un [clinostat](https://fr.wikipedia.org/wiki/Clinostat) est un appareil de
 laboratoire qui utilise la rotation pour réduire les effets de la gravité sur
@@ -21,7 +21,7 @@ la croissance de végétaux par la gravité.
 Cet appareil a été conçu et réalisé par deux membres émérites du Fablab: Fred et
 David, respectivement vice-président et trésorier de l'association.
 
-![Petites explications par David](https://twitter.com/planetarium_bzh/status/1180818737504632832)
+[Petites explications par David](https://twitter.com/planetarium_bzh/status/1180818737504632832)
 
 L'idée a germé suite à la rencontre avec la [fédération Open Space Maker](https://www.federation-openspacemakers.com/fr/).
 
@@ -42,15 +42,15 @@ faire des expériences en apesanteur, il convient de soumettre le candidat à un
 longue série d'épreuves afin d'étudier au mieux les conséquences d'un séjour dans
 l'espace.
 
-![David et Fred](https://photos.app.goo.gl/YtaZkpbi944egezt5) sont repartis du
-prototype et ont conçu une solution simple, robuste et peu onéreuse.
+David et Fred sont repartis du prototype et ont conçu une solution simple, robuste et peu onéreuse.
+![david et fred]({{ site.url }}/images/posts/clinostat/cli2.jpg)
 
 En attendant de voir de vrais vers soumis aux multiples rotations de l'engin, petits et grands ont pu observer de près la machine en action, vers l'infini et au delà...
 
-![FDS2019](https://photos.app.goo.gl/ZrQPNLGjqK5L4byH7)
+![FDS2019]({{ site.url }}/images/posts/clinostat/cli3.jpg)
 
 Plus de documentation à venir sur le [wiki](https://wiki.fablab-lannion.org/index.php?title=Clinostat)
 
 Le Fablab de Lannion est un membre actif de la fédération OpenSpace Maker.
 N'hésitez pas à venir nous rencontrer si vous souhaitez vous impliquer.
-![OSM au Fablab](https://photos.app.goo.gl/YxVB1GrXnBUKhRE68)
+![OSM au Fablab]({{ site.url }}/images/posts/clinostat/cli4.jpg)
