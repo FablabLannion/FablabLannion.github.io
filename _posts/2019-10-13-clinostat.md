@@ -16,7 +16,7 @@ Ce fut l'occasion de présenter au grand public un drôle d'objet: "le clinostat
 
 Un [clinostat](https://fr.wikipedia.org/wiki/Clinostat) est un appareil de
 laboratoire qui utilise la rotation pour réduire les effets de la gravité sur
-la croissance de végétaux et les micro-organismes par la gravité.
+la croissance de végétaux et les micro-organismes.
 
 Cet appareil a été conçu et réalisé par deux membres émérites du Fablab: Fred et
 David, respectivement vice-président et trésorier de l'association.
