@@ -16,7 +16,7 @@ Ce fut l'occasion de présenter au grand public un drôle d'objet: "le clinostat
 
 Un [clinostat](https://fr.wikipedia.org/wiki/Clinostat) est un appareil de
 laboratoire qui utilise la rotation pour réduire les effets de la gravité sur
-la croissance de végétaux par la gravité.
+la croissance de végétaux et les micro-organismes par la gravité.
 
 Cet appareil a été conçu et réalisé par deux membres émérites du Fablab: Fred et
 David, respectivement vice-président et trésorier de l'association.
@@ -27,10 +27,10 @@ L'idée a germé suite à la rencontre avec la [fédération Open Space Maker](h
 
 ![OSM](https://www.federation-openspacemakers.com/media/filer_public_thumbnails/filer_public/1f/27/1f272f1a-089a-4c63-923b-bb5d156cb774/lieux2.png__800x450_q85_crop_subsampling-2.png)
 
-Cette fédération, initiée par le [CNES](https://cnes.fr/fr), vise à ouvrir le monde du spatial aux makers en proposant la réalisation d'outils, véhicules et autres objets liés au domaine spatiale. Vous souhaitez réaliser un lanceur, une catapulte électromagnétique pour cubesats,  un récupérateur de débris spatiaux, un générateur de gravité artificielle...
+Cette fédération, initiée par le [CNES](https://cnes.fr/fr), vise à ouvrir le monde du spatial aux makers et à l'open source en proposant la réalisation d'outils, véhicules et autres objets liés au domaine spatial. Vous souhaitez réaliser un lanceur, une catapulte électromagnétique pour cubesats,  un récupérateur de débris spatiaux, un générateur de gravité artificielle...
 Jetez plutôt un coup d’œil [ici](https://www.federation-openspacemakers.com/fr/participer/projets/)
 
-Des membres de la fédération étaient venus à Lannion et avaient présenté un
+Des membres de la fédération étaient venus à Lannion ([petit billet de blog](http://www.fablab-lannion.org/2018/11/openspacemakerlannion.html)) et avaient présenté un
 clinostat réalisé par nos [amis nantais](https://www.plateforme-c.org/portfolio/lefablab/)
 à destination des équipes du CNRS de Roscoff travaillant sur le mystérieux et
 prometteur [ver de roscoff](https://fr.wikipedia.org/wiki/Symsagittifera_roscoffensis).
@@ -51,6 +51,7 @@ En attendant de voir de vrais vers soumis aux multiples rotations de l'engin, pe
 
 Plus de documentation à venir sur le [wiki](https://wiki.fablab-lannion.org/index.php?title=Clinostat)
 
-Le Fablab de Lannion est un membre actif de la fédération OpenSpace Maker.
+Des membres du Fablab de Lannion sont des membres actifs de la fédération
+OpenSpace Maker.
 N'hésitez pas à venir nous rencontrer si vous souhaitez vous impliquer.
 ![OSM au Fablab]({{ site.url }}/images/posts/clinostat/cli4.jpg)
