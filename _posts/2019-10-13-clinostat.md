@@ -23,7 +23,7 @@ David, respectivement vice-président et trésorier de l'association.
 
 [Petites explications par David](https://twitter.com/planetarium_bzh/status/1180818737504632832)
 
-L'idée a germé suite à la rencontre avec la [fédération Open Space Maker](https://www.federation-openspacemakers.com/fr/).
+L'envie a germé suite à la rencontre avec la [fédération Open Space Maker](https://www.federation-openspacemakers.com/fr/).
 
 ![OSM](https://www.federation-openspacemakers.com/media/filer_public_thumbnails/filer_public/1f/27/1f272f1a-089a-4c63-923b-bb5d156cb774/lieux2.png__800x450_q85_crop_subsampling-2.png)
 
