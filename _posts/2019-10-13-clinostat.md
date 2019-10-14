@@ -42,7 +42,7 @@ faire des expériences en apesanteur, il convient de soumettre le candidat à un
 longue série d'épreuves afin d'étudier au mieux les conséquences d'un séjour dans
 l'espace.
 
-David et Fred sont repartis du prototype et ont conçu une solution simple, robuste et peu onéreuse.
+David et Fred sont repartis du prototype et ont conçu un modèle évolué, robuste, peu onéreux et piloté via un smartphone ou un ordinateur.
 ![david et fred]({{ site.url }}/images/posts/clinostat/cli2.jpg)
 
 En attendant de voir de vrais vers soumis aux multiples rotations de l'engin, petits et grands ont pu observer de près la machine en action, vers l'infini et au delà...
