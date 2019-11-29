@@ -18,7 +18,7 @@ Venez utiliser la
 du Fablab pour fabriquer vos décorations personnalisées à accrocher dans le
 sapin ou à offrir (boules, étoiles, ...).
 
-![Gingerbread-Xmas-Set-2400px](https://static.fablab-lannion.org/Gingerbread-Xmas-Set-2400px-1024x813.png)](http://fablab-lannion.org/wp-content/uploads/2015/11/Gingerbread-Xmas-Set-2400px.png)
+![Gingerbread-Xmas-Set-2400px](https://static.fablab-lannion.org/Gingerbread-Xmas-Set-2400px-1024x813.png)
 
 N'hésitez pas à déssiner vos objets en avance en suivant
 [le guide](http://wiki.fablab-lannion.org/index.php?title=Chaine_logicielle_pour_d%C3%A9coupeuse_laser)
