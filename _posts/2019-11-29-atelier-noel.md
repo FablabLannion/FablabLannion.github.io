@@ -20,7 +20,7 @@ sapin ou à offrir (boules, étoiles, ...).
 
 ![Gingerbread-Xmas-Set-2400px](https://static.fablab-lannion.org/Gingerbread-Xmas-Set-2400px-1024x813.png)
 
-N'hésitez pas à déssiner vos objets en avance en suivant
+N'hésitez pas à dessiner vos objets en avance en suivant
 [le guide](http://wiki.fablab-lannion.org/index.php?title=Chaine_logicielle_pour_d%C3%A9coupeuse_laser)
 pour réaliser des dessins au format vectoriel avec l'outil
 [inkscape.](https://inkscape.org/fr/).
