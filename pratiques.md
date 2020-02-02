@@ -49,6 +49,7 @@ Horaires
 Quel que soit votre niveau de compétence, que vous ayez un projet précis ou que vous soyez simplement curieux, vous êtes bienvenus lors de nos réunions et ateliers hebdomadaires :
 
 * chaque mercredi de 18h00 à 00h00 : atelier ouvert
+* chaque vendredi de 9H à 12h30 (nouveau créneau partir du 6 Mars 2020) : atelier ouvert
 * chaque vendredi de 12h30 à 14h00 : réunion d'échange ouverte à tous 
 * chaque vendredi de 14h00 à 17h00 : atelier ouvert
 * A la demande, avec la présence d'un FabManager
