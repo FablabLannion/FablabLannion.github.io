@@ -81,7 +81,7 @@ authors:
         google_plus:
     david:
         name: David Blaisonneau
-        function: Trésorier
+        function: Président
         description: Make is not an alternative.
         gravatar: d6cd7628bc242b87449712f0fef53924
         twitter: davidblaisonneau
@@ -100,7 +100,7 @@ authors:
         name: Fablab Lannion
     jerome:
         name: Jérôme Labidurie
-        function: Président
+        function: Vice-Président
         gravatar: 29020340fd48c04adad04976cb909b4f
         twitter: buggerone
         github: jerome-labidurie
@@ -131,7 +131,7 @@ authors:
         gravatar: bfa9da2fe4514a96f1e51ef49f98676f
     matthieu:
         name: Matthieu Salvat
-        function: Membre actif
+        function: Trésorier-adjoint
         twitter: matthieu_salvat
         github: matthieusalvat
     thierry:
