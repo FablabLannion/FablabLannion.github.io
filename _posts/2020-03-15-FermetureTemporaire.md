@@ -12,7 +12,7 @@ share: True
 ---
 
 Amis Makers, dans le cadre de la limitation de la propagation du #Coronavirus,
-les ateliers du Fablab sont fermès jusqu'à nouvel ordre.
+les ateliers du Fablab sont fermés jusqu'à nouvel ordre.
 
 Nous sommes certains que vous profiterez de ce moment pour:
 
