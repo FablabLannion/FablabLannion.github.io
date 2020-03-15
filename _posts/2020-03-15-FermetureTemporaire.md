@@ -2,7 +2,7 @@
 author: david
 tags: association
 layout: post
-imagefeature: http://static.fablab-lannion.org/open.png
+imagefeature: {{ site.url }}/images/post/restealamaison.jpg
 slug: FermetureTemporaire
 date: 2020-02-06
 title: "Fermeture Temporaire"
@@ -23,4 +23,4 @@ Nous sommes certains que vous profiterez de ce moment pour:
 
 Si jamais vous souhaitez un autre outil (chat, visio...) pour vous aider dans vos projets, n'hésitez pas à nous contacter pour que l'on puisse installer ça :)
 
-![cover-image]({{ site.url }}/images/restealamaison.jpg)
+![cover-image]({{ site.url }}/images/post/restealamaison.jpg)
