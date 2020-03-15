@@ -2,7 +2,7 @@
 author: david
 tags: association
 layout: post
-imagefeature: https://davidblaisonneau.github.io/images/posts/restealamaison.jpg
+imagefeature: http://www.fablab-lannion.org/images/posts/restealamaison.jpg
 slug: FermetureTemporaire
 date: 2020-02-06
 title: "Fermeture Temporaire - #RestezChezVous"
@@ -25,4 +25,4 @@ Si jamais vous souhaitez un autre outil (chat, visio...) pour vous aider dans vo
 
 Nous vous tiendrons au courant dès que possible de la date de réouverture des ateliers.
 
-![restezchezvous](https://davidblaisonneau.github.io/images/posts/restealamaison.jpg)
+![restezchezvous](http://www.fablab-lannion.org/images/posts/restealamaison.jpg)
