@@ -5,7 +5,7 @@ layout: post
 imagefeature: https://davidblaisonneau.github.io/images/posts/restealamaison.jpg
 slug: FermetureTemporaire
 date: 2020-02-06
-title: "Fermeture Temporaire"
+title: "Fermeture Temporaire - #RestezChezVous"
 comments: True
 share: True
 
@@ -23,4 +23,6 @@ Nous sommes certains que vous profiterez de ce moment pour:
 
 Si jamais vous souhaitez un autre outil (chat, visio...) pour vous aider dans vos projets, n'hésitez pas à nous contacter pour que l'on puisse installer ça :)
 
-![cover-image]({{ site.url }}/images/posts/restealamaison.jpg)
+Nous vous tiendrons au courant dès que possible de la date de réouverture des ateliers.
+
+![restezchezvous](https://davidblaisonneau.github.io/images/posts/restealamaison.jpg)
