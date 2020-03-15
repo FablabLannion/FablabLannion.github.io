@@ -2,7 +2,7 @@
 author: david
 tags: association
 layout: post
-imagefeature: {{ site.url }}/images/posts/restealamaison.jpg
+imagefeature: https://davidblaisonneau.github.io/images/posts/restealamaison.jpg
 slug: FermetureTemporaire
 date: 2020-02-06
 title: "Fermeture Temporaire"
