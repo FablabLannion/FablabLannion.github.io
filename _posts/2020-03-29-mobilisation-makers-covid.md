@@ -17,7 +17,7 @@ Certains makers locaux ont commencé, alors pourquoi ne pas contribuer à cet é
 
 Dans un premier temps, et si vous avez une imprimante 3D à disposition chez
 vous, vous pouvez imprimer des supports de masques de protection faciale pour
-le personnel médical du Trégor.
+le personnel médical du Trégor en priorité ainsi que pour les personnes devant assurer des missions publiques.
 
 Voici quelques modèles qui ont été répertoriés par FredP, sguelec, et Phil22300
 sur notre [forum](https://forum.fablab-lannion.org/viewtopic.php?f=5&t=1010&p=5471#p5471)
