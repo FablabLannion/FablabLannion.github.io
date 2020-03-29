@@ -32,7 +32,7 @@ Les soignants locaux ne sont pas encore dans le pic d'épidémie dans le Trégor
 mais ces masques sont là pour les protéger et éviter que ce pic ne touche trop
 de personnes. Alors ne nous y prenons pas trop tard ! Imprimons !
 
-Pour faciliter la logistique, les besoins des feuilles plastiques, la livraison,
+Pour faciliter la logistique, les besoins en feuilles plastiques, la livraison,
 ou tout autre question, nous avons mis en place une adresse mail
 pour l'occasion:
 
