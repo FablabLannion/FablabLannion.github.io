@@ -4,7 +4,7 @@ tags: association
 layout: post
 imagefeature: http://www.fablab-lannion.org/images/posts/restealamaison.jpg
 slug: MobilisationCOVID
-date: 2020-03-15
+date: 2020-03-29
 title: "Mobilisation des makers du Trégor - #Covid19"
 comments: True
 share: True
@@ -22,11 +22,11 @@ le personnel médical du Trégor en priorité ainsi que pour les personnes devan
 Voici quelques modèles qui ont été répertoriés par FredP, sguelec, et Phil22300
 sur notre [forum](https://forum.fablab-lannion.org/viewtopic.php?f=5&t=1010&p=5471#p5471)
 
-- https://3d.freerider-factory.fr
-- https://3dverkstan.se/protective-visor/
-- https://www.thingiverse.com/thing:4239230 (Modèle réalisé par notre FredC local, avec du PET, et SANS elastique !)
-- https://3d.elya.fr/
-- https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1
+- [https://3d.freerider-factory.fr](https://3d.freerider-factory.fr)
+- [https://3dverkstan.se/protective-visor](https://3dverkstan.se/protective-visor)
+- [https://www.thingiverse.com/thing:4239230](https://www.thingiverse.com/thing:4239230 ) Modèle réalisé par notre FredC local, avec du PET, et SANS elastique !)
+- [https://3d.elya.fr/](https://3d.elya.fr/)
+- [https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1)
 
 Les soignants locaux ne sont pas encore dans le pic d'épidémie dans le Trégor,
 mais ces masques sont là pour les protéger et éviter que ce pic ne touche trop
