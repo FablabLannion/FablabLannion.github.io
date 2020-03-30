@@ -19,16 +19,17 @@ Merci aux partenaires
 
 - Bureau Vallée Lannion et Yann Chaussé
 - CoDEHSa-Trégor
+- Orange, pour les imprimantes et le temps libéré pour la coordination.
 
 
 Merci aux makers !!!
 ---------------
 
-- David Blaisonneau - Coordination / Maker [Fablab de Lannion]
-- Fréderic Carré - Maker [Fablab de Lannion]
-- Philippe Charlot - Coordination / Maker [Fablab de Lannion]
+- David Blaisonneau - Coordination / Maker [Fablab de Lannion - Orange]
+- Fréderic Carré - Coordination / Maker [Fablab de Lannion - Orange]
+- Philippe Charlot - Coordination / Maker [Fablab de Lannion - Orange]
 - Laurent Gallou - Maker [Eco Compteur]
 - Yohann Le Bellec - Maker
-- Frédéric Pinson - Maker [Fablab de Lannion]
-- Mathieu Salvat - Coordination / Maker [Fablab de Lannion]
+- Frédérique Pinson - Maker [Fablab de Lannion - Orange]
+- Mathieu Salvat - Coordination / Maker [Fablab de Lannion - Orange]
 - Sebastien Troadec - Maker
