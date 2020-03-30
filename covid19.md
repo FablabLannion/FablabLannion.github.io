@@ -26,7 +26,7 @@ Merci aux makers !!!
 
 - David Blaisonneau - Coordination / Maker [Fablab de Lannion]
 - Fréderic Carré - Maker [Fablab de Lannion]
-- Philippe Charlot - Coordination / Maker
+- Philippe Charlot - Coordination / Maker [Fablab de Lannion]
 - Laurent Gallou - Maker [Eco Compteur]
 - Yohann Le Bellec - Maker
 - Frédéric Pinson - Maker [Fablab de Lannion]
