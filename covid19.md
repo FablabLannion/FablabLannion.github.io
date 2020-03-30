@@ -3,7 +3,9 @@ Makers du trégor contre le COVID19
 
 ![routage_demandes](./images/covid19/routage_demandes.svg.png "routage des demandes")
 
-Les contacts:
+<b>Pour les makers, c'est par --> [ici](./covid-markers.md)</b>
+
+Les contacts de nos partenaires:
 - Pour les professions médicales - CoDEHSa-Trégor:
   c19.visieres.tregor@gmail.com
 - Pour les professions non médicales: A venir
