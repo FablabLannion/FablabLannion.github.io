@@ -17,7 +17,7 @@ partenaires !
 Merci aux partenaires
 -----------------
 
-- Bureau Vallée Lannion
+- Bureau Vallée Lannion et Yann Chaussé
 - CoDEHSa-Trégor
 
 
