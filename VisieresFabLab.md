@@ -3,8 +3,8 @@
 (par Frédérique Pinson, Philippe Charlot, Frédéric Carré et 3dverkstan, 3d.freerider-factory)
 
 Nous imprimons à l'heure actuelle 2 modèles : 
-[**Modèle 1**](#Modele1) imprimable en PLA et autres matériaux
-[**Modèle 2**](#Modele2) imprimable en PET, PETG mais ne nécessitant pas d'élastiques
+* [**Modèle 1**](#Modele1) imprimable en PLA et autres matériaux,
+* [**Modèle 2**](#Modele2) imprimable en PET, PETG mais ne nécessitant pas d'élastiques.
 
 ## <a name="Modele1"></a>**Modèle 1, imprimable en PLA** 
 ![visière complète](images/covid19/3dverkstan_europe-iso838-2.jpeg)
