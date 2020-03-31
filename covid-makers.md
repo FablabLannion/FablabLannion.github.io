@@ -51,6 +51,6 @@ Dans l'application Trello, vous pourrez:
   cliquez sur la fiche, puis sur "rejoindre"
   ![trello-rejoindre](./images/covid19/trello1.png)
 2. passez cette fiche dans la colonne "En cours de production"
-3. Une fois la production terminée, passez la fiche dans "A livrer" et notre
+3. Une fois la production terminée (-voir nos [infos sur les modèles](VisieresFabLab.md)-), passez la fiche dans "A livrer" et notre
   partenaire vous contactera pour venir récupérer le matériel
 4. GOTO 1.
