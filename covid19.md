@@ -11,7 +11,7 @@ Les contacts de nos partenaires:
 - Pour les professions non médicales: A venir
 
 Dernière précision pour tous, les masques distribués sont <b>GRATUITS</b> !
-Il s'agit ici du don de temps et d'argent des makers locaux et de leur
+Il s'agit ici du don de temps et d'argent des makers locaux et de leurs
 partenaires !
 
 Merci aux partenaires
