@@ -17,11 +17,11 @@ partenaires !
 Malheureusement nous devons prioriser les besoins locaux, et ne
 pouvons répondre aux demandes trop éloignés. Si vous n'êtes pas sur la Bretagne
 vous pouvez chercher de l'aide sur les sites dédiés:
-- https://covid-initiatives.org/
+- [https://covid-initiatives.org/](https://covid-initiatives.org/)
 
 ou auprès d'un fablab près de chez vous.
-- https://www.makery.info/labs-map/
-- https://fablabo.net/wiki/Cartographie_des_fablabs_fran%C3%A7ais
+- [https://www.makery.info/labs-map/](https://www.makery.info/labs-map/)
+- [https://fablabo.net/wiki/Cartographie_des_fablabs_fran%C3%A7ais](https://fablabo.net/wiki/Cartographie_des_fablabs_fran%C3%A7ais)
 
 Merci aux partenaires
 -----------------
