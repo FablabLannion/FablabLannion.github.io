@@ -14,6 +14,15 @@ Dernière précision pour tous, les masques distribués sont <b>GRATUITS</b> !
 Il s'agit ici du don de temps et d'argent des makers locaux et de leurs
 partenaires !
 
+Malheureusement nous devons prioriser les besoins locaux, et ne
+pouvons répondre aux demandes trop éloignés. Si vous n'êtes pas sur la Bretagne
+vous pouvez chercher de l'aide sur les sites dédiés:
+- https://covid-initiatives.org/
+
+ou auprès d'un fablab près de chez vous.
+- https://www.makery.info/labs-map/
+- https://fablabo.net/wiki/Cartographie_des_fablabs_fran%C3%A7ais
+
 Merci aux partenaires
 -----------------
 
@@ -29,7 +38,10 @@ Merci aux makers !!!
 - Fréderic Carré - Coordination / Maker [Fablab de Lannion]
 - Philippe Charlot - Coordination / Maker [Fablab de Lannion - Orange]
 - Laurent Gallou - Maker [Eco Compteur]
+- Gérald Lacourt - Maker [Lycée Felix Le Dantec]
 - Yohann Le Bellec - Maker
 - Frédérique Pinson - Maker [Fablab de Lannion - Orange]
+- Gilles Postic - Maker [Lycée Felix Le Dantec]
 - Mathieu Salvat - Coordination / Maker [Fablab de Lannion - Orange]
+- jean-louis Simon - Maker
 - Sebastien Troadec - Maker
