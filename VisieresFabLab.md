@@ -1,6 +1,6 @@
 
 # Guide d'impression des visières imprimées par le FabLab de Lannion
-(par Frédérique Pinson, Philippe Charlot et 3dverkstan, 3d.freerider-factory)
+(par Frédérique Pinson, Philippe Charlot, Frédéric Carré et 3dverkstan, 3d.freerider-factory)
 
 Nous imprimons à l'heure actuelle 2 modèles : 
 [**Modèle 1**](#Modele1) imprimable en PLA et autres matériaux
