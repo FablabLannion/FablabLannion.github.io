@@ -26,20 +26,33 @@ Buse de l'imprimante : 0.4 mm
 Tranchage : Slic3r
 
 Layer height : 0.2 mm
+
 First layer height : 0.3 mm
+
 Solid layers : Top 3, bottom 3
+
 Density : 40 %
+
 Pattern : Honeycomb
+
 Top/bottom fill pattern : Rectilinear
+
 Brim : 1 mm
+
 Support : no
+
 Speed perimeters : 30 mm/s 
+
 Speed infill : 60 mm/s
 
 Diametre PLA : 1.75 mm
+
 Temperature extruder : 190 °C
+
 Temparature Bed : 60 °C
+
 Retractation : 4 mm
+
 Retractation speed : 30 mm/s
 
 
