@@ -45,6 +45,8 @@ links:
     icon: home
   - title: Galerie
     url: /galerie
+  - title: <b style='color:red'>COVID-19</b>
+    url: /covid19
   - title: Forum
     url: https://forum.fablab-lannion.org
     external: true
