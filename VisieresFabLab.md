@@ -146,6 +146,6 @@ Il faut impérativement du matériau souple (PET, PETG).
 
 ![0.jpg](images/covid19/modeleFredC.jpg)
 
-STL: [https://www.thingiverse.com/thing:4239230/files]()
+STL: [https://www.thingiverse.com/thing:4239230/files](https://www.thingiverse.com/thing:4239230/files)
 
-Présentation et mode de montage:  [https://youtu.be/Dc9mKZUixy8](https://www.thingiverse.com/thing:4239230/files)
+Présentation et mode de montage:  [https://youtu.be/Dc9mKZUixy8](https://youtu.be/Dc9mKZUixy8)
