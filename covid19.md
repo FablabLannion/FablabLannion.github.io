@@ -43,5 +43,8 @@ Merci aux makers !!!
 - Frédérique Pinson - Maker [Fablab de Lannion - Orange]
 - Gilles Postic - Maker [Lycée Felix Le Dantec]
 - Mathieu Salvat - Coordination / Maker [Fablab de Lannion - Orange]
-- jean-louis Simon - Maker
+- Jean-Louis Simon - Maker
 - Sebastien Troadec - Maker
+- Cédric Martin - Maker
+- Jérôme Labidurie - Maker [Fablab de Lannion]
+
