@@ -11,7 +11,7 @@ Nous imprimons à l'heure actuelle 2 modèles :
 ### Source:  ([https://3dverkstan.se/protective-visor/](https://3dverkstan.se/protective-visor/)) Version Européenne.
 
 ### STL: 
-sur notre repo: [Visor_frame_EUROPE_ISO838_v3.stl](Visor_frame_EUROPE_ISO838_v3.stl)
+sur notre repo: [Visor_frame_EUROPE_ISO838_v3.stl](images/covid19/Visor_frame_EUROPE_ISO838_v3.stl)
 repo d'origine: [https://www.youmagine.com/designs/protective-visor-by-3dverkstan](https://www.youmagine.com/designs/protective-visor-by-3dverkstan)
 mirror : [https://github.com/Cederb/Faceshield.nu/](https://github.com/Cederb/Faceshield.nu/)
 
