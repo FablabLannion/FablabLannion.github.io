@@ -40,11 +40,8 @@ Merci aux makers !!!
 - Laurent Gallou - Maker [Eco Compteur]
 - Gérald Lacourt - Maker [Lycée Felix Le Dantec]
 - Yohann Le Bellec - Maker
-- Frédérique Pinson - Maker [Fablab de Lannion - Orange]
+- Frédérique Pinson - Coordination / Maker [Fablab de Lannion - Orange]
 - Gilles Postic - Maker [Lycée Felix Le Dantec]
 - Mathieu Salvat - Coordination / Maker [Fablab de Lannion - Orange]
-- Jean-Louis Simon - Maker
+- jean-louis Simon - Maker
 - Sebastien Troadec - Maker
-- Cédric Martin - Maker
-- Jérôme Labidurie - Maker [Fablab de Lannion]
-
