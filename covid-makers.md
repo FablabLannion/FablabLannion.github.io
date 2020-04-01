@@ -23,12 +23,15 @@ le Covid19, merci de lire tout d'abord ces quelques lignes.
 Etape 1:
 -----------
 
-vous pouvez nous contacter à l'adresse suivante: [covid@fablab-lannion.org](mailto://covid@fablab-lannion.org)
+Vous pouvez nous contacter à l'adresse suivante: [covid@fablab-lannion.org](mailto://covid@fablab-lannion.org)
 
 Précisez ce que vous pouvez faire et vos besoins.
 
-Ajoutez vos coordonnées, téléphone et adresse postale pour que nous puissions
-venir chercher vos réalisations.
+Un coordinateur ou une coordinatrice vous répondra en vous demandant par mail :
+* vos coordonnées (nom, adresse, téléphone) pour la collecte des objets produits
+* un compte sur [Trello](https://trello.com) qui sert à gérer les demandes.
+  Merci de créer un compte avec un nom lisible (ie: pas un pseudonyme).
+  C'est plus facile pour faire le lien entre le maker et son adresse :)
 
 
 Etape 2
@@ -36,11 +39,9 @@ Etape 2
 
 Nous vous ajoutons:
 
-- à la liste covid@fablab-lannion.org, c'est un alias mail
-  pour communiquer entre tous les makers, avec son petit coté spontané, et donc
-  anarchique.
 - à notre tableau Trello. C'est ce qui nous permet de lister les commandes
   a réaliser.
+- au fichier (privé) listant les makers.
 
 
 Etape 3
@@ -51,23 +52,10 @@ Dans l'application Trello, vous pourrez:
   cliquez sur la fiche, puis sur "rejoindre"
   ![trello-rejoindre](./images/covid19/trello1.png)
 2. passez cette fiche dans la colonne "En cours de production"
-3. Une fois la production terminée (-voir nos [infos sur les modèles](VisieresFabLab.md)-), passez la fiche dans "A livrer" et notre
-  partenaire vous contactera pour venir récupérer le matériel
+   (voir les [infos sur les modèles](VisieresFabLab.md))
+3. Une fois la production terminée, passez la fiche dans "A livrer" et notre partenaire vous contactera pour venir récupérer la production.
+   Ils font une tournée par jour, mais pas forcément de tous les makers à chaque fois.
 4. GOTO 1.
-
-Pour la coordination
-====================
-
-Voici la procédure suivie pour intégrer un nouveau maker à l'effort :
-
-1. le maker propose ses ressources via un mail à [covid@fablab-lannion.org](mailto://covid@fablab-lannion.org)
-2. il est contacté par un coordinateur ou une coordinatrice qui lui demande par mail :
-   * ses coordonnées pour la collecte des objets par le CoDeHSa
-   * un compte sur [Trello](https://trello.com) qui sert à gérer les demandes
-3. il est référencé dans le fichier (privé) des makers (nom, adresse, téléphone, email)
-4. il recoit un mail de confirmation et peut commencer à produire et renseigner le Trello (voir ci-dessus)
-
-
 
 
 
