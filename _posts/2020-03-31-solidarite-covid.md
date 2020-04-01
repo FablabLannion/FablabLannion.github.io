@@ -4,7 +4,7 @@ tags: association
 layout: post
 imagefeature: https://pbs.twimg.com/media/EUd2-gjWAAU7Hmh?format=jpg&name=large
 slug: MobilisationCOVID
-date: 2020-03-29
+date: 2020-03-31
 title: "Solidarité #Covid19"
 comments: True
 share: True
