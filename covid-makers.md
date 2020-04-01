@@ -62,8 +62,8 @@ Voici la procédure suivie pour intégrer un nouveau maker à l'effort :
 
 1. le maker propose ses ressources via un mail à [covid@fablab-lannion.org](mailto://covid@fablab-lannion.org)
 2. il est contacté par un coordinateur ou une coordinatrice qui lui demande par mail :
- * ses coordonnées pour la collecte des objets par le CoDeHSa
- * une inscription sur le Trello qui permet de gérer les demandes
+   * ses coordonnées pour la collecte des objets par le CoDeHSa
+   * une inscription sur le Trello qui permet de gérer les demandes
 3. il est référencé dans le fichier (privé) des makers (nom, adresse, téléphone, email)
 4. il recoit un mail de confirmation et peut commencer à produire et renseigner le Trello (voir ci-dessus)
 
