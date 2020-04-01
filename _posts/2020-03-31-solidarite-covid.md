@@ -19,7 +19,7 @@ l'image de nombreux fablabs sur tout le territoire, nous souhaitons porter nos
 premiers efforts sur le matériel de protection (visières) à destination du
 personnel soignant en première ligne sur le territoire.
 Découpeuse Laser et imprimantes 3D vont donc être mises à contribution pour
-faire au mieux en ces temps compliqués.
+faire au mieux en ces temps compliqués. Les propriétaires d'imprimante 3D peuvent donc se rendre utiles en restant à la maison et en imprimant.
 
 Une page a été mise en ligne pour résumer la situation, préciser les
 interlocuteurs privilégiés et fournir les adresses mails utiles à tous
