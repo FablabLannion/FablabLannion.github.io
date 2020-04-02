@@ -34,30 +34,26 @@ Merci aux partenaires
 Merci aux makers !!!
 ---------------
 
+Par ordre alphabétique :
+- Jérôme Astier - Maker
 - David Blaisonneau - Coordination / Maker [Fablab de Lannion - Orange]
 - Fréderic Carré - Coordination / Maker [Fablab de Lannion]
 - Philippe Charlot - Coordination / Maker [Fablab de Lannion - Orange]
-- Frédérique Pinson - Coordination / Maker [Fablab de Lannion - Orange]
-- Mathieu Salvat - Coordination / Maker [Fablab de Lannion - Orange]
 - Laurent Gallou - Maker [Eco Compteur]
+- Thierry Houdoin - Maker [Fablab de Lannion]
+- Jérôme Labidurie - Maker [Fablab de Lannion]
 - Gérald Lacourt - Maker [Lycée Felix Le Dantec]
 - Yohann Le Bellec - Maker
-- Gilles Postic - Maker [Lycée Felix Le Dantec]
-- Jean-Louis Simon - Maker
-- Sebastien Troadec - Maker
-- Cédric Martin - Maker
-- Jérôme Labidurie - Maker [Fablab de Lannion]
-- Jérôme Astier - Maker
-- Julien Touchet - Maker [Radio Frequency Systems (RFS)]
-- Didier Quere - Maker
 - Nathalie Limbasse - Maker
-- Alain Renon - Maker [Fablab de Lannion]
+- Cédric Martin - Maker
 - Marcel Ollivier - Maker
-- Thierry Houdoin - Maker [Fablab de Lannion]
-- Florent Valentin - Maker
+- Frédérique Pinson - Coordination / Maker [Fablab de Lannion - Orange]
+- Gilles Postic - Maker [Lycée Felix Le Dantec]
+- Didier Quere - Maker
+- Alain Renon - Maker [Fablab de Lannion]
+- Mathieu Salvat - Coordination / Maker [Fablab de Lannion - Orange]
+- Jean-Louis Simon - Maker
+- Julien Touchet - Maker [Radio Frequency Systems (RFS)]
 - Arnaud Trevien - Maker [Collège Lycée Saint Joseph Bossuet]
-
-
-
-
-
+- Sebastien Troadec - Maker
+- Florent Valentin - Maker
