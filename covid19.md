@@ -8,7 +8,7 @@ Makers du trégor contre le COVID19
 Les contacts de nos partenaires:
 - Pour les professions médicales - CoDEHSa-Trégor:
   c19.visieres.tregor@gmail.com
-- Pour les professions non médicales: A venir
+- Pour les professions non médicales - Lannion Coeur de Ville: lcv.contact22@gmail.com
 
 Dernière précision pour tous, les masques distribués sont <b>GRATUITS</b> !
 Il s'agit ici du don de temps et d'argent des makers locaux et de leurs
