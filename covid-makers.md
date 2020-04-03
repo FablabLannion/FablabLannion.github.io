@@ -43,8 +43,8 @@ Un coordinateur ou une coordinatrice vous répondra en vous demandant par mail :
 
   Merci de créer un compte avec un nom lisible (ie: pas un pseudonyme).
   C'est plus facile pour faire le lien entre le maker et son adresse :)
-
-
+  
+ 
 Etape 2: inscription
 ------------
 
@@ -53,45 +53,54 @@ Nous vous ajoutons:
 - à notre tableau Trello sur lequel nous listons les commandes à réaliser.
 - au fichier (privé) listant les makers.
 
+Nous avons des collecteurs/collectrices en charge d'une zone géographique définie. 
+Vous aurez donc un/une collecteur/collectrice attribué. 
+Celui-ci ou celle-ci vous contactera après votre inscription.
+  
+
+
 
 Etape 3: production !
 ------
 
-Dans l'application Trello, vous pourrez:
+Dans l'application Trello:
 
-1 - Choisir une fiche dans la colonne '**A produire - Médical**' (c'est la priorité) ou '**A produire - Entreprises**'
+1 - Choisissez une fiche dans la colonne '**A produire - Médical**' (c'est la priorité) ou '**A produire - Entreprises**'
 > en général on prend la première pour traiter les demandes dans l'ordre d'arrivée
 
  ![trello-aproduire](./images/covid19/ColonnesAproduire.jpg)
 
 
- et vous l'assigner: pour cela, cliquez sur la fiche pour l'ouvrir, puis sur "rejoindre"
+ et cliquez sur la fiche pour l'ouvrir, puis sur "rejoindre".
   
   ![trello-rejoindre](./images/covid19/trello1.png)
   
   
 
-> Rejoindre la carte, cela ajoute votre avatar ou vos initiales sur le résumé de la carte et cela nous permet de voir qui fait quoi, 
->  d'un seul coup d'oeil et de ne pas avoir à ouvrir la carte pour vérifier chez qui aller chercher les impressions.
+> Rejoindre la carte, cela ajoute votre avatar ou vos initiales sur le résumé de la carte et cela nous permet de voir qui fait quoi, d'un seul coup d'oeil.
 >  
-> De plus, cela vous donne un aperçu sur son traitement:  si vous avez mis votre adresse mail dans le coordonnées du compte Trello, 
-> vous recevrez automatiquement un mail quand la carte aura été bougée vers les colonnes ("**Livraison en cours**" , puis "**Terminé**"). 
+> De plus, cela vous donne un aperçu sur son traitement: si vous avez mis votre adresse mail dans le coordonnées du compte Trello, 
+> vous recevrez automatiquement un mail quand la carte aura été bougée vers la colonne ( "**Terminé**"). 
 
- 2 - Passer cette fiche dans la colonne "En cours de production", et .. imprimer !
-   (voir les [infos sur les modèles](modeles3DCovid.md))
+ 2 - Passez cette fiche dans la colonne "**En cours de production**", et ... c'est parti pour imprimer ! (voir les [infos sur les modèles](modeles3DCovid.md))
+ 
  3 -  Dès vous avez fini de produire un lot de serre-têtes pour une carte : 
  	
- - S'il y a au moins 10 visières, vous pouvez bouger la carte dans "**A Récupérer chez le maker**". 
-Vous serez contacté par un/une collecteur/trice pour prendre RDV et venir les chercher.
- - Si la carte fait moins de 10, attendez d'avoir fait une autre carte pour avoir au moins 10 serre-têtes à fournir.
+ - S'il y a au moins 8-10 visières, vous pouvez bouger la carte dans "**A Récupérer chez le maker**" et envoyer un SMS à votre collecteur/collectrice. 
+
+ - Si la carte fait moins de 8, attendez d'avoir fait une autre carte pour envoyer le SMS.
 
 > Nous faisons cela pour éviter que les collecteurs se déplacent trop souvent, pour 2 ou 3 unités, par exemple.
 
-4 - GOTO 1.
+
+
+4 - Dès que vous avez donné vos impressions à votre collecteur/collectrice, merci de faire bouger vos carte dans la colonne "**Livraison en cours**".
+
+5- GOTO 1.
 
 
 
-Etape 3 Bis : Cas d'une Livraison directe
+Etape 3 Bis : Cas d'une livraison directe
 ------------------------------------------
 Dans le cas où vous faites de la livraison directe (par ex vous êtes loin de Lannion et il y a une demande près de chez vous).
 *Cela implique que vous avez des feuilles transparentes et de quoi les perforer pour monter les visières vous-même.
