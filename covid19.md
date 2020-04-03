@@ -29,31 +29,19 @@ Merci aux partenaires
 - Bureau Vallée Lannion et Yann Chaussé
 - CoDEHSa-Trégor
 - Orange, pour les imprimantes et le temps libéré pour la coordination.
-
+- Impressions Lannion
 
 Merci aux makers !!!
 ---------------
 
 Par ordre alphabétique :
-- Jérôme Astier - Maker
 - David Blaisonneau - Coordination / Maker [Fablab de Lannion - Orange]
 - Fréderic Carré - Coordination / Maker [Fablab de Lannion]
 - Philippe Charlot - Coordination / Maker [Fablab de Lannion - Orange]
-- Laurent Gallou - Maker [Eco Compteur]
 - Thierry Houdoin - Maker [Fablab de Lannion]
 - Jérôme Labidurie - Maker [Fablab de Lannion]
-- Gérald Lacourt - Maker [Lycée Felix Le Dantec]
-- Yohann Le Bellec - Maker
-- Nathalie Limbasse - Maker
-- Cédric Martin - Maker
-- Marcel Ollivier - Maker
 - Frédérique Pinson - Coordination / Maker [Fablab de Lannion - Orange]
-- Gilles Postic - Maker [Lycée Felix Le Dantec]
-- Didier Quere - Maker
 - Alain Renon - Maker [Fablab de Lannion]
 - Mathieu Salvat - Coordination / Maker [Fablab de Lannion - Orange]
-- Jean-Louis Simon - Maker
-- Julien Touchet - Maker [Radio Frequency Systems (RFS)]
-- Arnaud Trevien - Maker [Collège Lycée Saint Joseph Bossuet]
-- Sebastien Troadec - Maker
-- Florent Valentin - Maker
+
+... et beaucoup d'autres anonymes !
