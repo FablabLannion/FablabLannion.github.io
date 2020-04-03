@@ -28,7 +28,8 @@ Merci aux partenaires
 
 - Bureau Vallée Lannion et Yann Chaussé
 - CoDEHSa-Trégor
-- Orange, pour les imprimantes et le temps libéré pour la coordination.- - Impressions Lannion
+- Orange, pour les imprimantes et le temps libéré pour la coordination.
+- Impressions Lannion
 
 Merci aux makers !!!
 ---------------
