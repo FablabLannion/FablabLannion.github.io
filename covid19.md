@@ -30,6 +30,11 @@ Merci aux partenaires
 - CoDEHSa-Trégor
 - Orange, pour les imprimantes et le temps libéré pour la coordination.
 - Impressions Lannion
+- Le Foyer logement de Bégard
+- Le Comité Cantonal d'Entraide de Bégard
+- La mairie de Bégard
+- Impression Lannion
+- Publi Trégor
 
 Merci aux makers !!!
 ---------------
