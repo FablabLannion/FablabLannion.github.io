@@ -94,11 +94,12 @@ Dans l'application Trello:
 
 
 
-4 - Dès que vous avez donné vos impressions à votre collecteur/collectrice, merci de faire bouger vos carte dans la colonne "**Livraison en cours**".
+4 - Dès que vous avez donné vos impressions à votre collecteur/collectrice, merci de faire bouger vos cartes dans la colonne "**Livraison en cours**".
 
 5- GOTO 1.
 
 
+> Attention : Dans le cas où vous donnez des impressions pour des entreprises -et- pour le médical, séparez les (deux pochettes plastiques) avant de les donner à votre collecteur/collectrice, çà ne va pas au même destinataire au final.
 
 Etape 3 Bis : Cas d'une livraison directe
 ------------------------------------------

@@ -35,13 +35,23 @@ Merci aux makers !!!
 ---------------
 
 Par ordre alphabétique :
+- Jérôme Astier - Maker
 - David Blaisonneau - Coordination / Maker [Fablab de Lannion - Orange]
 - Fréderic Carré - Coordination / Maker [Fablab de Lannion]
 - Philippe Charlot - Coordination / Maker [Fablab de Lannion - Orange]
+- Laurent Gallou - Maker [Eco Compteur]
 - Thierry Houdoin - Maker [Fablab de Lannion]
 - Jérôme Labidurie - Maker [Fablab de Lannion]
+- Gérald Lacourt - Maker [Lycée Felix Le Dantec]
+- Yohann Le Bellec - Maker
+- Quentin Le Cam - Maker
+- Eric et Nathalie Limbasse - Maker
+- Yann Loussouarn - Maker [Fablab de Lannion]
+- Cédric Martin - Maker
+- Marcel Ollivier - Maker
 - Frédérique Pinson - Coordination / Maker [Fablab de Lannion - Orange]
 - Alain Renon - Maker [Fablab de Lannion]
 - Mathieu Salvat - Coordination / Maker [Fablab de Lannion - Orange]
+- Sébastien Troadec - Maker
 
-... et beaucoup d'autres anonymes !
+... et quelques anonymes !
