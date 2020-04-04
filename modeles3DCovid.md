@@ -12,11 +12,13 @@ Nous imprimons à l'heure actuelle 2 modèles :
 
 ### STL: 
 sur notre repo: [Visor_frame_EUROPE_ISO838_v3.stl](images/covid19/Visor_frame_EUROPE_ISO838_v3.stl)
+
 repo d'origine: [https://www.youmagine.com/designs/protective-visor-by-3dverkstan](https://www.youmagine.com/designs/protective-visor-by-3dverkstan)
+
 mirror : [https://github.com/Cederb/Faceshield.nu/](https://github.com/Cederb/Faceshield.nu/)
 
 Ce modèle est imprimable en PLA mais si vous avez du PET ou de l'ASA,  par exemple, ce serait mieux.
-Voir plus bas la doc d'impression et de montage traduite sur [https://3d.freerider-factory.fr](3d.freerider-factory), dont nous reproduisons des extraits
+Voir plus bas la doc d'impression et de montage traduite sur [https://3d.freerider-factory.fr](3d.freerider-factory), dont nous reproduisons des extraits.
 
 
 
