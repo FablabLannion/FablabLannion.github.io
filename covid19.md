@@ -45,8 +45,8 @@ Par ordre alphabétique :
 - Gérald Lacourt - Maker [Lycée Felix Le Dantec]
 - Yohann Le Bellec - Maker
 - Quentin Le Cam - Maker
-- Eric et Nathalie Limbasse - Maker
-- Yann Loussouarn - Maker [Fablab de Lannion]
+- Eric et Nathalie L. - Makers
+- Yann Lossouarn - Maker [Fablab de Lannion]
 - Cédric Martin - Maker
 - Marcel Ollivier - Maker
 - Frédérique Pinson - Coordination / Maker [Fablab de Lannion - Orange]
