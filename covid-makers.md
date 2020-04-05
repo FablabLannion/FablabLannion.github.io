@@ -103,7 +103,7 @@ Dans l'application Trello:
 
 > Attention : Dans le cas où vous donnez des impressions pour des entreprises -et- pour le médical, séparez les (deux pochettes plastiques) avant de les donner à votre collecteur/collectrice, ça ne va pas au même destinataire au final.
 
-> Attention 2: Nous essayons de d'organiser au mieux cette collecte avec notre partenaire CoDeHSa, il se peut cependant que la procédure que nous avons fixé avec eux change un peu. 
+> Attention 2: Nous essayons de d'organiser au mieux cette collecte avec notre partenaire CoDeHSa, il se peut cependant que la procédure que nous avons fixée avec eux change un peu. 
 
 <b>Nous restons à votre écoute pour répondre à vos questions ou vos remarques, N'hésitez pas !</b>
  
@@ -123,6 +123,5 @@ Lorsque vous avez fini d'imprimer, vous pouvez directement passer vous-même la 
 puis lorsque vous aurez livré, dans la colonne "**Terminé**".
 
 Et c'est reparti pour une nouvelle carte !
-
 
 
