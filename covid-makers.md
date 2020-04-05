@@ -35,7 +35,7 @@ Etape 1: prise de contact
 
 Vous pouvez nous contacter aux adresses suivantes:
  - Impressions 3D: [covid@fablab-lannion.org](mailto://covid@fablab-lannion.org)
- - Masques tissus: [covid-tissus@fablab-lannion.org](mailto://covid-tissus@fablab-lannion.org)
+ - Masques tissus: [covid-tissu@fablab-lannion.org](mailto://covid-tissu@fablab-lannion.org)
 
 Précisez ce que vous pouvez faire et vos besoins.
 
@@ -123,7 +123,6 @@ Lorsque vous avez fini d'imprimer, vous pouvez directement passer vous-même la 
 puis lorsque vous aurez livré, dans la colonne "**Terminé**".
 
 Et c'est reparti pour une nouvelle carte !
-
 
 
 
