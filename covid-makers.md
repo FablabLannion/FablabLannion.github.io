@@ -1,7 +1,7 @@
 Pour les makers:
 ================
 
-Si vous êtes en possession d'une imprimante 3D
+Si vous êtes en possession d'une imprimante 3D ou d'une machine à coudre,
 et que vous souhaitez rejoindre la communauté des makers du trégor contre le Covid19,
  merci de lire tout d'abord ces quelques lignes.
 
@@ -10,17 +10,15 @@ et que vous souhaitez rejoindre la communauté des makers du trégor contre le C
   ils servent au quotidien.
 - La production est libre, sous couvert du bénévolat, donc faites
   en fonction de vos moyens et disponibilités.
-- Le Fablab gère la partie "production" et nos partenaires la partie
-  prise de commande et distribution. 
+- Le Fablab gère la coordination de la partie "production" et nos partenaires la partie
+  prise de commande, collecte et distribution.
   Ce sont donc eux qui passeront chercher vos réalisations chez vous et les distribueront.
 - La production n'est pas rémunérée ou dédommagée (il y aura certainement un
   gros apéro à la fin :))
 - La coordination est bénévole, veuillez nous pardonner si on ne répond pas
   assez vite. 
   
-  Fabriquez suivant les conseils ci-dessous et nous vous contacterons dès que possible.
-  
-  
+Fabriquez suivant les conseils ci-dessous et nous vous contacterons dès que possible.
   
 ###   Ce qu'on vous demande d'imprimer: ([infos sur les modèles 3D](modeles3DCovid.md))
 -  Pour ceux qui ont une imprimante avec un plateau de mini 200x200: 
@@ -28,12 +26,16 @@ et que vous souhaitez rejoindre la communauté des makers du trégor contre le C
 
 -  Pour ceux qui ont une imprimante avec un plateau plus petit, nous sommes en train de tester un modèle plus petit. Dès qu'il est validé, nous pourrons vous le proposer.
 
+###  Ce que l'on vous conseil de coudre:
+   - A venir...
 
 
 Etape 1: prise de contact
 -----------
 
-Vous pouvez nous contacter à l'adresse suivante: [covid@fablab-lannion.org](mailto://covid@fablab-lannion.org)
+Vous pouvez nous contacter aux adresses suivantes:
+ - Impressions 3D: [covid@fablab-lannion.org](mailto://covid@fablab-lannion.org)
+ - Masques tissus: [covid-tissus@fablab-lannion.org](mailto://covid-tissus@fablab-lannion.org)
 
 Précisez ce que vous pouvez faire et vos besoins.
 
@@ -100,6 +102,11 @@ Dans l'application Trello:
 
 
 > Attention : Dans le cas où vous donnez des impressions pour des entreprises -et- pour le médical, séparez les (deux pochettes plastiques) avant de les donner à votre collecteur/collectrice, çà ne va pas au même destinataire au final.
+
+> Attention 2: Nous essayons de d'organiser au mieux cette collecte avec notre partenaire CoDeHSa, il se peut cependant que la procédure que nous avons fixé avec eux change un peu. 
+
+<b>Nous restons à votre écoute pour répondre à vos questions ou vos remarques, N'hésitez pas !</b>
+ 
 
 Etape 3 Bis : Cas d'une livraison directe
 ------------------------------------------
