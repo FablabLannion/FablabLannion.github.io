@@ -26,7 +26,7 @@ Fabriquez suivant les conseils ci-dessous et nous vous contacterons dès que pos
 
 -  Pour ceux qui ont une imprimante avec un plateau plus petit, nous sommes en train de tester un modèle plus petit. Dès qu'il est validé, nous pourrons vous le proposer.
 
-###  Ce que l'on vous conseil de coudre:
+###  Ce que l'on vous conseille de coudre:
    - A venir...
 
 
@@ -123,7 +123,6 @@ Lorsque vous avez fini d'imprimer, vous pouvez directement passer vous-même la 
 puis lorsque vous aurez livré, dans la colonne "**Terminé**".
 
 Et c'est reparti pour une nouvelle carte !
-
 
 
 
