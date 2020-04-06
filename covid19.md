@@ -33,7 +33,6 @@ Merci aux partenaires
 - Le Foyer logement de Bégard
 - Le Comité Cantonal d'Entraide de Bégard
 - La mairie de Bégard
-- Impression Lannion
 - Publi Trégor
 
 Merci aux makers !!!
