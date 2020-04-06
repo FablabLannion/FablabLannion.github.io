@@ -61,7 +61,7 @@ Retractation speed : 30 mm/s
 
 
 ## Guide d'impression  
---merci [https://3d.freerider-factory.fr]() pour la traduction de la doc d'origine ---
+--merci [https://3d.freerider-factory.fr](https://3d.freerider-factory.fr) pour la traduction de la doc d'origine ---
 
 Ceci est un guide sur la façon de choisir vos paramètres d'impression et d'imprimer les visières de protection / écrans faciaux.
  

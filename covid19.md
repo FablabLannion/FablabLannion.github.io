@@ -55,6 +55,7 @@ Par ordre alphabétique :
 - Cédric Martin - Maker
 - Marcel Ollivier - Maker
 - Frédérique Pinson - Coordination / Maker [Fablab de Lannion - Orange]
+- Didier Quéré - Maker
 - Alain Renon - Maker [Fablab de Lannion]
 - Mathieu Salvat - Coordination / Maker [Fablab de Lannion - Orange]
 - Sébastien Troadec - Maker
