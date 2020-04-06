@@ -7,9 +7,93 @@
     <script src="{{ site.url }}/assets/js/notepad.js"></script>
     <script src="{{ site.url }}/assets/js/scripts.min.js"></script>
     <script src="{{ site.url }}/assets/js/vendor/nprogress.js"></script>
+	<!-- COVID-19 trick : must be removed -->
+	<style>
+	#covid19-stats {
+	  z-index: 10000;
+	  border: 1px solid black;
+	  width: 380px;
+	  background-color: white;
+	  position: fixed;
+	  top: 85px;
+	  right: 10px;
+	  padding: 0px;
+	}
 
+	#covid19-stats>div {
+	  padding: 5px;
+	}
+
+	#covid19-stats h2 {
+	  margin-top: 0px;
+	  background-color: black;
+	  color: white;
+	  padding: 5px;
+	  font-weight: bold;
+	  font-size: 1.5rem;
+	}
+
+	#covid19-stats h2 a{
+	  color: white;
+	}
+
+	#covid19-stats h2 span{
+	  float: right;
+	}
+	
+	#covid19-stats p {
+	  margin-bottom: 0px;
+	}
+
+	#covid19-stats p.title {
+	  font-weight: bold;
+	}
+
+	#covid19-stats h2 {
+	  
+	}
+	#covid19-stats h2 span {
+	  cursor: pointer;
+	}
+	
+	#covid19-stats ul {
+	  line-height: 1.2em;
+	}
+	</style>
     <script>
-      $(document).foundation();
+    $(document).foundation();
+	/* COVID-19 trick : must be removed */
+	$("body").on("click", "#covid19-stats h2 span", ()=>{
+	  $("#covid19-stats").hide();
+	});
+	$.get( "https://io.datasync.orange.com/base/my-statistics/covid-19.json", function( data ) {
+	  const label = `État de la production le ${new Date(data.date).toLocaleString()}`;
+	  const modal=$("<div>").attr("id", "covid19-stats")
+		.append($("<h2>")
+		  .append($("<a>").attr("href", "/covid19").text("COVID-19"))
+		  .append($("<span>").text("x"))
+		)
+		.append($("<div>")
+		  .append($("<p>").addClass("title").text(label))
+		  .append($("<p>").text(`${data.visiere['total-produit']} visières produites sur ${data.visiere['total']} demandées :`))
+		  .append($("<ul>")
+			.append($("<li>").text(`${data.visiere['en attente'] || 0} en attente de production`))
+			.append($("<li>").text(`${data.visiere['en cours de production'] || 0} en cours de production`))
+			.append($("<li>").text(`${data.visiere['a recuperer'] || 0} à récupérer chez les makers`))
+			.append($("<li>").text(`${data.visiere['en cours de livraison'] || 0} en cours de livraison`))
+			.append($("<li>").text(`${data.visiere['termine'] || 0} livrées`))
+		  )
+		  .append($("<p>").text(`${data.masque['total-produit']} masques tissus produits sur ${data.masque['total']} demandés :`))
+		  .append($("<ul>")
+			.append($("<li>").text(`${data.masque['en attente'] || 0} en attente de production`))
+			.append($("<li>").text(`${data.masque['en cours de production'] || 0} en cours de production`))
+			.append($("<li>").text(`${data.masque['a recuperer'] || 0} à récupérer chez les makers`))
+			.append($("<li>").text(`${data.masque['en cours de livraison'] || 0} en cours de livraison`))
+			.append($("<li>").text(`${data.masque['termine'] || 0} livrés`))
+		  )
+		);
+	  $("body").append(modal);
+	});
     </script>
     <script type='text/javascript'>console.log("HMFaysal Notepad Theme Version 2.0");</script>
     <script type='text/javascript'>console.log("https://alum.mit.edu/www/hmfaysal");</script>
