@@ -34,6 +34,8 @@ Merci aux partenaires
 - Le Comité Cantonal d'Entraide de Bégard
 - La mairie de Bégard
 - Publi Trégor
+- Intermarché Bégard
+
 
 Merci aux makers !!!
 ---------------
