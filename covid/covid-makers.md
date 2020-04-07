@@ -16,26 +16,41 @@ et que vous souhaitez rejoindre la communauté des makers du trégor contre le C
 - La production n'est pas rémunérée ou dédommagée (il y aura certainement un
   gros apéro à la fin :))
 - La coordination est bénévole, veuillez nous pardonner si on ne répond pas
-  assez vite. 
-  
+  assez vite.
+
 Fabriquez suivant les conseils ci-dessous et nous vous contacterons dès que possible.
-  
-###   Ce qu'on vous demande d'imprimer: ([infos sur les modèles 3D](modeles3DCovid.md))
--  Pour ceux qui ont une imprimante avec un plateau de mini 200x200: 
-   - des serre-têtes pour visières de protection, (nos partenaires s'occupent de perforer les feuilles transparentes pour les visières et de les livrer montées)
 
--  Pour ceux qui ont une imprimante avec un plateau plus petit, nous sommes en train de tester un modèle plus petit. Dès qu'il est validé, nous pourrons vous le proposer.
+Ce qu'on vous propose de fabriquer
+------------------------------------
 
-###  Ce que l'on vous conseille de coudre:
+-  [Pour ceux et celles qui ont une imprimante 3D avec un plateau de mini 200x200:](./modeles_serre_tete.md))
 
-Pour la création de masque en tissu nous vous proposons de réaliser :
+   des serre-têtes pour visières de protection, (nos partenaires s'occupent de perforer les feuilles transparentes pour les visières et de les livrer montées)
 
-- le masque du CHU de Grenoble : patrons, tuto papier et couture à la surjeteuse décrits [ici](https://www.coutureconnectee.com/). Vous pouvez aussi suivre ce [tuto vidéo](https://youtu.be/mNbBBckLVFo).
-- Les masques du guide de l'Afnor "à plis" ou "bec de canard" ([le guide](https://www.snof.org/sites/default/files/AFNORSpec-S76-001-MasquesBarrieres.pdf),  [les patrons](https://www.snof.org/sites/default/files/AFNORSpec-S76-001-MasquesBarrieres-AnnexeC-patrons.pdf)) . Vous pouvez suivre ce [tuto sur les masques "à plis"](https://latelierdesgourdes.fr/tuto-masque-afnor/?fbclid=IwAR2SeCGSByEmsfM_q7IaG_cCpUPm0eVDVRY_wY2_JggaVe51qSV2STNTDiA) qui est plus clair que le guide Afnor.
+   les modèles sont ici: [http://fablab-lannion.org/covid19/modeles_serre_tete](./modeles_serre_tete.md)
 
-Les modèles peuvent être réalisés avec ou sans tissu intérieur en fonction du matériel à votre disposition.
+   ![visieres](../images/covid19/visieres.png)
 
-Les élastiques peuvent être remplacés par des liens en coton ou en jersey pour plus de souplesse.
+
+-  [Pour ceux et celles qui ont une imprimante 3D avec un plateau plus petit](./petites_imprimantes.md)
+
+  nous proposons:
+   - des bandeaux pour tenir les élastiques des masques
+   - des supports de visière pour lunettes.
+
+  les modèles sont ici: [http://fablab-lannion.org/covid19/petites_imprimantes](./petites_imprimantes.md)
+
+  ![visieres](../images/covid19/petites_imprimantes.png)
+
+-  [Pour ceux qui ont une machine à coudre](./masques_tissu.md)
+
+  nous proposons:
+   - les masques du CHU de Grenobles
+   - les modèles de masque proposés par l'AFNOR.
+
+  les modèles sont ici: [http://fablab-lannion.org/covid19/masques_tissu](./masques_tissu.md)
+
+  ![visieres](../images/covid19/masques.png)
 
 
 Etape 1: prise de contact
@@ -53,8 +68,8 @@ Un coordinateur ou une coordinatrice vous répondra en vous demandant par mail :
 
   Merci de créer un compte avec un nom lisible (ie: pas un pseudonyme).
   C'est plus facile pour faire le lien entre le maker et son adresse :)
-  
- 
+
+
 Etape 2: inscription
 ------------
 
@@ -63,10 +78,10 @@ Nous vous ajoutons:
 - à notre tableau Trello sur lequel nous listons les commandes à réaliser.
 - au fichier (privé) listant les makers.
 
-Nous avons des collecteurs/collectrices en charge d'une zone géographique définie. 
-Vous aurez donc un/une collecteur/collectrice attribué. 
+Nous avons des collecteurs/collectrices en charge d'une zone géographique définie.
+Vous aurez donc un/une collecteur/collectrice attribué.
 Celui-ci ou celle-ci vous contactera après votre inscription.
-  
+
 
 
 
@@ -78,25 +93,25 @@ Dans l'application Trello:
 1 - Choisissez une fiche dans la colonne '**A produire - Médical**' (c'est la priorité) ou '**A produire - Entreprises**'
 > en général on prend la première pour traiter les demandes dans l'ordre d'arrivée
 
- ![trello-aproduire](./images/covid19/ColonnesAproduire.jpg)
+ ![trello-aproduire](../images/covid19/ColonnesAproduire.jpg)
 
 
  et cliquez sur la fiche pour l'ouvrir, puis sur "rejoindre".
-  
-  ![trello-rejoindre](./images/covid19/trello1.png)
-  
-  
+
+  ![trello-rejoindre](../images/covid19/trello1.png)
+
+
 
 > Rejoindre la carte, cela ajoute votre avatar ou vos initiales sur le résumé de la carte et cela nous permet de voir qui fait quoi, d'un seul coup d'oeil.
 >  
-> De plus, cela vous donne un aperçu sur son traitement: si vous avez mis votre adresse mail dans le coordonnées du compte Trello, 
-> vous recevrez automatiquement un mail quand la carte aura été bougée vers la colonne ( "**Terminé**"). 
+> De plus, cela vous donne un aperçu sur son traitement: si vous avez mis votre adresse mail dans le coordonnées du compte Trello,
+> vous recevrez automatiquement un mail quand la carte aura été bougée vers la colonne ( "**Terminé**").
 
  2 - Passez cette fiche dans la colonne "**En cours de production**", et ... c'est parti pour imprimer ! (voir les [infos sur les modèles](modeles3DCovid.md))
- 
- 3 -  Dès vous avez fini de produire un lot de serre-têtes pour une carte : 
- 	
- - S'il y a au moins 8-10 visières, vous pouvez bouger la carte dans "**A Récupérer chez le maker**" et envoyer un SMS à votre collecteur/collectrice. 
+
+ 3 -  Dès vous avez fini de produire un lot de serre-têtes pour une carte :
+
+ - S'il y a au moins 8-10 visières, vous pouvez bouger la carte dans "**A Récupérer chez le maker**" et envoyer un SMS à votre collecteur/collectrice.
 
  - Si la carte fait moins de 8, attendez d'avoir fait une autre carte pour envoyer le SMS.
 
@@ -111,10 +126,10 @@ Dans l'application Trello:
 
 > Attention : Dans le cas où vous donnez des impressions pour des entreprises -et- pour le médical, séparez les (deux pochettes plastiques) avant de les donner à votre collecteur/collectrice, ça ne va pas au même destinataire au final.
 
-> Attention 2: Nous essayons de d'organiser au mieux cette collecte avec notre partenaire CoDeHSa, il se peut cependant que la procédure que nous avons fixée avec eux change un peu. 
+> Attention 2: Nous essayons de d'organiser au mieux cette collecte avec notre partenaire CoDeHSa, il se peut cependant que la procédure que nous avons fixée avec eux change un peu.
 
 <b>Nous restons à votre écoute pour répondre à vos questions ou vos remarques, N'hésitez pas !</b>
- 
+
 
 Etape 3 Bis : Cas d'une livraison directe
 ------------------------------------------
@@ -122,14 +137,12 @@ Dans le cas où vous faites de la livraison directe (par ex vous êtes loin de L
 *Cela implique que vous avez des feuilles transparentes et de quoi les perforer pour monter les visières vous-même.
 Cela implique aussi que vous irez livrer vos voisins avec votre attestation, en mode "courses" ou "balade".*
 
-Si c'est le cas: Lorsque vous ouvrez une carte (pour la "rejoindre"), ajoutez-y une étiquette "**Livraison directe**". 
+Si c'est le cas: Lorsque vous ouvrez une carte (pour la "rejoindre"), ajoutez-y une étiquette "**Livraison directe**".
 Les collecteurs/trices sauront alors qu'ils n'ont pas à venir chercher ces impressions chez vous.
 
 ![tiquettesTrello](./images/covid19/EtiquettesTrello.jpg)
 
-Lorsque vous avez fini d'imprimer, vous pouvez directement passer vous-même la case dans la colonne "**Livraison en cours**", 
+Lorsque vous avez fini d'imprimer, vous pouvez directement passer vous-même la case dans la colonne "**Livraison en cours**",
 puis lorsque vous aurez livré, dans la colonne "**Terminé**".
 
 Et c'est reparti pour une nouvelle carte !
-
-
