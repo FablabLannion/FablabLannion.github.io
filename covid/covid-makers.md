@@ -23,34 +23,34 @@ Fabriquez suivant les conseils ci-dessous et nous vous contacterons dès que pos
 Ce qu'on vous propose de fabriquer
 ------------------------------------
 
--  [Pour ceux et celles qui ont une imprimante 3D avec un plateau de mini 200x200:](./modeles_serre_tete.md))
+### [Pour ceux et celles qui ont une imprimante 3D avec un plateau de mini 200x200:](./modeles_serre_tete.md))
 
-   des serre-têtes pour visières de protection, (nos partenaires s'occupent de perforer les feuilles transparentes pour les visières et de les livrer montées)
+des serre-têtes pour visières de protection, (nos partenaires s'occupent de perforer les feuilles transparentes pour les visières et de les livrer montées)
 
-   les modèles sont ici: [http://fablab-lannion.org/covid19/modeles_serre_tete](./modeles_serre_tete.md)
+les modèles sont ici: [http://fablab-lannion.org/covid19/modeles_serre_tete](./modeles_serre_tete.md)
 
-   ![visieres](../images/covid19/visieres.png)
+![visieres](../images/covid19/visieres.png)
 
 
--  [Pour ceux et celles qui ont une imprimante 3D avec un plateau plus petit](./petites_imprimantes.md)
+### [Pour ceux et celles qui ont une imprimante 3D avec un plateau plus petit](./petites_imprimantes.md)
 
-  nous proposons:
-   - des bandeaux pour tenir les élastiques des masques
-   - des supports de visière pour lunettes.
+nous proposons:
+ - des bandeaux pour tenir les élastiques des masques
+ - des supports de visière pour lunettes.
 
-  les modèles sont ici: [http://fablab-lannion.org/covid19/petites_imprimantes](./petites_imprimantes.md)
+les modèles sont ici: [http://fablab-lannion.org/covid19/petites_imprimantes](./petites_imprimantes.md)
 
-  ![visieres](../images/covid19/petites_imprimantes.png)
+![visieres](../images/covid19/petites_imprimantes.png)
 
--  [Pour ceux qui ont une machine à coudre](./masques_tissu.md)
+###[Pour ceux et celles qui ont une machine à coudre](./masques_tissu.md)
 
-  nous proposons:
-   - les masques du CHU de Grenobles
-   - les modèles de masque proposés par l'AFNOR.
+nous proposons:
+ - les masques du CHU de Grenobles
+ - les modèles de masque proposés par l'AFNOR.
 
-  les modèles sont ici: [http://fablab-lannion.org/covid19/masques_tissu](./masques_tissu.md)
+les modèles sont ici: [http://fablab-lannion.org/covid19/masques_tissu](./masques_tissu.md)
 
-  ![visieres](../images/covid19/masques.png)
+![visieres](../images/covid19/masques.png)
 
 
 Etape 1: prise de contact
