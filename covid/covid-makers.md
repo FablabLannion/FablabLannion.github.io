@@ -98,8 +98,8 @@ Dans l'application Trello:
 1. Choisissez une fiche dans la colonne '**A produire - Médical**' (c'est la
    priorité) ou '**A produire - Entreprises**'
 
-  > en général on prend la première pour traiter les demandes dans l'ordre
-    d'arrivée
+  en général on prend la première pour traiter les demandes dans l'ordre
+  d'arrivée
 
   ![trello-aproduire](../images/covid19/ColonnesAproduire.jpg)
 
@@ -107,12 +107,12 @@ Dans l'application Trello:
 
   ![trello-rejoindre](../images/covid19/trello1.png)
 
-  > Rejoindre la carte, cela ajoute votre avatar ou vos initiales sur le résumé
-    de la carte et cela nous permet de voir qui fait quoi, d'un seul coup
-    d'oeil. De plus, cela vous donne un aperçu sur son traitement: si vous avez
-    mis votre adresse mail dans le coordonnées du compte Trello,
-    vous recevrez automatiquement un mail quand la carte aura été bougée vers
-    la colonne ( "**Terminé**").
+  Rejoindre la carte, cela ajoute votre avatar ou vos initiales sur le résumé
+  de la carte et cela nous permet de voir qui fait quoi, d'un seul coup
+  d'oeil. De plus, cela vous donne un aperçu sur son traitement: si vous avez
+  mis votre adresse mail dans le coordonnées du compte Trello,
+  vous recevrez automatiquement un mail quand la carte aura été bougée vers
+  la colonne ( "**Terminé**").
 
 
  2. Passez cette fiche dans la colonne "**En cours de production**", et ...
@@ -127,24 +127,22 @@ Dans l'application Trello:
   - Si la carte fait moins de 8, attendez d'avoir fait une autre carte pour
     envoyer le SMS.
 
-  > Nous faisons cela pour éviter que les collecteurs se déplacent trop
-    souvent, pour 2 ou 3 unités, par exemple.
-
-
+  Nous faisons cela pour éviter que les collecteurs se déplacent trop
+  souvent, pour 2 ou 3 unités, par exemple.
 
 4. Dès que vous avez donné vos impressions à votre collecteur/collectrice,
    merci de faire bouger vos cartes dans la colonne "**Livraison en cours**".
 
 5. GOTO 1.
 
-  > Attention : Dans le cas où vous donnez des impressions pour des entreprises
-    -et- pour le médical, séparez les (deux pochettes plastiques) avant de les
-    donner à votre collecteur/collectrice, ça ne va pas au même destinataire au
-    final.
+  Attention : Dans le cas où vous donnez des impressions pour des entreprises
+  -et- pour le médical, séparez les (deux pochettes plastiques) avant de les
+  donner à votre collecteur/collectrice, ça ne va pas au même destinataire au
+  final.
 
-  > Attention 2: Nous essayons de d'organiser au mieux cette collecte avec
-    notre partenaire CoDeHSa, il se peut cependant que la procédure que nous
-    avons fixée avec eux change un peu.
+  Attention 2: Nous essayons de d'organiser au mieux cette collecte avec
+  notre partenaire CoDeHSa, il se peut cependant que la procédure que nous
+  avons fixée avec eux change un peu.
 
 <b>Nous restons à votre écoute pour répondre à vos questions ou vos remarques,
 N'hésitez pas !</b>
