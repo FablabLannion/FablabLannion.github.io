@@ -41,7 +41,7 @@ Lors des ateliers ouverts du fablab, on discute de beaucoup de choses mais très
 Ce qui nous réunit tous c'est une certaine idée du partage ainsi que la construction de biens communs. L'opération
 [http://www.fablab-lannion.org/covid19](http://www.fablab-lannion.org/covid19) l'illustre un peu plus chaque jour. Un grand merci à tous ceux et toutes celles qui y participent!
 
-Rappels des liens utiles
+Rappel des liens utiles
 
 - [organisation](http://www.fablab-lannion.org/covid-makers)
 - [guide d'impression des visières](http://www.fablab-lannion.org/VisieresFabLab).
