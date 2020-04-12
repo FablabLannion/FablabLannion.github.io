@@ -10,4 +10,18 @@ pour passer sur un plateau de Micro Delta.
 
 ## Support pour les lunettes
 
-La doc vient dès que possible ! :)
+Le modèle de support de visière peut être imprimé sur une petite imprimante.
+Il est prévu pour une perforatrice 2 trous avec entraxe de 80 mm. Des ergots
+de blocage sont prévu pour s'assurer que la feuille ne se déclipse pas.
+
+[Télécharger le modèle](./clip_lunetes_visieres_perfo_blocker_v2.1.stl)
+
+Ce modèle, unique pour le moment est prévu pour des lunettes classiques. Les
+grosses montures risquent de ne pas passer et ce modèle risque de bouger sur
+les montures trop fines.
+
+Les réglages utilisés jusqu'à maintenant pour ce modèle sont:
+- épaisseur de couche: 3mm
+- jupe: 3mm
+
+![strap](../images/covid19/monture_lunettes.png)
