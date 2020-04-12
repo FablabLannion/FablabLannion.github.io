@@ -1,6 +1,8 @@
 Makers du trégor contre le COVID19
 ==================================
 
+<iframe width="100%" height="400px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/visieres-produites_443349?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/visieres-produites_443349">Voir en plein écran</a></p>
+
 ![routage_demandes](./images/covid19/routage_demandes.svg.png "routage des demandes")
 
 <b>Pour les makers, c'est par --> [ici](./covid/covid-makers.md)</b>
