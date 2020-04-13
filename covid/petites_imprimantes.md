@@ -14,11 +14,11 @@ Le modèle de support de visière peut être imprimé sur une petite imprimante.
 Il est prévu pour une perforatrice 2 trous avec entraxe de 80 mm. Des ergots
 de blocage sont prévu pour s'assurer que la feuille ne se déclipse pas.
 
-[Télécharger le modèle](./clip_lunettes_visiere_perfo_blocker_v2.1.stl)
-
-Ce modèle, unique pour le moment est prévu pour des lunettes classiques. Les
-grosses montures risquent de ne pas passer et ce modèle risque de bouger sur
-les montures trop fines.
+Voici les modèles:
+ - [support sur lunettes à branches standard](./support_lunettes.stl)
+ - [support sur lunettes à larges branches (>10mm)](./support_lunettes_L.stl)
+ - [support sur lunettes à fines branches (<4mm)](./support_lunettes_S.stl)
+ - [clip de fixation pour support sur lunettes](./support_lunettes_clip.stl)
 
 Les réglages utilisés jusqu'à maintenant pour ce modèle sont:
 - épaisseur de couche: 3mm
