@@ -132,6 +132,8 @@ Dans l'application Trello:
 
 4.  Dès que vous avez donné vos impressions à votre collecteur/collectrice,
     merci de faire bouger vos cartes dans la colonne "**Livraison en cours**".
+    Dès que votre lot aura été livré, votre carte sera passée à "Terminé" 
+    par l'équipe en charge de la distribution.
 
 5.  GOTO 1.
 
