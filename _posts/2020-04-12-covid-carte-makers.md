@@ -15,8 +15,10 @@ François René de Chateaubriand a écrit "Les moments de crise produisent un re
 
 A la crise sanitaire liée au coronavirus, notre petite association a répondu rapidement par l'action. Le Fablab a ainsi lancé dès le début du confinement un appel à tous les makers du Trégor afin qu'ils impriment sans attendre un maximum d'éléments de protection faisant désespérément défaut y compris dans les structures médicales locales. Cet appel s'est accompagné d'une mise en œuvre de procédures strictes pour des réalisations dans les conditions de sécurité du confinement. Validées par la préfecture des Côtes d'Armor et soutenues par le député de la 5ème circonscription du département, ces procédures ont conduit à la production gratuite de plus de 1500 visières et d'une centaine de masques en tissu en moins de 15 jours, le tout par plus d'une quarantaine de personnes, d'entreprises et d'anonymes. Ces produits ont été remis à des organismes pour la distribution dans les meilleures conditions.
 L'initiative a donc fédéré de nombreuses personnes, bien au delà de notre association.
+On peut notamment citer le rôle capital du CoDeHSa (Comité de défense et de promotion de l'hôpital Lannion-Trestel). Ce comité fait au quotidien un gros boulot envers le personnel soignant. Ils gèrent toute la prise de commande et les appels vers les soignants.
+Ils mettent les différentes productions collectées auprès des makers en paquet et tiennent une permanence pour la distribution auprès des soignants et des commerçants.
 
-La carte construite grâce au projet [openstreetmap](https://www.openstreetmap.org/#map=6/46.449/2.210) (tiens encore une initiative Open Source...) permet de visualiser les makers locaux contribuant à l'initiative.
+La carte construite grâce au projet [openstreetmap](https://www.openstreetmap.org/#map=6/46.449/2.210) (tiens encore une initiative Open Source...) permet de visualiser les productions des makers locaux contribuant à l'initiative.
 
 ![carte]({{ site.url }}/images/covid19/carte_makers.png)
 
