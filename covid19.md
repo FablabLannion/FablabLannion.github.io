@@ -52,6 +52,7 @@ Par ordre alphabétique :
 - Christian Destor - Maker
 - Gaétan Fauquert - Maker [Fablab iXblue]
 - Laurent Gallou - Maker [Eco Compteur]
+- Guillaume Hardy - Maker [Fablab iXblue]
 - Edouard Hinard - Maker
 - Thierry Houdoin - Maker [Fablab de Lannion]
 - Jérôme Labidurie - Maker [Fablab de Lannion]
@@ -59,7 +60,6 @@ Par ordre alphabétique :
 - Yohann Le Bellec - Maker
 - Quentin Le Cam - Maker
 - Eric et Nathalie L. - Makers
-- Dinh Linh - Maker
 - Yann Lossouarn - Maker [Fablab de Lannion]
 - Cédric Martin - Maker
 - Marcel Ollivier - Maker
