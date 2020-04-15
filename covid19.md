@@ -37,6 +37,8 @@ Merci aux partenaires
 - La mairie de Bégard
 - Publi Trégor
 - Intermarché Bégard
+- La Poste
+- Trello (Atlassian France)
 
 
 Merci aux makers !!!
