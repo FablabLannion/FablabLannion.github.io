@@ -67,14 +67,15 @@ Par ordre alphabétique :
 - Yann Lossouarn - Maker [Fablab de Lannion]
 - Cédric Martin - Maker
 - Marcel Ollivier - Maker
-- Entreprise Parlouer - Lannion
 - Frédérique Pinson - Coordination / Maker [Fablab de Lannion - Orange]
-- Professeurs de technologie et de sciences de l'ingénieur du Collège -   Lycée Saint Joseph Bossuet - Lannion
+- François-Xavier Pôtel
+- Professeurs de technologie et de sciences de l'ingénieur du Collège - Lycée Saint Joseph Bossuet - Lannion
 - Didier Quéré - Maker
 - Gilles Recoque - Maker
 - Alain Renon - Maker [Fablab de Lannion]
 - Emmanuel Raulo-Kumagai [Fablab de Lannion - Orange]
 - Mathieu Salvat - Coordination / Maker [Fablab de Lannion - Orange]
+- Emile Stéphan - Maker [Fablab de Lannion - Orange]
 - Julien Touchet - Maker [Radio Frequency Systems (RFS) Lannion] 
 - Sébastien Troadec - Maker
 - Florent Valentin - Maker [Fablab de Lannion]
