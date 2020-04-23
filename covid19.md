@@ -75,7 +75,7 @@ Par ordre alphabétique :
 - Alain Renon - Maker [Fablab de Lannion]
 - Emmanuel Raulo-Kumagai [Fablab de Lannion - Orange]
 - Mathieu Salvat - Coordination / Maker [Fablab de Lannion - Orange]
-- Emile Stephan - Maker [Orange]
+- Emile Stéphan - Maker [Fablab de Lannion - Orange]
 - Julien Touchet - Maker [Radio Frequency Systems (RFS) Lannion] 
 - Sébastien Troadec - Maker
 - Florent Valentin - Maker [Fablab de Lannion]
