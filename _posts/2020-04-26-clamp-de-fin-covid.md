@@ -69,7 +69,7 @@ rediriger toutes les nouvelles demandes vers cette offre de la CCI:
 
 Nous allons donc maintenant réaliser nos derniers serre-têtes, coudre nos
 derniers masques, les distribuer et laisser refroidir nos machines. Viendra
-ensuite le temps du bilan, des comptes et de l'apéro de cloture, mais une chose
+ensuite le temps du bilan, des comptes et de l'apéro de clôture, mais une chose
 est certaine, notre mouvement ne fait que se mettre en hibernation. Nous restons à
 la disposition des professionnels de santé pour tout besoin d'urgence lié au
 Covid19 (respirateur, pousse seringue, ...) et nous saurons réactiver le
