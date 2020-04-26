@@ -12,7 +12,7 @@ share: True
 ---
 
 Voici bientôt 5 semaines que les makers du Trégor ont initié ce mouvement.
-et pas loin de 4.000 visières qui ont été réalisées et plusieurs centaines
+Pas loin de 4.000 visières ont été réalisées ainsi que plusieurs centaines
 de masques tissus. Il est temps de passer la main.
 
 Lorsque ce mouvement a commencé, nous avons été nombreux à penser qu'avec nos
