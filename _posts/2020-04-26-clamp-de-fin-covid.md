@@ -41,7 +41,7 @@ commande de tous leurs besoins. Viennent ensuite l'appel aux makers via les
 réseaux sociaux, la gestion de la collecte, les demandes d'autorisations, la
 gestion de la croissance du mouvement...
 
-Une fois les choses mises en place sur le milieu médical, ce sont ensuite
+Une fois les choses mises en place pour le milieu médical, de nouvelles structures nous ont contactés; 
 [Lannion Coeur de Ville](http://www.lannion-shopping.com/)
 et [Anticipa](http://www.technopole-anticipa.com/)
 qui se sont joints à nous pour que les
