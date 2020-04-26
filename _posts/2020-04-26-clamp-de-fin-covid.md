@@ -1,0 +1,77 @@
+---
+author: david
+tags: association
+layout: post
+imagefeature: https://pbs.twimg.com/media/EUd2-gjWAAU7Hmh?format=jpg&name=large
+slug: COVIDClampDeFin
+date: 2020-03-31
+title: "Clamp de fin #Covid19"
+comments: True
+share: True
+
+---
+
+Voici bientôt 5 semaines que les makers du Trégor ont initié ce mouvement
+et pas loin de 4.000 visières qui ont été réalisées et plusieurs centaines
+de masques tissus. Il est temps de passer la main.
+
+Lorsque ce mouvement a commencé, nous avons été nombreux à penser qu'avec nos
+faibles moyens nous pourrions faire un petit quelque chose. Nombreux à nous
+dire qu'avec ces machines qui nous étaient accessibles, nous pouvions apporter
+une solution qui nous correspondait, une solution locale. Et tout ceci a été
+initié, comme beaucoup de projets communautaires, par une somme d'initiatives
+individuelles des makers du Fablab de Lannion. Tout d'abord, le 24 mars,
+Fréderic C. a publié un modèle de serre-tête flexible sur sa chaîne
+[Youtube](https://www.youtube.com/watch?v=Dc9mKZUixy8) et a commencé à en
+fabriquer, puis à les distribuer au personnel médical proche de lui. Ensuite
+Philippe C. a lancé le sujet sur le [Forum du
+Fablab](http://forum.fablab-lannion.org/viewtopic.php?f=5&t=1010) ainsi que la
+production sur son imprimante 3D; Fredérique P. qui a rédigé son appel "A vos
+imprimantes !" du 28 mars...
+
+Toutes ces initiatives, ces envies de 'faire' ont suivi l'adage "seul on va plus
+vite, à plusieurs on va plus loin" et se sont rapprochées le soir du 28 mars où
+l'idée de collectif dédié à la réalisation des visières contre le COVID-19 est
+née. Les actions se sont ensuite enchainées: la proposition et le choix de
+s'allier au Comité de Défense de l'Hopital
+([CoDeHSa](https://codehsatregor.wordpress.com/)) pour que les forces se
+complètent sur les domaines respectifs: d'un coté la gestion de la production et
+des makers, de l'autre la relation avec le monde des soignants et la prise de
+commande de tous leurs besoins. Viennent ensuite l'appel aux makers via les
+réseaux sociaux, la gestion de la collecte, les demandes d'autorisations, la
+gestion de la croissance du mouvement...
+
+Une fois les choses mises en place sur le milieu médical, ce sont ensuite
+[Lannion Coeur de Ville](http://www.lannion-shopping.com/)
+et [Anticipa](http://www.technopole-anticipa.com/)
+qui se sont joints à nous pour que les
+besoins des commerçants et des entreprises encore ouverts soient pris en
+compte.
+
+Ce mouvement spontané, puis très vite organisé, a réellement été une somme
+d'actions, un cumul de dépenses d'énergie à travers le collectif pour la
+réalisation de ces protections individuelles pour les soignants en priorité,
+mais aussi pour tout ceux qui ont permis à la vie de continuer.
+
+A l'image du [mouvement des makers
+Français](https://www.lemonde.fr/pixels/article/2020/04/23/les-visieres-imprimees-en-3d-une-reponse-des-makers-a-la-crise-sanitaire_6037538_4408996.html)
+qui a produit plus de 250.000 visières solidaires à base d'impressions 3D et de
+découpage laser, notre collectif en a produit et distribué **gratuitement** à
+ceux qui en avaient besoin dans l'**urgence**. A son tour, depuis près d'une
+semaine la CCI des Côtes d'Armor réalise et vend des visières industrielles à
+Lannion. Cette nouvelle offre, sous la forme "1 visière achetée (5€) = 1 visière
+offerte aux professionnels de la santé"", répond donc de manière professionnelle
+aux nouveaux besoins: la protection de la population pour le prochain
+dé-confinement. C'est pourquoi, nos partenaires et nous, avons fait le choix de
+rediriger toutes les nouvelles demandes vers cette offre de la CCI:
+
+[http://visieres.cotesdarmor.cci.fr/](http://visieres.cotesdarmor.cci.fr/)
+
+Nous allons donc maintenant réaliser nos derniers serre-têtes, coudre nos
+derniers masques, les distribuer et laisser refroidir nos machines. Viendra
+ensuite le temps du bilan, des comptes et de l'apéro de cloture, mais une chose
+est certaine, notre mouvement ne fait que se mettre en hibernation. Nous restons à
+la disposition des professionnels de santé pour tout besoin d'urgence lié au
+Covid19 (respirateur, pousse seringue, ...) et nous saurons réactiver le
+mouvement des Makers du Trégor si le besoin de production d'urgence se fait
+sentir.
