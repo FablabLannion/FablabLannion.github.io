@@ -51,7 +51,7 @@ compte.
 Ce mouvement spontané, puis très vite organisé, a réellement été une somme
 d'actions, un cumul de dépenses d'énergie à travers le collectif pour la
 réalisation de ces protections individuelles pour les soignants en priorité,
-mais aussi pour tout ceux qui ont permis à la vie de continuer.
+mais aussi pour tous ceux qui ont permis à la vie de continuer.
 
 A l'image du [mouvement des makers
 Français](https://www.lemonde.fr/pixels/article/2020/04/23/les-visieres-imprimees-en-3d-une-reponse-des-makers-a-la-crise-sanitaire_6037538_4408996.html)
