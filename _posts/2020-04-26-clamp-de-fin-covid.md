@@ -44,7 +44,7 @@ gestion de la croissance du mouvement...
 Une fois les choses mises en place pour le milieu médical, de nouvelles structures nous ont contactés; 
 [Lannion Coeur de Ville](http://www.lannion-shopping.com/)
 et [Anticipa](http://www.technopole-anticipa.com/)
-qui se sont joints à nous pour que les
+ se sont joints à nous pour que les
 besoins des commerçants et des entreprises encore ouverts soient pris en
 compte.
 
