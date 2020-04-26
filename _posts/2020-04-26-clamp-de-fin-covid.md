@@ -41,7 +41,7 @@ commande de tous leurs besoins. Viennent ensuite l'appel aux makers via les
 réseaux sociaux, la gestion de la collecte, les demandes d'autorisations, la
 gestion de la croissance du mouvement...
 
-Une fois les choses mises en place pour le milieu médical, de nouvelles structures nous ont contactés; 
+Une fois les choses mises en place pour le milieu médical, de nouvelles structures nous ont contactés;
 [Lannion Coeur de Ville](http://www.lannion-shopping.com/)
 et [Anticipa](http://www.technopole-anticipa.com/)
  se sont joints à nous pour que les
@@ -70,8 +70,19 @@ rediriger toutes les nouvelles demandes vers cette offre de la CCI:
 Nous allons donc maintenant réaliser nos derniers serre-têtes, coudre nos
 derniers masques, les distribuer et laisser refroidir nos machines. Viendra
 ensuite le temps du bilan, des comptes et de l'apéro de clôture, mais une chose
-est certaine, notre mouvement ne fait que se mettre en hibernation. Nous restons à
-la disposition des professionnels de santé pour tout besoin d'urgence lié au
-Covid19 (respirateur, pousse seringue, ...) et nous saurons réactiver le
-mouvement des Makers du Trégor si le besoin de production d'urgence se fait
-sentir.
+est certaine, notre mouvement ne fait que se mettre en hibernation. Nous restons
+à l'écoute des professionnels de santé pour tout besoin d'urgence lié au Covid19
+(respirateur, pousse seringue, ...) et nous saurons réactiver le mouvement des
+Makers du Trégor si le besoin de production d'urgence se fait sentir.
+
+Enfin, et même si nous prendrons plus le temps de remercier tout le monde dans
+un prochain article, nous tenions à remercier tous les Makers qui ont donné un
+peu (et parfois beaucoup) de leur temps, de leur argent et de leur énergie,
+remercier leurs familles d'avoir enduré les impressions continues et les
+réunions de coordinations tardives, remercier les partenaires indispensables qui
+ont collecté les besoins et redistribué sans relâche, remercier nos collecteurs
+qui ont permis à beaucoup de produire tout en restant confiné chez eux et enfin
+remercier ceux, petits et grands, qui nous ont apporté des subventions ou de la
+matière première. Ce mouvement spontané, original et solidaire a démontré sa
+force et son efficacité, il a incarné de belles valeurs dans un moment
+difficile. Nous pouvons en être légitimement fiers.
