@@ -2,10 +2,10 @@
 author: david
 tags: association
 layout: post
-imagefeature: https://pbs.twimg.com/media/EUd2-gjWAAU7Hmh?format=jpg&name=large
-slug: COVIDClampDeFin
-date: 2020-03-31
-title: "Clamp de fin #Covid19"
+imagefeature: http://www.fablab-lannion.org/images/covid19/3dverkstan_europe-iso838-2.jpeg
+slug: COVIDFinChapitre
+date: 2020-04-26
+title: "Fin d'un chapitre #Covid19"
 comments: True
 share: True
 
