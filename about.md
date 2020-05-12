@@ -34,7 +34,8 @@ Nous soutenir
 Adhérer
 -------
 
-Le moyen le plus simple est déjà adhérer à l’association. Vous trouverez toutes les informations sur la page dédiée.
+Le moyen le plus simple est déjà adhérer à l’association. Vous trouverez toutes les informations sur la
+[page dédiée](https://wiki.fablab-lannion.org//index.php?title=Adh%C3%A9sion).
 Nous faire don de matériel informatique, électronique ou de fabrication numérique en fin de vie
 
 Vous renouvelez votre parc informatique ou électronique, ou votre matériel de fabrication numérique ? Plutôt que d’acheminer ce matériel vers une filière de recyclage où il sera détruit alors qu’ils est encore en état de fonctionnement, vous pouvez nous les proposer afin que nous leur donnions une seconde vie. Nous assurons l’effacement des données éventuellement situées sur les disques des ordinateurs, et proposons ensuite ce matériel à prix préférentiel à des publics concernés par la fracture numérique.
