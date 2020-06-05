@@ -15,7 +15,7 @@ Amis Makers, après presque 3 mois de fermeture nous proposons de réouvrir le F
 Néanmoins, nous vous demanderons de respecter les consignes de sécurité suivantes.
 
 1. Limitation du nombre de personnes par salle à 10 personnes (10 salle principale, 10 atelier)
-2. Masque obligatoire pour les fab manager, conseillé pour les membres. Des masques seront à disposition
+2. Masque obligatoire pour les fab managers, conseillé pour les membres. Des masques seront à disposition
 3. Du gel hydroalcoolique sera à disposition, merci de vous laver les mains fréquemment et au moins à l'arrivée au Fablab.
 4. Rangement obligatoire des paillasses et tables de tavail après usage.
 
