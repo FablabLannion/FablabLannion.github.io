@@ -3,7 +3,7 @@ author: thierry
 tags: association
 layout: post
 imagefeature: https://www.vie-publique.fr/sites/default/files/en_bref/image_principale/plan-deconfinement.jpg
-slug: FermetureTemporaire
+slug: deconfinement_fablab
 date: 2020-06-07
 title: "Réouverture Fablab, #RestezPrudents"
 comments: True
