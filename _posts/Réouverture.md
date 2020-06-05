@@ -2,7 +2,7 @@
 author: thierry
 tags: association
 layout: post
-imagefeature: http://www.fablab-lannion.org/images/posts/restealamaison.jpg
+imagefeature: https://www.vie-publique.fr/sites/default/files/en_bref/image_principale/plan-deconfinement.jpg
 slug: FermetureTemporaire
 date: 2020-06-07
 title: "Réouverture Fablab, #RestezPrudents"
