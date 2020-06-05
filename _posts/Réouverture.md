@@ -11,7 +11,7 @@ share: True
 
 ---
 
-Amis Makers, après presque 3 mois de fermeture nous proposons de réouvrir le Fablab à partir du mercredi 10 Juin.
+Amis Makers, après presque 3 mois de fermeture nous proposons de réouvrir le Fablab à partir du **mercredi 10 Juin** aux horaires habituels .
 Néanmoins, nous vous demanderons de respecter les consignes de sécurité suivantes.
 
 1. Limitation du nombre de personnes par salle à 10 personnes (10 dans la salle principale, 10 dans l'atelier)
