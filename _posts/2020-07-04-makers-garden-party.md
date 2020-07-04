@@ -18,7 +18,7 @@ A la crise sanitaire liée au coronavirus, notre petite association a répondu r
 Le modèle distribué au service d'un territoire semble une fois encore avoir démontré sa force, son adaptabilité en un mot son efficacité dans ce contexte si particulier.
 
 Ce phénomène s'est vérifié en Bretagne, en France et dans le monde entier.
-Finies les impressions d'objets décoratifs, les imprimantes 3D ont imprimé "util" pour ne pas dire "vital" partout, en continue jusqu'à épuisement des bobines et des matières premières.
+Finies les impressions d'objets décoratifs, les imprimantes 3D ont imprimé "utile" pour ne pas dire "vital" partout, en continue jusqu'à épuisement des bobines et des matières premières.
 
 C'est dans ce contexte que le fablab de Lannion a été convié à la très symbolique cérémonie du 14 juillet par la présidence de la république, reconnaissant ainsi le rôle du collectif des makers du Trégor en particulier et des fablabs en général. C'est donc en leur nom, et au nom de tous les makers de France, de Corte jusqu'à Brest que l'association participera à la cérémonie.
 
