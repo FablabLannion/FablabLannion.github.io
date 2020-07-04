@@ -3,7 +3,7 @@ author: colvert
 tags: association
 layout: post
 imagefeature: https://fr.wikipedia.org/wiki/F%C3%AAte_nationale_fran%C3%A7aise#/media/Fichier:14_July_fireworks_in_Paris.jpg
-slug: MakesElysée
+slug: MakersElysee
 date: 2020-07-04
 title: "Les makers à l'Elysée"
 comments: True
