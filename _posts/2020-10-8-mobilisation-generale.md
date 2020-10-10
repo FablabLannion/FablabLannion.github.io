@@ -12,7 +12,7 @@ share: True
 ---
 Comme évoqué dans la Newsletter de Septembre, les jours du fablab dans l'enceinte du Lycée Le Dantec à Lannion sont désormais comptés.
 
-Après huit ans de bonnes relations, nous devons trouver un nouvel endroit pour accueillir nos machines et notre communauté sans oublier notre réfrigérateur. Nous souhaitons disposer d'un espace atelier et d'un espace de travail. Le bureau, en liaison avec la ville de Lannion et Lannion Trégor Communauté cherche donc un lieu susceptible de nous accueillir au plus vite.
+Après huit ans de bonnes relations, nous devons trouver un nouvel endroit pour accueillir nos machines et notre communauté sans oublier notre réfrigérateur. Nous souhaitons disposer d'un espace atelier et d'un espace de travail. Le bureau, déjà en liaison avec la ville de Lannion et Lannion Trégor Communauté cherche donc un lieu susceptible de nous accueillir au plus vite.
 
 Le fablab de Lannion est désormais un acteur connu de l'écosystème trégorrois rayonnant au delà du territoire. Il s'inscrit dans les discours sur l'inclusion numérique, le recyclage et la lutte contre l’obsolescence programmée, la remédiation par le faire. Il a été un acteur remarqué lors de la crise du COVID en fournissant du matériel de protection et a déjà permis à de nombreuses entreprises locales de pouvoir prototyper dans de bonnes conditions.
 Il peut en outre s'avérer un outil efficace de revitalisation du centre ville via les animations régulières qu'il propose via ses bénévoles.
