@@ -17,7 +17,7 @@ Après huit ans de bonnes relations, nous devons trouver un nouvel endroit pour 
 Le fablab de Lannion est désormais un acteur connu de l'écosystème trégorrois rayonnant au delà du territoire. Il s'inscrit dans les discours sur l'inclusion numérique, le recyclage et la lutte contre l’obsolescence programmée, la remédiation par le faire. Il a été un acteur remarqué lors de la crise du COVID en fournissant du matériel de protection et a déjà permis à de nombreuses entreprises locales de pouvoir prototyper dans de bonnes conditions.
 Il peut en outre s'avérer un outil efficace de revitalisation du centre ville via les animations régulières qu'il propose via ses bénévoles.
 
-Certaines villes et agglomération ont d'ailleurs construit des projets ambitieux autour d'un tel outil alors qu'il ne disposait ni du parc de machines ni de la communauté dont peut s'enorgueillir aujourd'hui le fablab de Lannion.
+Certaines villes et agglomérations ont d'ailleurs construit des projets ambitieux autour d'un tel outil alors qu'il ne disposait ni du parc de machines ni de la communauté dont peut s'enorgueillir aujourd'hui le fablab de Lannion.
 
 Le lycée souhaiterait qu'on puisse avoir déménagé au 1er janvier 2021, on y travaille mais le timing devient de plus en plus serré et les opportunités de locaux au regard de nos besoins sont rares.
 Nous élargissons donc nos prospections quitte à nous excentrer un peu.
