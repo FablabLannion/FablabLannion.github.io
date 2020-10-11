@@ -19,6 +19,6 @@ Il peut en outre s'avérer un outil efficace de revitalisation du centre ville v
 
 Certaines villes et agglomérations ont d'ailleurs construit des projets ambitieux autour d'un tel outil alors qu'il ne disposait ni du parc de machines ni de la communauté dont peut s'enorgueillir aujourd'hui le fablab de Lannion.
 
-Le lycée souhaiterait qu'on puisse avoir déménagé au 1er janvier 2021, on y travaille mais le timing devient de plus en plus serré et les opportunités de locaux au regard de nos besoins sont rares.
+Le lycée souhaiterait qu'on puisse avoir déménagé au 1er janvier 2021, on y travaille mais le timing devient de plus en plus serré, les pistes prospectées avant la Covid se sont avérées infructueuses, et les opportunitées de locaux au regard de nos besoins sont rares.
 Nous élargissons donc nos prospections quitte à nous excentrer un peu.
 Si d'aventure, aucun local ne venait à être trouvé, nous céderions nos machines aux fablabs voisins et serons conduits à la dissolution de l'association.
