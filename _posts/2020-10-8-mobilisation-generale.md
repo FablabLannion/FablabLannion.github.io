@@ -21,4 +21,6 @@ Certaines villes et agglomérations ont d'ailleurs construit des projets ambitie
 
 Le lycée souhaiterait qu'on puisse avoir déménagé au 1er janvier 2021, on y travaille mais le timing devient de plus en plus serré, les pistes prospectées avant la Covid se sont avérées infructueuses, et les opportunitées de locaux au regard de nos besoins sont rares.
 Nous élargissons donc nos prospections quitte à nous excentrer un peu.
-Si d'aventure, aucun local ne venait à être trouvé, nous céderions nos machines aux fablabs voisins et serons conduits à la dissolution de l'association.
+Si d'aventure, aucun local ne venait à être trouvé, nous pourrions être conduits à dissoudre l'association et céderions alors nos machines aux associations de notre choix comme il est prévu dans nos statuts. 
+Cependant - fidèle à la devise don't panic and make it - nous restons optimistes et travaillons, notamment avec la Mairie de Lannion, pour éviter ce funeste scénario.
+Nous restons bien entendu à l'écoute de toutes vos propositions !!
