@@ -2,7 +2,7 @@
 author: colvert
 tags: association
 layout: post
-imagefeature: https://ci3.googleusercontent.com/proxy/HDdiu7ueR472hVBSeTixZI8yFPgIQQqUVZoYeaNV4VYiMrpJfQEkvlSvYdjh1voAQBD3N2Nt54ZuZlgIig0qhK02=s0-d-e1-ft#https://xi979.mjt.lu/img/xi979/b/x9xp/hqhs.jpeg
+imagefeature: https://xi979.mjt.lu/img/xi979/b/x9xp/hqhs.jpeg
 slug: déménagement
 date: 2020-10-31
 title: "Déménagement: un peu de répit pour mieux trouver notre futur nid"
@@ -14,7 +14,7 @@ Comme vous avez pu le suivre dans nos dernières lettres d'information, le sujet
 du déménagement du Fablab est prioritaire pour nous, et nous travaillons à
 trouver un nouveau local correspondant aux besoins de toute la communauté.
 
-![déménagement](https://ci3.googleusercontent.com/proxy/HDdiu7ueR472hVBSeTixZI8yFPgIQQqUVZoYeaNV4VYiMrpJfQEkvlSvYdjh1voAQBD3N2Nt54ZuZlgIig0qhK02=s0-d-e1-ft#https://xi979.mjt.lu/img/xi979/b/x9xp/hqhs.jpeg)
+![déménagement](https://xi979.mjt.lu/img/xi979/b/x9xp/hqhs.jpeg)
 
 Les différentes pistes explorées, qu'elles soient privées, via l'agglomération
 ou le CROUS, n'ont pas abouties. Cependant la Mairie de Lannion a clairement
