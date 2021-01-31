@@ -43,6 +43,15 @@ Contacts
 Par mail à l'adresse: [contact@fablab-lannion.org](mailto:contact@fablab-lannion.org)
 Vous pouvez aussi utiliser le [formulaire idoine](https://forum.fablab-lannion.org/memberlist.php?mode=contactadmin).
 
+Newsletter
+==========
+
+Pour recevoir les infos du Fablab, qu'elles soient mensuelles, ou exceptionnelles, n'hésitez pas à vous inscrire sur notre newsletter:
+
+<iframe class="mj-w-res-iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://app.mailjet.com/widget/iframe/5Mcd/HnB" width="100%"></iframe>
+
+<script type="text/javascript" src="https://app.mailjet.com/statics/js/iframeResizer.min.js"></script>
+
 Horaires
 ============
 
