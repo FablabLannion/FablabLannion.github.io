@@ -48,7 +48,7 @@ Newsletter
 
 Pour recevoir les infos du Fablab, qu'elles soient mensuelles, ou exceptionnelles, n'hésitez pas à vous inscrire sur notre newsletter:
 
-
+<div align='center'>
 <div class="mj-embedded mj-embed-shadow mj-horizontal" style="box-sizing: border-box; display: block; font-family: inherit; line-height: normal; text-align: left; background-color: transparent; box-shadow: none; padding: 0px; width: 900px; height: auto;">
     <div class="mj-embedded-content" style="padding: 15px; background-color: rgb(255, 255, 255);">
         <div class="mj-embedded-footer" style="box-sizing: border-box;">
@@ -69,7 +69,7 @@ Pour recevoir les infos du Fablab, qu'elles soient mensuelles, ou exceptionnelle
         </div>
     </div>
 </div>
-
+</div>
 
 <script type="text/javascript" src="https://app.mailjet.com/statics/js/iframeResizer.min.js"></script>
 
