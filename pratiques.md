@@ -49,29 +49,14 @@ Newsletter
 Pour recevoir les infos du Fablab, qu'elles soient mensuelles, ou exceptionnelles, n'hésitez pas à vous inscrire sur notre newsletter:
 
 <div align='center'>
-<div class="mj-embedded mj-embed-shadow mj-horizontal" style="box-sizing: border-box; display: block; font-family: inherit; line-height: normal; text-align: left; background-color: transparent; box-shadow: none; padding: 0px; width: 900px; height: auto;">
-    <div class="mj-embedded-content" style="padding: 15px; background-color: rgb(255, 255, 255);">
-        <div class="mj-embedded-footer" style="box-sizing: border-box;">
-            <div class="mj-form" style="box-sizing: border-box; display: table; width: 100%;">
-                <div class="w-preview-field-table" style="box-sizing: border-box; display: block; width: 100%;">
-                    <div class="w-preview-fields-content-row" style="box-sizing: border-box; display: flex; flex-direction: row;">
-                        <div class="w-preview-fields-content-cell" style="box-sizing: border-box; vertical-align: top; flex-grow: 1; padding: 0px 0px 10px;">
-                            <input class="w-preview-fields-content-cell-field-email" type="email" placeholder="Adresse E-Mail" name="w-field-field-new-email" required="required" style="box-sizing: border-box; font-family: inherit; font-size: 14px; height: 36px; padding-left: 17px; margin-right: 20px; border-radius: 3px; border: 2px solid rgb(225, 225, 230); width: 100%;">
-                        </div>
-                        
-                    </div>
-                </div><div class="w-preview-consent" style="text-align: center; font-family: inherit; padding: 10px 0px 40px;"><input id="w-preview-consent-checkbox" type="checkbox" name="w-preview-consent-checkbox" required="required"><div id="w-preview-consent-checkbox-label" style="padding-left: 5px; color: rgb(74, 74, 74); font-size: 14px; display: inline-block;">J’accepte de recevoir cette newsletter et je comprends que je peux me désabonner facilement à tout moment.</div></div><div class="mj-form-button" style="box-sizing: border-box; font-family: inherit; text-align: center; vertical-align: middle; flex-grow: 1; margin: auto; width: 235px;">
-                            <div class="mj-subscribe-button" style="box-sizing: border-box; width: auto; height: 36px; font-family: inherit, Helvetica; font-size: 13px; text-align: center; line-height: 36px; color: rgb(89, 91, 97); border-radius: 3px; max-width: 100%; white-space: nowrap; background-color: rgb(225, 225, 230); padding: 0px 10px;">
-                                <div class="mj-subscribe-button-content" style="box-sizing: border-box; display: inline-block;"><b>ABONNEZ-VOUS !</b></div>
-                            </div>
-                        </div>
-            </div>
-        </div>
-    </div>
-</div>
+    <iframe class="mj-w-res-iframe" scrolling="no" marginheight="0"
+            src="https://app.mailjet.com/widget/iframe/5Mcd/HnB"
+            marginwidth="0" padding="0" margin="0"
+            style="background-color: transparent; box-shadow: none; padding: 0px; width: 900px;" width="900"
+            frameborder="0"></iframe>
+    <script type="text/javascript" src="https://app.mailjet.com/statics/js/iframeResizer.min.js"></script>
 </div>
 
-<script type="text/javascript" src="https://app.mailjet.com/statics/js/iframeResizer.min.js"></script>
 
 Horaires
 ============
