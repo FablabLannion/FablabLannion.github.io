@@ -10,7 +10,7 @@ comments: True
 ---
 
 Le fablab de Lannion a récemment été contacté par Hugues Aubin, un maker bien
-connu du paysage régional, président entre autre du CC Lb
+connu du paysage régional, président entre autre du CC Lab
 ([Climate Change Lab](https://climatechangelab.org/)) afin de participer à un
 projet pour le moins singulier, poétique et ambitieux, faire chanter les arbres.
 
@@ -22,13 +22,13 @@ déjà essayés [biodata-sonification](https://electricityforprogress.com/biodat
 
 Le projet coordonnant différent fablabs régionaux viserait à mettre au point
 les capteurs et retranscrire les signaux en midi, un protocole permettant de
-piloter des instruments de musique virtuel et au final jouer de la musique.
+piloter des instruments de musique numériques et au final jouer de la musique.
 
-Le fablab de Lannion ayant la chance de posséder dans ses rangs quelques makers
+Le fablab de Lannion ayant la chance de compter dans ses rangs quelques makers
 mélomanes, rappelons le projet de thérémine et le célésta DIY de Manu.
 
 L'équation étant posée, l'imagination a encore beaucoup à faire...
-Est que le chêne pédonculé de Bégard* préfère la musique bretonne?
+Est-ce que le chêne pédonculé de Bégard* préfère la musique bretonne?
 Est-ce que le hêtre commun de Vieux marché* du haut de ses 150 ans supporte le
 JUL?
 Est-ce que le pin de Monterey de Perros Guirrec apprécie California Dreaming
