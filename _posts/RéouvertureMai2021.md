@@ -14,7 +14,7 @@ share: True
 Amis Makers, après 7 mois de fermeture nous proposons de réouvrir le Fablab à partir du mercredi 26 Mai avec les créenaux habituels (Mercredi / Vendredi)
 
 Le Fablab va ré ouvrir pour quelques semaines seulement (2 ou 3), ensuite nous passerons au rangement des locaux pour le déménagement.
-Si vous avez des projets de découoe laser ou plasma, profitez en, ensuite cela ne sera plus possible avant fin Juillet début août.
+Si vous avez des projets de découpe laser ou plasma, profitez en, ensuite cela ne sera plus possible avant fin juillet début août.
 
 Néanmoins, nous vous demanderons de respecter les consignes de sécurité suivantes.
 
@@ -24,4 +24,3 @@ Néanmoins, nous vous demanderons de respecter les consignes de sécurité suiva
 4. Rangement obligatoire des paillasses et tables de tavail après usage.
 
 Au plaisir de vous revoir bientôt !
-
