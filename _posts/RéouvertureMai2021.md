@@ -11,7 +11,7 @@ share: True
 
 ---
 
-Amis Makers, après 7 mois de fermeture nous proposons de réouvrir le Fablab à partir du mercredi 26 Mai avec les créneaux habituels (Mercredi / Vendredi)
+Amis Makers, après 7 mois de fermeture nous proposons de réouvrir le Fablab à partir du mercredi 26 Mai avec les créneaux habituels (Mercredi 18h-21H / Vendredi 9h30-17h30)
 
 Le Fablab va ré ouvrir pour quelques semaines seulement (2 ou 3), ensuite nous passerons au rangement des locaux pour le déménagement.
 Si vous avez des projets de découpe laser ou plasma, profitez en, ensuite cela ne sera plus possible avant fin juillet début août.
