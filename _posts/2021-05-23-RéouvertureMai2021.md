@@ -5,7 +5,7 @@ layout: post
 imagefeature: https://www.vie-publique.fr/sites/default/files/en_bref/image_principale/plan-deconfinement.jpg
 slug: RéouvertureAvantDéménagement
 date: 2021-05-23
-title: "Réouverture Fablab, profitez-en avant le déménagament"
+title: "Réouverture Fablab, profitez-en avant le déménagement"
 comments: True
 share: True
 
