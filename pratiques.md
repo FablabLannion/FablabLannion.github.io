@@ -77,8 +77,8 @@ Accès
 
 L'accès au fablab se fait par le 6 rue du 73ème territorial à Lannion, le Fablab est situé dans les locaux du foyer de jeunes travailleurs. (voir la carte). La porte devrait être ouverte jusqu'à 22H. Après cette heure, sonnez, le gardien devrait venir vous ouvrir. Sinon, tapez aux fenêtres de la pièce du rez-de-chaussée à l'angle de la rue (pièce arrondie, quelqu'un devrait venir vous ouvrir). Une fois à l'intérieur, allez vers l'accueil puis prenez lz couloir toujours à gauche pour arriver à la porte du Fablab.
 
-[Plan]({{site.static_url}}/CarteFablab.png)
+![Plan](images/CarteFablab.png)
 
-![Accès au fablab depuis l'exterieur]({{site.static_url}}/FJT_Large.png)
+![Accès au fablab depuis l'exterieur](images/FJT_Large.png)
 
 
