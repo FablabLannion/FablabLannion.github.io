@@ -75,9 +75,10 @@ Si ce n'est déjà fait, n'hésitez pas à vous inscrire sur le site, afin de re
 Accès
 =============
 
-L'accès au fablab se fait par le 6 rue du 73ème territorial à Lannion, le Fablab est situé dans les locaux du foyer de jeunes travailleurs. (voir la carte). La porte devrait être ouverte jusqu'à 22H. Après cette heure, sonnez, le gardien devrait venir vous ouvrir. Sinon, tapez aux fenêtres de la pièce du rez-de-chaussée à l'angle de la rue (pièce arrondie, quelqu'un devrait venir vous ouvrir). Une fois à l'intérieur, allez vers l'accueil puis prenez lz couloir toujours à gauche pour arriver à la porte du Fablab.
+L'accès au fablab se fait par le 6 rue du 73ème territorial à Lannion, le Fablab est situé dans les locaux du foyer de jeunes travailleurs. (voir la carte). La porte devrait être ouverte jusqu'à 22H. Après cette heure, sonnez, le gardien devrait venir vous ouvrir. Sinon, tapez aux fenêtres de la pièce du rez-de-chaussée à l'angle de la rue (pièce arrondie, quelqu'un devrait venir vous ouvrir).
+Ensuite, il y aura un fléchage, en attendant suivez le couloir sur la gauche jusqu'au bout pour trouver le Fablab.
 
-![Plan](images/CarteFablab.png)
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/fablab-lannion-73emeterritorial_646993?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#18/48.72911/-3.46157"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/fablab-lannion-73emeterritorial_646993">Voir en plein écran</a></p>
 
 ![Accès au fablab depuis l'exterieur](images/FJT_Large.png)
 
