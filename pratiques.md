@@ -75,12 +75,10 @@ Si ce n'est déjà fait, n'hésitez pas à vous inscrire sur le site, afin de re
 Accès
 =============
 
-L'accès au fablab se fait par le 14 rue de Beauchamp à Lannion. (voir la carte). Passez le portail situé en face des locaux de la Protection Civile. Dirigez-vous vers la porte vitrée. Si besoin, utilisez la sonnette pour demander l'ouverture par un FabManager. (cf. ci-dessous)
+L'accès au fablab se fait par le 6 rue du 73ème territorial à Lannion, le Fablab est situé dans les locaux du foyer de jeunes travailleurs. (voir la carte). La porte devrait être ouverte jusqu'à 22H. Après cette heure, sonnez, le gardien devrait venir vous ouvrir. Sinon, tapez aux fenêtres de la pièce du rez-de-chaussée à l'angle de la rue (pièce arrondie, quelqu'un devrait venir vous ouvrir). Une fois à l'intérieur, allez vers l'accueil puis prenez lz couloir toujours à gauche pour arriver à la porte du Fablab.
 
-**Note**: la sonnette marquée Fablab sonne dans le local et celle d'au-dessus sur laquelle rien n'est marqué sonne dans l'atelier. À 18h il est courant qu'il n'y ait personne dans le local.
+[Plan]({{site.static_url}}/CarteFablab.png)
 
-[![Carto OSM]({{site.static_url}}/osm_carte_fablab.png)](http://umap.openstreetmap.fr/en/map/fablab-lannion_77784#17/48.73217/-3.45055)
+![Accès au fablab depuis l'exterieur]({{site.static_url}}/FJT_Large.png)
 
-![Accès au fablab depuis l'exterieur]({{site.static_url}}/rAccesFablab1.jpg)
 
-![Accès au fablab : la sonette]({{site.static_url}}/rAccesFablab3.jpg)
