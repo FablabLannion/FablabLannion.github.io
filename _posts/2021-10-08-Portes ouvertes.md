@@ -21,7 +21,7 @@ début septembre en réouvrant ses créneaux du mercredi soir et du vendredi. Le
 Après plusieurs mois d'hibernation - même si de nombreux makers sont restés actifs via l'initiative [MAKERS DU TRÉGOR CONTRE LE COVID19](http://www.fablab-lannion.org/covid19) -
 il est bon de se retrouver, de parler de sujets un peu plus légers, et d'envisager enfin de nouveaux projets.
 
-Le fablab se situe donc à présent [4 Rue du 73ème Territorial](https://www.openstreetmap.org/search?whereami=1&query=48.72870%2C-3.46315#map=19/48.72869/-3.46314)
+Le fablab se situe donc à présent [6 Rue du 73ème Territorial](https://www.openstreetmap.org/search?whereami=1&query=48.72870%2C-3.46315#map=19/48.72869/-3.46314)
 à Lannion, au sein du foyer des jeunes travailleurs, juste à côté du Pixie.
 
 Ces portes ouvertes seront l'occasion de découvrir ce nouveau lieu qui n'en doutons pas continuera d'inspirer petits et grands. 
