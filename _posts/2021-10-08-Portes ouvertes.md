@@ -9,12 +9,12 @@ comments: True
 share: True
 ---
 
-Le fablab de Lannion est heureux d'annoncer ses premières portes ouvertes dans ses tous nouveaux locaux.
+Le fablab de Lannion est heureux d'annoncer ses premières portes ouvertes dans ses tout nouveaux locaux.
 
 Elles auront lieu le samedi 16 octobre 2021 de 14 à 18h.
 Une inauguration un peu plus "formelle et officielle" est prévue en janvier dans le cadre des [micro folies](https://www.lannion.bzh/micro-folie).
 
-En attendant, après une année 2021 éprouvante marquée par une pandémie mondiale ayant entraînée un arrêt forcé de nos machines et de nos discussions passionées,
+En attendant, après une année 2021 éprouvante marquée par une pandémie mondiale ayant entraînée un arrêt forcé de nos machines et de nos discussions passionnées,
 une assemblée générale et extraordinaire en visio et ... un déménagement, l'association a finalement repris ses petites habitudes numériques et collaboratives
 début septembre en réouvrant ses créneaux du mercredi soir et du vendredi. Les premières formations en partenariat avec pôle emploi ont également pu débuter.
 
