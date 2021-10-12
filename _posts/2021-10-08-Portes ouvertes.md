@@ -34,6 +34,7 @@ la brodeuse numérique acquise grace à l'appel à projets [CONSTRUIRE LE NUMÉR
 du département des côtes d'Armor.
 
 Pour ceux qui ne peuvent pas attendre, un avant-goût avec une petite [![Visite](http://www.fablab-lannion.org/images/posts/nouveau_fablab.png)](https://youtu.be/I8Sgo-h6Xg0)
+
 mais en vrai c'est encore mieux!
 
 Vous êtes tous conviés à ces portes ouvertes (Passe sanitaire obligatoire).
