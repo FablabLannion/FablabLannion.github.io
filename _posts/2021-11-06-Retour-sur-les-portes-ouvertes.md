@@ -9,15 +9,15 @@ comments: True
 share: True
 ---
 
-Les premières portes ouvertes du fablab de Lannion ont eu lieu le samedi 16 octobre 2021.
-Après des mois de fermeture du fait de la pendémie et d'un déménagement estival, le but était de faire découvrir ce nouveau lieu au plus grand nombre.
+Les premières portes ouvertes du fablab de Lannion au Foyer des Jeunes Travailleurs ont eu lieu le samedi 16 octobre 2021.
+Après des mois de fermeture du fait de la pandémie et d'un déménagement estival, le but était de faire découvrir ce nouveau lieu au plus grand nombre.
 
 Malgré l'été indien durablement installé sur la Bretagne en ce mois d'Octobre, le public a répondu présent.
 Les curieux et les curieuses de tous ages et de tous horizons se sont succédés au 6 Rue du 73ème Territorial.
 
 Les ateliers initialement prévus (électronique, découpe, broderie,..) n'ont pas pu avoir lieu du fait de l'affluence, chaque bénévole devant gérer un flux continu de nouveaux visiteurs.
 
-Il n'en reste pas moins qu'une centaine de personnes a pu découvrir notre nouvel écrin: la salle de travail ainsi que les multiples machines (imprimantes 3D, découpeuses Laser, découpeuse plasma, thermoformeuse, brodeuse numérique, machines à coudre, surjeuteuse, découpeuse vinyle, imprimante A3, presse à chaud, ..) qui font du fablab de Lannion, premier fablab historique des côtes d'armor (2012), un fablab noté AAAB selon les [critères du MIT](http://wiki.fablab.is/wiki/Fab_Lab_conformity_rating), une classification plus qu'honorable.
+Il n'en reste pas moins qu'une centaine de personnes a pu découvrir notre nouvel écrin: la salle de travail ainsi que les multiples machines (imprimantes 3D, découpeuses Laser, découpeuse plasma, thermoformeuse, brodeuse numérique, machines à coudre, surjeteuse, découpeuse vinyle, imprimante A3, presse à chaud, ..) qui font du fablab de Lannion, premier fablab historique des côtes d'armor (2012), un fablab noté AAAB selon les [critères du MIT](http://wiki.fablab.is/wiki/Fab_Lab_conformity_rating), une classification plus qu'honorable.
 
 ![photo1](http://www.fablab-lannion.org/images/posts/fablab_po2.jpg)
 ![photo2](http://www.fablab-lannion.org/images/posts/fablab_po3.jpg)
