@@ -4,7 +4,7 @@ tags: []
 imagefeature: https://static.fablab-lannion.org/cyb-santa-claus-2400px.png
 layout: post
 slug: les-lutins-ont trouvé-l-adresse-du-nouveau-fablab
-date: 2021-12-04
+date: 2021-11-27
 title: "Les lutins ont trouvé l'adresse du nouveau Fablab!"
 comments: True
 ---
