@@ -20,7 +20,7 @@ de la ville de Lannion. Une fois n'est pas coutume, cet événement a rencontré
 
 Il vous reste une dernière semaine pour terminer vos cadeaux personnalisés au Fablab !
 
-Rendez-vous le mercredi 15 février à partie de 18h et vendredi à partir de 9h.
+Rendez-vous le mercredi 15 décembre à partie de 18h et vendredi 17 à partir de 9h.
 
 Le fablab sera ensuite fermé jusqu'a début Janvier, pour que les fabmanagers puissent aussi profiter des agapes de fin d'année.
 
