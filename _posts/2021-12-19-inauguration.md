@@ -13,9 +13,9 @@ imagefeature: http://www.fablab-lannion.org/images/posts/fablab_po2.jpg
 L'inauguration officielle du Fablab est prévue le samedi 22 janvier 2022.
 
 Après une [journée portes ouvertes très réussie](https://fablablannion.github.io/2021/11/portesouvertes.html)
-l'an dernier, le fablab se devait d'officialiser le déménagement de ses locaux au coeur de la ville! 
+en octobre 2021, le fablab se devait d'officialiser le déménagement de ses locaux au coeur de la ville! 
 
-Cette grande première se fera conjointement avec l'envoi de la micro-folie Lannionnaise de l'autre côté de la rue ou presque.
+Cette grande première se fera conjointement avec l'inauguration de la micro-folie Lannionnaise de l'autre côté de la rue ou presque.
 
 La [micro-folie](https://www.culture.gouv.fr/Regions/Drac-Provence-Alpes-Cote-d-Azur/Politique-et-actions-culturelles/Micro-Folies)
 est un un dispositif culturel innovant, au service des territoires.
@@ -25,7 +25,7 @@ intégrer un Musée Numérique au cœur d’un équipement déjà existant.
 La déclinaison lannionaise de la micro-folie est ouverte au sein de l'Espace Sainte-Anne.
 Plus d'information sur https://www.lannion.bzh/micro-folie
 
-Micro folie et fablab se donnent donc rendez-vous pour une inauguration officielle à partir de 14h.
+Micro folie et le Fablab se donnent donc rendez-vous pour une inauguration officielle à partir de 14h.
 
 Si quelques discours devraient y être prononcés, pas de panique, le but est de faire de cette inauguration une
 fête populaire autour de l'art et de la technologie.
@@ -46,7 +46,7 @@ journée pas comme les autres.
 Il fallait un thème fort, universel et passionant.
 Le micro python, la véritable nature de la torche plasma, le secret de la gestion des clés d'un fablab ou 
 l'incroyable histoire des ports I2C de microcontrolleurs peuvent être
-un peu arides ou bien un poil ennuyeux, et c'est donc sur le thème de l'amour que seront organisées
+un peu arides ou bien un poil ennuyeux, et c'est donc sur le thème de l'Amour que seront organisées
 diverses animations conjointes entre la micro-folie et le fablab au cours de l'après midi.
 
 Rendez-vous **samedi 22 Janvier** pour une journée de découverte, de macro folie et d'amour.
