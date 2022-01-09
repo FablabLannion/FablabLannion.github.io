@@ -7,7 +7,7 @@ date: 2022-01-09
 title: "Atelier capteur CO2: un atelier qui ne manque pas d'air !"
 comments: True
 share: True
-imagefeature: http://www.fablab-lannion.org/images/posts/capteur_co2.jpg
+imagefeature: https://images.staticjw.com/vcp/6394/co2-ppm-table.jpg
 ---
 
 Le fablab de Lannion est heureux de vous proposer un premier atelier 2022 autour des capteurs de CO2.
