@@ -27,8 +27,7 @@ La session comprendra différents ateliers:
 * Introduction générale (arduino, le capteur)
 * Code et arduino
 * Soudure pour relier les différents composants
-* Rélisation du boitier 1: découpe Laser
-* réalisation du boitier 2: thermoformage
+* Rélisation du boitier
 * Intégration et tests
 
 Il sera possible de repartir avec son objet en s'acquitant du prix des composants électroniques (20€).
