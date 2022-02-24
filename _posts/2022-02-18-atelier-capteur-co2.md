@@ -15,7 +15,7 @@ L'atelier de fabrication de capteurs de CO2 s'est déroulé le 5 février dernie
 ![atelier](http://www.fablab-lannion.org/images/posts/atelierCo2/atelier-co2-2.jpeg)
 
 6 nouveaux makers avaient répondu présents. 
-On peut noter au passage une grande diversité des profils: les participants avaient de 15 à 60 ans,
+On peut noter au passage une grande diversité des profils: les participants avaient de 15 à 64 ans,
 on y comptait 33% de filles et pour 80% des participants c'était une première rencontre avec le fablab.
 
 3 fabmanagers étaient présents pour animer l'après midi. 
@@ -42,7 +42,7 @@ Les 6 nouveaux makers étant désormais membres de droit du fablab, ceux n'ayant
 ont indiqués qu'ils reviendront afin d'achever l'objet, tous ont fait l'acquisition des composants.
 
 Un grand merci aux animateurs, à David pour les  modifications des plans jusqu'au dernier moment,
-à Fred et Thierry pour l'avancement sur les soudures et à tous ceux qui ont rendu cet atelier possible.
+à Fred et Florian pour l'avancement sur les soudures et à tous ceux qui ont rendu cet atelier possible.
 
 Rendez-vous pour un prochain atelier autour des capteurs de particules fines, l'enjeu sera alors
 de connecter notre capteur à Internet via le réseau LoRa TTN, mais ça c'est une autre histoire....
