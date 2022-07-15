@@ -69,8 +69,15 @@ Quel que soit votre niveau de compétence, que vous ayez un projet précis ou qu
 * chaque vendredi de 14h00 à 17h00 : atelier ouvert
 * A la demande, avec la présence d'un FabManager
 
-Si ce n'est déjà fait, n'hésitez pas à vous inscrire sur le site, afin de recevoir les mises-à-jour sur les dates/heures des ateliers. Chacun peut venir avec son matériel, son projet, ses idées ou avec la simple envie d'apprendre...
+**Attention ! Horaires d'été 2022:**
 
+Nous sommes ouverts:
+- les mercredi 20 et 27 juillet à partir de 21H.
+- les vendredi 22 et 29 juillet de 9h30 à 17h30
+
+Nous serons **fermés du 1er au 15 août**
+
+Si ce n'est déjà fait, n'hésitez pas à vous inscrire sur le site, afin de recevoir les mises-à-jour sur les dates/heures des ateliers. Chacun peut venir avec son matériel, son projet, ses idées ou avec la simple envie d'apprendre...
 
 Accès
 =============
