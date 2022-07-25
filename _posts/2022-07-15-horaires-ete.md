@@ -20,6 +20,6 @@ Nous serons donc ouvert:
 
 et nous serons fermés du 1er au 15 août, 
 
-Nous vous retrouverons avec plaisir mercredi 17 juillet à partir de 18H !
+Nous vous retrouverons avec plaisir mercredi 17 aout à partir de 18H !
 
 Profitez bien de l'été et à bientôt !
