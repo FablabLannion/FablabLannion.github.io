@@ -39,7 +39,12 @@ Contacts
         <i class="fa fa-facebook fa-stack-1x"></i>
     </span>
 </a>
-
+<a href="http://mastodon.social/{{ site.owner.mastodon }}">
+    <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+        <i class="fa fa-facebook fa-stack-1x"></i>
+    </span>
+</a>
 Par mail à l'adresse: [contact@fablab-lannion.org](mailto:contact@fablab-lannion.org)
 Vous pouvez aussi utiliser le [formulaire idoine](https://forum.fablab-lannion.org/memberlist.php?mode=contactadmin).
 
@@ -64,18 +69,10 @@ Horaires
 Quel que soit votre niveau de compétence, que vous ayez un projet précis ou que vous soyez simplement curieux, vous êtes bienvenus lors de nos réunions et ateliers hebdomadaires :
 
 * chaque mercredi de 18h00 à 00h00 : atelier ouvert
-* chaque vendredi de 9H à 12h30 (nouveau créneau partir du 6 Mars 2020) : atelier ouvert
+* chaque vendredi de 9H à 12h30 : atelier ouvert
 * chaque vendredi de 12h30 à 14h00 : réunion d'échange ouverte à tous 
 * chaque vendredi de 14h00 à 17h00 : atelier ouvert
 * A la demande, avec la présence d'un FabManager
-
-**Attention ! Horaires d'été 2022:**
-
-Nous sommes ouverts:
-- les mercredi 20 et 27 juillet à partir de 21H.
-- les vendredi 22 et 29 juillet de 9h30 à 17h30
-
-Nous serons **fermés du 1er au 15 août**
 
 Si ce n'est déjà fait, n'hésitez pas à vous inscrire sur le site, afin de recevoir les mises-à-jour sur les dates/heures des ateliers. Chacun peut venir avec son matériel, son projet, ses idées ou avec la simple envie d'apprendre...
 
