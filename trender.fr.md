@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /trender/
+permalink: /trender_fr/
 title: Trender
 description: "Trender.."
 tags: [trender, user guide, configuration, manuel]
@@ -14,7 +14,7 @@ chart: false
 
 Le Trender est un objet qui transforme des informations en lumière.
 
-*Lire ceci dans une autre langue: [English](trender.md), [Français](trender.fr.md), [Brezhoneg](trender.bzh.md)*
+*Lire ceci dans une autre langue: [English](/trender)*
 
 ## Table des matières
   - [Modes](#modes)

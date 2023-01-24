@@ -1,0 +1,34 @@
+<style>
+    .image-gallery {overflow: auto; text-align: center;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block;}
+</style>
+
+<ul class="image-gallery">
+    {% for file in site.static_files %}
+        {% if file.path contains include.folder %}
+            {% if file.extname == '.jpg' or 
+                file.extname == '.jpeg' or 
+                file.extname == '.JPG' or 
+                file.extname == '.JPEG' %}
+
+                {% assign filenameparts = file.path | split: "/" %}
+                {% assign filename = filenameparts | last | replace: file.extname,"" %}
+
+                {% comment %}Note that the images are being resized and served by images.weserv.nl.{% endcomment %}
+                <li>
+                    <a href="{{ file.path | relative_url }}" title="{{ filename }}">
+                        <!--<img src="http://images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ file.path | relative_url }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" title="{{ filename }}" />-->
+                         <img src="{{ include.folder }}/../thumbs/{{file.name }}" alt="{{ filename }}" title="{{ filename }}" />
+                        <!--<span>include.folder = {{ include.folder }}, site.url =  {{ site.url }}, site.baseurl = {{ site.baseurl}}</span>>-->
+                        <!-- grid-template-columns: repeat(auto-fill,minmax(200px, 1fr)); -->
+                        <span>{{ filename }}</span>
+                    </a>
+                </li>
+
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+</ul>

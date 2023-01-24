@@ -15,7 +15,7 @@ chart: false
 
 The Trender is an objet translating different types of information into light.
 
-*Read this in other languages: [English](trender.md), [Français](https://github.com/FablabLannion/FablabLannion.github.io/blob/master/trender.fr.md), [Brezhoneg](trender.bzh.md)*
+*Read this in other languages: [Français](/trender_fr)*
 
 ## Table of Contents
 - [Modes](#modes)
