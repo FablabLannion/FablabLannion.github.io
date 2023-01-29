@@ -26,9 +26,9 @@ owner:
   twitter:        fablablannion
   facebook:       fablablannion
   github:         fablablannion
-  # instagram:
+  instagram:      fablablannion
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/+FablabLannion
+  #google_plus:    https://plus.google.com/+FablabLannion
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
@@ -43,13 +43,13 @@ links:
     url: /
     external: false
     icon: home
-  - title: Galerie
+  - title: Réalisations
     url: /galerie
   - title: Forum
     url: https://forum.fablab-lannion.org
     external: true
   - title: Trender
-    url: /trender
+    url: /trender_fr
   - title: OoRoBoT
     url: /oorobot
   - title: Wiki
@@ -142,6 +142,12 @@ authors:
     frederiquepinson:
         name: Frédérique Pinson
         github: frederiquepinson
+    florian:
+        name: Florian Vasseur
+        function: permanent
+    maite:
+        name: Maïté
+        gravatar: b95f7e56a4cb11f39c64f192cb54c91d
 
 
 

@@ -8,3 +8,5 @@ source 'https://rubygems.org'
   gem 'github-pages'
   gem 'jemoji'
  end
+
+gem "webrick", "~> 1.7"

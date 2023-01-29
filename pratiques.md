@@ -21,12 +21,6 @@ Contacts
         <i class="fa fa-twitter fa-stack-1x"></i>
     </span>
 </a>
-<a href="{{ site.owner.google_plus }}">
-    <span class="fa-stack fa-lg">
-        <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
-        <i class="fa fa-google-plus fa-stack-1x"></i>
-    </span>
-</a>
 <a href="http://github.com/{{ site.owner.github }}">
     <span class="fa-stack fa-lg">
         <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
