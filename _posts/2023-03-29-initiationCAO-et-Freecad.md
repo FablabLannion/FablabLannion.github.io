@@ -3,7 +3,7 @@ author: Antoine
 tags: formation, CAO,FreeCAD
 layout: post
 slug: Venez découvrir la conception de modèles 3D 
-date: 2023-05-03
+date: 2023-03-29
 title: "une formation a la conception de modèle 3D avec Freecad"
 comments: True
 ---
