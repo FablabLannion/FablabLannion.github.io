@@ -1,0 +1,14 @@
+<div id="main-menu" class="main-menu">
+  {% assign mainmenu = site.links | sort: 'weight'  %}
+  <ul>
+    {% for link in mainmenu %}
+    <li>{% if link.external %}
+      <a href="{{ link.url }}">{{ link.title }}</a>
+      {% else %}
+      <a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
+      {% endif %}
+    </li>
+    {% endfor %}
+    <li><a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Flux</a></li>
+  </ul>
+</div>

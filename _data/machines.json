@@ -1,0 +1,115 @@
+[
+  {
+    "title": "Brodeuse Numérique",
+    "description": "Broderie de mots, de dessins ou d'écussons",
+    "wiki_url": "index.php?title=Brodeuse_Brother_PR620",
+    "image": {
+      "wiki_url": "images/thumb/4/4b/Brother_PR620_6_fils.jpg/100px-Brother_PR620_6_fils.jpg",
+      "width": 100,
+      "height": 100
+    }
+  },
+  {
+    "title": "Imprimante 3D Filament",
+    "wiki_url": "index.php?title=EMotionTech_DeltaRework",
+    "image": {
+      "wiki_url": "images/thumb/2/2f/MicroDeltaRework.jpg/120px-MicroDeltaRework.jpg",
+      "width": 100,
+      "height": 100
+    }
+  },
+  {
+    "title": "Imprimante 3D Résine Elegoo",
+    "wiki_url": "index.php?title=Elegoo_Mars2_Pro",
+    "image": {
+      "wiki_url": "images/thumb/7/72/Work-in-progress-hi.png/120px-Work-in-progress-hi.png",
+      "width": 100,
+      "height": 100
+    }
+  },
+  {
+    "title": "Imprimante 3D Filament Prusa",
+    "wiki_url": "index.php?title=PrusaI3_MK3S",
+    "image": {
+      "wiki_url": "images/thumb/5/51/Prusai3mk3s.jpg/120px-Prusai3mk3s.jpg",
+      "width": 100,
+      "height": 100
+    }
+  },
+  {
+    "title": "Découpeuse laser",
+    "description": "Découpe ou gravure sur bois, cuir, plexi, ardoise",
+    "wiki_url": "index.php?title=Découpeuses_Laser_Keyland",
+    "image": {
+      "wiki_url": "images/thumb/b/b9/CScHdSTWUAAcykm.jpglarge.jpeg/120px-CScHdSTWUAAcykm.jpglarge.jpeg",
+      "width": 100,
+      "height": 100
+    }
+  },
+  {
+    "title": "Découpeuse Plasma",
+    "description": "Découpe ou gravure sur métal",
+    "wiki_url": "index.php?title=Découpe_Plasma",
+    "image": {
+      "wiki_url": "images/thumb/1/18/Plasma.jpeg/120px-Plasma.jpeg",
+      "width": 100,
+      "height": 100
+    }
+  },
+  {
+    "title": "Imprimante qualité photo A2",
+    "wiki_url": "index.php?title=Imprimante_A2",
+    "image": {
+      "wiki_url": "images/thumb/b/b6/Epson-p800-02.jpg/120px-Epson-p800-02.jpg",
+      "width": 100,
+      "height": 100
+    }
+  },
+  {
+    "title": "Traceur de découpe",
+    "description": "Découpe fine sur du vinyle adhésif pour des stickers ou du transfert sur tissu",
+    "wiki_url": "index.php?title=Traceur_de_Découpe",
+    "image": {
+      "wiki_url": "images/thumb/9/94/12450_Roland-GS24-1.jpg/120px-12450_Roland-GS24-1.jpg",
+      "width": 100,
+      "height": 100
+    }
+  },
+  {
+    "title": "Presse à chaud",
+    "description": "Permet de transférer un motif en vinyle adhésif sur du tissu (T-shirt par ex)",
+    "wiki_url": "index.php?title=Presse_a_Chaud",
+    "image": {
+      "wiki_url": "images/thumb/8/8d/Presse.jpg/120px-Presse.jpg",
+      "width": 100,
+      "height": 100
+    }
+  },
+  {
+    "title": "Thermoformeuse",
+    "wiki_url": "index.php?title=Thermoformeuse",
+    "image": {
+      "wiki_url": "images/thumb/a/af/Termoformeuse_1.jpg/120px-Termoformeuse_1.jpg",
+      "width": 100,
+      "height": 100
+    }
+  },
+  {
+    "title": "Fraiseuse numérique CharlyRobot",
+    "wiki_url": "index.php?title=CharlyRobot",
+    "image": {
+      "wiki_url": "images/thumb/9/99/20130930_133141.jpg/120px-20130930_133141.jpg",
+      "width": 100,
+      "height": 100
+    }
+  },
+  {
+    "title": "Scanner HP 3D",
+    "wiki_url": "index.php?title=Scanner_HP_3D",
+    "image": {
+      "wiki_url": "images/thumb/2/2b/ScnanerHP_3D.png/120px-ScnanerHP_3D.png",
+      "width": 100,
+      "height": 100
+    }
+  }
+]

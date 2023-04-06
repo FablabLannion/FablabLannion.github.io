@@ -1,6 +1,5 @@
 title:            association KerNEL
-description:      "Fablab Lannion"
-logo:             logo.png
+description:      "Fablab Lannion"        
 disqus_shortname: fablablannion
 default_bg:       laser.jpg
 repository:       fablablannion/fablablannion.github.io
@@ -12,7 +11,18 @@ dropcap:          true
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
 static_url:       https://static.fablab-lannion.org
 url:              https://fablablannion.github.io
+wiki_url:         https://wiki.fablab-lannion.org
 # url:              http://127.0.0.1:4000
+
+home: 
+  limit_machines: 12
+
+logo:
+  path:           logo.png
+  mobile_height:  32px
+  mobile_width:   32px
+  desktop_height: 80px
+  desktop_width:  80px
 
 
 # Owner/author information
@@ -36,6 +46,12 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
+sass:
+  sass_dir: _saasHome
+  load_paths:
+    - _saasHome
+  style: compressed
+
 # Links to include in footer navigation
 # For external links add external: true
 links:
@@ -43,6 +59,8 @@ links:
     url: /
     external: false
     icon: home
+  - title: Actualités
+    url: /blog/index.html
   - title: Réalisations
     url: /galerie
   - title: Forum
@@ -157,7 +175,7 @@ future:      false
 highlighter: rouge
 markdown:    kramdown
 paginate:    5
-paginate_path: "page:num"
+paginate_path: "/blog/page:num"
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:year/:month/:slug.html

@@ -4,7 +4,7 @@
 
                             {% assign author = site.authors[page.author] %}
                             {% if author.gravatar == '' %}
-                                {% capture author_icon %}{{ site.url }}/images/{{ site.logo }}{% endcapture %}
+                                {% capture author_icon %}{{ site.url }}/images/{{ site.logo.path }}{% endcapture %}
                             {% else %}
                                 {% capture author_icon %}http://www.gravatar.com/avatar/{{ author.gravatar }}?s=96&d=mm&r=g{% endcapture %}
                             {% endif %}

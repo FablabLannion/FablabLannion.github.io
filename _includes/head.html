@@ -7,7 +7,7 @@
 {% if page.imagefeature %}<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="{{ site.url }}/images/{{ page.imagefeature }}">
 {% else %}<meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/{{ site.logo }}{% endif %}">{% endif %}
+<meta name="twitter:image" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/{{ site.logo.path }}{% endif %}">{% endif %}
 <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <meta name="twitter:creator" content="@{{ site.owner.twitter }}">{% endif %}
@@ -33,15 +33,25 @@
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
-
-    <link href='//fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:400,600,300,800,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="{{ site.url }}/assets/css/vendor/font-awesome.min.css">
-    <link rel="stylesheet" href="{{ site.url }}/assets/css/vendor/normalize.css">
-    <link rel="stylesheet" href="{{ site.url }}/assets/css/vendor/nprogress.css">
-    <link rel="stylesheet" href="{{ site.url }}/assets/css/vendor/foundation.min.css">
-    <link rel="stylesheet" href="{{ site.url }}/assets/css/style.css">
-    <link rel="stylesheet" href="{{ site.url }}/assets/css/post.css">
-
+{% if layout.bodyClass contains 'page-home' %}
+ <!-- Google Fonts CDN -->
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+ <link href='//fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:400,600,300,800,700' rel='stylesheet' type='text/css'>
+ <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+ <!-- Self host font -->
+ <link rel="stylesheet" href="{{ site.url }}/assets/css/vendor/font-awesome.min.css">
+ <link href="{{ '/assets/css/style-home.css' | relative_url }}" rel="stylesheet">
+<!--  <link rel="stylesheet" href="{{ site.url }}/assets/css/post.css"> -->
+{% else %}
+<link href='//fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:400,600,300,800,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="{{ site.url }}/assets/css/vendor/font-awesome.min.css">
+<link rel="stylesheet" href="{{ site.url }}/assets/css/vendor/normalize.css">
+<link rel="stylesheet" href="{{ site.url }}/assets/css/vendor/nprogress.css">
+<link rel="stylesheet" href="{{ site.url }}/assets/css/vendor/foundation.min.css">
+<link rel="stylesheet" href="{{ site.url }}/assets/css/style-default.css">
+<link rel="stylesheet" href="{{ site.url }}/assets/css/post.css">
+{% endif %}
 
 {% if page.mathjax %}
 <!--Load Mathjax-->

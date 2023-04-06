@@ -1,52 +1,89 @@
-<!DOCTYPE html>
-<html>
-<head>
-{% include head.html %}
-</head>
-<body class="home-template" itemscope itemtype="http://schema.org/WebPage">
-<header class="notepad-site-head">
-    <div class="notepad-site-head-menu">
-        <a class="notepad-blog-logo" href="{{ site.url }}"><img src="{{ site.url }}/images/{{ site.logo }}" alt="Blog Logo" /></a>
+---
+layout: default-home
+bodyClass: "page-home"
+---
 
-
-        <div class="notepad-blog-menu">
-    <div class="notepad-mobile-menu show-for-small">
-        <a href="#"><i class="fa fa-bars"></i></a>
+<div class="intro">
+  <div class="container">
+    <div class="row justify-content-start">
+      <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+        {{ content }}
+        {% if page.show_links_box %}
+        {% include home/infos-home.html show_buttons=true %}
+        {% endif %}
+      </div>
+      {% if page.intro_image %}
+      <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
+        <img alt="{{ page.title }}"
+          class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}"
+          src="{{ page.intro_image | relURL }}" />
+      </div>
+      {% endif %}
     </div>
-    <ul class="notepad-menu">
-        <li class="notepad-mobile-close-btn show-for-small text-right">
-            <a href="#"><i class="fa fa-times"></i></a>
-        </li>
-{% for link in site.links %}
-            <li>{% if link.external %}
-            <a href="{{ link.url }}">{{ link.title }}</a>
-            {% else %}
-            <a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
-            {% endif %} </li>
-{% endfor %}
-           <li><a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Flux</a></li>
-    </ul>
+  </div>
 </div>
-        <div class="clearfix"></div>
+
+{% if site.data.machines %}
+<div class="page-teams container pt-6 pb-6">
+  <div class="row pt-6 pb-6">
+    {% assign limit = site.home.limit_machines | default: 12 %}
+    {% for machine in site.data.machines limit: limit %}
+    <!--  <div class="col-12 col-md-4 mb-1">
+        <div class="service service-summary">
+          <div class="service-content">
+            <h2 class="service-title">
+              <a href="{{ site.wiki_url }}/{{ machine.wiki_url }}">{{ machine.title }}</a>
+            </h2>
+            <p><img alt="{{ machine.title }}" src="{{ site.wiki_url }}/{{ machine.image.wiki_url }}" width="{{ machine.image.width }}" height="{{ machine.image.height }}" /></p>
+          </div>
+        </div>
+      </div> -->
+    <div class="col-12 col-md-4 mb-3">
+      <div class="team team-summary">
+        {% if machine.image %}
+        <div class="team-image">
+          <img width="100" height="100" alt="{{ machine.title }}" class="img-fluid mb-2"
+            src="{{ site.wiki_url }}/{{ machine.image.wiki_url }}" />
+        </div>
+        {% endif %}
+        <div class="team-meta">
+          <h2 class="team-name"><a href="{{ site.wiki_url }}/{{ machine.wiki_url }}">{{ machine.title }}</a></h2>
+          {% if machine.description %}
+          <p class="team-description">{{ machine.description }}</p>
+          {% endif %}
+        </div>
+      </div>
     </div>
-    <div class="notepad-site-head-content" >
-        <div class="notepad-site-head-bg"></div>
-        <h1 class="notepad-blog-title">
-            <span class="notepad-site-head-title-bg">
-                {{ site.title }}
-            </span>
-        </h1>
-        <h2 class="notepad-blog-description">{{ site.description }}</h2>
+    {% endfor %}
+  </div>
+  <div class="row justify-content-center">
+    <div class="col-auto">
+      <a class="button button-primary" href="{{ site.wiki_url }}/index.php?title=Cat%C3%A9gorie:Machine">Voir toutes les
+        machines</a>
     </div>
-</header>
+  </div>
+</div>
+{% endif %}
 
+{% if site.data.features %}
+<div class="strip strip-grey">
+  <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
+    <div class="row justify-content-center">
 
-<main class="notepad-content" role="main">
+      {% for feature in site.data.features %}
+      <div class="col-12 col-md-6 col-lg-6 mb-2">
+        <div class="feature">
+          {% if feature.image %}
+          <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image.url | relative_url }}"
+              width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
+          {% endif %}
+          <h2 class="feature-title">{{ feature.title }}</h2>
+          <div class="feature-content">{{ feature.description }}</div>
+        </div>
+      </div>
+      {% endfor %}
 
-            {{ content }}
-</main>
-    {% include footer.html %}
-
-{% include scripts.html %}
-</body>
-</html>
+    </div>
+  </div>
+</div>
+{% endif %}
