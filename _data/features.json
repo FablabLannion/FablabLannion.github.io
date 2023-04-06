@@ -1,7 +1,7 @@
 [
   {
     "title": "Créer",
-    "description": "Le FabLab est un atelier mettant à disposition de nombreuses machines à commande numérique pour travailler le bois, le cuir, le métal, le tissu, etc. Vous pourrez ainsi créer de la signalétique, décorer des T&nbsp;shirts, fabriquer un robot. Retrouvez les projets des adhérents sur cette page du wiki.",
+    "description": "Le FabLab est un atelier mettant à disposition de nombreuses machines à commande numérique pour travailler le bois, le cuir, le métal, le tissu, etc. Vous pourrez ainsi créer de la signalétique, décorer des T&nbsp;shirts, fabriquer un robot. Retrouvez les projets des adhérents sur <a href=\"SITE_WIKI_URL/index.php?title=Catégorie:Projet\">cette page du wiki</a>.",
     "image": {
       "url": "images/features/innovation-icon.svg",
       "width": 80,
@@ -10,7 +10,7 @@
   },
   {
     "title": "Apprendre",
-    "description": "Les FabManagers sont des bénévoles présents sur les temps d’ouverture pour vous permettre d’utiliser les différentes machines. Vous pourrez également être accompagnés pour prendre en main les logiciels de conception pour transformer vos idées en créations.",
+    "description": "Les FabManagers sont des bénévoles présents sur les temps d’ouverture pour vous permettre d’utiliser les différentes machines. Vous pourrez également être accompagnés pour prendre en main les logiciels de conception pour transformer vos idées en créations. Retrouvez les formations du FabLab sur <a href=\"SITE_WIKI_URL/index.php?title=Catégorie:Formation\">cette page du wiki</a>.",
     "image": {
       "url": "images/features/learning-icon.svg",
       "width": 80,
@@ -19,7 +19,7 @@
   },
   {
     "title": "Réparer",
-    "description": "L’imprimante 3D ou les découpeuses de métal ou de bois sont les machines idéales pour les réparations. Le bouton de réglage de votre four est cassé? Modélisez le pour en faire une impression 3D. ",
+    "description": "L’imprimante 3D ou les découpeuses de métal ou de bois sont les machines idéales pour les réparations. Le bouton de réglage de votre four est cassé? Modélisez le pour en faire une impression 3D. De nombreux tutoriels de réparation sont disponible sur <a href=\"SITE_WIKI_URL/index.php?title=Catégorie:Tutos\">cette page du wiki</a>.",
     "image": {
       "url": "images/features/reparation-icon.svg",
       "width": 80,

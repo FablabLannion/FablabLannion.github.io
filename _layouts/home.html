@@ -23,21 +23,35 @@ bodyClass: "page-home"
   </div>
 </div>
 
+{% if site.data.features %}
+<div class="strip strip-grey">
+  <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
+    <div class="row justify-content-center">
+
+      {% for feature in site.data.features %}
+      <div class="col-12 col-md-6 col-lg-6 mb-2">
+        <div class="feature">
+          {% if feature.image %}
+          <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image.url | relative_url }}"
+              width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
+          {% endif %}
+          <h2 class="feature-title">{{ feature.title }}</h2>
+          {% capture wiki_url %}{{ site.wiki_url }}{% endcapture %}
+          <div class="feature-content">{{ feature.description | replace: "SITE_WIKI_URL", wiki_url }}</div>
+        </div>
+      </div>
+      {% endfor %}
+
+    </div>
+  </div>
+</div>
+{% endif %}
+
 {% if site.data.machines %}
 <div class="page-teams container pt-6 pb-6">
   <div class="row pt-6 pb-6">
     {% assign limit = site.home.limit_machines | default: 12 %}
     {% for machine in site.data.machines limit: limit %}
-    <!--  <div class="col-12 col-md-4 mb-1">
-        <div class="service service-summary">
-          <div class="service-content">
-            <h2 class="service-title">
-              <a href="{{ site.wiki_url }}/{{ machine.wiki_url }}">{{ machine.title }}</a>
-            </h2>
-            <p><img alt="{{ machine.title }}" src="{{ site.wiki_url }}/{{ machine.image.wiki_url }}" width="{{ machine.image.width }}" height="{{ machine.image.height }}" /></p>
-          </div>
-        </div>
-      </div> -->
     <div class="col-12 col-md-4 mb-3">
       <div class="team team-summary">
         {% if machine.image %}
@@ -60,29 +74,6 @@ bodyClass: "page-home"
     <div class="col-auto">
       <a class="button button-primary" href="{{ site.wiki_url }}/index.php?title=Cat%C3%A9gorie:Machine">Voir toutes les
         machines</a>
-    </div>
-  </div>
-</div>
-{% endif %}
-
-{% if site.data.features %}
-<div class="strip strip-grey">
-  <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
-    <div class="row justify-content-center">
-
-      {% for feature in site.data.features %}
-      <div class="col-12 col-md-6 col-lg-6 mb-2">
-        <div class="feature">
-          {% if feature.image %}
-          <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image.url | relative_url }}"
-              width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
-          {% endif %}
-          <h2 class="feature-title">{{ feature.title }}</h2>
-          <div class="feature-content">{{ feature.description }}</div>
-        </div>
-      </div>
-      {% endfor %}
-
     </div>
   </div>
 </div>
