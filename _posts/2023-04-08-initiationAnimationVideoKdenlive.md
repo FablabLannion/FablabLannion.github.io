@@ -9,6 +9,6 @@ comments: True
 ---
 Venez découvrir et vous initier à l'animation vidéo 2D [KdenLive](https://kdenlive.org/fr/).
 
-![Affiche édité par Corentin](La ou on peut ranger cette image dans static)
+![Affiche édité par Corentin](![Uploading affiche_animation2D_12avril23.jpeg…])
 
 RDV le 12 avril 2023 à partir de 18h au FabLab.
