@@ -10,4 +10,4 @@ show_links_box: true
 
 # Fablab de Lannion
 
-Le FabLab de Lannion est un atelier de fabrication ouvert à toutes et à tous. Dans cet atelier vous trouverez de nombreuses machines de production professionnelle ainsi que de l'outillage. 
+Le FabLab de Lannion est un atelier de fabrication collaboratif ouvert à toutes et à tous. Dans cet atelier vous trouverez de nombreuses machines de production professionnelle ainsi que de l'outillage. 
