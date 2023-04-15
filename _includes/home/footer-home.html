@@ -1,0 +1,62 @@
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="footer-inner">
+
+                    <div class="footer-copyright">
+                        <section>All content copyright <a href="{{ site.url }}/about">{{ site.owner.name }}</a> &copy;
+                            {{ site.time | date: '%Y' }} &bull; All rights reserved.</section>
+                        <section>Proudly published with <a class="icon-ghost" href="https://jekyllrb.com/">Jekyll</a>
+                        </section>
+                        <section>Free Jekyll theme used in home page by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a></section>
+                        <section>Innovation icon by <a href="https://freeicons.io/profile/3484">BECRIS</a> on <a
+                                href="https://freeicons.io/">freeicons.io</a></section>
+                        <section>Learning icon by <a href="https://freeicons.io/profile/383127">kusnadi tia nurjaman</a>
+                            on <a href="https://freeicons.io/">freeicons.io</a></section>
+                        <section>Learning icon by <a href="https://freeicons.io/profile/287517">ColourByteDesigns</a> on
+                            <a href="https://freeicons.io/">freeicons.io</a></section>
+                        <section>Learning icon by <a href="https://freeicons.io/profile/321513">Muhammad Waqas</a> on <a
+                                href="https://freeicons.io/">freeicons.io</a></section>
+                    </div>
+
+                    <ul>
+                        {% if site.owner.twitter %}
+                        <li class="{% if item.url == page.url %}active{% endif %}">
+                            <a href="http://twitter.com/{{ site.owner.twitter }}"><span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                                <i class="fa fa-twitter fa-stack-1x"></i>
+                            </span></a>
+                          </li>
+                        {% endif %}
+                        {% if site.owner.instagram %}
+                        <li class="{% if item.url == page.url %}active{% endif %}">
+                            <a href="http://instagram.com/{{ site.owner.instagram }}"><span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                                <i class="fa fa-instagram fa-stack-1x"></i>
+                            </span></a>
+                          </li>
+                        {% endif %}
+                        {% if site.owner.github %}
+                        <li class="{% if item.url == page.url %}active{% endif %}">
+                            <a href="http://github.com/{{ site.owner.github }}"><span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                                <i class="fa fa-github fa-stack-1x"></i>
+                            </span></a>
+                          </li>
+                        {% endif %}
+                        {% if site.owner.facebook %}
+                        <li class="{% if item.url == page.url %}active{% endif %}">
+                            <a href="http://facebook.com/{{ site.owner.facebook }}"><span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                                <i class="fa fa-facebook fa-stack-1x"></i>
+                            </span></a>
+                          </li>
+                        {% endif %}
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>

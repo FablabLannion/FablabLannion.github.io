@@ -1,0 +1,20 @@
+<div class="infos">
+  <div class="infos-box-top">
+
+    {% if site.data.hours %}
+      {% for hour in site.data.hours %}
+        {% if hour.day and hour.hours %}
+        <div class="infos-day"><strong>{{ hour.day }}: </strong>{{ hour.hours }}</div>
+      {% endif %}
+      {% endfor %}
+    {% endif %}
+
+    <div class="infos-day">À la demande, avec la présence d’un FabManager</div>
+  </div>
+    {% if include.show_buttons %}
+      <div class="infos-box-bottom">
+        <a href="{{ '/horaires-et-acces/#tarifs-2023' | relative_url }}" class="button">Tarifs</a>
+        <a href="{{ '/horaires-et-acces/#contacts' | relative_url }}" class="button">Contact</a>
+      </div>
+    {% endif %}
+</div>

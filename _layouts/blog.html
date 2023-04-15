@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    {% include head.html %}
+</head>
+
+<body class="home-template" itemscope itemtype="http://schema.org/WebPage">
+    <div class="post-template">
+        {% include header.html %}
+    </div>
+
+
+    <main class="notepad-content" role="main">
+
+        {{ content }}
+    </main>
+    {% include footer.html %}
+
+    {% include scripts.html %}
+</body>
+
+</html>

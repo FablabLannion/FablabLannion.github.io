@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {% include head.html %}
+</head>
+
+<body class='page {{layout.bodyClass}}'>
+
+    {% include home/main-menu-mobile-home.html %}
+    <div id="wrapper" class="wrapper">
+      {% include home/header-home.html headerClass='header-extra' %}
+            {{content}}
+        </div>
+        {% include home/footer-home.html %}
+
+    <script type="text/javascript" src="{{ '/assets/js/scripts-home.js' | relative_url }}"></script>
+    {% include scripts.html %}
+</body>
+
+</html>
