@@ -1,5 +1,5 @@
 ---
-author: Florian
+author: florian
 tags: []
 layout: post
 slug: programmation-septembre-2023
