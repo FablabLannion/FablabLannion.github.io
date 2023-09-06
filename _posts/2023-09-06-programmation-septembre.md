@@ -3,7 +3,7 @@ author: florian
 tags: []
 layout: post
 slug: programmation-septembre-2023
-date: 2023/09/06
+date: 2023-09-06
 title: "Planning de Septembre 2023"
 comments: True
 ---
