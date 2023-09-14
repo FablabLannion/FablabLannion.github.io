@@ -6,6 +6,10 @@
     {
         "day": "Vendredi",
         "hours": "9h - 12h30, 14h - 17h"
+    },
+    {
+        "day": "1er et 3ème Samedi du mois",
+        "hours": "9h - 13h"
     }
   ]
   
