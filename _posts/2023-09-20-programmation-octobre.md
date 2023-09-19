@@ -67,9 +67,10 @@ Les **places** sont **limitées**. Ne tardez pas à vous inscrire !
 <img src="{{ site.static_url }}/icone-horloge.png" alt="Icone d'horloge" />
 </figure> 
 <div align="center">
-<h2>Horaires d'été</h2>
+<h2>**NOUVEAUX CRENEAUX**</h2>
 
-<p>Bonne rentrée à tous! </p>
+<p>Nous sommes désormais ouverts les 1ers et 3èmes Samedis du mois de 9h à 13h!</p>
+<p>Le 7 Octobre, fermeture exceptionnelle, retrouvez nous à la Fête de la Science aux Ursulines, Lannion </p>
 <p><b>Suivez nous sur les réseaux sociaux pour être avertis en cas de fermeture exceptionnelle (<a href="https://www.facebook.com/fablablannion">Facebook</a>, <a href="https://twitter.com/notifications">Twitter</a>)</b></p>
 </div>
 
