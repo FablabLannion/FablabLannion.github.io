@@ -46,7 +46,7 @@ Par Max (ATELIER)
 Venez réaliser un t-shirt floqué en découvrant la découpeuse vinyle et la presse à chaud! (prévoir un t-shirt en coton)
 Par Florian  (ATELIER)
 
-<span style="color: #B1B714">SAMEDI 23 OCTOBRE 14H à 17H</span>
+<span style="color: #B1B714">SAMEDI 21 OCTOBRE 14H à 17H</span>
 --------
 **CONCEPTION 3D FREECAD**
 
@@ -74,5 +74,5 @@ Les **places** sont **limitées**. Ne tardez pas à vous inscrire !
 </div>
 
 <figure>
-	<a href="{{ site.static_url }}/ProgFabLSept2023.png"><img src="{{ site.static_url }}/ProgFabLSept2023.png" alt="Affiche du programme de Septembre"></a>
+	<a href="{{ site.static_url }}/ProgFabLSept2023.png"><img src="{{ site.static_url }}/ateliers_octobre_fab.png" alt="Affiche du programme de Septembre"></a>
 </figure>
