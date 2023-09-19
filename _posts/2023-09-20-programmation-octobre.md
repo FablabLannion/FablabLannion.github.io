@@ -67,7 +67,7 @@ Les **places** sont **limitées**. Ne tardez pas à vous inscrire !
 <img src="{{ site.static_url }}/icone-horloge.png" alt="Icone d'horloge" />
 </figure> 
 <div align="center">
-<h2>**NOUVEAUX CRENEAUX**</h2>
+<h2>NOUVEAUX CRENEAUX</h2>
 
 <p>Nous sommes désormais ouverts les 1ers et 3èmes Samedis du mois de 9h à 13h!</p>
 <p>Le 7 Octobre, fermeture exceptionnelle, retrouvez nous à la Fête de la Science aux Ursulines, Lannion </p>
