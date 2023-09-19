@@ -74,5 +74,5 @@ Les **places** sont **limitées**. Ne tardez pas à vous inscrire !
 </div>
 
 <figure>
-	<a href="{{ site.static_url }}/ProgFabLSept2023.png"><img src="{{ site.static_url }}/ateliers_octobre_fab.png" alt="Affiche du programme de Septembre"></a>
+	<a href="{{ site.static_url }}/ProgFabLSept2023.png"><img src="{{ site.static_url }}/ateliers_octobre_fab.png" alt="Affiche du programme d'Octobre"></a>
 </figure>
