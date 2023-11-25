@@ -89,5 +89,5 @@ Les **places** sont **limitées**. Ne tardez pas à vous inscrire !
 </div>
 
 <figure>
-	<a href="{{ site.static_url }}/prog_novembre_2023.jpgg"><img src="{{ site.static_url }}/prog_novembre_2023.jpg" alt="Affiche du programme de Novembre"></a>
+	<a href="{{ site.static_url }}/progDécembre2023.png"><img src="{{ site.static_url }}/progDécembre2023.png" alt="Affiche du programme de Décembre"></a>
 </figure>
