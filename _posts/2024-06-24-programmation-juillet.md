@@ -3,7 +3,7 @@ author: florian
 tags: []
 layout: post
 slug: programmation-Juillet-2024
-date: 2024-06-25
+date: 2024-06-24
 title: "Planning de Juillet 2024"
 comments: True
 ---
