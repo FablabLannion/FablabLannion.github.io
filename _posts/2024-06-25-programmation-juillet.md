@@ -12,7 +12,7 @@ Voici la programmation de Juillet!
 
 <span style="color: #B1B714">DIMANCHE 30 JUIN ET 7 JUILLET DE 9H A 18H</span> 
 --------
-**Atelier DemocratieYourSelf ! **
+**Atelier DemocratieYourSelf !**
 
 
 <span style="color: #B1B714">MERCREDI 10 JUILLET DE 18H A 20H</span> 
