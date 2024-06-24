@@ -10,10 +10,15 @@ comments: True
 Voici la programmation de Juillet!
 ========
 
+<span style="color: #B1B714">DIMANCHE 30 JUIN ET 7 JUILLET DE 9H A 18H</span> 
+--------
+**Atelier DemocratieYourSelf ! **
+
+
 <span style="color: #B1B714">MERCREDI 10 JUILLET DE 18H A 20H</span> 
 --------
 **Atelier Gravure sur verre**
-Venez avec vos verres découvrir la gravure grâce à notre découpeuse laser ! Avec Max 
+Venez avec vos verres découvrir la gravure sur verre grâce à notre découpeuse laser ! Avec Max 
 
 
 <span style="color: #B1B714">MERCREDI 17 JUILLET DE 18H A 20H</span>
