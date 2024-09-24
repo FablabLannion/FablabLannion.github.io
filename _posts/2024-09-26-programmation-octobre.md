@@ -55,11 +55,6 @@ on récupère, on dessoude et on remplit le stock du Fablab ! Avec Florian
 Bois, cuir ou ardoise ? Venez tester, entre copines,
 les découpeuses laser du Fablab! Avec Maïté
 
-<span style="color: #B1B714">MERCREDI 16 OCTOBRE DE 14H A 16H30</span>
---------
-**P’tit soudeur !**
-Découverte de la soudure à l’étain et des composants électronique, 2 heures pour réaliser une créature en composants recyclés ! Avec Florian
-à partir de 9 ans !
 
 <span style="color: #B1B714">MERCREDI 16 OCTOBRE DE 18H A 21H</span>
 --------
@@ -78,6 +73,13 @@ Prérequis => initiation Inkscape
 **dessin 2D et laser !**
 Venez découvrir le logiciel de dessin vectoriel Inkscape, 
 dans le but de réaliser une boite en bois à l’aide de la découpeuse laser! Par Thierry
+
+<span style="color: #B1B714">MERCREDI 23 OCTOBRE DE 14H A 16H30</span>
+--------
+**P’tit soudeur !**
+Découverte de la soudure à l’étain et des composants électroniques, 2 heures pour réaliser une créature en composants recyclés ! Avec Florian
+à partir de 9 ans !
+
 
 <span style="color: #B1B714">MERCREDI 23 OCTOBRE DE 18H A 21H</span>
 --------
