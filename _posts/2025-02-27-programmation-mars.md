@@ -7,10 +7,14 @@ date: 2025-02-27
 title: "Planning de Mars 2025"
 comments: True
 ---
-Voici la programmation de Mars! 
+Voici la programmation de Mars! </a>
 Attention, nous sommes désormais ouverts tous les samedis matin!
 ========
+<figure>
+	<a href="{{ site.static_url }}/mars.png"><img src="{{ site.static_url }}/mars.png" alt="Affiche du programme de Mars 2025!"></a>
+</figure>
 
+**ALT** disponible ici :
 <figure>
 	<a href="{{ site.static_url }}/mars.pdf"><img src="{{ site.static_url }}/mars.pdf" alt="Affiche du programme de Mars 2025!"></a>
 </figure>
