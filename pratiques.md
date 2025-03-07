@@ -148,7 +148,6 @@ Vous pouvez retrouver ces tarifs sur le wiki du FabLab: [Tableau des tarifs d'ut
 |Produit|Prix|Détail|
 |---------|---------|---------|
 |[OORobot en kit](/oorobot)|45,00 €|Le OORobot est à monter par l'utilisateur|
-|Batterie Lithium 18650 recyclée|1,00 €|Sous réserve de disponibilité|
 |[Ecran 15/17" occasion](https://wiki.fablab-lannion.org/index.php?title=Reconditionnement_des_Ordinateurs)|20,00 €|Sous réserve de disponibilité|
 |[Ecran 19/22" occasion](https://wiki.fablab-lannion.org/index.php?title=Reconditionnement_des_Ordinateurs)|30,00 €|Sous réserve de disponibilité|
 |[PC portable reconditionné](https://wiki.fablab-lannion.org/index.php?title=Reconditionnement_des_Ordinateurs)|entre 60€ et 100€|Sous réserve de disponibilité|
