@@ -80,16 +80,18 @@ Ensuite, il y aura un fléchage, en attendant suivez le couloir sur la gauche ju
 
 ![Accès au fablab depuis l'exterieur](images/FJT_Large.png)
 
-Tarifs 2023
+Tarifs 2025
 =============
+
+Vous pouvez retrouver ces tarifs sur le wiki du FabLab: [Tableau des tarifs d'utilisation des équipement](https://wiki.fablab-lannion.org/index.php?title=Tableau_des_tarifs_d%27utilisation_des_%C3%A9quipement).
 
 ## Machines de découpe			
 
 |Prestation|Prix adhérents|Prix Extérieur|Détail|
 |---------|---------|---------|---------|
-|Découpe Laser|5,00 €|10,00 €|Le quart d'heure d'utilisation (*)|
-|Découpe Plasma|5,00 €|10,00 €|Le quart d'heure d'utilisation (*)|
-|Fraiseuse numérique|5,00 €|10,00 €|Le quart d'heure d'utilisation (*)|
+|Découpe Laser|5,50 €|11,00 €|Le quart d'heure d'utilisation (*)|
+|Découpe Plasma|5,50 €|11,00 €|Le quart d'heure d'utilisation (*)|
+|Fraiseuse numérique|5,50 €|11,00 €|Le quart d'heure d'utilisation (*)|
 
 > **Note:** 			
 > Les matériaux doivent être fournis par l'utilisateur<br />
@@ -101,17 +103,20 @@ Tarifs 2023
 
 |Prestation|Prix adhérents|Prix Extérieur|Détail|
 |---------|---------|---------|---------|
-|Brodeuse numérique|5,00 €|10,00 €|Le quart d'heure d'utilisation (*)|
-|Découpeuse vinyle|1,00 €|2,00 €|Le forfait pour une découpe hors coût de la matière|
-|Découpe vinyle autocollant|5,00 €|10,00 €|Le mètre de feuille vinyle|
-|Découpe vinyle Flex (flocage textile)|5,00 €|10,00 €|les 50cm de feuille flex|
-|Impression photo format A2|4,00 €|8,00 €|La feuille|
-|Impression photo format A3|2,00 €|4,00 €|La feuille|
-|Impression photo format A4|1,00 €|2,00 €|La feuille|
-|Impression photo format A5|0,50 €|1,00 €|La feuille|
+|Brodeuse numérique|2,20 €|4,40 €|Le quart d'heure d'utilisation hors stabilisateur (*)|
+|Brodeuse numérique stabilisateur|1,00 €|2,00 €|Les 10cm de stabilisateur (facultatif)|
+|Découpeuse vinyle|1,50 €|3,00 €|Le forfait pour une découpe hors coût de la matière|
+|Découpe vinyle autocollant|6,50 €|13,00 €|Le mètre de feuille vinyle|
+|Découpe vinyle Flex (flocage textile)|5,50 €|11,00 €|les 50cm de feuille flex|
+|Impression photo format A2|7,00 €|14,00 €|La feuille|
+|Impression photo format A3|4,50 €|9,00 €|La feuille|
+|Impression photo format A4|2,50 €|5,00 €|La feuille|
+|Impression photo format A5|1,50 €|3,00 €|La feuille|
 
-> **Note:**	
-> Une presse à chaud est à disposition pour le flocage textile.
+> **Notes:**
+>	
+> * Une presse à chaud est à disposition pour le flocage textile.
+> * Impression Photos: le papier (glossy ou semi glossy) est fourni
 > 
 >(*) Toute période entamée est due			
 
@@ -119,12 +124,13 @@ Tarifs 2023
 
 |Prestation|Prix adhérents|Prix Extérieur|Détail|
 |---------|---------|---------|---------|
-|Impression 3D filament|1,00 €|2,00 €|Forfait pour une impression hors coût de la matière|
-|Impression 3D résine|1,00 €|2,00 €|Forfait pour une impression hors coût de la matière|
-|Filament (ABS/PLA)|0,10 €|0,20 €|Le gramme de matière|
-|Résine|0,10 €|0,20 €|Le gramme de matière|
-|Termoformage|1,00 €|2,00 €|La feuille de 0.5mm d'épaisseur|
-|Termoformage|4,00 €|8,00 €|La feuille de 1,5mm d'épaisseur|
+|Impression 3D filament|1,20 €|2,40 €|Forfait pour une impression hors coût de la matière|
+|Impression 3D résine|1,50 €|3,00 €|Forfait pour une impression hors coût de la matière|
+|Filament (ABS/PLA)|0,12 €|0,24 €|Le gramme de matière|
+|Résine|0,20 €|0,40 €|Le gramme de matière|
+|Thermoformage|1,00 €|2,00 €|La feuille de 0.5mm d'épaisseur|
+|Thermoformage|4,00 €|8,00 €|La feuille de 1,5mm d'épaisseur|
+|Thermoformage|4,00 €|8,00 €|La feuille de PETG certifié contact alimentaire de 1mm d'épaisseur|
 
 > **Note:**
 > Lors d'une impression, le tarif final se calcule en additionnant le coût de l'impression forfaitaire avec la quantité de matière utilisée (la pièce est pesée à la suite de l'impression)			
@@ -133,24 +139,24 @@ Tarifs 2023
 
 |Type|Prix|Détail|
 |---------|---------|---------|
-|Adhésion plein tarif|30,00 €|Adhésion a l'année civile|
+|Adhésion plein tarif|35,00 €|Adhésion a l'année civile|
 |Adhésion tarif social|10,00 €|Adhésion a l'année civile sur présentation de pièces justificative|
-|Adhésion personne morale|30,00 €|Adhésion à l'année civile|
+|Adhésion personne morale|35,00 €|Adhésion à l'année civile|
 	
 ## Vente d'objets			
 
 |Produit|Prix|Détail|
 |---------|---------|---------|
 |[OORobot en kit](/oorobot)|45,00 €|Le OORobot est à monter par l'utilisateur|
-|Matériel et outillage electronique|20,00 €|Oscilloscope, multimètre, etc.  sous réserve de disponibilité|
-|Ecran 15/17" occasion|20,00 €|Sous réserve de disponibilité|
-|Ecran 19/22" occasion|30,00 €|Sous réserve de disponibilité|
-|PC portable reconditionné|60,00 €|Sous réserve de disponibilité|
-|PC de bureau reconditionné|40,00 €|Sous réserve de disponibilité|
+|Batterie Lithium 18650 recyclée|1,00 €|Sous réserve de disponibilité|
+|[Ecran 15/17" occasion](https://wiki.fablab-lannion.org/index.php?title=Reconditionnement_des_Ordinateurs)|20,00 €|Sous réserve de disponibilité|
+|[Ecran 19/22" occasion](https://wiki.fablab-lannion.org/index.php?title=Reconditionnement_des_Ordinateurs)|30,00 €|Sous réserve de disponibilité|
+|[PC portable reconditionné](https://wiki.fablab-lannion.org/index.php?title=Reconditionnement_des_Ordinateurs)|entre 60€ et 100€|Sous réserve de disponibilité|
+|[PC de bureau reconditionné](https://wiki.fablab-lannion.org/index.php?title=Reconditionnement_des_Ordinateurs)|40,00 €|Sous réserve de disponibilité|
 		
 ## Services			
 
 |Prestation|Prix|Détail|
 |---------|---------|---------|
 |Location de borne d'arcade|25,00 €|Location à la semaine|
-|Montage de [OORobot](/oorobot)|35,00 €||
+|Montage de [OORobot](/oorobot)|40,00 €||
