@@ -46,8 +46,7 @@ des projets.
 Si vous passez par Lannion et que vous êtes passionné de technologies,
 n'hésitez pas à visiter le FabLab Lannion vous trouverez beaucoup de
 passionnés comme vous, beaucoup de beaux projets. Vous pouvez trouver la liste
-des projets documentés sur le site du Fablab Lannion : <http://fablab-
-lannion.org/> et si vous voulez contribuer à un projet, faites-en simplement
+des projets documentés sur le site du Fablab Lannion : <{{ site.url }}/> et si vous voulez contribuer à un projet, faites-en simplement
 la demande depuis le site.
 
 Je souhaite longue vie au Fablab de Lannion, je sais qu'il en sortira de très

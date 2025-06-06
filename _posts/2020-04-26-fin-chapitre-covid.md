@@ -2,7 +2,7 @@
 author: david
 tags: association
 layout: post
-imagefeature: http://www.fablab-lannion.org/images/covid19/3dverkstan_europe-iso838-2.jpeg
+imagefeature: https://www.fablab-lannion.org/images/covid19/3dverkstan_europe-iso838-2.jpeg
 slug: COVIDFinChapitre
 date: 2020-04-26
 title: "Fin d'un chapitre #Covid19"
@@ -25,7 +25,7 @@ Fréderic C. a publié un modèle de serre-tête flexible sur sa chaîne
 [Youtube](https://www.youtube.com/watch?v=Dc9mKZUixy8) et a commencé à en
 fabriquer, puis à les distribuer au personnel médical proche de lui. Ensuite
 Philippe C. a lancé le sujet sur le [Forum du
-Fablab](http://forum.fablab-lannion.org/viewtopic.php?f=5&t=1010) ainsi que la
+Fablab](https://forum.fablab-lannion.org/viewtopic.php?f=5&t=1010) ainsi que la
 production sur son imprimante 3D; Fredérique P. qui a rédigé son appel "A vos
 imprimantes !" du 28 mars...
 
@@ -42,8 +42,8 @@ réseaux sociaux, la gestion de la collecte, les demandes d'autorisations, la
 gestion de la croissance du mouvement...
 
 Une fois les choses mises en place pour le milieu médical, de nouvelles structures nous ont contactés;
-[Lannion Coeur de Ville](http://www.lannion-shopping.com/)
-et [Anticipa](http://www.technopole-anticipa.com/)
+[Lannion Coeur de Ville](https://www.lannion-shopping.com/)
+et [Anticipa](https://www.technopole-anticipa.com/)
  se sont joints à nous pour que les
 besoins des commerçants et des entreprises encore ouverts soient pris en
 compte.
@@ -65,7 +65,7 @@ aux nouveaux besoins: la protection de la population pour le prochain
 dé-confinement. C'est pourquoi, nos partenaires et nous, avons fait le choix de
 rediriger toutes les nouvelles demandes vers cette offre de la CCI:
 
-[http://visieres.cotesdarmor.cci.fr/](http://visieres.cotesdarmor.cci.fr/)
+[https://visieres.cotesdarmor.cci.fr/](https://visieres.cotesdarmor.cci.fr/)
 
 Nous allons donc maintenant réaliser nos derniers serre-têtes, coudre nos
 derniers masques, les distribuer et laisser refroidir nos machines. Viendra

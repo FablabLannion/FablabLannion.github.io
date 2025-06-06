@@ -8,7 +8,7 @@ title: "Venez assister à une démonstration de découpeuse laser"
 comments: True
 ---
 [message_box type="info" icon="yes"]**Le fablab de Lannion organise [dans ses
-locaux](http://fablab-lannion.org/contact/) une démonstration de découpeuse
+locaux]({{ site.url }}/contact/) une démonstration de découpeuse
 laser, le 1er juillet 2013 de 12h à 14h. Cette démonstration est ouverte au
 public en général, et tout particulièrement aux associations et entreprises
 locales. Si vous souhaitez pouvoir accéder à une découpeuse laser, faites-nous
@@ -48,7 +48,7 @@ bois…), la réalisation de maquettes, de la mécanique, etc.
 
   
 [styled_image w="252″ h="192″ lightbox="no"
-image="http://www.troteclaser.com/fr-FR/Machines-
+image="https://www.troteclaser.com/fr-FR/Machines-
 Laser/Compact/SlideshowSpeedy100/Speedy100-machine-laser.jpg"]
 
   
@@ -57,7 +57,7 @@ Laser/Compact/SlideshowSpeedy100/Speedy100-machine-laser.jpg"]
 ## Contenu de la démonstration
 
 La démonstration portera sur une machine de découpe laser [Trotec Speedy 100R,
-équipée d'un tube de découpe de 60W](http://www.trotec.net/020+Products/_fr-
+équipée d'un tube de découpe de 60W](https://www.trotec.net/020+Products/_fr-
 FR/_050+Speedy+100.htm), permettant la découpe dans des épaisseurs allant
 jusqu'à 1cm dans différents types de matériaux (panneaux de bois, MDF,
 plexiglas, tissu, cuir…), et permettant notamment d'envisager, avec le même

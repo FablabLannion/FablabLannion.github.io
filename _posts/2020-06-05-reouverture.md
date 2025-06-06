@@ -22,4 +22,4 @@ Néanmoins, nous vous demanderons de respecter les consignes de sécurité suiva
 Au plaisir de vous revoir bientôt !
 
 
-![RestezPrudents](http://www.fablab-lannion.org/images/posts/Bannière-Deconfinement.jpg)
+![RestezPrudents](https://www.fablab-lannion.org/images/posts/Bannière-Deconfinement.jpg)

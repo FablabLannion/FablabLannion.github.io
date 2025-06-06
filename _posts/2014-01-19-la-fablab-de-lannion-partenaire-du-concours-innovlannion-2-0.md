@@ -50,7 +50,7 @@ conseils.
 
 Pour s'inscrire au concours, il faut se faire connaître:
 
-  * sur le site de la ville (http://www.ville-lannion.fr/page_multimedia_InnovaLannion.html) vous y trouverez aussi des liens utiles pour demander des données publiques et/ou connaître les gagnants de l'an passé
+  * sur le site de la ville (https://www.ville-lannion.fr/page_multimedia_InnovaLannion.html) vous y trouverez aussi des liens utiles pour demander des données publiques et/ou connaître les gagnants de l'an passé
   * sur la page facebook (https://www.facebook.com/pages/Innov-A-Lannion/443077515794238).
 
 Le fablab compte capitaliser sur les projets en cours (Data+, appel à projet
@@ -60,9 +60,9 @@ Bonne chance à tous!
 
 quelques liens:
 
-  * LTC: http://www.lannion-tregor.com/Actualites.html?wpid=38414
-  * Le télégramme (abonnés): http://www.letelegramme.fr/local/cotes-d-armor/lannion-paimpol/ville/concours-innov-lannion-des-applis-pour-faciliter-la-vie-17-01-2014-2370889.php?xtmc=innov[@lannion](http://fablab-lannion.org/membres/twitter_fablablannion/)&amp;xtcr=1
-  * Ouest France: http://www.entreprises.ouest-france.fr/node/124567
-  * Blog ENSSAT: http://blog.enssat.fr/2014/01/concours-innovlannion-2e-edition.html
+  * LTC: https://www.lannion-tregor.com/Actualites.html?wpid=38414
+  * Le télégramme (abonnés): https://www.letelegramme.fr/local/cotes-d-armor/lannion-paimpol/ville/concours-innov-lannion-des-applis-pour-faciliter-la-vie-17-01-2014-2370889.php?xtmc=innov[@lannion]({{ site.url }}/membres/twitter_fablablannion/)&amp;xtcr=1
+  * Ouest France: https://www.entreprises.ouest-france.fr/node/124567
+  * Blog ENSSAT: https://blog.enssat.fr/2014/01/concours-innovlannion-2e-edition.html
 
 

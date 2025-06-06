@@ -2,7 +2,7 @@
 author: thierry
 tags: association
 layout: post
-imagefeature: http://static.fablab-lannion.org/open.png
+imagefeature: https://static.fablab-lannion.org/open.png
 slug: Créneaux
 date: 2020-02-06
 title: "Ouverture le Vendredi Matin"
@@ -24,4 +24,4 @@ Bien sûr l'atelier ouvert du Mercredi (à partir de 18h) continuera à accueill
 
 Et pour ceux qui seraient tentés d'animer un créneau, une formation [Fabmanager accueil](https://wiki.fablab-lannion.org/index.php?title=FormationAccueil) va bientôt commencer. Manifestez-vous !
 
-La page [accès](http://www.fablab-lannion.org/horaires-et-acces/) a été mise à jour.
+La page [accès](https://www.fablab-lannion.org/horaires-et-acces/) a été mise à jour.

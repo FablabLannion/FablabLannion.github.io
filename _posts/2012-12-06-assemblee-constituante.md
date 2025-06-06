@@ -20,14 +20,13 @@ démarche.
 L'association est maintenant bien née (la déclaration officielle est en cours)
 et prête à passer à la vitesse supérieure 🙂
 
-Vous pouvez toujours nous [rejoindre](http://fablab-lannion.org/contact/
+Vous pouvez toujours nous [rejoindre]({{ site.url }}/contact/
 "Contact" ) pour participer à cette belle aventure qui s'annonce ! Prochaine
 réunion, lundi 10/12 à l'ADIT.
 
 Le CA/bureau élu est composé de:
 
-[![](https://static.fablab-lannion.org/FABLAB2-300x200.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2012/12/FABLAB2.jpg)
+[![](https://static.fablab-lannion.org/FABLAB2-300x200.jpg)]({{ site.url }}/wp-content/uploads/2012/12/FABLAB2.jpg)
 
 Photo de "Le Telegramme"
 
@@ -43,7 +42,7 @@ Photo de "Le Telegramme"
   * Théophile Paimparay (Vice-président)
   * Morgan Richomme
 
-Et les [statuts définitifs](http://fablab-lannion.org/docs/statuts-2/
+Et les [statuts définitifs]({{ site.url }}/docs/statuts-2/
 "Statuts" ) sont accessibles.
 
 

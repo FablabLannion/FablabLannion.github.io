@@ -17,17 +17,17 @@ Les curieux et les curieuses de tous ages et de tous horizons se sont succédés
 
 Les ateliers initialement prévus (électronique, découpe, broderie,..) n'ont pas pu avoir lieu du fait de l'affluence, chaque bénévole devant gérer un flux continu de nouveaux visiteurs.
 
-Il n'en reste pas moins qu'une centaine de personnes a pu découvrir notre nouvel écrin: la salle de travail ainsi que les multiples machines (imprimantes 3D, découpeuses Laser, découpeuse plasma, thermoformeuse, brodeuse numérique, machines à coudre, surjeteuse, découpeuse vinyle, imprimante A3, presse à chaud, ..) qui font du fablab de Lannion, premier fablab historique des côtes d'armor (2012), un fablab noté AAAB selon les [critères du MIT](http://wiki.fablab.is/wiki/Fab_Lab_conformity_rating), une classification plus qu'honorable.
+Il n'en reste pas moins qu'une centaine de personnes a pu découvrir notre nouvel écrin: la salle de travail ainsi que les multiples machines (imprimantes 3D, découpeuses Laser, découpeuse plasma, thermoformeuse, brodeuse numérique, machines à coudre, surjeteuse, découpeuse vinyle, imprimante A3, presse à chaud, ..) qui font du fablab de Lannion, premier fablab historique des côtes d'armor (2012), un fablab noté AAAB selon les [critères du MIT](https://wiki.fablab.is/wiki/Fab_Lab_conformity_rating), une classification plus qu'honorable.
 
-![photo1](http://www.fablab-lannion.org/images/posts/fablab_po2.jpg)
-![photo2](http://www.fablab-lannion.org/images/posts/fablab_po3.jpg)
+![photo1](https://www.fablab-lannion.org/images/posts/fablab_po2.jpg)
+![photo2](https://www.fablab-lannion.org/images/posts/fablab_po3.jpg)
 
 Le fablab se positionne ainsi plus que jamais comme un lieu de rencontres et d'échanges ouverts à tous, artistes, techniciens, inventeurs ou rêveurs.
 Nos nouveaux locaux chaleureux et idéalement placés devraient nous permettre d'accomplir notre mission d'éducation populaire et scientifique dans d'excellentes conditions.
 
 La journée s'est achevée par un pot de bienvenue au pixie, le bar associatif bien connu, m'est avis que ce n'est pas le dernier.
 
-![photo3](http://www.fablab-lannion.org/images/posts/fablab_po1.jpg)
+![photo3](https://www.fablab-lannion.org/images/posts/fablab_po1.jpg)
 
 La prochaine animation est prévue début décembre avec l'atelier du père Noël, restez à l'écoute...
 

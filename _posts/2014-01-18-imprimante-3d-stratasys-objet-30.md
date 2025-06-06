@@ -8,14 +8,12 @@ date: 2014-01-18
 title: "Imprimante 3D : Stratasys Objet 30"
 comments: True
 ---
-[![](http://fablab-
-lannion.org/wiki/images/thumb/6/62/20140116_182302.jpg/90px-20140116_182302.jpg)](http://fablab-
-lannion.org/wiki/images/thumb/6/62/20140116_182302.jpg/450px-20140116_182302.jpg)Dans
-le cadre de notre partenariat avec le [Lycée Le Dantec](http://www.lycee-
+[![]({{ site.url }}/wiki/images/thumb/6/62/20140116_182302.jpg/90px-20140116_182302.jpg)]({{ site.url }}/wiki/images/thumb/6/62/20140116_182302.jpg/450px-20140116_182302.jpg)Dans
+le cadre de notre partenariat avec le [Lycée Le Dantec](https://www.lycee-
 ledantec.ac-rennes.fr/), nous avons accès à un certain nombre de leurs
 machines. Parmi celles-ci, se trouve une imprimante 3D de qualité
 professionnelle : la [Stratasys Objet
-30](http://www.stratasys.com/fr/imprimantes-3d/design-
+30](https://www.stratasys.com/fr/imprimantes-3d/design-
 series/precision/objet30-pro).
 
 Il s'agit d'une imprimante à résine bi-matière. Citons quelque-unes de ses
@@ -27,20 +25,16 @@ spécifications :
 
 Pour vous mettre l'eau à la bouche, voici quelques objets réalisés avec :
 
-[![objets](http://fablab-lannion.org/wiki/images/thumb/2/21/Obj1.jpg/120px-
-Obj1.jpg)](http://fablab-
-lannion.org/wiki/images/2/21/Obj1.jpg)[![objets](http://fablab-
-lannion.org/wiki/images/thumb/8/86/Obj2.jpg/120px-Obj2.jpg)](http://fablab-
-lannion.org/wiki/images/8/86/Obj2.jpg)
+[![objets]({{ site.url }}/wiki/images/thumb/2/21/Obj1.jpg/120px-
+Obj1.jpg)]({{ site.url }}/wiki/images/2/21/Obj1.jpg)[![objets]({{ site.url }}/wiki/images/thumb/8/86/Obj2.jpg/120px-Obj2.jpg)]({{ site.url }}/wiki/images/8/86/Obj2.jpg)
 
 Autre spécificité, elle est capable d'imprimer (grâce à sa matière support)
 des mécanismes complexes. Vous vous souvenez peut-être de la fameuse clef à
 molette qui nous avait tant impressionnés lors de notre [première visite au
-Lycée](http://fablab-lannion.org/2013/01/visite-du-lycee-le-dantec/ "Visite du
+Lycée]({{ site.url }}/2013/01/visite-du-lycee-le-dantec/ "Visite du
 Lycée Le Dantec" )
 
-[![SAMSUNG](https://static.fablab-lannion.org/LD10-150x150.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2013/01/LD10.jpg)
+[![SAMSUNG](https://static.fablab-lannion.org/LD10-150x150.jpg)]({{ site.url }}/wp-content/uploads/2013/01/LD10.jpg)
 
 Comme préalable, était la formation obligatoire des Fabmanagers. C'est
 maintenant chose faite ! Depuis jeudi soir, nous avons donc la capacité de
@@ -56,17 +50,10 @@ l'ajoutera au prochain batch. Avant de lancer une impression, vous serez
 invités via le forum à donner les modèles à imprimer pour qu'ils soient
 ajoutés.
 
-Les Fabmanagers formés sont : [@yann](http://fablab-
-lannion.org/membres/yann/), [@david.blaisonneau](http://fablab-
-lannion.org/membres/david.blaisonneau/), [@pofexpray](http://fablab-
-lannion.org/membres/pofexpray/), [@jerome](http://fablab-
-lannion.org/membres/jerome/), [@theo](http://fablab-
-lannion.org/membres/theo/), [@steph](http://fablab-
-lannion.org/membres/fanosteph/) et [@yvon](http://fablab-
-lannion.org/membres/yvon/)
+Les Fabmanagers formés sont : [@yann]({{ site.url }}/membres/yann/), [@david.blaisonneau]({{ site.url }}/membres/david.blaisonneau/), [@pofexpray]({{ site.url }}/membres/pofexpray/), [@jerome]({{ site.url }}/membres/jerome/), [@theo]({{ site.url }}/membres/theo/), [@steph]({{ site.url }}/membres/fanosteph/) et [@yvon]({{ site.url }}/membres/yvon/)
 
 Enfin, sa page est en cours de réalisation sur le wiki, vous y trouverez sous-
 peu la marche à suivre pour faire [imprimer vos objets en haute
-qualité](http://fablab-lannion.org/wiki/index.php?title=Objet30).
+qualité]({{ site.url }}/wiki/index.php?title=Objet30).
 
 

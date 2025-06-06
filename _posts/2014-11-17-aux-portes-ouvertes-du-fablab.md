@@ -31,14 +31,14 @@ aussi connu pour son système mécanique de pesée grâce à des pompotes ou son
 presse-agrumes intégré dans le verre.
 
 A défaut de bouclier - la Charly Robot ayant connu un petit soucis- un atelier
-[scratch ](http://scratch.mit.edu/)a permis d'initier les plus jeunes à
+[scratch ](https://scratch.mit.edu/)a permis d'initier les plus jeunes à
 l'informatique. Il a même été possible d'interfacer un jeu créé lors de
 l'après midi au clavier banane des petits débrouillards, souvenirs garantis.
 
   
 [scratch avec joystick
-banane](http://www.dailymotion.com/video/x2ag9hz_scratch-avec-joystick-
-banane_webcam) _par [fablab-lannion](http://www.dailymotion.com/fablab-
+banane](https://www.dailymotion.com/video/x2ag9hz_scratch-avec-joystick-
+banane_webcam) _par [fablab-lannion](https://www.dailymotion.com/fablab-
 lannion)_
 
 La journée a surtout permis d'échanger - y compris en Breton dans le texte

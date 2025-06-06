@@ -50,4 +50,4 @@ Un grand merci à la French Tech pour les rafraîchissements et les pizzas.
 
 Rendez-vous en Mai pour la quatrième édition, avis aux amateurs
 
-[Adonnantes sur le wiki](http://wiki.fablab-lannion.org/index.php?title=Adonnantes_3)
+[Adonnantes sur le wiki](https://wiki.fablab-lannion.org/index.php?title=Adonnantes_3)

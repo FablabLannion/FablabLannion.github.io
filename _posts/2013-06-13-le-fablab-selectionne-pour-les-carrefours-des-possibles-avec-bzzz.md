@@ -12,7 +12,7 @@ L[![Screenshot from 2013-06-13
 17:17:59](https://static.fablab-lannion.org/Screenshot-
 from-2013-06-13-171759.png)](https://static.fablab-lannion.org/Screenshot-
 from-2013-06-13-171759.png)a FING organise depuis 9 ans les carrefours des
-possibles en Bretagne (<http://fing.org/?-Bretagne->), rendez-vous des acteurs
+possibles en Bretagne (<https://fing.org/?-Bretagne->), rendez-vous des acteurs
 de l'innovation de la région.
 
 Des carrefours sont organisés un peu partout en France, en Europe et en

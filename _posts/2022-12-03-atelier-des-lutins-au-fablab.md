@@ -25,4 +25,4 @@ Les **places** sont **limitées**. Ne tardez pas à vous inscrire !
 
 L'équipe du Fablab
 
-Note: N'hésitez pas à déssiner vos objets en avance en suivant [le guide](http://wiki.fablab-lannion.org/index.php?title=Chaine_logicielle_pour_d%C3%A9coupeuse_laser) pour réaliser des dessins au format *vectoriel* avec l'outil libre et gratuit [inkscape.](https://inkscape.org/fr/).
+Note: N'hésitez pas à déssiner vos objets en avance en suivant [le guide](https://wiki.fablab-lannion.org/index.php?title=Chaine_logicielle_pour_d%C3%A9coupeuse_laser) pour réaliser des dessins au format *vectoriel* avec l'outil libre et gratuit [inkscape.](https://inkscape.org/fr/).

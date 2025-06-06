@@ -14,14 +14,14 @@ Libre en Fête. L'objectif était de 500 personnes et il fut largement dépassé
 
 
 [Libre en fete en Trégor - 2016 - Timelapse
-du…](http://www.dailymotion.com/video/x40fpm0_libre-en-fete-en-
+du…](https://www.dailymotion.com/video/x40fpm0_libre-en-fete-en-
 tregor-2016-timelapse-du-montage-des-stands_news) _par [fablab-
-lannion](http://www.dailymotion.com/fablab-lannion)_
+lannion](https://www.dailymotion.com/fablab-lannion)_
 
 Ateliers, conférences, démos, partages de 5 à 105 ans. Il y en avait pour tout
 le monde et pour tous les domaines.
 
-Le Fablab était parmi les [organisateurs](http://libre-en-fete-
+Le Fablab était parmi les [organisateurs](https://libre-en-fete-
 tregor.fr/partenaires) de cet événement qui a réunit le monde numérique
 trégorrois et au-delà. Très présent dès le début, le Fablab a pris en charge
 une grosse partie de l'organisation.
@@ -39,41 +39,33 @@ logiciel libre et ses usages.
 la shaepoko qui dessine de mieux en mieux et les fameuses bornes d'arcade ont
 ravi petits et grands.
 
-[![upload_-1](https://static.fablab-lannion.org/upload_-1-150x150.jpg)](http://fablab-
-lannion.org/2016/03/libre-en-fete-2016-un-vrai-succes-populaire/upload_-1-7/)
+[![upload_-1](https://static.fablab-lannion.org/upload_-1-150x150.jpg)]({{ site.url }}/2016/03/libre-en-fete-2016-un-vrai-succes-populaire/upload_-1-7/)
 
 [![upload_-1
-\(3\)](https://static.fablab-lannion.org/upload_-1-3-150x150.jpg)](http://fablab-
-lannion.org/2016/03/libre-en-fete-2016-un-vrai-succes-
+\(3\)](https://static.fablab-lannion.org/upload_-1-3-150x150.jpg)]({{ site.url }}/2016/03/libre-en-fete-2016-un-vrai-succes-
 populaire/upload_-1-3-2/)
 
 [![upload_-1
-\(5\)](https://static.fablab-lannion.org/upload_-1-5-150x150.jpg)](http://fablab-
-lannion.org/2016/03/libre-en-fete-2016-un-vrai-succes-populaire/upload_-1-5/)
+\(5\)](https://static.fablab-lannion.org/upload_-1-5-150x150.jpg)]({{ site.url }}/2016/03/libre-en-fete-2016-un-vrai-succes-populaire/upload_-1-5/)
 
   
 
 [![upload_-1
-\(6\)](https://static.fablab-lannion.org/upload_-1-6-150x150.jpg)](http://fablab-
-lannion.org/2016/03/libre-en-fete-2016-un-vrai-succes-populaire/upload_-1-6/)
+\(6\)](https://static.fablab-lannion.org/upload_-1-6-150x150.jpg)]({{ site.url }}/2016/03/libre-en-fete-2016-un-vrai-succes-populaire/upload_-1-6/)
 
 [![upload_-1
-\(10\)](https://static.fablab-lannion.org/upload_-1-10-150x150.jpg)](http://fablab-
-lannion.org/2016/03/libre-en-fete-2016-un-vrai-succes-populaire/upload_-1-10/)
+\(10\)](https://static.fablab-lannion.org/upload_-1-10-150x150.jpg)]({{ site.url }}/2016/03/libre-en-fete-2016-un-vrai-succes-populaire/upload_-1-10/)
 
 [![upload_-1
-\(11\)](https://static.fablab-lannion.org/upload_-1-11-150x150.jpg)](http://fablab-
-lannion.org/2016/03/libre-en-fete-2016-un-vrai-succes-populaire/upload_-1-11/)
+\(11\)](https://static.fablab-lannion.org/upload_-1-11-150x150.jpg)]({{ site.url }}/2016/03/libre-en-fete-2016-un-vrai-succes-populaire/upload_-1-11/)
 
   
 
 [![upload_-1
-\(12\)](https://static.fablab-lannion.org/upload_-1-12-150x150.jpg)](http://fablab-
-lannion.org/2016/03/libre-en-fete-2016-un-vrai-succes-populaire/upload_-1-12/)
+\(12\)](https://static.fablab-lannion.org/upload_-1-12-150x150.jpg)]({{ site.url }}/2016/03/libre-en-fete-2016-un-vrai-succes-populaire/upload_-1-12/)
 
 [![upload_-1
-\(16\)](https://static.fablab-lannion.org/upload_-1-16-150x150.jpg)](http://fablab-
-lannion.org/2016/03/libre-en-fete-2016-un-vrai-succes-populaire/upload_-1-16/)
+\(16\)](https://static.fablab-lannion.org/upload_-1-16-150x150.jpg)]({{ site.url }}/2016/03/libre-en-fete-2016-un-vrai-succes-populaire/upload_-1-16/)
 
   
 
@@ -85,12 +77,11 @@ pure tradition côté ENSSAT.
 L'espace conférence a aussi attiré du public tout au long de la journée et de
 nombreux sujet en rapport avec nos vies numériques ont été abordés.
 
-Les articles autour de cet événement sont visibles [ici](http://fablab-
-lannion.org/wiki/index.php?title=Revue_de_presse).
+Les articles autour de cet événement sont visibles [ici]({{ site.url }}/wiki/index.php?title=Revue_de_presse).
 
 Merci à Morgan qui a coordonné les nombreux participants à cette journée.
 
-Merci à Stan, Lise, Katell, Camille et Claire de l'[IUT](http://www.iut-
+Merci à Stan, Lise, Katell, Camille et Claire de l'[IUT](https://www.iut-
 lannion.fr/) qui ont pris en charge et conçus les supports de communication.
 
 Merci à la centaine de bénévoles qui ont permis a cette journée d'être aussi

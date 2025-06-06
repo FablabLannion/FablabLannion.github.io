@@ -12,8 +12,7 @@ silhouette longiligne, son allure très west coast avec ses bermudas dès les
 premiers beaux jours, son port de bière un brin nonchalant, ses caisses
 remplies de mille et une idées, ses soudures dont il a le secret.
 
-[![20150701_210743](https://static.fablab-lannion.org/20150701_210743-e1454875219644-1001x1024.jpg)](http://fablab-
-lannion.org/2016/02/portrait-de-maker-anatole-le-geo-trouvetou-du-
+[![20150701_210743](https://static.fablab-lannion.org/20150701_210743-e1454875219644-1001x1024.jpg)]({{ site.url }}/2016/02/portrait-de-maker-anatole-le-geo-trouvetou-du-
 tregor/20150701_210743/)
 
 Du kart au compteur de macareux en passant par le sèche chaussette imprimé 10h
@@ -28,8 +27,7 @@ SketchUp le mercredi 24 février de 19H-23H.
 
 Si vous souhaitez vous initier à la modélisation 3D afin de modéliser puis
 d'imprimer sur nos imprimantes
-3D,[![20150701_212408](https://static.fablab-lannion.org/20150701_212408-1024x576.jpg)](http://fablab-
-lannion.org/2016/02/portrait-de-maker-anatole-le-geo-trouvetou-du-
+3D,[![20150701_212408](https://static.fablab-lannion.org/20150701_212408-1024x576.jpg)]({{ site.url }}/2016/02/portrait-de-maker-anatole-le-geo-trouvetou-du-
 tregor/20150701_212408/) rendez-vous le 24!
 
 Une chose est certaine, il va nous manquer…alors n'hésitez pas à venir suivre

@@ -8,8 +8,7 @@ date: 2015-01-03
 title: "Bientôt l&#8217;Assemblée Générale 2014 !"
 comments: True
 ---
-[![5279081853_64c2e06b14_o\[1\]](https://static.fablab-lannion.org/5279081853_64c2e06b14_o1-300x234.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2014/12/5279081853_64c2e06b14_o1.jpg)
+[![5279081853_64c2e06b14_o\[1\]](https://static.fablab-lannion.org/5279081853_64c2e06b14_o1-300x234.jpg)]({{ site.url }}/wp-content/uploads/2014/12/5279081853_64c2e06b14_o1.jpg)
 
 
 

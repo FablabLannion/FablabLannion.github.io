@@ -13,10 +13,10 @@ Les rencontres du fablab 1ère!
 Suite au dernier forum des associations, il a été décidé de proposer chaque
 premier samedi du mois une rencontre au fablab.
 
-![](http://www.netpublic.fr/wp-content/uploads/2014/06/fablab.jpg)
+![](https://www.netpublic.fr/wp-content/uploads/2014/06/fablab.jpg)
 
 Pour inaugurer cette nouvelle formule, le Fablab propose, avec l'excellente
-association [Code d'Armor](http://codedarmor.fr/), une rencontre autour des
+association [Code d'Armor](https://codedarmor.fr/), une rencontre autour des
 légos le samedi 3 Octobre de 14h à 17h. Fans de légo Mindstorm, légo technique
 ou légo tout court, venez (avec vos légos) passer l'après-midi au fablab pour
 partager votre passion de la petite brique danoise, à l'origine de bien des

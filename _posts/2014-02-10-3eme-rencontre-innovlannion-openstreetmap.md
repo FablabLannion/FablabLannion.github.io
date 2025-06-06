@@ -9,8 +9,7 @@ title: "3ème rencontre innov@lannion: OpenStreetMap"
 comments: True
 ---
 Le 6 février dernier, une vingtaine de personnes ont pu découvrir le fablab à
-l'occasion de la seconde rencontre innov[@lannion](http://fablab-
-lannion.org/membres/twitter_fablablannion/). Professeurs et étudiants de
+l'occasion de la seconde rencontre innov[@lannion]({{ site.url }}/membres/twitter_fablablannion/). Professeurs et étudiants de
 l'IUT, ENSSAT et du lycée mais aussi des membres du fablab et des particuliers
 (dont 2 anciens lauréats).
 
@@ -28,8 +27,8 @@ OpenStreetMap aux applications, comment contribuer et l'historique de cette
 solution.
 
 [Tuto OSM &amp; Emerginov (1ère
-partie)](http://www.dailymotion.com/video/x1b7hhg_tuto-osm-emerginov-1ere-
-partie_tech) _par [emerginov](http://www.dailymotion.com/emerginov)_
+partie)](https://www.dailymotion.com/video/x1b7hhg_tuto-osm-emerginov-1ere-
+partie_tech) _par [emerginov](https://www.dailymotion.com/emerginov)_
 
 Avant cette rencontre les étudiants de l'ENSSAT ouvriront leur porte à tous
 pour une petite après midi de codage avec un goûter afin de reprendre des

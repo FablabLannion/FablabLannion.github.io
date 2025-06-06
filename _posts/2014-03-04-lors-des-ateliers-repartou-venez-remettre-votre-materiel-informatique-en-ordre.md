@@ -20,7 +20,7 @@ des activités courantes et trop souvent un appareil est jeté à cause d'une
 simple panne, réparable et n'affectant en réalité qu'une partie de l'appareil.
 
 A l'occasion de la Semaine du Développement Durable, et en partenariat avec la
-[Ville de Lannion](http://www.ville-lannion.fr), le Fablab de Lannion organise
+[Ville de Lannion](https://www.ville-lannion.fr), le Fablab de Lannion organise
 les ateliers Répartou, le mercredi 2 avril
 ([réservation](/evenements/2014/04/repartou-1-2/)) et le lundi 7 avril
 ([réservation](/evenements/2014/04/repartou-2/)). Lors de ces ateliers, nous

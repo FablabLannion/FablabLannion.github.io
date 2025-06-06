@@ -27,7 +27,7 @@ pas eu à déplorer d'accident _~~ou alors sans gravité~~_ !
 Les 3h ont été fort remplies et chacun a pu repartir avec son robot
 _grandement_ fonctionnel.
 
-Vous trouverez sur [la page du wiki](http://fablab-
+Vous trouverez sur [la page du wiki](https://fablab-
 wiki.fablab-lannion.org/index.php?title=Atelier_Soudure) tous les documents
 utilisés lors de cette séance.
 

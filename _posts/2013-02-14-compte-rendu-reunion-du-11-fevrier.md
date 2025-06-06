@@ -13,9 +13,9 @@ tempérée) pour se regrouper dans la chaleur de l'ADIT et parler de la vie de
 l'association.
 
 Le gros point de la réunion concerne un partenariat avec le Lycée Le Dantec.En
-effet, le 5 février [@yann](http://fablab-lannion.org/membres/yann/),
-[@david.blaisonneau](http://fablab-lannion.org/membres/david.blaisonneau/) et
-[@jerome](http://fablab-lannion.org/membres/jerome/) sont allés présenter le
+effet, le 5 février [@yann]({{ site.url }}/membres/yann/),
+[@david.blaisonneau]({{ site.url }}/membres/david.blaisonneau/) et
+[@jerome]({{ site.url }}/membres/jerome/) sont allés présenter le
 FabLab aux professeurs dudit Lycée. Forts de l’accueil très positif reçu, un
 partenariat poussé est envisagé. Dans les options possibles, il y a un
 hébergement du Fablab par le Lycée, une mutualisation de machines, des
@@ -23,7 +23,7 @@ développement de projets communs… De nombreuses questions restent bien sûr �
 régler des deux côtés. En tout cas, les discussions sont sur une très bonne
 voie.
 
-[@yann](http://fablab-lannion.org/membres/yann/) s'est donc attelé à la
+[@yann]({{ site.url }}/membres/yann/) s'est donc attelé à la
 rédaction d'une convention à signer par les deux parties. Une première version
 est actuellement en relecture et sera soumise à l'approbation des membres du
 CA. Plusieurs navettes entre le Lycée et l'association sont à envisager. Il
@@ -42,12 +42,12 @@ Côté dossiers de subvention, les choses avancent aussi :
   * 1er retour positif du CMB pour une petite somme pluri-annuelle. Nous attendons maintenant un passage en commission pour prendre en compte notre spécificité dans l'innovation et le soutien du tissu économique local
   * LTA est en attente des pourparlers qui sont en cours avec le Lycée. Prévoir une nouvelle réunion avec eux pour présenter l'avancement.
   * Orange serait prêt à nous subventionner de plusieurs manières, plus de détails sous peu.
-  * [@david.blaisonneau](http://fablab-lannion.org/membres/david.blaisonneau/) va contacter quelques magasins de bricolages et les Castors
+  * [@david.blaisonneau]({{ site.url }}/membres/david.blaisonneau/) va contacter quelques magasins de bricolages et les Castors
 
 L'idée de contacter les autres Fablab bretons est émise afin de discuter
 fournisseurs et éventuellement de coordonner des achats groupés.
-[@yann](http://fablab-lannion.org/membres/yann/) contacte Brest et
-[@david.blaisonneau](http://fablab-lannion.org/membres/david.blaisonneau/)
+[@yann]({{ site.url }}/membres/yann/) contacte Brest et
+[@david.blaisonneau]({{ site.url }}/membres/david.blaisonneau/)
 Rennes.
 
 Côté site web, une migration du serveur est prévue dans les jours à venir. Il
@@ -56,14 +56,14 @@ est aussi demandé un plugin Google+ en plus des actuels facebook et twitter.
 Le wiki est en place et fonctionnel. L'authentification est faite via le
 compte wordpress. Vous disposez d'une page personnelle qui vous permet de vous
 exprimer. Un lien est disponible dans le menu principal du site.
-[@theo](http://fablab-lannion.org/membres/theo/) s'attaque à la création de
+[@theo]({{ site.url }}/membres/theo/) s'attaque à la création de
 template et à l'organisation de celui-ci.
 
 Des critiques (_fondées_) ont été (_à bon escient_) émises sur la solution
 (_propriétaire_) choisie pour archiver numériquement (_et laborieusement_) les
 documents de l'association. (_NDR: le rédacteur étant l’émetteur des dites
 critiques, elles sont relatées en toute impartialité_) 🙂 ND
-[@yann](http://fablab-lannion.org/membres/yann/) : reste à trouver la solution
+[@yann]({{ site.url }}/membres/yann/) : reste à trouver la solution
 parfaite, maintenable, accessible en webdav depuis l'intranet de chacun,
 compatible avec l'OS et les desiderata de tout le monde…
 

@@ -9,7 +9,7 @@ title: "<!--:fr-->Visite du FabLab &#8216;Casemate&#8217; de Grenoble<!--:-->"
 comments: True
 ---
 ![](https://lh3.googleusercontent.com/-nzQXwukUiDc/UJvo8kEvLcI/AAAAAAAAQjU/CepRth17v0s/s837/IMG_20121108_181519.jpg)Le
-[Casemate](http://fablab.ccsti-grenoble.org/) est le FabLab lié au '_Centre de
+[Casemate](https://fablab.ccsti-grenoble.org/) est le FabLab lié au '_Centre de
 Culture Scientifique Technique et Industrielle_' [CCSTI] de Grenoble -
 L'équivalent de l'ABRET de Pleumeur Bodou
 
@@ -51,11 +51,11 @@ Voici quelques éléments en réponse à l’enquête:
     * en majorité acheté
     * Quelles machines disponibles: 
       * Découpeuse laser Epilog Legend 36EXT (env 22k€)
-      * Fraiseuse de précision [Roland Modela MDX-20](http://fablab.ccsti-grenoble.org/node/15)
+      * Fraiseuse de précision [Roland Modela MDX-20](https://fablab.ccsti-grenoble.org/node/15)
       * Imprimante 3D: 1 Ultimaker, 1 ou 2 reprap en cours
       * Découpeuse vynile CAMM-1 GX24(50 à 700mm de largeur de coupe)
       * Machine à coudre
-      * [Grande fraiseuse CNC Shopbot (env 2,4×1.2m)](http://fablab.ccsti-grenoble.org/node/17)
+      * [Grande fraiseuse CNC Shopbot (env 2,4×1.2m)](https://fablab.ccsti-grenoble.org/node/17)
     * Y a-t-il un atelier plus classique (soudure, établi…): 
       * atelier électronique.
       * Pas de machines outils tels que perceuse tour etc…

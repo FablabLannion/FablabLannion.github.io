@@ -34,8 +34,7 @@ du Lycée le Dantec. Tous les groupes ont brillament relevé le défi et ont pu
 reprendre à leur compte le slogan du jour "je code donc je suis" sous le
 regard bienveillant de la masquotte Mankig Tux.
 
-[![20150321_161054](https://static.fablab-lannion.org/20150321_161054-1024x576.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2015/03/20150321_161054.jpg)
+[![20150321_161054](https://static.fablab-lannion.org/20150321_161054-1024x576.jpg)]({{ site.url }}/wp-content/uploads/2015/03/20150321_161054.jpg)
 
 A noter le passage de monsieur le maire de Lannion, qui, du coup a eu le droit
 à une visite guidée du fablab par Tangi, papa de codeuse et bénévole fablab

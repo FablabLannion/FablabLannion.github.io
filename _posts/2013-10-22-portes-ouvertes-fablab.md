@@ -8,8 +8,7 @@ title: "Portes Ouvertes du Fablab"
 comments: True
 ---
 #
-[![SeanceFabLabLannion](https://static.fablab-lannion.org/IMG_20131002_223030-1024x768.jpg)](http://fablab-
-lannion.org/wp-
+[![SeanceFabLabLannion](https://static.fablab-lannion.org/IMG_20131002_223030-1024x768.jpg)]({{ site.url }}/wp-
 content/uploads/2013/10/IMG_20131002_223030.jpg)[![logoFablabLannion129x129](https://static.fablab-lannion.org/logoFablabLannion129x129.png)](https://static.fablab-lannion.org/logoFablabLannion129x129.png)Le
 FabLab de Lannion
 
@@ -56,8 +55,7 @@ m'inscris ![/button_link]
   * **11h00 - 11h30 : présentation d'un mécanisme d'innovation ouverte et collaborative : les séances de portage d'idées**
   * **11h30 - 12h00 : moment de convivialité, échanges libres…**
   *   
-[![vlcsnap-2013-10-04-22h21m48s240](https://static.fablab-lannion.org/vlcsnap-2013-10-04-22h21m48s240-1024x576.png)](http://fablab-
-lannion.org/wp-content/uploads/2013/10/vlcsnap-2013-10-04-22h21m48s240.png)  
+[![vlcsnap-2013-10-04-22h21m48s240](https://static.fablab-lannion.org/vlcsnap-2013-10-04-22h21m48s240-1024x576.png)]({{ site.url }}/wp-content/uploads/2013/10/vlcsnap-2013-10-04-22h21m48s240.png)  
 
   
 
@@ -143,7 +141,7 @@ création sous logiciel 3D à l'impression ou au fraisage 3D.
 
 > [![Screenshot-
 from-2013-10-11-223059](https://static.fablab-lannion.org/Screenshot-
-from-2013-10-11-223059-1024x640.png)](http://fablab-lannion.org/wp-
+from-2013-10-11-223059-1024x640.png)]({{ site.url }}/wp-
 content/uploads/2013/10/Screenshot-from-2013-10-11-223059.png)
 
 > _- Electronique pour tous _[![320px-Breadboard_Arduino_BBAC_-
@@ -180,8 +178,7 @@ la main, pas avec l'imprimante 3D), jus de pomme et cidre seront de la partie
 
 Pour tout renseignement, n'hésitez pas à [nous contacter](/contact).
 
-[![matricePartenaires](https://static.fablab-lannion.org/matricePartenaires-300x277.png)](http://fablab-
-lannion.org/wp-content/uploads/2012/11/matricePartenaires.png)[![plan
+[![matricePartenaires](https://static.fablab-lannion.org/matricePartenaires-300x277.png)]({{ site.url }}/wp-content/uploads/2012/11/matricePartenaires.png)[![plan
 Fablab](https://static.fablab-lannion.org/plan-
 Fablab.png)](https://static.fablab-lannion.org/plan-Fablab.png)
 

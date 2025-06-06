@@ -8,10 +8,8 @@ date: 2013-09-30
 title: "Club Fab Lab et Les Petits Débrouillards"
 comments: True
 ---
-[![Photo-0032](https://static.fablab-lannion.org/Photo-0032-300x225.jpg)](http://fablab-
-lannion.org/wp-
-content/uploads/2013/09/Photo-0032.jpg)[![Photo-0034](https://static.fablab-lannion.org/Photo-0034-300x225.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2013/09/Photo-0034.jpg)
+[![Photo-0032](https://static.fablab-lannion.org/Photo-0032-300x225.jpg)]({{ site.url }}/wp-
+content/uploads/2013/09/Photo-0032.jpg)[![Photo-0034](https://static.fablab-lannion.org/Photo-0034-300x225.jpg)]({{ site.url }}/wp-content/uploads/2013/09/Photo-0034.jpg)
 
 
 

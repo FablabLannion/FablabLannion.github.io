@@ -10,8 +10,7 @@ comments: True
 ---
 Le 12 mars 2013, Alcatel-Lucent organise sur son site de Lannion une journée
 de démonstrations technologiques
-[![concept](https://static.fablab-lannion.org/concept-300x201.png)](http://fablab-
-lannion.org/wp-content/uploads/2013/01/concept.png)intitulée Wireless days.
+[![concept](https://static.fablab-lannion.org/concept-300x201.png)]({{ site.url }}/wp-content/uploads/2013/01/concept.png)intitulée Wireless days.
 Dans ce cadre, notre association a été contactée en vue de proposer une
 animation sur la journée. Après quelques brainstorming une idée a fait
 consensus : IllustraBot était virtuellement né !

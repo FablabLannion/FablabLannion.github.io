@@ -24,7 +24,7 @@ sa vie au lampadaire qui raconte des blagues à la boîte aux lettres…bien sû
 hormis le bracelet vous condamnant à un destin de sportif, beaucoup de choses
 restent à inventer.
 
-![](http://images.frandroid.com/wp-content/uploads/2015/10/LoRa-
+![](https://images.frandroid.com/wp-content/uploads/2015/10/LoRa-
 Alliance-1000x401.jpg)
 
 Ceci étant, les réseaux se mettent en place pour accueillir ces milliards
@@ -34,7 +34,7 @@ antenne au fablab…
 
 Tangi avait déjà défriché le terrain (entre le secrétariat et des boucliers à
 la Charlie) il y a plus d'un an et avait documenté comme il se doit sur notre
-[wiki](http://fablab-wiki.fablab-lannion.org/index.php?title=LoRa). Depuis de
+[wiki](https://fablab-wiki.fablab-lannion.org/index.php?title=LoRa). Depuis de
 l'eau a coulé sous les ponts du Leguer, et une équipe de valeureux étudiants
 de l'ENSSAT s'intéresse à un système LoRa pour le suivi de leur raid 2016,
 objectif ne perdre personne entre Beg-Hent et Tonquedec..avec si possible

@@ -15,25 +15,25 @@ Contacts
         <i class="fa fa-envelope fa-stack-1x"></i>
     </span>
 </a>
-<a href="http://twitter.com/{{ site.owner.twitter }}">
+<a href="https://x.com/{{ site.owner.x }}">
     <span class="fa-stack fa-lg">
         <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
         <i class="fa fa-twitter fa-stack-1x"></i>
     </span>
 </a>
-<a href="http://github.com/{{ site.owner.github }}">
+<a href="https://github.com/{{ site.owner.github }}">
     <span class="fa-stack fa-lg">
         <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
         <i class="fa fa-github fa-stack-1x"></i>
     </span>
 </a>
-<a href="http://facebook.com/{{ site.owner.facebook }}">
+<a href="https://facebook.com/{{ site.owner.facebook }}">
     <span class="fa-stack fa-lg">
         <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
         <i class="fa fa-facebook fa-stack-1x"></i>
     </span>
 </a>
-<a href="http://mastodon.social/{{ site.owner.mastodon }}">
+<a href="https://mastodon.social/{{ site.owner.mastodon }}">
     <span class="fa-stack fa-lg">
         <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
         <i class="fa fa-facebook fa-stack-1x"></i>

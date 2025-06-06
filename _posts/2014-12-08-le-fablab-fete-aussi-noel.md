@@ -10,8 +10,7 @@ comments: True
 ---
 Fort du succès du barbecue participatif organisé en début d'été, le fablab
 prévoit sa fête de Noël le mercredi 17 décembre à partir de 19h.  
-[![20140625_192113](https://static.fablab-lannion.org/20140625_192113-1024x768.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2014/12/20140625_192113.jpg)  
+[![20140625_192113](https://static.fablab-lannion.org/20140625_192113-1024x768.jpg)]({{ site.url }}/wp-content/uploads/2014/12/20140625_192113.jpg)  
 Pas d'inquiétude: pas de chorégraphie improbable à apprendre, pas plus de
 chants de Noël à endurer au fond d'une église sous chauffée, pas non plus de
 peine excessive vis à vis des volatiles (et/ou de leur foie) venus du sud

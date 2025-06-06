@@ -20,10 +20,9 @@ Aussi quelques grands enfants du fablab ont décidé de jouer aux kid paddle
 version maker en se lançant dans la fabrication de leur propre borne d'arcade
 aussi appelé bartop. L'objectif c'est quelque chose qui ressemble à ça:
 
-![](http://cdn.instructables.com/FO0/MEY5/I53I72UW/FO0MEY5I53I72UW.LARGE.jpg)
+![](https://cdn.instructables.com/FO0/MEY5/I53I72UW/FO0MEY5I53I72UW.LARGE.jpg)
 
-Le wiki a été initié, le projet est [ici](http://fablab-
-lannion.org/wiki/index.php?title=Borne_d%27arcade). Si vous rêvez de rajeunir
+Le wiki a été initié, le projet est [ici]({{ site.url }}/wiki/index.php?title=Borne_d%27arcade). Si vous rêvez de rajeunir
 en jouant à Gauntlet, "Out run" ou Arkanoïd..rejoignez le projet!
 
 Un chouette cadeau à s'offrir pour Noël…

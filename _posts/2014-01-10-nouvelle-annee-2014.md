@@ -10,8 +10,7 @@ comments: True
 ---
 Avec cette nouvelle année, la formule des réunions hebdomadaires du lundi
 évolue un
-peu.[![index](https://static.fablab-lannion.org/index-150x150.jpeg)](http://fablab-
-lannion.org/wp-content/uploads/2013/10/index.jpeg)
+peu.[![index](https://static.fablab-lannion.org/index-150x150.jpeg)]({{ site.url }}/wp-content/uploads/2013/10/index.jpeg)
 
 Le changement principal, déjà entamé en fin d'année dernière, est la migration
 vers une partie atelier ouvert. En effet la partie administrative n'est pas
@@ -37,14 +36,13 @@ publiés sur le blog mais sur le wiki. Vous pourrez ainsi suivre [l'ordre du
 jour](/wiki/index.php?title=Ordre_du_jour) ou les [CR](Compte_Rendu_Hebdo) sur
 ces pages.
 
-**Pour info, lundi prochain, le projet Data+ [Aquamarium](http://fablab-lannion.org/wiki/index.php?title=AquaMarium) sera présenté par [@jerome](http://fablab-lannion.org/membres/jerome/) et [@pofexpray](http://fablab-lannion.org/membres/pofexpray/).**
+**Pour info, lundi prochain, le projet Data+ [Aquamarium]({{ site.url }}/wiki/index.php?title=AquaMarium) sera présenté par [@jerome]({{ site.url }}/membres/jerome/) et [@pofexpray]({{ site.url }}/membres/pofexpray/).**
 
 J'en profite pour lancer un appel à volontaires pour tous ceux qui voudraient
 présenter leur projet 😉
 
 Et bien entendu, nous vous attendons toujours lors des ateliers ouverts (sans
 partie administrative barbante) les lundi et mercredi soirs. Vous trouverez
-plus d'informations sur la page [Horaires et accès](http://fablab-
-lannion.org/horaires-et-acces/ "Horaires et accès" ).
+plus d'informations sur la page [Horaires et accès]({{ site.url }}/horaires-et-acces/ "Horaires et accès" ).
 
 Laissez moi finir en vous souhaitant tous nos _maker vœux_ pour cette année.

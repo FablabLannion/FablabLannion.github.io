@@ -8,8 +8,7 @@ date: 2016-05-04
 title: "Atelier Junior III: y a pas que papy qui fait de la résistance"
 comments: True
 ---
-[![20160430_145622](https://static.fablab-lannion.org/20160430_145622-1024x576.jpg)](http://fablab-
-lannion.org/?attachment_id=13404) Ce troisième volet des ateliers Junior au
+[![20160430_145622](https://static.fablab-lannion.org/20160430_145622-1024x576.jpg)]({{ site.url }}/?attachment_id=13404) Ce troisième volet des ateliers Junior au
 fablab de Lannion avait pour objet la découverte de l'électronique:
 résistance, led, transistors, piles…les enfants ont pu découvrir toute une
 série de drôles de bestioles à 2, 3 ou plein de pattes; bestioles qui se
@@ -26,8 +25,7 @@ la fin de la saison des ateliers Juniors du fablab.
 
 A suivre…
 
-[![fondation_fr_quadri](https://static.fablab-lannion.org/fondation_fr_quadri.jpg)](http://fablab-
-lannion.org/2015/12/un-samedi-au-fablab-pour-bien-preparer-
+[![fondation_fr_quadri](https://static.fablab-lannion.org/fondation_fr_quadri.jpg)]({{ site.url }}/2015/12/un-samedi-au-fablab-pour-bien-preparer-
 noel/fondation_fr_quadri/)
 
 

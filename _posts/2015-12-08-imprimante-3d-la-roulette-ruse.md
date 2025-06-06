@@ -20,7 +20,7 @@ CAO (freecad), visualisation de quelques tutoriels pour en comprendre le
 fonctionnement et modélisation de la roulette vont permettre de générer le
 Gcode qui est le format de fichier utilisé par l'imprimante.
 
-Le fablab a [organisé](http://fablab-lannion.org/2014/10/semaine-de-la-
+Le fablab a [organisé]({{ site.url }}/2014/10/semaine-de-la-
 modelisation-et-de-limpression-3d/) et proposera à nouveau des formations à la
 modélisation 3D.
 
@@ -29,7 +29,7 @@ Pour la réalisation un plastique résistant à l'eau est choisi.
 Plusieurs dizaines de minutes plus tard, les roulettes sont prêtes et vont
 prolonger la vie du lave vaisselle.
 
-La modélisation au format freecad est disponible [ici](http://fablab-
+La modélisation au format freecad est disponible [ici](https://fablab-
 wiki.fablab-lannion.org/index.php?title=Fichier:RouletteV5.zip).
 
 ![Nouvelle et ancienne

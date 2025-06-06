@@ -8,8 +8,7 @@ date: 2014-12-03
 title: "Le MOOC Fabrication Numérique, c&#8217;est reparti !"
 comments: True
 ---
-[![moocfab](https://static.fablab-lannion.org/moocfab-300x97.png)](http://fablab-
-lannion.org/wp-content/uploads/2014/12/moocfab.png)  
+[![moocfab](https://static.fablab-lannion.org/moocfab-300x97.png)]({{ site.url }}/wp-content/uploads/2014/12/moocfab.png)  
 **Vous souhaitez vous initier à la fabrication numérique ? Vous vibrez à La seule idée d'apprendre des tas de choses sur l'électronique, la programmation Arduino, le design, l'internet des objets, la modélisation 2D/3D, et les imprimantes 3D ?**
 
 Réjouissez-vous : une nouvelle session de la formation en ligne (MOOC)

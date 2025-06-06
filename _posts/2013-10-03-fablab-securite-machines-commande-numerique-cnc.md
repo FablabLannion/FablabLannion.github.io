@@ -16,25 +16,23 @@ rassurez-vous, même si on trouve facilement des vidéos de crash, des milliers
 de gens en utilisent quotidiennement sans se blesser. 🙂
 
 [Plus d'informations en matière de sécurité peuvent être trouvées
-ici](http://fr.rs-
+ici](https://fr.rs-
 online.com/web/generalDisplay.html?id=infozone&file=electriques/machine-de-
-securite-cnc) ou [ici](http://makezine.com/2013/09/02/safety-in-school-
-makerspaces/) et [là](http://planet.madeinfr.org/post/2013/09/23/CNC-:-la-
+securite-cnc) ou [ici](https://makezine.com/2013/09/02/safety-in-school-
+makerspaces/) et [là](https://planet.madeinfr.org/post/2013/09/23/CNC-:-la-
 sécurité-avant-tout-!) et encore
 [là](https://sites.google.com/a/johnmccraess.ocdsb.ca/securite/home/toolbox/cnc-
 router)
 
 Étant donné que le FabLab sera bientôt doté de machines CNC (le top départ est
-lancé : la CharlyRobot [renaît de ses cendres](http://fablab-
-lannion.org/groupes/usagers/forum/topic/charlyrobot-le-retour/) et le facteur
-apportera bientôt la [eShapeOko](http://fablab-
-lannion.org/wiki/index.php?title=Fraiseuse_de_Table) !), il nous semblait
+lancé : la CharlyRobot [renaît de ses cendres]({{ site.url }}/groupes/usagers/forum/topic/charlyrobot-le-retour/) et le facteur
+apportera bientôt la [eShapeOko]({{ site.url }}/wiki/index.php?title=Fraiseuse_de_Table) !), il nous semblait
 intéressant de présenter la stratégie du fablab en matière de sécurité des
 machines CNC.
 
 **Quelle est la stratégie du FabLab pour garantir l'utilisation des machines CNC en toute sécurité ?**  
 [![Consignes de sécurité des machines CNC - RadioSpares](/wp-
-content/uploads/2013/09/cnc-machine_fr1-376x1024.jpg)](http://fr.rs-
+content/uploads/2013/09/cnc-machine_fr1-376x1024.jpg)](https://fr.rs-
 online.com/web/generalDisplay.html?id=infozone&file=electriques/machine-de-
 securite-cnc)La sécurité des personnes est essentielle lors de l'utilisation
 des machines mises à disposition par le FabLab. C'est pourquoi le FabLab

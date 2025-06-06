@@ -29,7 +29,7 @@ d’un événement fédérateur à Lannion : **Meet Up French Tech #Lannion.**
 
   * Le 7 avril 2016 de 17h à 18h
   * Pour vous inscrire, il suffit de remplir [ce formulaire](https://docs.google.com/forms/d/1CFwXgMx43iQ92drxK1zHi2pft9MfiaxIrptu5zvBaAs/viewform?c=0&w=1)
-  * Plus d'informations : [Anticipa](http://www.technopole-anticipa.com/Meet-Up-French-Tech-Lannion-Le-jeudi-7-avril-de-17h-a-19h)
+  * Plus d'informations : [Anticipa](https://www.technopole-anticipa.com/Meet-Up-French-Tech-Lannion-Le-jeudi-7-avril-de-17h-a-19h)
 
 
 

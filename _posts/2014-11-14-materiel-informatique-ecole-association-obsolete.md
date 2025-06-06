@@ -49,7 +49,7 @@ Nous prenons en charge le traitement du matériel et l'effacement des données
 conformément à la Directive Européenne sur les DEEE et au label Ordi 2.0
 (accordé par la DUI (Ministère de l'Enseignement Supérieur et de la
 Recherche). En nous cédant votre matériel de réforme, vous pourrez bénéficier
-du label [Ordi2.0](http://www.ordi2-0.fr) et valoriser votre engagement dans
+du label [Ordi2.0](https://www.ordi2-0.fr) et valoriser votre engagement dans
 le cadre de la communication effectuée au sujet de votre Responsabilité
 Sociale d'Entreprise.
 

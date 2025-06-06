@@ -12,7 +12,7 @@ Le week-end du 12-13 Octobre s'est déroulée la fête de la science,
 manifestation nationale.
 
 Pour notre part c'est à l'espace [Phoenix de Pleumeur-
-Bodou](http://www.parcduradome.com/fetedelascience.html) que cela se passait.
+Bodou](https://www.parcduradome.com/fetedelascience.html) que cela se passait.
 Les petits débrouillards nous ayant fait un peu de place sur leur stand, nous
 avons pu présenter le Fablab et faire la démonstration de plusieurs projets en
 cours.
@@ -22,8 +22,7 @@ Corinne Erhel qui nous a même
 [twittés](https://twitter.com/c_erhel_deputee/status/389054247062347776)
 
 [![Beaucoup d'intérêt pour
-l'imprimante.](https://static.fablab-lannion.org/IMG_20131013_162338-300x225.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2013/10/IMG_20131013_162338.jpg)
+l'imprimante.](https://static.fablab-lannion.org/IMG_20131013_162338-300x225.jpg)]({{ site.url }}/wp-content/uploads/2013/10/IMG_20131013_162338.jpg)
 
 Beaucoup d'intérêt pour l'imprimante.
 
@@ -39,7 +38,7 @@ plusieurs seraient bien repartis avec (il n'es pas impossible que [certains
 n'y arrivent](/mot/petits-debrouillards/)). Leur parents avaient plutôt
 tendance à loucher sur
 [l'intervallomètre](/wiki/index.php?title=Declencheur_photographique). En
-effet [@pofexpray](http://fablab-lannion.org/membres/pofexpray/) n'a pas
+effet [@pofexpray]({{ site.url }}/membres/pofexpray/) n'a pas
 hésité à transformer le stand en atelier mobile confirmant par la notre
 volonté d'apporter les connaissances au cœur du grand public.
 
@@ -50,17 +49,11 @@ elle a repris le travail depuis et est à nouveau fonctionnelle).
 Bref, beaucoup de contacts et de découverte pour les visiteurs. Une action à
 renouveler l'an prochain.
 
-[![IMG_20131013_174936](https://static.fablab-lannion.org/IMG_20131013_174936-150x150.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2013/10/IMG_20131013_174936.jpg)
-[![cerhel](https://static.fablab-lannion.org/cerhel-150x150.jpg)](http://fablab-
-lannion.org/wp-
-content/uploads/2013/10/cerhel.jpg)[![IMG_20131013_175055](https://static.fablab-lannion.org/IMG_20131013_175055-150x150.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2013/10/IMG_20131013_175055.jpg)
+[![IMG_20131013_174936](https://static.fablab-lannion.org/IMG_20131013_174936-150x150.jpg)]({{ site.url }}/wp-content/uploads/2013/10/IMG_20131013_174936.jpg)
+[![cerhel](https://static.fablab-lannion.org/cerhel-150x150.jpg)]({{ site.url }}/wp-
+content/uploads/2013/10/cerhel.jpg)[![IMG_20131013_175055](https://static.fablab-lannion.org/IMG_20131013_175055-150x150.jpg)]({{ site.url }}/wp-content/uploads/2013/10/IMG_20131013_175055.jpg)
 
-Merci à ceux qui ont assuré les permanences ([@pofexpray](http://fablab-
-lannion.org/membres/pofexpray/), [@theo](http://fablab-
-lannion.org/membres/theo/), [@yann](http://fablab-lannion.org/membres/yann/),
-[@yvon](http://fablab-lannion.org/membres/yvon/), [@jjacques](http://fablab-
-lannion.org/membres/jjacques/) et moi )
+Merci à ceux qui ont assuré les permanences ([@pofexpray]({{ site.url }}/membres/pofexpray/), [@theo]({{ site.url }}/membres/theo/), [@yann]({{ site.url }}/membres/yann/),
+[@yvon]({{ site.url }}/membres/yvon/), [@jjacques]({{ site.url }}/membres/jjacques/) et moi )
 
 

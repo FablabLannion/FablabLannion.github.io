@@ -16,7 +16,7 @@ Chaque semaine, le Fablab vous propose de (re)découvrir une page du [Wiki](http
 ![logo](https://wiki.fablab-lannion.org/images/0/08/BeagleGoLogo.png)
 
 Ce n'est pas un secret, au Fablab, nous aimons le logiciel libre et l'OpenHardware.
-Ici, Emmanuel nous propose un module de contrôle pour *robotiser* des jeux de construction existants (Lego, Meccano ou autre). Vous trouverez tout le matériel et logiciel nécessaire pour créer votre propre robot à partir d'une carte [BeagleBoard](http://beagleboard.org/).
+Ici, Emmanuel nous propose un module de contrôle pour *robotiser* des jeux de construction existants (Lego, Meccano ou autre). Vous trouverez tout le matériel et logiciel nécessaire pour créer votre propre robot à partir d'une carte [BeagleBoard](https://beagleboard.org/).
 Contrôle des moteurs, boîtier *kid-proof*, encodeurs et capteurs, tout est documenté ! Il ne vous reste plus qu'à vous lancer :)
 
 Ces pages ne vivent que grâce à nous/vous. Tout le monde est grandement incité à les commenter, voir les corriger !

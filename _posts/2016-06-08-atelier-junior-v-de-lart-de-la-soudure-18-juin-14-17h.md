@@ -9,8 +9,7 @@ title: "Atelier Junior V: de l&#8217;art de la soudure (18 juin 14-17h)"
 comments: True
 ---
 Dernier atelier junior de la saison autour de la soudure.[![Capture
-d’écran_2016-06-08_20-30-41](https://static.fablab-lannion.org/Capture-d’écran_2016-06-08_20-30-41.png)](http://fablab-
-lannion.org/?attachment_id=13470)
+d’écran_2016-06-08_20-30-41](https://static.fablab-lannion.org/Capture-d’écran_2016-06-08_20-30-41.png)]({{ site.url }}/?attachment_id=13470)
 
 Les enfants seront amenés à souder les composants électroniques afin de
 réaliser un petit robot. Précision, patience et étain seront donc les maîtres
@@ -25,8 +24,7 @@ contact@fablab-lannion.org
 
 
 Les ateliers du fablab sont soutenus par
-[![fondation_fr_quadri](https://static.fablab-lannion.org/fondation_fr_quadri.jpg)](http://fablab-
-lannion.org/2015/12/un-samedi-au-fablab-pour-bien-preparer-
+[![fondation_fr_quadri](https://static.fablab-lannion.org/fondation_fr_quadri.jpg)]({{ site.url }}/2015/12/un-samedi-au-fablab-pour-bien-preparer-
 noel/fondation_fr_quadri/)
 
 

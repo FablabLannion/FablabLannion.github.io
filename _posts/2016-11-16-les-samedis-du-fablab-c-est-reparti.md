@@ -20,11 +20,11 @@ l'occasion de ce samedi, une initiation au logiciel de dessin vectoriel
 
 Ce logiciel est très utile pour la réalisation de dessins interprètables
 par la découpeuse laser comme indiquée sur le wiki dans l'excellent
-[tuto présidentiel](http://wiki.fablab-lannion.org/index.php?title=Chaine_logicielle_pour_d%C3%A9coupeuse_laser)
+[tuto présidentiel](https://wiki.fablab-lannion.org/index.php?title=Chaine_logicielle_pour_d%C3%A9coupeuse_laser)
 
 Or le prochain samedi du fablab prévu en Décembre aura pour thème, comme
 l'an dernier, "Fablab de Lannion, l'annexe du père Noël", l'occasion de
 réaliser des objets décoratifs personnalisés à faire pâlir les lutins et
 le [père de Marie-Noël](https://www.youtube.com/watch?v=8i6-EcyxoHE).
 
-*Vous pouvez jeter un [oeil ici](http://wiki.fablab-lannion.org/index.php?title=FormationInkscape) pour avoir un avant gout.*
+*Vous pouvez jeter un [oeil ici](https://wiki.fablab-lannion.org/index.php?title=FormationInkscape) pour avoir un avant gout.*

@@ -14,8 +14,7 @@ Quatrième et avant dernier atelier junior de la saison samedi 28 mai de 14h à
 Les enfants partiront à la découverte d'un être étrange, inquiétant, efficace
 et fascinant monstre: la découpeuse LASER.
 
-[![CScHdSTWUAAcykm.jpg:large](https://static.fablab-lannion.org/CScHdSTWUAAcykm.jpglarge-1024x576.jpeg)](http://fablab-
-lannion.org/2015/10/elle-marche/cschdstwuaacykm-jpglarge/)Mais avant d'avoir
+[![CScHdSTWUAAcykm.jpg:large](https://static.fablab-lannion.org/CScHdSTWUAAcykm.jpglarge-1024x576.jpeg)]({{ site.url }}/2015/10/elle-marche/cschdstwuaacykm-jpglarge/)Mais avant d'avoir
 le droit de jouer avec elle, il faudra apprendre à dessiner un peu afin de lui
 donner à manger….
 

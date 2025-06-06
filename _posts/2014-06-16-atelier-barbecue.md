@@ -12,7 +12,7 @@ L'été arrive, les tongs commencent à sortir, et tout le monde se prépare à
 passer des longs moments de détente propices aux cogitations innovantes. Mais
 avant tout ça, le FabLab vous propose un atelier spécial, l'atelier BARBECUE !
 
-![](http://www.saphandballduclair.com/wp-
+![](https://www.saphandballduclair.com/wp-
 content/uploads/2014/05/barbecue-1.jpg)
 
 Lors de l'atelier Barbecue, le FabLab vous proposera de partager vos envies
@@ -27,8 +27,7 @@ Le principe est simple, **chacun vient avec de la nourriture**, de quoi
 s'hydrater et des spécialités à **partager**.  
 Comme tous les ateliers FabLab à Lannion, cet évènement est ouvert à tous !
 
-Pour plus d'information, ou nous aider à organiser: http://fablab-
-lannion.org/groupes/usagers/forum/topic/atelier-barbecue/
+Pour plus d'information, ou nous aider à organiser: {{ site.url }}/groupes/usagers/forum/topic/atelier-barbecue/
 
 A bientôt !
 

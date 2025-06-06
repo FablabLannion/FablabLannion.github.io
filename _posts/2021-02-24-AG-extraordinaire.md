@@ -24,12 +24,12 @@ l'[Adit](https://www.technopole-anticipa.com/), puis un long bail avec le
 Nous espérons, si les conditions sanitaires le permettent,pouvoir dire au
 revoir aux professeurs qui nous ont accueilli avec bienveillance et avec qui
 nous avons pu monter un certain nombre de projets notamment sur l'opération
-[COVID 19](http://www.fablab-lannion.org/covid19).
+[COVID 19](https://www.fablab-lannion.org/covid19).
 
 Restant au centre ville, proche de l'ENSSAT, hébergé dans le centre des jeunes
 travailleurs, nous devrions rapidement être en mesure de retisser des liens avec
 les jeunes makers du Trégor.
 
-[Le dossier complet](http://static.fablab-lannion.org/Com-master/AG2021_demenagement/#/)
+[Le dossier complet](https://static.fablab-lannion.org/Com-master/AG2021_demenagement/#/)
 
 [Le compte rendu de l'AG](https://wiki.fablab-lannion.org//index.php?title=Compte_Rendu_AG_Extraordinaire_24_fevrier_2021)

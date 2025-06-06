@@ -16,7 +16,7 @@ Ces capteurs sont assez populaires du fait d'une pandémie qui ne vous aura pas 
 Plusieurs membres du fablab ont donc prototypé un objet et vous proposent de le réaliser à l'occasion d'un petit atelier.
 Ce capteur est un objet "simple", non connecté, qui mesure la concentration de CO2 permettant d'avertir quand il faut aérer une pièce. 
 
-Cet atelier se tiendra le samedi 5 février de 14h00 à 17h30 au [fablab de Lannion](http://www.fablab-lannion.org/horaires-et-acces/).
+Cet atelier se tiendra le samedi 5 février de 14h00 à 17h30 au [fablab de Lannion](https://www.fablab-lannion.org/horaires-et-acces/).
 Il est ouvert aux adhérents.
 Il sera possible de prendre ou de reprendre son [adhésion](https://wiki.fablab-lannion.org/index.php?title=Adhésion) sur place.
 Le nombre de places sera limité à 10.

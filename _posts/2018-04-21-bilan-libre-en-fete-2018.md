@@ -13,8 +13,8 @@ Retour sur l'édition 2018 de Libre en Fête en Trégor. Quelques chiffres pour
 commencer:
  * 700 visiteurs
  * 120 Bénévoles
- * 30 [Partenaires](http://libre-en-fete-tregor.fr/partenaires)
- * 20 exposants / 5 [Sponsors](http://libre-en-fete-tregor.fr/sponsors)
+ * 30 [Partenaires](https://libre-en-fete-tregor.fr/partenaires)
+ * 20 exposants / 5 [Sponsors](https://libre-en-fete-tregor.fr/sponsors)
 
 Un Time lapse complet (plus complet que celui de 2016) de l'événement réalisé
 par Nicolas à partir de 4 ou 5 raspberrys disposés dans la salle.
@@ -55,11 +55,11 @@ succès, les imprimantes de Cédric sont toujours aussi populaires. Un grand mer
 
 ## Petite revue de Presse
 
-* [LTC](http://www.lannion-tregor.com/fr/videotheque/video/le-logiciel-libre-partout-dans-notre-vie.html)
-* [Anticipa](http://www.technopole-anticipa.com/La-grande-fete-du-numerique-du-logiciel-libre-et-de-ses-usages.html)
+* [LTC](https://www.lannion-tregor.com/fr/videotheque/video/le-logiciel-libre-partout-dans-notre-vie.html)
+* [Anticipa](https://www.technopole-anticipa.com/La-grande-fete-du-numerique-du-logiciel-libre-et-de-ses-usages.html)
 * [Ouest France 1/3](https://www.ouest-france.fr/bretagne/lannion-22300/philippe-roux-gagne-le-concours-openstreetmap-5650057)
 * [Ouest France 2/3](https://www.ouest-france.fr/bretagne/lannion-22300/libre-en-fete-lannion-le-libre-s-offre-une-fete-open-aux-non-geeks-5645288)
 * [Ouest France 3/3](https://www.ouest-france.fr/bretagne/lannion-22300/lannion-un-dimanche-du-numerique-et-du-logiciel-libre-5637865)
-* [Le Télégramme 1/2](http://www.letelegramme.fr/cotes-darmor/lannion/libre-en-fete-un-vent-de-fraicheur-sur-l-informatique-26-03-2018-11900634.php)
-* [Le Télégramme 2/2](http://www.letelegramme.fr/cotes-darmor/lannion/libre-en-fete-le-logiciel-libre-en-vedette-dimanche-23-03-2018-11897411.php)
-* [Datarmor](http://datarmor.cotesdarmor.fr/web/guest/actualites/-/blogs/libre-en-fete-en-treg-2?_33_redirect=http%3A%2F%2Fdatarmor.cotesdarmor.fr%2Fweb%2Fguest%2Factualites%3Fp_p_id%3D33%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_count%3D3)
+* [Le Télégramme 1/2](https://www.letelegramme.fr/cotes-darmor/lannion/libre-en-fete-un-vent-de-fraicheur-sur-l-informatique-26-03-2018-11900634.php)
+* [Le Télégramme 2/2](https://www.letelegramme.fr/cotes-darmor/lannion/libre-en-fete-le-logiciel-libre-en-vedette-dimanche-23-03-2018-11897411.php)
+* [Datarmor](https://datarmor.cotesdarmor.fr/web/guest/actualites/-/blogs/libre-en-fete-en-treg-2?_33_redirect=http%3A%2F%2Fdatarmor.cotesdarmor.fr%2Fweb%2Fguest%2Factualites%3Fp_p_id%3D33%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_count%3D3)

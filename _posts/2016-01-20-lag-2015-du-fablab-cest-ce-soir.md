@@ -11,7 +11,7 @@ Nous vous attendons à partir de 21h pour l'AG 2015 du FabLab.
 
 Nous comptons sur votre présence pour réélire le CA de l'association.
 
-Les slides : http://fablab-lannion.org/wp-
+Les slides : {{ site.url }}/wp-
 content/presentations/AG2015/#/rapportMoral
 
 Pour les personnes qui ne peuvent être présentes vous trouverez la

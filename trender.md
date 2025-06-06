@@ -135,7 +135,7 @@ Q: Where is the code?
 A: [https://github.com/FablabLannion/Trender](https://github.com/FablabLannion/Trender)
 
 Q: Any other reference?
-A: A wiki page (in French) is available [http://wiki.fablab-lannion.org/index.php?title=Trender](http://wiki.fablab-lannion.org/index.php?title=Trender)
+A: A wiki page (in French) is available [https://wiki.fablab-lannion.org/index.php?title=Trender](https://wiki.fablab-lannion.org/index.php?title=Trender)
 
 Q: Who may I contact in case of trouble?
-A: mail trender@fablab-lannion.org, [twitter.com/fablablannion](http://twitter.com/fablablannion)
+A: mail trender@fablab-lannion.org, [x.com/fablablannion](https://x.com/fablablannion)

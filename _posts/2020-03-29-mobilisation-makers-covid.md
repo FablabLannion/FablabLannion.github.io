@@ -2,7 +2,7 @@
 author: david
 tags: association
 layout: post
-imagefeature: http://www.fablab-lannion.org/images/posts/restealamaison.jpg
+imagefeature: https://www.fablab-lannion.org/images/posts/restealamaison.jpg
 slug: MobilisationCOVID
 date: 2020-03-29
 title: "Mobilisation des makers du Trégor - #Covid19"

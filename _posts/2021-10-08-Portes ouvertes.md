@@ -18,7 +18,7 @@ En attendant, après une année 2021 éprouvante marquée par une pandémie mond
 une assemblée générale et extraordinaire en visio et ... un déménagement, l'association a finalement repris ses petites habitudes numériques et collaboratives
 début septembre en réouvrant ses créneaux du mercredi soir et du vendredi. Les premières formations en partenariat avec pôle emploi ont également pu débuter.
 
-Après plusieurs mois d'hibernation - même si de nombreux makers sont restés actifs via l'initiative [MAKERS DU TRÉGOR CONTRE LE COVID19](http://www.fablab-lannion.org/covid19) -
+Après plusieurs mois d'hibernation - même si de nombreux makers sont restés actifs via l'initiative [MAKERS DU TRÉGOR CONTRE LE COVID19](https://www.fablab-lannion.org/covid19) -
 il est bon de se retrouver, de parler de sujets un peu plus légers, et d'envisager enfin de nouveaux projets.
 
 Le fablab se situe donc à présent [6 Rue du 73ème Territorial](https://www.openstreetmap.org/search?whereami=1&query=48.72870%2C-3.46315#map=19/48.72869/-3.46314)
@@ -33,7 +33,7 @@ Vous pourrez aussi découvrir notre petite dernière, une nouvelle machine dont 
 la brodeuse numérique acquise grace à l'appel à projets [CONSTRUIRE LE NUMÉRIQUE EN CÔTES D’ARMOR](https://cotesdarmor.fr/numerique) 
 du département des côtes d'Armor.
 
-Pour ceux qui ne peuvent pas attendre, un avant-goût avec une petite [![Visite](http://www.fablab-lannion.org/images/posts/nouveau_fablab.png)](https://youtu.be/I8Sgo-h6Xg0)
+Pour ceux qui ne peuvent pas attendre, un avant-goût avec une petite [![Visite](https://www.fablab-lannion.org/images/posts/nouveau_fablab.png)](https://youtu.be/I8Sgo-h6Xg0)
 
 mais en vrai c'est encore mieux!
 

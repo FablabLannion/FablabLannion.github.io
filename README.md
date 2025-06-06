@@ -75,7 +75,7 @@ d'une image utilisée pour la couverture
 
 ## Formatage avancé
 
-Le formatage [Foundation Grid](http://foundation.zurb.com/sites/docs/grid.html) est
+Le formatage [Foundation Grid](https://get.foundation/sites/docs/grid.html) est
 possible, ou tout autre formatage HTML
 
 ## Insérer une image
@@ -83,7 +83,7 @@ possible, ou tout autre formatage HTML
 Pour insérer une image, il faut utiliser la syntaxe suivante:
 
 ```
- ![cover-image](http://path-to-your-image.jpg)
+ ![cover-image](https://path-to-your-image.jpg)
 ```
 
 si l'image est incluse dans le site:

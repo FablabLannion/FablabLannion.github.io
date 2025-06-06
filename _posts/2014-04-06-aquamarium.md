@@ -8,11 +8,11 @@ date: 2014-04-06
 title: "AquaMarium : pour comprendre les marées"
 comments: True
 ---
-[![](http://fablab-lannion.org/wiki/images/thumb/b/bd/Test.jpg/450px-
-Test.jpg)](http://fablab-lannion.org/wiki/images/b/bd/Test.jpg)
+[![]({{ site.url }}/wiki/images/thumb/b/bd/Test.jpg/450px-
+Test.jpg)]({{ site.url }}/wiki/images/b/bd/Test.jpg)
 
 _Note: Vous pouvez voter pour ce projet [sur cette
-page](http://defidataplus.net/les-projets/aquamarium/)_
+page](https://defidataplus.net/les-projets/aquamarium/)_
 
 La marée est un phénomène au fonctionnement étrange. Il est difficile pour le
 néophyte de savoir et de comprendre quel sera la hauteur d'eau à un moment
@@ -43,14 +43,13 @@ C'est à la fois un objet :
 
 Le prototype a été développé au Fablab de Lannion par une équipe pluri-
 disciplinaire (électronicien, mécanicien, informaticien et designer). Sa
-création est entièrement documentée sur [le wiki](http://fablab-
-lannion.org/wiki/index.php?title=AquaMarium) et OpenSource. Ainsi n'importe
+création est entièrement documentée sur [le wiki]({{ site.url }}/wiki/index.php?title=AquaMarium) et OpenSource. Ainsi n'importe
 qui peut en re-créer un pour ses besoins personnels.
 
 Vous trouverez plus d'informations :
 
-  * sur le wiki [AquaMarium](http://fablab-lannion.org/wiki/index.php?title=AquaMarium)
-  * sur la page wiki de [la pompe](http://fablab-lannion.org/wiki/index.php?title=Pompe_P%C3%A9ristaltique)
+  * sur le wiki [AquaMarium]({{ site.url }}/wiki/index.php?title=AquaMarium)
+  * sur la page wiki de [la pompe]({{ site.url }}/wiki/index.php?title=Pompe_P%C3%A9ristaltique)
   * sur le [Github](https://github.com/fablab-lannion/DataPlus/tree/master/AquaMarium) pour les sources (logiciel et matériel)
-  * **et n'oubliez pas de voter [sur la page](http://defidataplus.net/les-projets/aquamarium/) Data+ 😉**
-  * regardez aussi l'autre projet Data+ du Fablab : [¿WhereIsTheBeach?](http://defidataplus.net/les-projets/whereisthebeach/)
+  * **et n'oubliez pas de voter [sur la page](https://defidataplus.net/les-projets/aquamarium/) Data+ 😉**
+  * regardez aussi l'autre projet Data+ du Fablab : [¿WhereIsTheBeach?](https://defidataplus.net/les-projets/whereisthebeach/)

@@ -9,7 +9,7 @@ title: "MOOC le fablab de Lannion fait son cinéma"
 comments: True
 ---
 Le fablab de Lannion a été sollicité pour contribuer au [MOOC
-](http://fr.wikipedia.org/wiki/Cours_en_ligne_ouvert_et_massif)sur la
+](https://fr.wikipedia.org/wiki/Cours_en_ligne_ouvert_et_massif)sur la
 fabrication numérique.
 
 Mais les MOOC qu'est ce que c'est ? Ce sont des cours massifs en ligne ouverts
@@ -48,8 +48,7 @@ Bilge Ceylan en herbe du Trégor. En effet le club vidéo de l'ENSSAT nous a
 accueilli dans ses locaux pour plusieurs séances de tournage. Ecran vert, mise
 au point lumière, raccord son, silence,moteur on tourne…du travail de pro.
 
-[![20140521_211156](https://static.fablab-lannion.org/20140521_211156-1024x768.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2014/05/20140521_211156.jpg)
+[![20140521_211156](https://static.fablab-lannion.org/20140521_211156-1024x768.jpg)]({{ site.url }}/wp-content/uploads/2014/05/20140521_211156.jpg)
 
 Un grand merci aux étudiants qui ont pris un peu de leur temps pour nous
 accueillir et nous permettre de réaliser ces vidéos.
@@ -57,7 +56,6 @@ accueillir et nous permettre de réaliser ces vidéos.
 Ne comptez pas sur nous pour dévoiler le contenu des vidéos, rendez-vous très
 prochainement dans le MOOC et sur son forum associé…
 
-[![20140521_222202](https://static.fablab-lannion.org/20140521_222202-1024x768.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2014/05/20140521_222202.jpg)
+[![20140521_222202](https://static.fablab-lannion.org/20140521_222202-1024x768.jpg)]({{ site.url }}/wp-content/uploads/2014/05/20140521_222202.jpg)
 
 

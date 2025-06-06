@@ -30,7 +30,7 @@ Ainsi fut fait!
 Le bureau a démontré qu'il le valait bien et met à disposition de
 l'association les ressources web suivantes:
 
-* un [portail web responsive](http://fablab-lannion.org/) proposant les menus principaux
+* un [portail web responsive]({{ site.url }}/) proposant les menus principaux
 * un blog sur une base [jekyll](https://jekyllrb.com/)
 * un forum [php BB](https://www.phpbb.com/)
 * le [media wiki](https://www.mediawiki.org/wiki/MediaWiki/fr)
@@ -41,6 +41,6 @@ Vous pouvez donc vous connecter au [forum](https://forum.fablab-lannion.org) et 
 N'hésitez pas à ouvrir un topic sur le forum pour faire des remarques ou à contribuer au [sujet existant](https://forum.fablab-lannion.org/viewtopic.php?f=2&t=11) ...
 
 Vous pouvez aussi nous contacter, il y a une page faite pour ça..
-[Page contact](http://blog.fablab-lannion.org/horaires-et-acces/)
+[Page contact](https://blog.fablab-lannion.org/horaires-et-acces/)
 
 Note: les utilisateurs déjà enregistrés sur l'ancien site web doivent activer leur compte à l'aide du mail précédement reçut.

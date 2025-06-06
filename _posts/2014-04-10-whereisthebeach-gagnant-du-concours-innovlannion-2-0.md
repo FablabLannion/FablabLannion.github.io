@@ -8,27 +8,27 @@ date: 2014-04-10
 title: "¿WhereIsTheBeach?  gagnant du concours Innov@Lannion 2.0 !"
 comments: True
 ---
-Mardi midi au cours du colloque [Energ&amp;TIC 4](http://www.technopole-
+Mardi midi au cours du colloque [Energ&amp;TIC 4](https://www.technopole-
 anticipa.com/Colloque-Energ-TIC4-les-energies.html "Energ&Tic" ), les lauréats
-du concours [Innov@Lannion 2.0](http://www.ville-
+du concours [Innov@Lannion 2.0](https://www.ville-
 lannion.fr/page_multimedia_InnovaLannion.html) ont reçu leur prix des mains
 des différents partenaires de l’événement.
 
 Parmi un quinzaine de participants, notre objet connecté, [Where is the
-Beach](http://fablab-lannion.org/wiki/index.php?title=Where_is_the_Beach%3F
+Beach]({{ site.url }}/wiki/index.php?title=Where_is_the_Beach%3F
 "Where is the beach" ), a été choisi pour le prix Orange de l'innovation. Nous
 avons remporté un Bloc offert par Orange. Cet objet connecté sera très utile
 pour les présentations de projets au FabLab ou lors d’événements.
 
 On peut également féliciter Antoine, membre du FabLab qui a recu le prix de
 l'ENSSAT pour son audio guide participatif [Calling
-Lannion](http://projects.emerginov.org/open_data_2014/#/)
+Lannion](https://projects.emerginov.org/open_data_2014/#/)
 
 Des étudiants de l'ENSSAT ont eux reçu le prix Lannion Trégor Communauté pour
-l'appli [LannionBus](http://projects.emerginov.org/LannionBus/). Félicitations
+l'appli [LannionBus](https://projects.emerginov.org/LannionBus/). Félicitations
 à eux également!
 
-La remise des prix au colloque [Energ&amp;Tic ](http://www.technopole-
+La remise des prix au colloque [Energ&amp;Tic ](https://www.technopole-
 anticipa.com/Colloque-Energ-TIC4-les-energies.html "Energ&Tic" )a été
 l'occasion de présenter le FabLab au nombreux public présent et d'échanger
 avec les participants sur les thématiques d'open-data, de supervision et de
@@ -39,6 +39,6 @@ Plein de nouvelles idées à mettre en œuvre !
 
 
 PS : N'oubliez pas de voter pour Aquamarium et ¿WhereIsTheBeach? sur la page
-du [DefiDataPlus](http://defidataplus.net/les-projets/)
+du [DefiDataPlus](https://defidataplus.net/les-projets/)
 
 

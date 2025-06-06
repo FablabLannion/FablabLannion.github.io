@@ -16,7 +16,7 @@ le 1er juillet prochain.
 
 Ce petit moment de convivialité vous permettra de découvrir 2 choses
 improbables mais pourtant bien réelles: une fraiseuse
-[Shapeoko](http://fablab-lannion.org/wiki/index.php?title=Shapeoko "Shapeoko"
+[Shapeoko]({{ site.url }}/wiki/index.php?title=Shapeoko "Shapeoko"
 ) qui bouge (quelques chanceux l'avaient déjà vu bouger à la fête de la
 science…) et un kart made in fablab Lannion si pressé d'être performant qu'il
 en oublie parfois de freiner. Ce dernier, fruit d'un joli travail collectif,
@@ -26,11 +26,9 @@ roue il y a quelques semaines et promet du spectacle…
 
 Quelques images d'archives en attendant de pouvoir admirer la bête.
 
-[![upload_-1\(2\)](https://static.fablab-lannion.org/upload_-12-1024x576.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2015/06/upload_-12.jpg)
+[![upload_-1\(2\)](https://static.fablab-lannion.org/upload_-12-1024x576.jpg)]({{ site.url }}/wp-content/uploads/2015/06/upload_-12.jpg)
 
-[![upload_-1\(1\)](https://static.fablab-lannion.org/upload_-11-1024x576.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2015/06/upload_-11.jpg)
+[![upload_-1\(1\)](https://static.fablab-lannion.org/upload_-11-1024x576.jpg)]({{ site.url }}/wp-content/uploads/2015/06/upload_-11.jpg)
 
 Le Barbecue sera surtout l'occasion de célébrer notre 2ème saison au lycée et
 d'échanger sur les projets en cours ou à venir. La règle est simple chacun

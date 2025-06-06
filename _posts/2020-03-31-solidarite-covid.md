@@ -23,13 +23,13 @@ faire au mieux en ces temps compliqués. Les propriétaires d'imprimante 3D peuv
 
 Une page a été mise en ligne pour résumer la situation, préciser les
 interlocuteurs privilégiés et fournir les adresses mails utiles à tous
-[http://www.fablab-lannion.org/covid19](http://www.fablab-lannion.org/covid19).
+[https://www.fablab-lannion.org/covid19](https://www.fablab-lannion.org/covid19).
 
 Deux pages dédiées aux Makers ont également été créées:
 
-- une page [organisation](http://www.fablab-lannion.org/covid-makers) afin de
+- une page [organisation](https://www.fablab-lannion.org/covid-makers) afin de
   se faire connaître, recenser les machines, partager les besoins, échanger sur
   les solutions
-- un [guide d'impression des visières](http://www.fablab-lannion.org/VisieresFabLab).
+- un [guide d'impression des visières](https://www.fablab-lannion.org/VisieresFabLab).
 
 Bon courage à tous.

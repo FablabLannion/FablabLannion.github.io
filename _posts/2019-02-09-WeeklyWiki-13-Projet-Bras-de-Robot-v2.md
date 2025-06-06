@@ -17,7 +17,7 @@ A l'origine ce bras présentant 4 degrés de liberté a été fabriqué pour dé
 ![Présentation](https://wiki.fablab-lannion.org/images/thumb/0/0c/RAv2_overview.png/800px-RAv2_overview.png)
 Combinant fabrication, électronique, programmation et amusement, il n'attend que votre motivation pour (re)prendre vie !
 
-Puissance de l'open source, il est basé sur un projet libre [pré-existant](http://learn.mime.co.uk/docs/building-the-mearm-deluxe/) modifié et adapté par Jérôme.
+Puissance de l'open source, il est basé sur un projet libre [pré-existant](https://learn.mime.co.uk/docs/building-the-mearm-deluxe/) modifié et adapté par Jérôme.
 
 Ces pages ne vivent que grâce à nous/vous. Tout le monde est grandement incité à les commenter, voir les corriger !
 

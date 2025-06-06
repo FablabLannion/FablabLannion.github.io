@@ -12,11 +12,11 @@ J'ai déjà eu l'occasion de parler de Dimanche Yaméogo. Ce dernier est en effe
 l'auteur de cette devise "Avec rien, fais bien, avec peu fais mieux mais fais
 maintenant", devise de Kino Afrique mais qui s'applique si bien au fablab.
 
-![](http://kino-mtp.fr/wp-content/uploads/2010/01/logoKino00.png)
+![](https://kino-mtp.fr/wp-content/uploads/2010/01/logoKino00.png)
 
 Kino00
 
-[Kino'00](http://kino00.com) est un organisme à but non lucratif dont la
+[Kino'00](https://kino00.com) est un organisme à but non lucratif dont la
 mission se décline en 4 points :
 
 • **Soutenir et encadrer la production** de courts métrages indépendants.  
@@ -31,7 +31,7 @@ Dimanche Yaméogo est l'un de ses artistes. J'ai eu la chance de le rencontrer
 au forum InnovAfrica. En plus d'être un artiste reconnu, il est un infatigable
 professeur, parcourant l'Afrique pour partager et enseigner les techniques
 audiovisuelles (page [Kino
-Afrique](http://imaginationforpeople.org/fr/project/creation-du-reseau-kino-
+Afrique](https://imaginationforpeople.org/fr/project/creation-du-reseau-kino-
 afrique/)).
 
 Aujourd'hui il est à la recherche de matériel vidéo de seconde main afin de

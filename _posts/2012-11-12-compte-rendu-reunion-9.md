@@ -11,8 +11,7 @@ comments: True
 Présents: [David](/qui-sommes-nous/david-blaisonneau/), [Yann](/qui-sommes-
 nous/yann/), [Morgan](/qui-sommes-nous/colvert/), [Yvon](/qui-sommes-
 nous/yvon/), Théo, Nicolas, Claude, [Jérôme](/qui-sommes-
-nous/jerome/)[![](https://static.fablab-lannion.org/logoSeul-300x300.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2012/10/logoSeul.jpg)
+nous/jerome/)[![](https://static.fablab-lannion.org/logoSeul-300x300.jpg)]({{ site.url }}/wp-content/uploads/2012/10/logoSeul.jpg)
 
 Dans ces présents, 2 nouveaux :
 
@@ -33,9 +32,9 @@ Le plus important, AJOUTER DU CONTENU au site 🙂
 
 **Enquête**
 
-  * Yvon a continué son enquête auprès du [FabLab de Nantes](http://www.pingbase.net) qui (pour une fois) est associatif \o/ Les statuts seront disponibles sous peu …
-  * Yvon va aussi nous écrire un petit compte rendu sur le [FabLab de Lille](http://www.fablablille.fr/)
-  * David a posté un compte rendu sur sa visite du [FabLab de Grenoble](http://fablab-lannion.org/2012/11/visite-du-fablab-casemate-de-grenoble/ "Visite du FabLab ‘Casemate’ de Grenoble" )
+  * Yvon a continué son enquête auprès du [FabLab de Nantes](https://www.pingbase.net) qui (pour une fois) est associatif \o/ Les statuts seront disponibles sous peu …
+  * Yvon va aussi nous écrire un petit compte rendu sur le [FabLab de Lille](https://www.fablablille.fr/)
+  * David a posté un compte rendu sur sa visite du [FabLab de Grenoble]({{ site.url }}/2012/11/visite-du-fablab-casemate-de-grenoble/ "Visite du FabLab ‘Casemate’ de Grenoble" )
 
 **Statuts**
 
@@ -48,6 +47,6 @@ débats constructifs nous ont amené jusqu'à l'article 9.
   * Article 3 : Vérifier si le siège social peut légalement être transféré sur simple décision du cA -&gt; **Jérôme**
 
 Pour voir le résultat du travail et discuter de la suite, ils sont à jour [sur
-le wiki](http://fablab-lannion.org/wiki/statuts/ "statuts" )
+le wiki]({{ site.url }}/wiki/statuts/ "statuts" )
 
 

@@ -8,9 +8,9 @@ date: 2013-07-03
 title: "La vidéo de la présentation de Bzzz au Carrefour Des Possible &#8211; Rennes"
 comments: True
 ---
-[https://www.facebook.com/cdpbretagne](http://vimeo.com/69476342#at=0)
+[https://www.facebook.com/cdpbretagne](https://vimeo.com/69476342#at=0)
 
-<http://www.atlantic-
+<https://www.atlantic-
 television.tv/carrefourdespossibles2013/index.html#prettyPhoto>
 
 

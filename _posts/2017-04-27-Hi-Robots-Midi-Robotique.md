@@ -9,7 +9,7 @@ comments: True
 share: True
 ---
 
-[Code d'Armor](http://codedarmor.fr/), en partenariat avec Anticipa organise une découverte de robots Jeudi prochain, le 4 Mai.
+[Code d'Armor](https://codedarmor.fr/), en partenariat avec Anticipa organise une découverte de robots Jeudi prochain, le 4 Mai.
 
 Ca sera l'occasion de découvrir différents type de robots présentés par Code d'Armor, L'ENSSAT et bien sur le Fablab!
 

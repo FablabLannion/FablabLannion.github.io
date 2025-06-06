@@ -8,7 +8,7 @@ date: 2013-11-18
 title: "Appel à Projet « Fab labs 2013 »  : Encore un peu de suspense&#8230;"
 comments: True
 ---
-Fleur Pellerin a annoncé dans un [communiqué](http://proxy-
+Fleur Pellerin a annoncé dans un [communiqué](https://proxy-
 pubminefi.diffusion.finances.gouv.fr/pub/document/18/16036.pdf "communiqué" )
 que l'appel à projet « Fab labs 2013 » était un succès.
 
@@ -25,13 +25,13 @@ En cas de succès, on pourra envisager, outre l'acquisition d'un certain nombre
 de machines, un élargissement les plages d'ouverture. Nous pourrons alors
 développer de nouveaux partenariats et rencontrer de nouveaux publics.
 
-Nous espérons que la [spécificité ](http://fablab-lannion.org/2013/06/un-
+Nous espérons que la [spécificité ]({{ site.url }}/2013/06/un-
 fablab-dont-la-structure-est-innovante/ "Le Fablab de Lannion, un fablab dont
 la structure est innovante ?" )du Fablab de Lannion et la qualité du projet
 déposé auront convaincu le jury!
 
 En attendant, vous pouvez vous faire une petite idée du dossier en consultant
-la version résumée [ici](http://fablab-lannion.org/?p=9453).
+la version résumée [ici]({{ site.url }}/?p=9453).
 
 Et qui sait, Nous pourrons peut-être fêter le résultat lors des portes
 ouvertes!

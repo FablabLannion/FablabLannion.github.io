@@ -13,13 +13,12 @@ fablab se transforme en annexe de l'atelier des lutins du Père Noël.
 
 [![Gingerbread-Xmas-
 Set-2400px](https://static.fablab-lannion.org/Gingerbread-Xmas-
-Set-2400px-1024x813.png)](http://fablab-lannion.org/wp-
+Set-2400px-1024x813.png)]({{ site.url }}/wp-
 content/uploads/2015/11/Gingerbread-Xmas-Set-2400px.png)
 
 Samedi 12 décembre de 14 à 18h venez fabriquer vos cadeaux personnalisés et
 découvrir la puissance de notre nouveau jouet la découpeuse
-[LASER](http://fablab-
-lannion.org/wiki/index.php?title=D%C3%A9coupeuse_laser_Keyland).
+[LASER]({{ site.url }}/wiki/index.php?title=D%C3%A9coupeuse_laser_Keyland).
 
 Après avoir appris à concevoir votre objet, venez découper votre petit sapin
 de Noël avec sa jolie LED, votre étoile, vos boules de Noël en papier. Vous
@@ -34,6 +33,6 @@ contact@fablab-lannion.org.
 
 Le FabLab est soutenu par
 
-[![fondation_fr_quadri](https://static.fablab-lannion.org/fondation_fr_quadri.jpg)](http://www.fondationorange.com/)
+[![fondation_fr_quadri](https://static.fablab-lannion.org/fondation_fr_quadri.jpg)](https://www.fondationorange.com/)
 
 

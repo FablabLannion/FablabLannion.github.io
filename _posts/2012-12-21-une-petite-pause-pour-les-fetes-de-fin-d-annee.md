@@ -22,6 +22,6 @@ vous, à Lannion, rejoignez les groupes [Usagers](/groupes/usagers) et
 
 A l'année prochaine ! 🙂
 
-[![](http://craftjam.co.uk/images/laser%20cut%20snowflake%20charm%20card.jpg)](http://craftjam.co.uk/images/laser%20cut%20snowflake%20charm%20card.jpg)
+[![](https://craftjam.co.uk/images/laser%20cut%20snowflake%20charm%20card.jpg)](https://craftjam.co.uk/images/laser%20cut%20snowflake%20charm%20card.jpg)
 
 

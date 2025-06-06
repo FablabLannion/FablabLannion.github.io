@@ -9,7 +9,7 @@ title: "LoRa, une formation..."
 comments: True
 ---
 
-Comme [promis](http://www.fablab-lannion.org/2018/11/lora-le-retour.html) en fin d'année dernière, nous proposons une formation LoRa/[TheThingsNetwork](https://www.thethingsnetwork.org/)
+Comme [promis](https://www.fablab-lannion.org/2018/11/lora-le-retour.html) en fin d'année dernière, nous proposons une formation LoRa/[TheThingsNetwork](https://www.thethingsnetwork.org/)
 le Mercredi 30 Janvier 2019 à 21H dans les locaux du Fablab.
 
 Le but de cette formation est de diffuser les connaissances acquises sur le sujet au sein du Fablab. 
@@ -28,6 +28,6 @@ L'intégralité des infos - formation, gateways, clients,.. sont diponibles sur
 fablab.
 
 Cette formation gratuite est ouverte à tous, sans inscription. 
-Rendez-vous à 21h lors de l'[atelier du mercredi](http://www.fablab-lannion.org/horaires-et-acces/) 30 Janvier 2019.
+Rendez-vous à 21h lors de l'[atelier du mercredi](https://www.fablab-lannion.org/horaires-et-acces/) 30 Janvier 2019.
 
 Et n'oubliez pas, demain à 21H Assemblée Générale de l'association !

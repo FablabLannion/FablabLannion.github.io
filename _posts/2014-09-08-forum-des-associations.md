@@ -10,15 +10,15 @@ comments: True
 ---
 [![David et Cédric \(et la
 prusa\)](https://static.fablab-lannion.org/Bw2BAUFCYAAbb1u.jpg-
-large-150x150.jpg)](http://fablab-lannion.org/wp-
+large-150x150.jpg)]({{ site.url }}/wp-
 content/uploads/2014/09/Bw2BAUFCYAAbb1u.jpg-large.jpg)
 
 David et Cédric (et la prusa)
 
 Septembre, le mois de la rentrée scolaire et de [Notre Dame des
-Douleurs](http://fr.wikipedia.org/wiki/Notre-Dame_des_Douleurs) (aucun
+Douleurs](https://fr.wikipedia.org/wiki/Notre-Dame_des_Douleurs) (aucun
 rapport) est aussi le mois traditionnel du forum des associations. Celui de la
-belle ville de [Lannion](http://www.ville-
+belle ville de [Lannion](https://www.ville-
 lannion.fr/viewPageEvent.html?page=2011_09_03_forum_associations) se tenait
 samedi dernier. Le Fablab était bien entendu présent pour porter la bonne
 parole du DIY (_Do It Yourself, soit: fait-le toi-même_) au cœur de la salle
@@ -32,22 +32,21 @@ du fablab et les services que nous offrons à tout un chacun.
 
 [![Yoda avec nous
 était](https://static.fablab-lannion.org/Bw2d9SlIIAA3XZm.jpg-
-large-150x150.jpg)](http://fablab-lannion.org/wp-
+large-150x150.jpg)]({{ site.url }}/wp-
 content/uploads/2014/09/Bw2d9SlIIAA3XZm.jpg-large.jpg)
 
 Yoda avec nous était
 
 Outre le fablab, le stand était partagé par [les petits
-débrouillards](http://www.lespetitsdebrouillardsbretagne.org/-22-Cotes-d-
+débrouillards](https://www.lespetitsdebrouillardsbretagne.org/-22-Cotes-d-
 Armor-.html) (ahhhh [Bob le
-robo](http://www.dailymotion.com/video/x20oifp_battle-robot-movie_tech)t et la
-[machine à bulles](http://www.dailymotion.com/video/x1813r7_bulleur-
-automatique_tech)) et le [Coworking à Lannion](http://coworking.fablab-
+robo](https://www.dailymotion.com/video/x20oifp_battle-robot-movie_tech)t et la
+[machine à bulles](https://www.dailymotion.com/video/x1813r7_bulleur-
+automatique_tech)) et le [Coworking à Lannion](https://coworking.fablab-
 lannion.org/). C'est donc un attroupement régulier qui se tenait devant celui-
 ci pour le plaisir des yeux (et un peu moins des oreilles…). De nombreux
 contacts furent noués durant cette journée. Contacts que nous sommes prêts à
-prolonger lors de nos [réunions et ateliers ouverts](http://fablab-
-lannion.org/horaires-et-acces/ "Horaires et accès" ).
+prolonger lors de nos [réunions et ateliers ouverts]({{ site.url }}/horaires-et-acces/ "Horaires et accès" ).
 
 De plus, comme nous sommes maintenant en septembre, toute adhésion prise à
 partir de maintenant ne coure pas jusqu'en décembre 2014, mais jusqu'en
@@ -65,7 +64,7 @@ si ce n'est le meilleur expert des imprimantes 3D de l'Ouest, et en plus il
 est super sympa.
 
 Enfin nous terminerons les remerciements avec [eMotion
-Tech](http://www.emotion-tech.com/) qui nous a gentiment fournit le PLA
+Tech](https://www.emotion-tech.com/) qui nous a gentiment fournit le PLA
 utilisé toute la journée.
 
 à bientôt donc 🙂

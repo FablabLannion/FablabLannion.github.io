@@ -19,19 +19,17 @@ joueuses de bridge parlant le tibétain et calées sur le Knipowitschia bergi
 (utile pour le scrabble). Cette année le fablab vient compléter la liste déjà
 impréssionante des possibles envies associatives.
 
-[![SAMSUNG](https://static.fablab-lannion.org/IMG_20130907_101925-1024x768.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2013/09/IMG_20130907_101925.jpg)
+[![SAMSUNG](https://static.fablab-lannion.org/IMG_20130907_101925-1024x768.jpg)]({{ site.url }}/wp-content/uploads/2013/09/IMG_20130907_101925.jpg)
 
 C'est l'occasion d'aller à la rencontre des futurs utilisateurs.Flyers,
 autocollants et posters sont de sortie pour l'occasion. Le stand est partagé
 avec les petits débrouillards (qui sont aussi en bas). Nicolas, Yvon, Jérôme,
 Guillaume et Morgan sont sur le pont.
 
-[![SAMSUNG](https://static.fablab-lannion.org/IMG_20130907_101239-e1378559399837-768x1024.jpg)](http://fablab-
-lannion.org/wp-
+[![SAMSUNG](https://static.fablab-lannion.org/IMG_20130907_101239-e1378559399837-768x1024.jpg)]({{ site.url }}/wp-
 content/uploads/2013/09/IMG_20130907_101239-e1378559399837.jpg)Jérôme a sorti
 son radar de recul made in arduino (n'hésitez pas à vous inscrire pour [la
-soirée code d'Armor du 17 septembre](http://www.technopole-
+soirée code d'Armor du 17 septembre](https://www.technopole-
 anticipa.com/Soiree-Code-d-Armor-Arduino.html)) si vous voulez le même et tout
 savoir sur ce petit microcontrôleur open source. La séance de répétition a
 tenu les membres du fablab en haleine jusqu'à une heure avancée mercredi
@@ -40,19 +38,17 @@ dernier…
 L'imprimante 3D est également de la fête et suscite bon nombre de questions de
 la part de curieux de tous ages.
 
-[![SAMSUNG](https://static.fablab-lannion.org/IMG_20130907_095013-1024x768.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2013/09/IMG_20130907_095013.jpg)
+[![SAMSUNG](https://static.fablab-lannion.org/IMG_20130907_095013-1024x768.jpg)]({{ site.url }}/wp-content/uploads/2013/09/IMG_20130907_095013.jpg)
 
 Guillaume fait voler l'AR Drône au dessus de la foule.
 
-[![SAMSUNG](https://static.fablab-lannion.org/IMG_20130907_111552-1024x768.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2013/09/IMG_20130907_111552.jpg)
+[![SAMSUNG](https://static.fablab-lannion.org/IMG_20130907_111552-1024x768.jpg)]({{ site.url }}/wp-content/uploads/2013/09/IMG_20130907_111552.jpg)
 
   
 [AR Drône au forum des associations de
-Lannion](http://www.dailymotion.com/video/x14dhjz_ar-drone-au-forum-des-
+Lannion](https://www.dailymotion.com/video/x14dhjz_ar-drone-au-forum-des-
 associations-de-lannion_tech) _par [fablab-
-lannion](http://www.dailymotion.com/fablab-lannion)_
+lannion](https://www.dailymotion.com/fablab-lannion)_
 
 On accroche un petit autocollant fablab sous le drône tel l'avion survolant la
 plage en déroulant sa banderôle tout à la gloire d'un supermarché local. Sauf
