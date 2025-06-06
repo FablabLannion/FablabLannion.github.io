@@ -30,7 +30,7 @@ L'envie a germé suite à la rencontre avec la [fédération Open Space Maker](h
 Cette fédération, initiée par le [CNES](https://cnes.fr/fr), vise à ouvrir le monde du spatial aux makers et à l'open source en proposant la réalisation d'outils, véhicules et autres objets liés au domaine spatial. Vous souhaitez réaliser un lanceur, une catapulte électromagnétique pour cubesats,  un récupérateur de débris spatiaux, un générateur de gravité artificielle...
 Jetez plutôt un coup d’œil [ici](https://www.federation-openspacemakers.com/fr/participer/projets/)
 
-Des membres de la fédération étaient venus à Lannion ([petit billet de blog](http://www.fablab-lannion.org/2018/11/openspacemakerlannion.html)) et avaient présenté un
+Des membres de la fédération étaient venus à Lannion ([petit billet de blog](https://www.fablab-lannion.org/2018/11/openspacemakerlannion.html)) et avaient présenté un
 clinostat réalisé par nos [amis nantais](https://www.plateforme-c.org/portfolio/lefablab/)
 à destination des équipes du CNRS de Roscoff travaillant sur le mystérieux et
 prometteur [ver de roscoff](https://fr.wikipedia.org/wiki/Symsagittifera_roscoffensis).

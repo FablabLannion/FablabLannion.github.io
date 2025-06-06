@@ -40,7 +40,7 @@ Les projets du soir étaient:
  * Dossier Médical partagé au service de la sportive Bretonne
  * Modélisation 3D de Lannion / Lannion 2030 - phase 2
 
-Plus d'infos sur [Adonnantes sur le wiki](http://wiki.fablab-lannion.org/index.php?title=Adonnantes_4)
+Plus d'infos sur [Adonnantes sur le wiki](https://wiki.fablab-lannion.org/index.php?title=Adonnantes_4)
 
 Projets citoyens, sportifs, techniques mêlant étudiants, associations, fablab,
 garage d'entreprises ou entrepreneurs, cette édition s'est achevée autour d'un

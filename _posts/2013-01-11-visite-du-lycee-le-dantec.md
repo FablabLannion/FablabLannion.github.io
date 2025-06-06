@@ -15,8 +15,7 @@ Le bureau retourne à l'école pour la bonne cause.
 Nous avons eu en effet la chance et l'opportunité de découvrir le lycée Le
 Dantec.
 
-[![SAMSUNG](https://static.fablab-lannion.org/LD5-300x225.jpg)](http://fablab-
-lannion.org/2013/01/visite-du-lycee-le-dantec/samsung-4/)
+[![SAMSUNG](https://static.fablab-lannion.org/LD5-300x225.jpg)]({{ site.url }}/2013/01/visite-du-lycee-le-dantec/samsung-4/)
 
 Paradoxalement, on avait constaté lors de la réunion hebdomadaire que, sur les
 20 personnes présents, seule une avait fréquenté les bancs du célèbre lycée
@@ -25,8 +24,7 @@ Lannionais, donc petite séance de rattrapage ce mardi pour le bureau.
 Nous avons pu constater que le lycée technique possède un super cadre: de
 l'espace et une variété de belles machines.
 
-[![SAMSUNG](https://static.fablab-lannion.org/LD7-300x225.jpg)](http://fablab-
-lannion.org/2013/01/visite-du-lycee-le-dantec/samsung-3/)
+[![SAMSUNG](https://static.fablab-lannion.org/LD7-300x225.jpg)]({{ site.url }}/2013/01/visite-du-lycee-le-dantec/samsung-3/)
 
 En fait toutes les machines qui font un fablab (fraiseuse CNC, imprimante 3D,
 découpeuse laser) sont utilisés par les étudiants des différentes sections
@@ -38,8 +36,7 @@ faire quelque chose qui se rapproche mais c'est pas gagné. La qualité de
 l'impression est vraiment bluffante. On a pu voir une clé à molette
 imprimée..avec les molettes qui fonctionnent….
 
-[![SAMSUNG](https://static.fablab-lannion.org/LD10-300x225.jpg)](http://fablab-
-lannion.org/2013/01/visite-du-lycee-le-dantec/samsung-5/)
+[![SAMSUNG](https://static.fablab-lannion.org/LD10-300x225.jpg)]({{ site.url }}/2013/01/visite-du-lycee-le-dantec/samsung-5/)
 
 On a pu aussi visiter la salle de modélisation 3D; les machines sont à la
 Kinect ce que la PS3 est au ZX Spectrum…du matériel pro comme on en voit à la
@@ -51,7 +48,7 @@ Du coup Cedric et Jérôme hésitent à postuler pour un bac pro..
 Ca serait chouette aussi de motiver les enseignants à nous rejoindre car nul
 doute qu'on a beaucoup à apprendre or au dernier recensement il semble qu'ils
 soient encore peu représentés (pour le moment). On a ainsi découvert le blog
-[Le Dan-TECH](http://www.lycee-ledantec.ac-rennes.fr/ledan-tech/) où on y
+[Le Dan-TECH](https://www.lycee-ledantec.ac-rennes.fr/ledan-tech/) où on y
 parle arduino, asterisk et projet domotique … on a bien l'impression de parler
 la même langue..
 

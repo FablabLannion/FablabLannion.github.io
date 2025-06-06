@@ -8,7 +8,6 @@ title: "Rappel: AG de l&#8217;Asso ce soir"
 comments: True
 ---
 Un bref rappel: Ce soir a lieu l'assemblée générale de l'association. Vous
-trouverez plus d'info =&gt; http://fablab-
-lannion.org/evenements/2013/12/assemblee-generale-2013/
+trouverez plus d'info =&gt; {{ site.url }}/evenements/2013/12/assemblee-generale-2013/
 
 

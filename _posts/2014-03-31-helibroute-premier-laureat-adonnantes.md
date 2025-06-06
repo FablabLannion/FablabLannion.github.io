@@ -28,13 +28,11 @@ Plusieurs critères ont donc été pris en compte: l'originalité, le potentiel,
 le nombre de personnes mobilisables. Chaque membre du CA pouvait attribuer 9,
 6 ou 3 points.
 
-[![20140331_131353](https://static.fablab-lannion.org/20140331_131353-1024x768.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2014/03/20140331_131353.jpg)Le lauréat de cette
+[![20140331_131353](https://static.fablab-lannion.org/20140331_131353-1024x768.jpg)]({{ site.url }}/wp-content/uploads/2014/03/20140331_131353.jpg)Le lauréat de cette
 première édition est de saison puisqu'il s'agit d'Hélibroute, le robot
 tondeuse avec 72 points contre 45 pour Dolly, 36 pour CableCam et 0 pour
 Bédini. La présentation d'Anatole a été particulièrement convaincante et le
-projet est déjà bien documenté sur le [wiki](http://fablab-
-lannion.org/wiki/index.php?title=HeliBroute). Le CA note qu'un rapprochement
+projet est déjà bien documenté sur le [wiki]({{ site.url }}/wiki/index.php?title=HeliBroute). Le CA note qu'un rapprochement
 avec le projet robotique est possible. Avis aux personnes intéressées, il y en
 a pour tout le monde. Si la partie mécanique est déjà bien avancée, elle n'en
 reste pas moins perfectible et la robotisation de la bête nécessitera aussi

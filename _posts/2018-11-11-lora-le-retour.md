@@ -10,7 +10,7 @@ comments: True
 ---
 En 2016, nous prophétisions une année 2017 riche en LoRA.
 Si vous souhaitez vous rafraîchir la mémoire sur la technologie LoRA, n'hésitez
-pas à relire [l'article de l'époque](http://www.fablab-lannion.org/2016/01/oh-lora-y-a-tant-de-phrases-quon-dit-que-je-ne-dirais-pas.html).
+pas à relire [l'article de l'époque](https://www.fablab-lannion.org/2016/01/oh-lora-y-a-tant-de-phrases-quon-dit-que-je-ne-dirais-pas.html).
 
 Si les premiers ateliers ont suivi assez rapidement afin de permettre
 la réalisation de nanogateways [TTN](https://www.thethingsnetwork.org/) ou de
@@ -42,7 +42,7 @@ Ces gateways ont été acquises dans le cadre du projet d'investissement 2017
 (avec le soutien de la région Bretagne, LTC, le CG22 et la regrettée C.Erhel)
 puis via du sponsoring à l'occasion de Libre en fête en Trégor 2018.
 
-On peut d'ailleurs noter que ce réseau fait écho à l'initiative [Test and Plug](http://www.testandplug.bzh/) auquel le fablab a été brièvement associé
+On peut d'ailleurs noter que ce réseau fait écho à l'initiative [Test and Plug](https://www.testandplug.bzh/) auquel le fablab a été brièvement associé
 offrant connectivité LoRa et LTE Cat-M aux entreprises liées au monde
 merveilleux de l'IoT (Internet Of Things).
 
@@ -76,4 +76,4 @@ Des tests de portée et d'autonomie sont par ailleurs en cours.
 Un atelier sera programmé début 2019 pour présenter le réseau et permettre
 la réalisation d'un client. Restez connecté, la date sera communiquée
 prochainement. D'ici là rien ne vous empêche de venir rencontrer Tangi, FX,
-David ou les autres à l'occasion d'un [atelier du mercredi soir](http://www.fablab-lannion.org/horaires-et-acces/)..
+David ou les autres à l'occasion d'un [atelier du mercredi soir](https://www.fablab-lannion.org/horaires-et-acces/)..

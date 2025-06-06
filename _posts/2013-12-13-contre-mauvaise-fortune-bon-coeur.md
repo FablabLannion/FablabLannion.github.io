@@ -14,7 +14,7 @@ alt="Les partenaires du projet !" w="340″ h="253″ /]
 C'est avec regret que l'association du fablab de Lannion a appris que son
 projet, déposé le 13 septembre dernier, ne figurait pas parmi les lauréats de
 [l'appel à projets "Aide au développement des ateliers de fabrication
-numérique"](http://www.dgcis.gouv.fr/secteurs-professionnels/aide-au-
+numérique"](https://www.dgcis.gouv.fr/secteurs-professionnels/aide-au-
 developpement-des-ateliers-fabrication-numerique). Un investissement
 conséquent de la part des membres de l'association et de ses partenaires avait
 permis de constituer [un dossier solide](/wp-content/uploads/2013/09/3-Dossier
@@ -26,19 +26,19 @@ sélectionnés dans des agglomérations plus importantes, ou portés par des
 entreprises ou écoles dont l'activité a déjà pignon sur rue. Nous félicitons
 les fablabs lauréats, et notamment ceux du Grand Ouest : le FabClub, une
 extension de type fablab à l'entreprise "FabShop" (Saint-Malo), le
-[LabFab](http://labfab.fr/) (Rennes), et Fabmake ([IRT Jules
-Verne](http://www.irt-jules-verne.fr/), Bouguenais). Saluons également la
+[LabFab](https://labfab.fr/) (Rennes), et Fabmake ([IRT Jules
+Verne](https://www.irt-jules-verne.fr/), Bouguenais). Saluons également la
 réussite des projets d'Artilect (Toulouse), Ecolab (?),
-[L'Usine.io](http://usine.io) (Paris), Manchelab (EDIT : un fablab mobile qui
+[L'Usine.io](https://usine.io) (Paris), Manchelab (EDIT : un fablab mobile qui
 circulera dans le département de la Manche), Poblab (?), le futur [Fablab
-Calais](http://www.nordlittoral.fr/accueil/vers-la-cr-ation-d-un-fab-lab-
+Calais](https://www.nordlittoral.fr/accueil/vers-la-cr-ation-d-un-fab-lab-
 calais-ia0b0n2766) (porté par
-[Tektos](http://www.maddyness.com/accompagnement/accelerateurs/2013/09/20/tektos-
+[Tektos](https://www.maddyness.com/accompagnement/accelerateurs/2013/09/20/tektos-
 sncf-dojoboost-calais/), un accélérateur d'entreprise de Calais),
-[Orléans](http://fablab.tech-orleans.fr/), [Val de
-Drôme](http://webcache.googleusercontent.com/search?q=cache:2YaQdAlZn_AJ:www.pole-
+[Orléans](https://fablab.tech-orleans.fr/), [Val de
+Drôme](https://webcache.googleusercontent.com/search?q=cache:2YaQdAlZn_AJ:www.pole-
 numerique.com/telechargements.html%3Ffile%3Dtl_files/1_telechargements_depots/FabLabValdeDrome_DossieretAnnexes20130912.pdf+&cd=2&hl=fr&ct=clnk&gl=fr&client=ubuntu),
-[ICIMontreuil](http://www.icimontreuil.com/),
+[ICIMontreuil](https://www.icimontreuil.com/),
 [zBis](https://groups.diigo.com/group/projet-zbis) (porté par La Forge des
 Possibles et Emmanuelle Roux/InterFabs) , SmartMaterials (?). Nul doute qu'ils
 sauront faire vivre l'esprit collaboratif en contribuant à l'animation du
@@ -63,7 +63,7 @@ le voyage !
 
 Merci encore à tous, et à bientôt* !
 
-[@yann](http://fablab-lannion.org/membres/yann/)
+[@yann]({{ site.url }}/membres/yann/)
 
 * : ce soir, rendez-vous à 21h au Ginger's à Lannion pour "fêter" les résultats !
 

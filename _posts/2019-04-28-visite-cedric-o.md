@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: [Association]
-imagefeature: http://static.fablab-lannion.org/CedricO_MakeIt.jpg
+imagefeature: https://static.fablab-lannion.org/CedricO_MakeIt.jpg
 layout: post
 slug: visite-cedric-o
 date: 2019-04-29
@@ -20,7 +20,7 @@ de Lannion: l'éducation populaire, le recyclage et l'inclusion numérique.
 Le programme était riche: petite démo à la découpeuse laser, première machine
 emblématique obtenue grâce au soutien de la regrettée C.Ehrel, présentation de
 la découpeuse plasma entièrement conçue et réalisée au fablab, retour sur les
-différents projets ([LoRa](https://wiki.fablab-lannion.org/index.php?title=Cat%C3%A9gorie:LoRa) / [The Things Network](https://www.thethingsnetwork.org/))) et événements initiés par le fablab ([Libre en Fête](http://libre-en-fete-tregor.fr/))
+différents projets ([LoRa](https://wiki.fablab-lannion.org/index.php?title=Cat%C3%A9gorie:LoRa) / [The Things Network](https://www.thethingsnetwork.org/))) et événements initiés par le fablab ([Libre en Fête](https://libre-en-fete-tregor.fr/))
 pour finir par une présentation du partenariat avec la mission locale et la
 fondation Orange pour la remédiation numérique par le faire sous la houlette de
 Thierry.
@@ -33,7 +33,7 @@ Cette visite a valu à notre président d'être retwitté par son homologue de
 l'Elyséee ![twitt]({{ site.url }}/images/posts/PhotoCedricO.jpg) et de figurer
 sur des photos avec un député, un secrétaire d'état, le maire de Lannion et de
 Perros-Guirec, le président de LTC, le sous préfet, le proviseur adjoint du
-lycée le Dantec, le responsable du [campus des métiers et des qualifications](http://lycee-ledantec.fr/le-lycee/le-campus-des-metiers-et-des-qualifications-du-numerique/), le représentant du
+lycée le Dantec, le responsable du [campus des métiers et des qualifications](https://lycee-ledantec.fr/le-lycee/le-campus-des-metiers-et-des-qualifications-du-numerique/), le représentant du
 rectorat, Alain, David, Jean-Louis, Tangi, Fred et bien d'autres...
 
 [Galerie Photos](https://photos.app.goo.gl/QB8f8pD9zkN468Tu6)

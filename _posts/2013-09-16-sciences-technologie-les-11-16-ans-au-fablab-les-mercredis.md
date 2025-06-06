@@ -10,7 +10,7 @@ comments: True
 ---
 Comme vous le savez peut-être déjà, dans le cadre de notre mission d'éducation
 populaire, nous avons noué un partenariat avec [Les Petits
-débrouillards](http://www.lespetitsdebrouillardsbretagne.org/-22-Cotes-d-
+débrouillards](https://www.lespetitsdebrouillardsbretagne.org/-22-Cotes-d-
 Armor-.html).
 
 Dans le cadre de celui-ci, est organisé le Club FabLab Lannion des Petits
@@ -43,11 +43,11 @@ Réservation pour cette journée :
 
 
 Tarifs (sécables en trimestre), [sur le site
-web](http://www.lespetitsdebrouillardsbretagne.org/Club-FabLab-a-
+web](https://www.lespetitsdebrouillardsbretagne.org/Club-FabLab-a-
 Lannion.html).
 
 Fiche d’[inscription
-annuelle](http://www.lespetitsdebrouillardsbretagne.org/IMG/doc/ficheinscription_clubfablab.doc).
+annuelle](https://www.lespetitsdebrouillardsbretagne.org/IMG/doc/ficheinscription_clubfablab.doc).
 
 Parce qu'il n'est jamais trop tôt pour que vos enfants **comprennent** et
 **maîtrisent** notre monde numérique, inscrivez les ou amenez les à la journée
@@ -55,7 +55,6 @@ découverte 😉
 
 
 
-PS: L'entrée au Fablab se fait par le [14 rue de Beauchamp](http://fablab-
-lannion.org/contact/ "Contact" )
+PS: L'entrée au Fablab se fait par le [14 rue de Beauchamp]({{ site.url }}/contact/ "Contact" )
 
 

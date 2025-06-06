@@ -14,8 +14,7 @@ les locaux du FabLab, pour proposer un atelier gratuit sur le thème de
 l'initiation à la programmation informatique : Devoxx 4 Kids.
 
 [![Initiation à la programmation au FabLab avec Code d'Armor et les petits
-débrouillards](https://static.fablab-lannion.org/Devoxx2013-300x225.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2013/12/Devoxx2013.jpg)
+débrouillards](https://static.fablab-lannion.org/Devoxx2013-300x225.jpg)]({{ site.url }}/wp-content/uploads/2013/12/Devoxx2013.jpg)
 
 Le Devoxx est un salon européen annuel, qui regroupe des passionnés
 d'informatique autour de conférences et de débats. Le Devoxx 4 Kids est donc
@@ -29,7 +28,7 @@ Le contenu de ces ateliers comporte deux parties :
 
 On retrouve d'abord le volet programmation numérique avec le logiciel Scratch,
 qui est une application web disponible à tous à cette adresse :
-<http://scratch.mit.edu/>
+<https://scratch.mit.edu/>
 
 Ce logiciel propose une interface de programmation simplifiée, c'est à dire
 que l'assemblage de blocs remplace l'écriture de lignes de code (les blocs

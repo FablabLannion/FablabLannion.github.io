@@ -15,7 +15,7 @@ Chaque semaine, le Fablab vous propose de (re)découvrir une page du [Wiki](http
 
 Comme toute association dite *Loi de 1901*, le Fablab de Lannion a des statuts. Ils ont été écrits en collectif lors de l'assemblée constituante du 3 décembre 2012.
 Publiques, vous pouvez les trouver sur [cette page](https://wiki.fablab-lannion.org/index.php?title=Statuts).
-Si vous n'avez pas le courage de les lire, vous pouvez au moins lire [l'article sur les 5 ans](http://www.fablab-lannion.org/2017/08/5ansdeja.html) de notre aventure commune :)
+Si vous n'avez pas le courage de les lire, vous pouvez au moins lire [l'article sur les 5 ans](https://www.fablab-lannion.org/2017/08/5ansdeja.html) de notre aventure commune :)
 
 Bien sur, vous retrouverez tous les détails et plus encore dans notre Wiki : [Statuts](https://wiki.fablab-lannion.org/index.php?title=Statuts)
 

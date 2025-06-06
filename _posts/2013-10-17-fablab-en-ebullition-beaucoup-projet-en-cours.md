@@ -14,19 +14,16 @@ d'ouvertures connaissent un succès grandissant.
 
 **Nous en profitons pour faire un appel aux bonnes volontés qui souhaitent s'investir dans la réhabilitation des machines déjà disponibles au Labo**. Apprentissage des technologies et du fonctionnement des machines sont au menu.
 
-[![SeanceFabLabLannion](https://static.fablab-lannion.org/IMG_20131002_223030-300x225.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2013/10/IMG_20131002_223030.jpg)
+[![SeanceFabLabLannion](https://static.fablab-lannion.org/IMG_20131002_223030-300x225.jpg)]({{ site.url }}/wp-content/uploads/2013/10/IMG_20131002_223030.jpg)
 
 Il y a beaucoup de travail mais cela permettra au FabLab d'être doté de
 chaînes complètes de créations dans plusieurs domaines:
 
 > ##### Création de carte électronique: gravure du PCB par une CNC (fraiseuse
 numérique), mise en place de la pâte à braser par la [Precidot
-30](http://fablab-lannion.org/wiki/index.php?title=Precidot_30), mise en place
-des composants par la [Novar 33](http://fablab-
-lannion.org/wiki/index.php?title=Novar_33) et finition des soudures par le
-[four à refusion](http://fablab-
-lannion.org/wiki/index.php?title=Four_%C3%A0_refusion).
+30]({{ site.url }}/wiki/index.php?title=Precidot_30), mise en place
+des composants par la [Novar 33]({{ site.url }}/wiki/index.php?title=Novar_33) et finition des soudures par le
+[four à refusion]({{ site.url }}/wiki/index.php?title=Four_%C3%A0_refusion).
 
 >
 
@@ -35,26 +32,20 @@ CNC.
 
 >
 
->> > >   1. Dossier CNC: [@Theo](http://fablab-lannion.org/membres/theo/) et
-[@David.blaisonneau](http://fablab-lannion.org/membres/david.blaisonneau/)
-travaillent actuellement sur la C[harlyRobot ](http://fablab-
-lannion.org/wiki/index.php?title=CharlyRobot)tandis que @Jerome va bientôt
-recevoir la [eShapeOko](http://fablab-
-lannion.org/wiki/index.php?title=Shapeoko) à monter.
+>> > >   1. Dossier CNC: [@Theo]({{ site.url }}/membres/theo/) et
+[@David.blaisonneau]({{ site.url }}/membres/david.blaisonneau/)
+travaillent actuellement sur la C[harlyRobot ]({{ site.url }}/wiki/index.php?title=CharlyRobot)tandis que @Jerome va bientôt
+recevoir la [eShapeOko]({{ site.url }}/wiki/index.php?title=Shapeoko) à monter.
 
->>>>   2. Dossier [Precidot 30](http://fablab-
-lannion.org/wiki/index.php?title=Precidot_30) et [Novar 33](http://fablab-
-lannion.org/wiki/index.php?title=Novar_33): @David.blaisonneau @Theo @Yann
+>>>>   2. Dossier [Precidot 30]({{ site.url }}/wiki/index.php?title=Precidot_30) et [Novar 33]({{ site.url }}/wiki/index.php?title=Novar_33): @David.blaisonneau @Theo @Yann
 sont en train de travailler sur la rétro-ingénierie pour pouvoir automatiser
 le fonctionnement. Des scripts sont en cours de réalisation alors qu'une
 interface graphique est à l'étude. Une page spécifique sur la [chaine
-CMS](http://fablab-lannion.org/wiki/index.php?title=Reparation_Chaine_CMS) sur
+CMS]({{ site.url }}/wiki/index.php?title=Reparation_Chaine_CMS) sur
 le wiki
 
->>>>   3. [Four à refusion](http://fablab-
-lannion.org/wiki/index.php?title=Four_%C3%A0_refusion): Le four à refusion à
-besoin d'être asservi pour pouvoir fonctionner, [@Pofexpray](http://fablab-
-lannion.org/membres/pofexpray/) a commencé à faire la liste non exhaustive du
+>>>>   3. [Four à refusion]({{ site.url }}/wiki/index.php?title=Four_%C3%A0_refusion): Le four à refusion à
+besoin d'être asservi pour pouvoir fonctionner, [@Pofexpray]({{ site.url }}/membres/pofexpray/) a commencé à faire la liste non exhaustive du
 matériel nécessaire.
 
 >>>>
@@ -70,23 +61,21 @@ jusqu'à l'impression.
 
 >
 
->> > >   1. [Scanner 3D](http://fablab-
-lannion.org/wiki/index.php?title=Scanner_3D): Pas de machine à remettre en
+>> > >   1. [Scanner 3D]({{ site.url }}/wiki/index.php?title=Scanner_3D): Pas de machine à remettre en
 route mais un projet ouvert qui part d'une feuille blanche. Avis aux amateurs.
 
->>>>   2. Impression 3D: [L'appel aux dons](http://fablab-lannion.org/nous-
+>>>>   2. Impression 3D: [L'appel aux dons]({{ site.url }}/nous-
 soutenir/cofinancer-une-machine/) pour l'acquisition d'une imprimante 3D reste
 ouvert.
 
 >>>>
 
 ##### **En parallèle les projets innovants continuent d'avancer**: [Les
-Data+](http://fablab-lannion.org/wiki/index.php?title=Cat%C3%A9gorie:Data%2B),
+Data+]({{ site.url }}/wiki/index.php?title=Cat%C3%A9gorie:Data%2B),
 [Bzzz](/wiki/index.php?title=Suivi_des_ruches),
 [BuddiesJewel](/wiki/index.php?title=BuddiesJewel),
 [DéclencheurPhotographique](/wiki/index.php?title=Declencheur_photographique),
-et [beaucoup d'autres….](http://fablab-
-lannion.org/wiki/index.php?title=Accueil)
+et [beaucoup d'autres….]({{ site.url }}/wiki/index.php?title=Accueil)
 
 **Vous êtes intéressé par tous ses sujets ?** **N'hésitez pas à vous manifester**, le FabLab est pour vous !
 

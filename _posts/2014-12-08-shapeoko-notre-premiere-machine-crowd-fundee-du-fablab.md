@@ -25,7 +25,7 @@ graphique.
 
 Cette machine avait été entièrement financée par le premier appel au don. Pour
 en savoir plus sur son histoire, n'hésitez pas à consulter la[ page du
-wiki](http://fablab-lannion.org/wiki/index.php?title=Shapeoko) qui lui est
+wiki]({{ site.url }}/wiki/index.php?title=Shapeoko) qui lui est
 consacrée.  
 La seconde machine prévue était une imprimante 3D. Nous allons bientôt en
 acquérir non pas une mais deux, car les prix ont baissé et les machines

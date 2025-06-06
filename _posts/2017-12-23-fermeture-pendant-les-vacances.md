@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: []
-imagefeature: http://wiki.fablab-lannion.org/images/8/81/JoyeuxNoel.jpg
+imagefeature: https://wiki.fablab-lannion.org/images/8/81/JoyeuxNoel.jpg
 layout: post
 slug: fermeture-pendant-les-vacances
 date: 2017-12-23

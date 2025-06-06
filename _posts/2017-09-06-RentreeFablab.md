@@ -14,7 +14,7 @@ Merci à lui et aux autres !
 
 Il flotte quand même un air de rentrée au Fablab de Lannion comme partout.
 
-Le premier rendez-vous sera  au forum des associations organisé par la ville de [Lannion](http://www.lannion.bzh/)
+Le premier rendez-vous sera  au forum des associations organisé par la ville de [Lannion](https://www.lannion.bzh/)
 N'hésitez pas à venir nous rencontrer samedi 9 septembre 2017 à la salle des Ursulines entre **9h et 17h30 **! 
 
 Nous serons sur la mezzanine, pas loin de [Code d'Armor](www.codedarmor.fr)...
@@ -23,7 +23,7 @@ De nombreux projets sont en cours ou à venir, autours de nouvelles machines, de
 
 Nous accueillons bien volontiers tous ceux voulant participer !
 
-D'autres rendez-vous suivront tout au long de l'année comme par exemple la [Fête de la Science](http://www.lannion-tregor.com/fr/evenement/1159-fete-de-la-science-2017.html)et [Libre en Fête 2018](http://libre-en-fete-tregor.fr/)
+D'autres rendez-vous suivront tout au long de l'année comme par exemple la [Fête de la Science](https://www.lannion-tregor.com/fr/evenement/1159-fete-de-la-science-2017.html)et [Libre en Fête 2018](https://libre-en-fete-tregor.fr/)
 
 Restez connectés !
 

@@ -1,7 +1,7 @@
 ---
 author: colvert
 tags: []
-imagefeature: http://www.fablab-lannion.org/images/trender/trender.png
+imagefeature: https://www.fablab-lannion.org/images/trender/trender.png
 layout: post
 slug: trender_a_la_une
 date: 2017-10-27
@@ -9,12 +9,12 @@ title: "Trender: quand la lumière donne du sens"
 comments: True
 ---
 
-Le trender est dans la newsletter d'[Anticipa](http://www.technopole-anticipa.com/Le-Trender-du-Fablab-quand-la-lumiere-donne-du-sens.html)
+Le trender est dans la newsletter d'[Anticipa](https://www.technopole-anticipa.com/Le-Trender-du-Fablab-quand-la-lumiere-donne-du-sens.html)
 
 L'[Internet des objets](https://fr.wikipedia.org/wiki/Internet_des_objets) est un sujet d'actualité. Pas une semaine sans qu'un nouvel objet ne fasse son apparition. 
 De la montre du sportif, au frigidaire connecté en passant par l'assistant personnel, nul doute que le père Noël apportera cette année son lot d'objets au pied du sapin potentiellement connecté.
 
-Si dans le domaine professionnel, ces objets sont perçus le plus souvent comme des outils au service d'une activité (ex [copeeks](http://copeeks.fr/fr/) dans l'agriculture, [telimed](http://telimed.fr/) pour l'aide à la personne), ces derniers suscitent souvent des réactions très contrastées chez les particuliers.
+Si dans le domaine professionnel, ces objets sont perçus le plus souvent comme des outils au service d'une activité (ex [copeeks](https://copeeks.fr/fr/) dans l'agriculture, [telimed](https://telimed.fr/) pour l'aide à la personne), ces derniers suscitent souvent des réactions très contrastées chez les particuliers.
 
 A l'enthousiasme des technophiles ultra connectés répond souvent une indifférence chez tous ceux ne voyant derrière l'objet qu'un gadget de plus à l'intérêt discutable.
 
@@ -42,7 +42,7 @@ Initié par Julien Jacques, Jérôme Labidurie et Cédric Bernard, trois acteurs
 
 Le Trender est une illustration assez incroyable de ce qu’un fablab peut faire. En effet il nécessite, outre de la créativité et de l’imagination, des compétences en modélisation 3D, en électronique, mécanique et informatique. Il fait appel à plusieurs machines emblématiques de l’association: l’imprimante 3D, la découpeuse Laser et la fraiseuse numérique. 
 
-Le Trender a été présenté aux [Adonnantes](http://wiki.fablab-lannion.org/index.php?title=Adonnantes) fin 2016, une réunion publique organisée par Anticipa et le Fablab de Lannion pour promouvoir les projets académiques, associatifs et entrepreneuriaux sur le territoire. Plusieurs formes et usages ont été testés.
+Le Trender a été présenté aux [Adonnantes](https://wiki.fablab-lannion.org/index.php?title=Adonnantes) fin 2016, une réunion publique organisée par Anticipa et le Fablab de Lannion pour promouvoir les projets académiques, associatifs et entrepreneuriaux sur le territoire. Plusieurs formes et usages ont été testés.
 
 ![julien](https://lh3.googleusercontent.com/IxvcTI4jbiipcIQ6GEkicXxqx3Fi5VpxgOQpCHG5s9UXdumgoJB_9dsjeffMrCqk2WZj9pNewavikbMZTZ2eKSxpKA32FsxrogEmgtOB6NjXzbpZ9BolCMBqh1tGMsgadlz5A4btEpAZ1kPNg93Zo0787byJZecKONPOdhrP2VUqqciG5XIjczdXUwUfbed0oXLgL-Ep5FoQNzZIZomGs886ciqV0rRp15lArvQ8X-Iks4isoacz2lTnFXpZ0aK0IbXjF_BjlUv3T7sXlsI2nkEQHIie9EqHw-pm0Fry1_oxkh9vQhSWH69-3KXsT0iC6Wce2elM0TDWSn2kHQ-7GfEEsbqV1vO-0Etcvom0hGYWmas2g23YyHkA39KEHiEr2We2BESoSQUclq_aR-v2EjUwb7t7Zp8uDXbIPJdn89EmlrOgIvn3jUDNYhCSBcPbzjBDTnp7SpZah_5mmBaObS94QYWx70X_CfSXCWM7h2SrwYgf1p7bMhIlvFLz3T8WBoq-sKS-CRbqx3NE34u4b1pmAj3LuX2SRTADDpkW1wdQOyHf_sLa44D0DWu4vtgxvhXBvdQkeX_MxycGtaru6CSa3uU2UE4rPX02NGZ8iXw=w856-h642-no)
 
@@ -55,4 +55,4 @@ Le XXIème siècle sera-t-il un nouveau siècle des lumières? Nul ne le sait ma
 
 Le Trender est encore jeune et pourtant une nouvelle version est déjà en cours d’élaboration . N’hésitez pas à venir nous rencontrer pour y contribuer et nous apporter vos propres lumières.
 
-Plus d’informations sur le site du Fablab de Lannion: http://www.fablab-lannion.org/trender/. 
+Plus d’informations sur le site du Fablab de Lannion: https://www.fablab-lannion.org/trender/. 

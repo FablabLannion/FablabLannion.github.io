@@ -18,8 +18,7 @@ Pour rappel, le fablab souhaite favoriser la concrétisation de projets par ses
 membres et l'association a donc décidé l'année dernière de mettre en place un
 système d'aide aux projets.
 
-[![-7](https://static.fablab-lannion.org/7-1024x492.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2014/02/7.jpg)
+[![-7](https://static.fablab-lannion.org/7-1024x492.jpg)]({{ site.url }}/wp-content/uploads/2014/02/7.jpg)
 
 En navigation, une adonnante est un coup de pouce du dieu Éole au cours d'une
 régate qui permet, grâce à une légère oscillation du vent de gagner plus

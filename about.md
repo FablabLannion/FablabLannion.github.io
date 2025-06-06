@@ -58,9 +58,9 @@ Informations administratives
 
 L'association a été crée en Décembre 2012 et est déclarée auprès de la sous-préfecture de Lannion
 
-* [Statuts](http://wiki.fablab-lannion.org//index.php?title=Statuts)
+* [Statuts](https://wiki.fablab-lannion.org//index.php?title=Statuts)
 * numéro RNA : W223001420 [Récépissé de déclaration](https://static.fablab-lannion.org//Recepisse_CR.pdf)
-* Parution au JO le 22/12/2012 [Annonce](http://www.journal-officiel.gouv.fr/association/index.php?ACTION=Rechercher&JTY_WALDEC=W223001420)
+* Parution au JO le 22/12/2012 [Annonce](https://www.journal-officiel.gouv.fr/pages/associations-detail-annonce/?q.id=id:201200510384)
 * numéro SIREN : 789 912 854
 
 Informations sur le site
@@ -74,7 +74,7 @@ Il y a aujourd'hui {{ site.posts | size }} posts dans {{ site.categories | size 
 
 L'article le plus récent est {% for post in site.posts limit:1 %}{% if post.description %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}">"{{ post.title }}"</a>{% else %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}" title="Read more about {{ post.title }}">"{{ post.title }}"</a>{% endif %}{% endfor %} publié le {% for post in site.posts limit:1 %}{% assign modifiedtime = post.modified | date: "%Y%m%d" %}{% assign posttime = post.date | date: "%Y%m%d" %}<time datetime="{{ post.date | date_to_xmlschema }}" class="post-time">{{ post.date | date: "%d %b %Y" }}</time>{% if post.modified %}{% if modifiedtime != posttime %} et modifié le <time datetime="{{ post.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ post.modified | date: "%d %b %Y" }}</time>{% endif %}{% endif %}{% endfor %}.
 
-La dernière modification a été faite le {{ site.time | date: "%A, %d %b %Y" }} à {{ site.time | date: "%I:%M %p" }} [UTC](http://en.wikipedia.org/wiki/Coordinated_Universal_Time "Temps Universel Coordonné").
+La dernière modification a été faite le {{ site.time | date: "%A, %d %b %Y" }} à {{ site.time | date: "%I:%M %p" }} [UTC](https://en.wikipedia.org/wiki/Coordinated_Universal_Time "Temps Universel Coordonné").
 
 
 

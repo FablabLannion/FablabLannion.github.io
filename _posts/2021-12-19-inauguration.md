@@ -7,7 +7,7 @@ date: 2021-12-19
 title: "Inauguration officielle du Fablab de Lannion"
 comments: True
 share: True
-imagefeature: http://www.fablab-lannion.org/images/posts/fablab_po2.jpg
+imagefeature: https://www.fablab-lannion.org/images/posts/fablab_po2.jpg
 ---
 
 L'inauguration officielle du Fablab est prévue le samedi 22 janvier 2022.

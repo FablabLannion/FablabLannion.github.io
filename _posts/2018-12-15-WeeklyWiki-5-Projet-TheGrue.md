@@ -13,7 +13,7 @@ Une icône connectée qui brille en fonction de l’activité sur Twitter.
 
 Chaque semaine, le Fablab vous propose de (re)découvrir une page du [Wiki](https://wiki.fablab-lannion.org). Cela peut être un projet documenté, une formation ou une page consacrée à l'organisation.
 
-Cet objet a été créé suite à une sollicitation de la [FrenchTech Brest+Lannion](http://frenchtech-brestplus.bzh/). Il combine parfaitement les capacités du Fablab de Lannion.
+Cet objet a été créé suite à une sollicitation de la [FrenchTech Brest+Lannion](https://frenchtech-brestplus.bzh/). Il combine parfaitement les capacités du Fablab de Lannion.
 Une communauté créative, la fabrication numérique l'électronique et l'intégration logicielle.
 Grâce à lui, vous pourrez suivre l'activité de mot-dièses (hashtags) sur twitter et la rapporter via l'éclairage et les couleurs de l'objet.
 Une manière ludique et visuelle de connecter le monde numérique et physique !

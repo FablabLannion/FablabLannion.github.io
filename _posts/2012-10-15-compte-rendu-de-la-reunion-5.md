@@ -44,7 +44,7 @@ Artilect à Toulouse, entretien prévu le 22 octobre après-midi)
 Blaisonneau. Il s'agit d'une plateforme de services dédiés aux services  
 télécoms (serveur vocal, SMS…) 100% open-source et permettant à tout un  
 chacun de développer des services de ce type. Plus d'infos sur  
-<http://www.emerginov.org/>
+<https://www.emerginov.org/>
 
 Priorité du moment (à vos bonnes volontés !) :
 

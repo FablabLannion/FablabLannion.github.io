@@ -10,7 +10,7 @@ comments: True
 Du lundi 8 au jeudi 11 février 2016, les petits débrouillards organisent un
 stage "Train Volant", pour les enfants de 9 à 14 ans.
 
-![](http://www.lespetitsdebrouillardsbretagne.org/local/cache-
+![](https://www.lespetitsdebrouillardsbretagne.org/local/cache-
 vignettes/L480xH681/affiche2color-6c4b9.png)
 
 **Attention au départ !** Le train volant au départ du FabLab et à destination de l’IUT va partir. Les 12 voyageurs sont invités à prendre place à bord du **MEISSNER Express** aux côtés de la famille Magnétix. Ce train desservira les stations de : Aimant, Électromagnétisme, Azote, Lévitation, Supraconductivité.
@@ -32,6 +32,6 @@ recherche d’emploi ou étudiants)
 
 Date limite d’inscription : le lundi 1er février inclus
 
-****Inscriptions [ici](http://www.lespetitsdebrouillardsbretagne.org/Mini-stage-des-vacances-de-fevrier.html)****
+****Inscriptions [ici](https://www.lespetitsdebrouillardsbretagne.org/Mini-stage-des-vacances-de-fevrier.html)****
 
 

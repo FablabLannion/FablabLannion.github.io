@@ -26,8 +26,8 @@ principalement par le partage de connaissances et l'entraide.
 
 Pour plus d'infos et déposer vos candidatures, rendez-vous sur le site :
 
-[http://www.service-civique.gouv.fr/missions/participer-au-developpement-des-
-actions-de-mediation-numerique](http://www.service-
+[https://www.service-civique.gouv.fr/missions/participer-au-developpement-des-
+actions-de-mediation-numerique](https://www.service-
 civique.gouv.fr/missions/participer-au-developpement-des-actions-de-mediation-
 numerique)
 

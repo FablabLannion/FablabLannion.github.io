@@ -15,14 +15,14 @@ Le premier du 6 au 10 Juillet, pour les 10/14 ans,
 permettra de devenir contributeur de l'internet !
 
 ![petits
-debs](http://www.lespetitsdebrouillardsbretagne.org/plugins/tydebs/images/bonof.png)
+debs](https://www.lespetitsdebrouillardsbretagne.org/plugins/tydebs/images/bonof.png)
 
 Le second, du 15 au 17 Juillet pour les 8/12 ans,  
 fera découvrir les bases de l'électricité…
 
 N'hésitez pas à vous inscrire (ou a inscrire vos enfants !) :  
 Plus de renseignements ici :  
-<http://www.lespetitsdebrouillardsbretagne.org/Mini-stage-de-juillet-a-
+<https://www.lespetitsdebrouillardsbretagne.org/Mini-stage-de-juillet-a-
 Lannion.html>
 
 

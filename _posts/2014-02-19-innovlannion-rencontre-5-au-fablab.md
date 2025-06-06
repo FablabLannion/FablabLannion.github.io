@@ -10,8 +10,7 @@ comments: True
 ---
 Après les données publiques, Emerginov, l'après midi codage à l'ENSSAT et la
 présentation d'openstreetmap, rendez-vous jeudi au fablab de 17h à 19h pour la
-5ème rencontre dans le cadre du concours innov[@lannion](http://fablab-
-lannion.org/membres/twitter_fablablannion/).
+5ème rencontre dans le cadre du concours innov[@lannion]({{ site.url }}/membres/twitter_fablablannion/).
 
 Au programme
 

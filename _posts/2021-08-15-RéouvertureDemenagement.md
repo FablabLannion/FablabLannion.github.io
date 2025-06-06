@@ -14,7 +14,7 @@ Bonjour à Tous,
 Le déménagement du Fablab est (presque) terminé. Merci à tous ceux qui ont
 aidé ! La nouvelle adresse est rue du 73e territorial à Lannion, [l'entrée
 se fait par la porte du Foyer de Jeunes
-Travailleurs](http://www.fablab-lannion.org/horaires-et-acces/).
+Travailleurs](https://www.fablab-lannion.org/horaires-et-acces/).
 Ensuite, il y auraun fléchage, en attendant suivez le couloir sur la gauche
 jusqu'au bout pour trouver le Fablab.
 

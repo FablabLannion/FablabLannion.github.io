@@ -35,7 +35,7 @@ première imprimante 3D Africaine réalisée avec des matériaux de récupérati
 Leur projet a d'ailleurs été sélectionné pour le [Forum Afrique – 100
 innovations pour un développement durable - La France soutient les innovations
 au service du développement durable en Afrique (16 septembre
-2013)](http://www.diplomatie.gouv.fr/fr/politique-etrangere-de-la-france/aide-
+2013)](https://www.diplomatie.gouv.fr/fr/politique-etrangere-de-la-france/aide-
 au-developpement-et/forum-afrique-100-innovations-pour/actualites-du-forum-
 afrique/article/la-france-soutient-les-innovations).
 

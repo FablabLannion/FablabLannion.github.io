@@ -21,8 +21,7 @@ présentation qui sera faite en collaboration avec Code D'Armor (prévu le 17
 septembre):
 
 [![Une maquette pour la présentation
-Arduino](https://static.fablab-lannion.org/IMG_20130904_230148-300x225.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2013/09/IMG_20130904_230148.jpg)
+Arduino](https://static.fablab-lannion.org/IMG_20130904_230148-300x225.jpg)]({{ site.url }}/wp-content/uploads/2013/09/IMG_20130904_230148.jpg)
 
 Une maquette pour la présentation Arduino
 
@@ -31,18 +30,16 @@ Une maquette pour la présentation Arduino
 La disposition de la salle permet à chaque projet d'avancer:
 
 [![Présentation de
-l'arduino](https://static.fablab-lannion.org/IMG_20130904_225955-300x225.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2013/09/IMG_20130904_225955.jpg)
+l'arduino](https://static.fablab-lannion.org/IMG_20130904_225955-300x225.jpg)]({{ site.url }}/wp-content/uploads/2013/09/IMG_20130904_225955.jpg)
 
 Présentation de l'arduino
 
 [![Les projets
-avancent](https://static.fablab-lannion.org/IMG_20130904_230030-300x225.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2013/09/IMG_20130904_230030.jpg)
+avancent](https://static.fablab-lannion.org/IMG_20130904_230030-300x225.jpg)]({{ site.url }}/wp-content/uploads/2013/09/IMG_20130904_230030.jpg)
 
 Les projets avancent
 
 PS: Merci aux petits débrouillards pour le prêt de la maquette ([le détails
-ici)](http://www.wikidebrouillard.org/index.php/R%C3%A9aliser_un_Arduino_g%C3%A9ant)
+ici)](https://www.wikidebrouillard.org/index.php/R%C3%A9aliser_un_Arduino_g%C3%A9ant)
 
 

@@ -18,6 +18,6 @@ Sous la houlette de Florian, venez découvrir le fablab et vivre une **expérien
 Tous les détails sont sur le programme, n'oubliez pas de vous inscrire.
 Pour plus d'informations, contactez nous par mail atelier@fablab-lannion.org ou au 07 67 89 26 94.
 
-![programme](http://www.fablab-lannion.org/images/posts/ateliers_prog_hiver_2022.jpg)
+![programme](https://www.fablab-lannion.org/images/posts/ateliers_prog_hiver_2022.jpg)
 
 A bientôt

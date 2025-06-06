@@ -15,8 +15,8 @@ L'année 2021 s'achève, et elle a été bien remplie au Fablab...
 Le tradionnel atelier des lutins s'est déroulé le 4 décembre dernier dans le cadre des festivités de Noël
 de la ville de Lannion. Une fois n'est pas coutume, cet événement a rencontré un beau succès populaire.
 
-![Lutin1](http://www.fablab-lannion.org/images/posts/lutin1.jpeg)
-![Lutin2](http://www.fablab-lannion.org/images/posts/lutin2.jpeg)
+![Lutin1](https://www.fablab-lannion.org/images/posts/lutin1.jpeg)
+![Lutin2](https://www.fablab-lannion.org/images/posts/lutin2.jpeg)
 
 Il vous reste une dernière semaine pour terminer vos cadeaux personnalisés au Fablab !
 

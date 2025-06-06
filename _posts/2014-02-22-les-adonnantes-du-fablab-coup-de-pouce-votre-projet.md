@@ -12,17 +12,14 @@ Les missions du Fablab de Lannion sont multiples: éducation populaire, atelier
 partagé, lieu d'échange et de partage. Le fablab souhaite également favoriser
 la création et l'accompagnement des projets qui naissent parmi ses membres.
 Les expériences récentes ont en effet montré qu'un projet ([réhabilitation de
-la Charly](http://fablab-
-lannion.org/wiki/index.php?title=Reparation_CharlyRobot "réhabilitation de la
-Charly" ), [Bzzz](http://fablab-
-lannion.org/wiki/index.php?title=Suivi_des_ruches "Bzz" )) pouvait être bloqué
+la Charly]({{ site.url }}/wiki/index.php?title=Reparation_CharlyRobot "réhabilitation de la
+Charly" ), [Bzzz]({{ site.url }}/wiki/index.php?title=Suivi_des_ruches "Bzz" )) pouvait être bloqué
 par manque d'un shield arduino ou de petites pièces.
 
 C'est dans ce cadre que l'association a décidé de mettre en place un système
 d'aide aux projets: les adonnantes.
 
-[![-7](https://static.fablab-lannion.org/7-1024x492.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2014/02/7.jpg)
+[![-7](https://static.fablab-lannion.org/7-1024x492.jpg)]({{ site.url }}/wp-content/uploads/2014/02/7.jpg)
 
 En navigation, une adonnante est un coup de pouce du dieu Eole au cours d'une
 régate qui vous permet, de part une légère oscillation du vent de gagner plus
@@ -38,8 +35,7 @@ est éligible. Les seules conditions: les membres et porteurs du projet doivent
 Le choix sera effectué par le CA de l'association à l'occasion d'un vote du
 lundi.
 
-[![List_Projets_022014](https://static.fablab-lannion.org/List_Projets_022014-1024x644.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2014/02/List_Projets_022014.jpg)
+[![List_Projets_022014](https://static.fablab-lannion.org/List_Projets_022014-1024x644.jpg)]({{ site.url }}/wp-content/uploads/2014/02/List_Projets_022014.jpg)
 
 Rendez-vous le 24 mars prochain pour la première édition des adonnantes. Si
 vous ne pouvez être là lors de la présentation, les vidéos de 5 minutes sont

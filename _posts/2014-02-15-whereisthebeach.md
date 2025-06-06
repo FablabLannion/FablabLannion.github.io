@@ -40,8 +40,7 @@ popularité web), le système vous indique alors la meilleure plage via un
 allumage de la led correspondant sur la carte. La direction est aussi pointée
 par la girouette.
 
-Plus d'information sur le WIki; <http://fablab-
-lannion.org/wiki/index.php?title=Where_is_the_Beach%3F>
+Plus d'information sur le WIki; <{{ site.url }}/wiki/index.php?title=Where_is_the_Beach%3F>
 
 Le projet a été réalisé par Tangi, Pierre-Yves, Antoine et Morgan.
 
@@ -49,6 +48,6 @@ Plusieus axes d'amélioration sont possibles (joli support/carte/sélecteur,
 plus de critères, plus de plages, bandes de led, mix avec aquamarium…).
 
 Le projet a été soumis au projet Data+ et sera soumis au concours
-Innov[@lannion](http://fablab-lannion.org/membres/twitter_fablablannion/).
+Innov[@lannion]({{ site.url }}/membres/twitter_fablablannion/).
 
 

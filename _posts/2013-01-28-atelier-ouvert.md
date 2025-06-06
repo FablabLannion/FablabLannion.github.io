@@ -26,7 +26,7 @@ Linux embarqué (Raspberry Pi ou équivalent), électronique de commande (châss
 terme d'innovation ouverte et collaborative, le projet est ouvert à toutes les
 contributions…
 
-PS : [clin d’œil](http://www.lycee-ledantec.ac-rennes.fr/ledan-tech/?p=140)
+PS : [clin d’œil](https://www.lycee-ledantec.ac-rennes.fr/ledan-tech/?p=140)
 bien reçu, Ledan-Tech ! 😉
 
 

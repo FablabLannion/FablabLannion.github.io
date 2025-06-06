@@ -8,9 +8,8 @@ date: 2015-04-08
 title: "Petit retour sur la semaine du libre"
 comments: True
 ---
-[![20150325_185017](https://static.fablab-lannion.org/20150325_185017-1024x576.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2015/04/20150325_185017.jpg)La semaine du libre
-<http://libre-en-fete-tregor.fr/> s'est achevée sur un dernier atelier pour
+[![20150325_185017](https://static.fablab-lannion.org/20150325_185017-1024x576.jpg)]({{ site.url }}/wp-content/uploads/2015/04/20150325_185017.jpg)La semaine du libre
+<https://libre-en-fete-tregor.fr/> s'est achevée sur un dernier atelier pour
 les enfants animé par les petits débrouillards au fablab marquant la fin d'une
 semaine riche en événements. Merci à tous les organisateurs (Lycée le Dantec,
 Enssat, Code d'Armor, Infothema, PATG, Ro'spered, les petits débrouillards,
@@ -20,13 +19,12 @@ OpenStreetMap, Ubuntu, les logiciels libres ou arduino. Mention spéciale aux
 étudiants du BTS IRIS et de l'Enssat pour leur implication, leur talent et
 leur enthousiasme communicatif.
 
-[![20150324_190133](https://static.fablab-lannion.org/20150324_190133-1024x576.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2015/04/20150324_190133.jpg)
+[![20150324_190133](https://static.fablab-lannion.org/20150324_190133-1024x576.jpg)]({{ site.url }}/wp-content/uploads/2015/04/20150324_190133.jpg)
 
 Rendez-vous l'année prochaine?
 
 l'excellent roman photos de l'excellente install party par l'excellente
 association Infothema
-[ici](http://www.infothema.fr/forum/index.php/topic,813.msg2485.html#msg2485)
+[ici](https://www.infothema.fr/forum/index.php/topic,813.msg2485.html#msg2485)
 
 

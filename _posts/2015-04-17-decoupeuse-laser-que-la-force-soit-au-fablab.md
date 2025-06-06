@@ -11,7 +11,7 @@ comments: True
 Amis technophiles, amis Maker,
 
 suite aux récentes recherches du CERN à propos de la Force
-(<http://home.web.cern.ch/fr/about/updates/2015/04/cern-researchers-confirm-
+(<https://home.web.cern.ch/fr/about/updates/2015/04/cern-researchers-confirm-
 existence-force>), le FabLab pense utiliser les fruits de cette trouvaille
 pour apprivoiser le LASER !
 
@@ -33,7 +33,7 @@ Le FabLab a besoin de connaitre vos besoins, d'avoir votre avis, et à besoin
 de vos connaissances !
 
 ![Laser
-Cern](http://home.web.cern.ch/sites/home.web.cern.ch/files/styles/medium/public/image/update-
+Cern](https://home.web.cern.ch/sites/home.web.cern.ch/files/styles/medium/public/image/update-
 for_the_public/2015/03/light-sabre.jpg?itok=6nLwR5Ti)
 
 Que la Maker Force soit avec vous !

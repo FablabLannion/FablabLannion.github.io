@@ -21,7 +21,7 @@ L'indispensable pour commencer son cursus de FabManager. Vous y apprendrez
 
 * comment présenter et faire visiter le Fablab
 * comment utiliser la caisse pour facturer
-* [plein d'autres choses](http://wiki.fablab-lannion.org/index.php?title=Cat%C3%A9gorie:FichesMachine)
+* [plein d'autres choses](https://wiki.fablab-lannion.org/index.php?title=Cat%C3%A9gorie:FichesMachine)
 
 2 séances sont déjà programmées :
 
@@ -30,16 +30,16 @@ L'indispensable pour commencer son cursus de FabManager. Vous y apprendrez
 
 ## Formation Découpeuse Laser
 Comment utiliser et encadrer l'utilisation de la découpeuse laser (Keyland).
-Le programme et les compétences à acquérir sont détaillés sur [la page idoine](http://wiki.fablab-lannion.org/index.php?title=Fiche_Machine_Laser).
+Le programme et les compétences à acquérir sont détaillés sur [la page idoine](https://wiki.fablab-lannion.org/index.php?title=Fiche_Machine_Laser).
 
 De la même manière, 2 séances seront programmées, sans doute après les vacances de février.
 
 ## Formation Imprimantes 3D
 Comment utiliser et encadrer l'utilisation des imprimantes 3D.
-Le programme et les compétences à acquérir sont détaillés sur [la page idoine](http://wiki.fablab-lannion.org/index.php?title=Fiche_Machine_Imprimantes3D).
+Le programme et les compétences à acquérir sont détaillés sur [la page idoine](https://wiki.fablab-lannion.org/index.php?title=Fiche_Machine_Imprimantes3D).
 
 De la même manière, 2 séances seront programmées pour les imprimantes à filament (Prusa et Delta). Puis 2 scéances pour l'imprimante à résine.
 
 ## Comment s'inscrire ?
-Rendez-vous [sur le forum](http://forum.fablab-lannion.org/viewtopic.php?f=2&t=548) pour vous inscrire aux différentes formations.
-Bien sur, vous devez remplir les [conditions nécessaires](http://wiki.fablab-lannion.org/index.php?title=DevenirFabManager)
+Rendez-vous [sur le forum](https://forum.fablab-lannion.org/viewtopic.php?f=2&t=548) pour vous inscrire aux différentes formations.
+Bien sur, vous devez remplir les [conditions nécessaires](https://wiki.fablab-lannion.org/index.php?title=DevenirFabManager)

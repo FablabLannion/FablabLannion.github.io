@@ -8,8 +8,7 @@ date: 2015-09-23
 title: "Le Fablab pour les enfants"
 comments: True
 ---
-[![Photo-0034](https://static.fablab-lannion.org/Photo-0034-150x150.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2013/09/Photo-0034.jpg)Bidouille électronique,
+[![Photo-0034](https://static.fablab-lannion.org/Photo-0034-150x150.jpg)]({{ site.url }}/wp-content/uploads/2013/09/Photo-0034.jpg)Bidouille électronique,
 électricité, fabrication numérique, programmation… Voici le monde dans lequel
 nos enfants grandissent ! Pour ne pas les laisser démunis comme une poule
 devant un couteau, il est essentiel pour eux d'acquérir les bases de cet
@@ -22,15 +21,15 @@ temps pour vous de les inscrire et les préparer au monde de demain 😉
 
 **CLUB DU MERCREDI AU FAB LAB DE LANNION**
 
-  * Lieu de l’animation : [FabLab de Lannion](http://fablab-lannion.org/horaires-et-acces/).
+  * Lieu de l’animation : [FabLab de Lannion]({{ site.url }}/horaires-et-acces/).
   * Pour des 10 à 14 ans.
   * Tous les mercredis du mercredi 30 septembre 2015, de 13H30 à 15H30 et de 15H30 à 17H30, sauf pendant les vacances scolaires, jusqu’au mercredi 22 juin 2016 soit 30 séances.
   * Tarifs : 150 € + 20 ou 10 euros d’adhésion (Étudiants ou personnes en recherche d’emploi).
-  * Thèmes : Atelier de bidouille électronique et numérique.[![battlebot](https://static.fablab-lannion.org/battlebot-150x150.jpg)](http://www.dailymotion.com/video/x20oifp_battle-robot-movie_tech)
+  * Thèmes : Atelier de bidouille électronique et numérique.[![battlebot](https://static.fablab-lannion.org/battlebot-150x150.jpg)](https://www.dailymotion.com/video/x20oifp_battle-robot-movie_tech)
 
 **MINI STAGE FAB LAB LANNION**
 
-      * Lieu de l’animation : [FabLab de Lannion](http://fablab-lannion.org/horaires-et-acces/).
+      * Lieu de l’animation : [FabLab de Lannion]({{ site.url }}/horaires-et-acces/).
   * Public : 10 à 14 ans
   * le lundi 19, mardi 20, mercredi 21 octobre 2015 de 14h à 17H sur le thème des énergies (Construction de moteurs fonctionnant avec différentes sources d'énergies)
   * le lundi 8, mardi 9, mercredi 10 février 2016 de 14h à 17h pour la Réalisation d'un dessin animé, d'un jeu vidéo (programmation avec Scratch)
@@ -48,6 +47,6 @@ Association Les Petits Débrouillards Bretagne Antenne Côtes d’Armor
 
 Tel : 02 96 68 64 29 / 06 83 47 89 27
 
-![](http://pfeiffenberger.weebly.com/uploads/8/0/5/7/8057198/340331114.jpg)
+![](https://pfeiffenberger.weebly.com/uploads/8/0/5/7/8057198/340331114.jpg)
 
 

@@ -20,8 +20,7 @@ f-goodrob13.jpg/1280px-Flashbacksarcade-f-goodrob13.jpg)
 Aussi quelques grands enfants du fablab ont décidé de jouer aux kids paddle
 version maker en se lançant dans la fabrication de leur propre borne d'arcade.
 
-Jérôme a réalisé une [super documentation](http://fablab-
-lannion.org/wiki/index.php?title=Borne_d%27arcade) permettant de réaliser ce
+Jérôme a réalisé une [super documentation]({{ site.url }}/wiki/index.php?title=Borne_d%27arcade) permettant de réaliser ce
 sympathique objet qui concentre pas mal de savoir-faire du fablab (découpeuse
 Laser, électronique, raspberry, ...)
 

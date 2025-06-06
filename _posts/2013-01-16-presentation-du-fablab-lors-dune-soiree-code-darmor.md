@@ -8,17 +8,16 @@ date: 2013-01-16
 title: "Présentation du fablab lors d&#8217;une soirée Code d&#8217;Armor"
 comments: True
 ---
-L'association Code D'armor (http://codedarmor.fr/) dont le but est de
+L'association Code D'armor (https://codedarmor.fr/) dont le but est de
 construire une communauté de développeurs sur la région de Lannion organisait
 une soirée ce mardi. Après avoir exploré l'an dernier Dart, Eclipse 4, NoSQL,
 HTML5 ou GWT, cette première séance de l'année était destinée à l'open source.
 
-[![SAMSUNG](https://static.fablab-lannion.org/IMG_20130115_205839-300x225.jpg)](http://fablab-
-lannion.org/2013/01/presentation-du-fablab-lors-dune-soiree-code-
+[![SAMSUNG](https://static.fablab-lannion.org/IMG_20130115_205839-300x225.jpg)]({{ site.url }}/2013/01/presentation-du-fablab-lors-dune-soiree-code-
 darmor/samsung-9/)
 
 Une trentaine de personnes ont assisté à la présentation de
-[@benoitb](http://fablab-lannion.org/membres/benoitb/) et Jacques Davy. Ils
+[@benoitb]({{ site.url }}/membres/benoitb/) et Jacques Davy. Ils
 ont ainsi pu découvrir les subtilités entre logiciel open source et logiciel
 libre et entrevoir les joyeusetés des compatibilités de licenses..si je mets
 un module sous license MPL, un sous license Apache avec 3 fonctions sous BSD

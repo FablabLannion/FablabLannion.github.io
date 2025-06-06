@@ -15,8 +15,7 @@ peu) serré lié à la présentation du prototype lors des jours sans fils
 gannt élaborés…il faut pouvoir tout faire et au plus vite sans trop (trop) se
 poser de questions.
 
-[![IMG_4222](https://static.fablab-lannion.org/IMG_4222-300x200.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2013/02/IMG_4222.jpg)
+[![IMG_4222](https://static.fablab-lannion.org/IMG_4222-300x200.jpg)]({{ site.url }}/wp-content/uploads/2013/02/IMG_4222.jpg)
 
 Jérôme a donc organisé l'urgence et coordonne les différentes équipes, la
 spécification qu'il faudra garder et mettre sous verre comme étant la toute
@@ -34,8 +33,7 @@ de personnes avaient répondu présent avec plusieurs objectifs: définir le
 robot et intégrer la chaîne androïd/rasberry pi/SPI arduino via un accès 4G.
 Des démos étaient même promises alors bilan…
 
-[![IMG_4228](https://static.fablab-lannion.org/IMG_4228-300x200.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2013/02/IMG_4228.jpg)
+[![IMG_4228](https://static.fablab-lannion.org/IMG_4228-300x200.jpg)]({{ site.url }}/wp-content/uploads/2013/02/IMG_4228.jpg)
 
 Pendant que les hardeux se battaient avec une règle de 12 cm pour définir le
 robot et discutaient de la meilleure option (reprap versus feutre suspendu),

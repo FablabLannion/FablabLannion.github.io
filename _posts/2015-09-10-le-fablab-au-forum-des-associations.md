@@ -22,7 +22,7 @@ distributeur de croquettes reconverti pour l'occasion en distributeur de
 smarties (même si le destin, facétieux, avait oublié une croquette dans le
 lot…). On aurait bien sorti Miss Daisy, le karting made in fablab, mais
 l'espace manquait, les amateurs ont cependant pu l'admirer sur l'[excellent
-reportage du télégramme](http://www.dailymotion.com/video/x2wq2fx_saint-
+reportage du télégramme](https://www.dailymotion.com/video/x2wq2fx_saint-
 brieuc-un-bolide-a-moins-de-400-euros_news).
 
 Comme les années précédentes, les imprimantes 3D ont remporté un grand succès.

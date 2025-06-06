@@ -8,11 +8,11 @@ date: 2018-12-12
 title: "Toujours beaucoup de lutins au Fablab"
 comments: True
 ---
-[Samedi dernier](http://www.fablab-lannion.org/2018/11/atelier-des-lutins-au-fablab.html), et pour la 3ème année consécutive, le Fablab s'est transformé en annexe de l'atelier du Père Noël.
+[Samedi dernier](https://www.fablab-lannion.org/2018/11/atelier-des-lutins-au-fablab.html), et pour la 3ème année consécutive, le Fablab s'est transformé en annexe de l'atelier du Père Noël.
 
 ![lutins](https://wiki.fablab-lannion.org/images/thumb/a/a9/20181208_143502.jpg/800px-20181208_143502.jpg)
 
-Cette année encore, de nombreux lutins se sont présentés après inscription. Comme nous avons dû refuser du monde, l'encadrement par les bénévoles a été plus facile et donc de meilleure qualité que [l'an dernier](http://www.fablab-lannion.org/2017/12/beaucoup-de-lutins-au-fablab.html).
+Cette année encore, de nombreux lutins se sont présentés après inscription. Comme nous avons dû refuser du monde, l'encadrement par les bénévoles a été plus facile et donc de meilleure qualité que [l'an dernier](https://www.fablab-lannion.org/2017/12/beaucoup-de-lutins-au-fablab.html).
 
 Nous avons pu voir de nombreuses et belles créations réalisées par les enfants et leurs parents. Ceux-ci n'étaient d'ailleurs pas les derniers à s'amuser ;)
 

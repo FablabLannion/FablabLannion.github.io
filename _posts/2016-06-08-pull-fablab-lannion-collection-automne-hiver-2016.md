@@ -25,6 +25,6 @@ Ce modèle sera vendu 30€ (prix coûtant)
 
 Un doodle est créé pour les pré-commandes afin de savoir combien doivent être
 commandés (remplir nom/prénom et choisir la ou les tailles):
-[Réservation](http://doodle.com/poll/m85rgsmfwqbqzyww)
+[Réservation](https://doodle.com/poll/m85rgsmfwqbqzyww)
 
 

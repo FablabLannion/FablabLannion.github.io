@@ -2,7 +2,7 @@
 author: thierry
 tags: association
 layout: post
-imagefeature: http://www.fablab-lannion.org/images/posts/restealamaison.jpg
+imagefeature: https://www.fablab-lannion.org/images/posts/restealamaison.jpg
 slug: FermetureTemporaire
 date: 2020-12-17
 title: "Le Fablab reste fermé..."
@@ -18,4 +18,4 @@ Nous vous tiendrons au courant dès que possible de la date de réouverture des 
 
 D'ici là passez de très bonnes fêtes de fin d'année, malgré la situation très particulière.
 
-![restezchezvous](http://www.fablab-lannion.org/images/posts/restealamaison.jpg)
+![restezchezvous](https://www.fablab-lannion.org/images/posts/restealamaison.jpg)

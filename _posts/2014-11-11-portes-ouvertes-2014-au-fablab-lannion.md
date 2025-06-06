@@ -40,15 +40,14 @@ Au programme des micros conférences (15′):
 Les démonstrations permettront de voir en action la désormais célèbre
 imprimante 3D, mais aussi les trop méconnues fraiseuses numériques.
 
-[![](https://static.fablab-lannion.org/IMG_20130907_095017-1024x768.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2014/11/IMG_20130907_095017.jpg)
+[![](https://static.fablab-lannion.org/IMG_20130907_095017-1024x768.jpg)]({{ site.url }}/wp-content/uploads/2014/11/IMG_20130907_095017.jpg)
 
 MC Jérôme en pleine action
 
 Des ateliers seront organisés au cours de l'après-midi en marge des démos et
 conférences
 
-  * l'atelier des chevaliers: il devrait nous permettre de réaliser des petits [boucliers personnalisés](http://fablab-lannion.org/wiki/index.php?title=FaisTonGCode) , avis aux chevaliers en herbe! D'ici à penser que le père Noël est déjà adhérent au fablab, il n'y a qu'un pas…
+  * l'atelier des chevaliers: il devrait nous permettre de réaliser des petits [boucliers personnalisés]({{ site.url }}/wiki/index.php?title=FaisTonGCode) , avis aux chevaliers en herbe! D'ici à penser que le père Noël est déjà adhérent au fablab, il n'y a qu'un pas…
   * l'atelier de la méga machine à bulle. Un peu d’électronique, d'impression 3D, des bulles de savons et l'imagination fait le reste
 
 Il y aura aussi de quoi se restaurer et promis les crêpes, elles, ne seront

@@ -13,8 +13,8 @@ Le défi data+ a rendu son verdict le 14 avril.
 Le fablab de Lannion place 2 projets dans les 10 premiers. Trégor Tech en
 force avec 2 projets sur 26!
 
-[![résultats_data+](http://fablab-lannion.org/wp-
-content/uploads/2014/04/résultats_data+.png)](http://fablab-lannion.org/wp-
+[![résultats_data+]({{ site.url }}/wp-
+content/uploads/2014/04/résultats_data+.png)]({{ site.url }}/wp-
 content/uploads/2014/04/résultats_data+.png)
 
 

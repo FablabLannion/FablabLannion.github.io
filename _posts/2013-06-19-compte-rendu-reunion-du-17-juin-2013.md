@@ -11,22 +11,20 @@ comments: True
 Cette semaine encore pas mal de monde présent pour cette réunion
 administrative. De même de nouvelles têtes se sont encore présentées.
 
-[@yann](http://fablab-lannion.org/membres/yann/) représentera le fablab au
-[café des sciences](http://www.lespetitsdebrouillardsbretagne.org/Cafe-des-
+[@yann]({{ site.url }}/membres/yann/) représentera le fablab au
+[café des sciences](https://www.lespetitsdebrouillardsbretagne.org/Cafe-des-
 Sciences-Numerique-25.html) de Ploufragan le 25 juin. Il n'est pas contre un
 accompagnement. Avis aux amateurs !
 
 Comme vous le savez sûrement déjà Bzzz est sélectionné pour le [carrefour des
-possibles](http://fablab-lannion.org/2013/06/le-fablab-selectionne-pour-les-
+possibles]({{ site.url }}/2013/06/le-fablab-selectionne-pour-les-
 carrefours-des-possibles-avec-bzzz/ "Le Fablab selectionné pour le carrefour
-des possibles avec Bzzz" ). Seront présents [@yann](http://fablab-
-lannion.org/membres/yann/) et [@david.blaisonneau](http://fablab-
-lannion.org/membres/david.blaisonneau/) lors de la prochaine étape le 27 juin
+des possibles avec Bzzz" ). Seront présents [@yann]({{ site.url }}/membres/yann/) et [@david.blaisonneau]({{ site.url }}/membres/david.blaisonneau/) lors de la prochaine étape le 27 juin
 à Rennes.
 
 Toujours concernant Bzzz, le projet continue d'avancer. Je vous renvoie vers
 les articles dédiés pour plus de détails. La ruche serait la bienvenue
-([@joc](http://fablab-lannion.org/membres/joc/))
+([@joc]({{ site.url }}/membres/joc/))
 
 Un devis précis pour la découpeuse laser Speedy 100 (avec accessoires) est
 demandé. Pour mémoire une **démo** sera faite par le commercial le **lundi 1er

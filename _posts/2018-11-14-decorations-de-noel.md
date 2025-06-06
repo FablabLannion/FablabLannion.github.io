@@ -1,7 +1,7 @@
 ---
 author: jerome
 tags: [noel, laser]
-imagefeature: http://www.fablab-lannion.org/images/home.jpg
+imagefeature: https://www.fablab-lannion.org/images/home.jpg
 layout: post
 slug: Décorations de noël
 date: 2018-11-14
@@ -35,5 +35,5 @@ Enfin, comme dernier exemple, quid de mieux qu'une **étoile clignotante** ? Cel
 
 Ce ne sont que quelques exemples. D'autres peuvent être trouvés, par exemple, sur [Thingiverse](https://www.thingiverse.com/search?q=christmas). Votre **créativité** ne demande qu'à s'exprimer, et le Fablab de Lannion à **libérer** celle-ci !
 
-À bientôt lors d'un de nos [créneaux d'ouverture](http://www.fablab-lannion.org/horaires-et-acces/) ...
+À bientôt lors d'un de nos [créneaux d'ouverture](https://www.fablab-lannion.org/horaires-et-acces/) ...
 

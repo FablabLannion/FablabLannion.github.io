@@ -10,11 +10,10 @@ comments: True
 ---
 Une petite vingtaine de personnes s'étaient donnés rendez-vous à la
 médiathèque de Lannion jeudi dernier pour la première rencontre
-d'innov[@lannion](http://fablab-lannion.org/membres/twitter_fablablannion/)
+d'innov[@lannion]({{ site.url }}/membres/twitter_fablablannion/)
 2.0. Cette première portait sur les modalités du concours, une introduction
 aux smart cities ainsi qu'une présentation sur les données publiques ouvertes.
-[![opendata_6585](https://static.fablab-lannion.org/opendata_6585-1024x596.png)](http://fablab-
-lannion.org/wp-content/uploads/2014/02/opendata_6585.png) Un petit débat a
+[![opendata_6585](https://static.fablab-lannion.org/opendata_6585-1024x596.png)]({{ site.url }}/wp-content/uploads/2014/02/opendata_6585.png) Un petit débat a
 prolongé les présentations et débordé un peu sur la 3ème rencontre qui portera
 sur l'utilisation d'openStreetMap. [![BfPdsr-IMAETcaJ.jpg
 large](https://static.fablab-lannion.org/BfPdsr-IMAETcaJ.jpg-
@@ -26,9 +25,8 @@ concours, Innov@lannion se veut un temps d'échanges et de partage de
 connaissances autour de la problématique des villes intelligentes. La deuxième
 rencontre est programmée cette semaine au fablab de 17 à 19h. Elle portera sur
 une présentation et une petite formation à la plate-forme open source de co-
-innovation (made in Brittany) [Emerginov](http://emerginov.ow2.org).
-[![emerginov_logo_black_huge](https://static.fablab-lannion.org/emerginov_logo_black_huge-1024x1024.png)](http://fablab-
-lannion.org/wp-content/uploads/2014/02/emerginov_logo_black_huge.png) Cette
+innovation (made in Brittany) [Emerginov](https://emerginov.ow2.org).
+[![emerginov_logo_black_huge](https://static.fablab-lannion.org/emerginov_logo_black_huge-1024x1024.png)]({{ site.url }}/wp-content/uploads/2014/02/emerginov_logo_black_huge.png) Cette
 plate-forme a déjà été utilisée dans quelques projets du fablab tels que Bzzz,
 la clé ou WhereIsTheBeach. On parlera donc plus de développement web, de micro
 services mobiles, de services vocaux ou de web services pour votre objet

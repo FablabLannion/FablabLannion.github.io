@@ -12,13 +12,11 @@ Nouvelle séance de travail collectif à l'ADIT autour de l'IllustraBot. Après
 les tests unitaires de la semaine dernière, place à un début d'intégration
 jusqu'au bout de la nuit (et toujours pas une bière même sans alcool..on
 attend l'arrivée du chêquier…)[  
-](http://fablab-lannion.org/wp-content/uploads/2013/02/IMG_4319.jpg)
+]({{ site.url }}/wp-content/uploads/2013/02/IMG_4319.jpg)
 
-[![IMG_4303](https://static.fablab-lannion.org/IMG_4303-300x200.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2013/02/IMG_4303.jpg)
+[![IMG_4303](https://static.fablab-lannion.org/IMG_4303-300x200.jpg)]({{ site.url }}/wp-content/uploads/2013/02/IMG_4303.jpg)
 
-[![IMG_4312](https://static.fablab-lannion.org/IMG_4312-300x200.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2013/02/IMG_4312.jpg)
+[![IMG_4312](https://static.fablab-lannion.org/IMG_4312-300x200.jpg)]({{ site.url }}/wp-content/uploads/2013/02/IMG_4312.jpg)
 
 
 
@@ -44,15 +42,13 @@ désormais, d'un côté l'application androïd parle au RPi à travers une
 websocket au dessus de LTE, de l'autre du GCode envoyé à la main est transféré
 via le SPI au arduino qui pilote les moteurs de l'Illustrabot qui dessine plus
 ou moins bien ce qu'on lui demande…..[  
-](http://fablab-lannion.org/wp-
-content/uploads/2013/02/IMG_4309.jpg)[![IMG_4316](https://static.fablab-lannion.org/IMG_4316-300x200.jpg)](http://fablab-
-lannion.org/wp-
+]({{ site.url }}/wp-
+content/uploads/2013/02/IMG_4309.jpg)[![IMG_4316](https://static.fablab-lannion.org/IMG_4316-300x200.jpg)]({{ site.url }}/wp-
 content/uploads/2013/02/IMG_4316.jpg)![IMG_4309](https://static.fablab-lannion.org/IMG_4309-300x200.jpg)
 
 Le maillon faible est donc …le RPi et plus précisément le serveur web socket
 qui reçoit bien le GCode mais ne parvient pas à le transmettre à l'arduino..A
-20h39 [@david.blaisonneau](http://fablab-
-lannion.org/membres/david.blaisonneau/) déclare "Le serveur web socket, c'est
+20h39 [@david.blaisonneau]({{ site.url }}/membres/david.blaisonneau/) déclare "Le serveur web socket, c'est
 moi et python" à 1h17 il rajoute "p***** de python"…bref on est sur la bonne
 voie…
 
@@ -66,11 +62,9 @@ utilsés pour contrôler le crayon de l'IllustraBot. Bon faut tester avec du fil
 de pèche mais personne n'avait ça sous la main…vivement qu'on ait notre
 local..
 
-Pour continuer avec nos amis les bêtes, [@Yann](http://fablab-
-lannion.org/membres/yann/) a eu une idée lumineuse et donc acheté une lampe
+Pour continuer avec nos amis les bêtes, [@Yann]({{ site.url }}/membres/yann/) a eu une idée lumineuse et donc acheté une lampe
 infrarouge d'elevage pour le lightBot…Ce dernier a fait ses premiers vols dans
-le hall des sports d'Alcatel. [@guillaume.remy](http://fablab-
-lannion.org/membres/guillaume.remy/) a perfectionné l'autopilote. Lundi
+le hall des sports d'Alcatel. [@guillaume.remy]({{ site.url }}/membres/guillaume.remy/) a perfectionné l'autopilote. Lundi
 prochain, séance St Exupéry à l'ADIT, on refait vol de Nuit en drône avec un
 sol éclairé par une lampe infrarouge initialement dédié au destressage du
 poulet en batterie…objectif faire au moins un cube de lumière…Cindy Sander est

@@ -7,7 +7,7 @@ date: 2016-07-28
 title: "Stage Petits Débrouillards : Électricité et transmissions de signaux"
 comments: True
 ---
-![](http://www.lespetitsdebrouillardsbretagne.org/local/cache-
+![](https://www.lespetitsdebrouillardsbretagne.org/local/cache-
 vignettes/L162xH200/arton4225-14acd.png)
 
 Envie de découvrir comment les électrons voyagent?
@@ -20,7 +20,7 @@ POUR LES ENFANTS DE 10 À 14 ANS
 
 Plus d'infos et inscriptions sur le site des petits débrouillard :
 
-<http://www.lespetitsdebrouillardsbretagne.org/Stage-Petits-
+<https://www.lespetitsdebrouillardsbretagne.org/Stage-Petits-
 Debrouillards,4225.html>
 
 

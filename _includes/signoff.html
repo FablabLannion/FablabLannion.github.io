@@ -6,7 +6,7 @@
                             {% if author.gravatar == '' %}
                                 {% capture author_icon %}{{ site.url }}/images/{{ site.logo.path }}{% endcapture %}
                             {% else %}
-                                {% capture author_icon %}http://www.gravatar.com/avatar/{{ author.gravatar }}?s=96&d=mm&r=g{% endcapture %}
+                                {% capture author_icon %}https://www.gravatar.com/avatar/{{ author.gravatar }}?s=96&d=mm&r=g{% endcapture %}
                             {% endif %}
                             <img src="{{ author_icon }}" class="notepad-post-author-avatar" alt="{{ author.name }}'s photo">
 
@@ -21,7 +21,7 @@
                             {% endif %}
 
                             {% if author.twitter %}
-                            <a href="http://twitter.com/{{ author.twitter }}">
+                            <a href="https://x.com/{{ author.twitter }}">
                                 <span class="fa-stack fa-lg">
                                     <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
                                     <i class="fa fa-twitter fa-stack-1x"></i>
@@ -37,7 +37,7 @@
                             </a>
                             {% endif %}
                             {% if author.github %}
-                            <a href="http://github.com/{{ author.github }}">
+                            <a href="https://github.com/{{ author.github }}">
                                 <span class="fa-stack fa-lg">
                                     <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
                                     <i class="fa fa-github fa-stack-1x"></i>
@@ -45,7 +45,7 @@
                             </a>
                             {% endif %}
                             {% if author.facebook %}
-                            <a href="http://facebook.com/{{ author.facebook }}">
+                            <a href="https://facebook.com/{{ author.facebook }}">
                                 <span class="fa-stack fa-lg">
                                     <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
                                     <i class="fa fa-facebook fa-stack-1x"></i>

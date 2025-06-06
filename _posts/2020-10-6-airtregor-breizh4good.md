@@ -10,7 +10,7 @@ comments: True
 share: True
 
 ---
-Le fablab participe à [Summit4Good](https://summit4good.bzh/), un événement organisé par [Anticipa](http://www.technopole-anticipa.com/), l'Agence de Développement Industriel du Trégor. Ce concours vise à favoriser l’émergence de projets technologiques innovants, aussi appelés « Tech4Good », ayant un impact positif sur la société et l’environnement.
+Le fablab participe à [Summit4Good](https://summit4good.bzh/), un événement organisé par [Anticipa](https://www.technopole-anticipa.com/), l'Agence de Développement Industriel du Trégor. Ce concours vise à favoriser l’émergence de projets technologiques innovants, aussi appelés « Tech4Good », ayant un impact positif sur la société et l’environnement.
 
 C'est avec le projet [Air trégor](https://wiki.fablab-lannion.org/index.php?title=AirTregor) que nous concourrons pour cette première édition. Ce projet a aussi été soumis au concours porté par le conseil départemental. Le fablab souhaite valoriser son réseau TTN LoRa en animant des ateliers pour construire un réseau de capteurs de qualité de l'air connectés autonomes: Un airparif à la mode de Lannion (article à suivre...).
 

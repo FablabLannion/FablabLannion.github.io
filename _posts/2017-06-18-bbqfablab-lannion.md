@@ -24,7 +24,7 @@ Toutes les bornes BarTop, manettes, full size sont les bienvenues.
 Ce sera aussi l'occasion de s'affronter amicalement autour d'un concours de Street Fighter II'
 (inscriptions sur place)
 
-![Bornes](http://wiki.fablab-lannion.org/images/thumb/6/67/Rw_IMG_20160313_174559.jpg/320px-Rw_IMG_20160313_174559.jpg)
+![Bornes](https://wiki.fablab-lannion.org/images/thumb/6/67/Rw_IMG_20160313_174559.jpg/320px-Rw_IMG_20160313_174559.jpg)
 
 ## Apéritif/Barbecue participatif
 Comme tous les ans, la formule reste le partage et la convivialité.
@@ -32,7 +32,7 @@ Chacun amène un peu, et tout le monde mange à tous les rateliers :)
 Saucisses, steacks, grillades en tout genre. Chips, salades et autres accompagnements.
 Boissons pour les petits et les grands, tout est bienvenue.
 
-![BBQ](http://static.fablab-lannion.org/bbq_320.jpg)
+![BBQ](https://static.fablab-lannion.org/bbq_320.jpg)
 
 **Les familles sont bien sûr invitées**, c'est aussi l'occasion de faire découvrir le Fablab à votre moitié(e) et à vos enfants.
 Un moyen de susciter des vocations ? ;)

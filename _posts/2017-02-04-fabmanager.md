@@ -14,7 +14,7 @@ Vous l'avez révé, c'est presque fait!
 
 Depuis mercredi dernier, le fablab accueille 2 services civiques en partenariat
 avec les petits débrouillards.
-Dylan ([dylan](http://forum.fablab-lannion.org/memberlist.php?mode=viewprofile&u=545) sur le forum) et Youenn ([Cruster](http://forum.fablab-lannion.org/memberlist.php?mode=viewprofile&u=551) sur le forum) prennent leurs marques et devraient nous permettre l'ouverture de **nouveaux créneaux** le vendredi après midi et le samedi matin et après midi.
+Dylan ([dylan](https://forum.fablab-lannion.org/memberlist.php?mode=viewprofile&u=545) sur le forum) et Youenn ([Cruster](https://forum.fablab-lannion.org/memberlist.php?mode=viewprofile&u=551) sur le forum) prennent leurs marques et devraient nous permettre l'ouverture de **nouveaux créneaux** le vendredi après midi et le samedi matin et après midi.
 
 Mais, qui dit nouveaux créneaux, dit nouveaux FabManagers.
 

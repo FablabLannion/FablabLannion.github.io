@@ -14,7 +14,7 @@ comments: True
 
 Lundi prochain, le fablab entame un cycle thématique avec un atelier de
 présentation dédié à l'auto-construction d'éolienne. L'atelier sera animé par
-[@laurenta](http://fablab-lannion.org/membres/laurenta/) qui nous fera
+[@laurenta]({{ site.url }}/membres/laurenta/) qui nous fera
 partager son expérience en la matière… La séance est ouverte au public,
 l'entrée libre, le sujet intéressant, donc… venez nombreux ! 🙂  
   

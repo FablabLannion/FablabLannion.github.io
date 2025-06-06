@@ -7,8 +7,8 @@ date: 2013-01-14
 title: "[22 février] Install Party au lycée Félix Le Dantec de Lannion"
 comments: True
 ---
-[![affiche_install_party_lycee_le_dantec_lannion](http://www.infothema.fr/wp-
-content/uploads/2013/01/affiche_install_party_lycee_le_dantec_lannion.png)](http://www.infothema.fr/22-fevrier-
+[![affiche_install_party_lycee_le_dantec_lannion](https://www.infothema.fr/wp-
+content/uploads/2013/01/affiche_install_party_lycee_le_dantec_lannion.png)](https://www.infothema.fr/22-fevrier-
 install-party-au-lycee-felix-le-dantec-de-
 lannion/affiche_install_party_lycee_le_dantec_lannion/)
 
@@ -22,11 +22,11 @@ Nombreux ateliers aux logiciels libres sous Linux (3D, retouche d'image,
 montage vidéo, vectoriel, PAO + LibreOffice).
 
 [Lire la
-suite](http://www.infothema.fr/forum/index.php/topic,288.0.htmlhttp://www.infothema.fr/forum/index.php/topic,288.0.html)
+suite](https://www.infothema.fr/forum/index.php/topic,288.0.htmlhttps://www.infothema.fr/forum/index.php/topic,288.0.html)
 
 The post [[22 février] Install Party au lycée Félix Le Dantec de
-Lannion](http://www.infothema.fr/22-fevrier-install-party-au-lycee-felix-le-
+Lannion](https://www.infothema.fr/22-fevrier-install-party-au-lycee-felix-le-
 dantec-de-lannion/) appeared first on [Association
-infothema](http://www.infothema.fr/).
+infothema](https://www.infothema.fr/).
 
 

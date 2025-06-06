@@ -22,8 +22,7 @@ avec la machine, un bon petit puzzle 3D. Chaque enfant a ainsi pu rentrer chez
 lui avec une petite maison à Oiseaux à installer dans le jardin.
 
 [![upload_-1
-\(1\)](https://static.fablab-lannion.org/upload_-1-1.jpg)](http://fablab-
-lannion.org/?attachment_id=13449)
+\(1\)](https://static.fablab-lannion.org/upload_-1-1.jpg)]({{ site.url }}/?attachment_id=13449)
 
 La seconde activité a débuté par la découverte du logiciel
 [Inkscape](https://inkscape.org/fr/), un outil de dessin vectoriel afin de
@@ -33,19 +32,17 @@ des boucliers Avengers. Au final c'était du 50-50 entre les "bonne fête maman"
 et les boucliers du capitaine America…
 
 [![upload_-1
-\(2\)](https://static.fablab-lannion.org/upload_-1-2.jpg)](http://fablab-
-lannion.org/?attachment_id=13448)
+\(2\)](https://static.fablab-lannion.org/upload_-1-2.jpg)]({{ site.url }}/?attachment_id=13448)
 
 [
 
-](http://fablab-lannion.org/?attachment_id=13450)
+]({{ site.url }}/?attachment_id=13450)
 
 Rendez-vous le 18 juin pour le dernier atelier de la saison, un atelier
 présidentiel consacré à la soudure!
 
 Les ateliers Junior du fablab sont soutenus par
-[![fondation_fr_quadri](https://static.fablab-lannion.org/fondation_fr_quadri.jpg)](http://fablab-
-lannion.org/2015/12/un-samedi-au-fablab-pour-bien-preparer-
+[![fondation_fr_quadri](https://static.fablab-lannion.org/fondation_fr_quadri.jpg)]({{ site.url }}/2015/12/un-samedi-au-fablab-pour-bien-preparer-
 noel/fondation_fr_quadri/)
 
 

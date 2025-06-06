@@ -11,13 +11,13 @@ comments: True
 **Samedi 8 Décembre**, le Fablab se transforme en annexe de l'atelier des lutins
 du Père Noël.
 
-![Gingerbread-Xmas-Set-2400px](https://static.fablab-lannion.org/Gingerbread-Xmas-Set-2400px-1024x813.png)](http://fablab-lannion.org/wp-content/uploads/2015/11/Gingerbread-Xmas-Set-2400px.png)
+![Gingerbread-Xmas-Set-2400px](https://static.fablab-lannion.org/Gingerbread-Xmas-Set-2400px-1024x813.png)]({{ site.url }}/wp-content/uploads/2015/11/Gingerbread-Xmas-Set-2400px.png)
 
 Venez fabriquer vos décorations personnalisées (boules, étoiles et autres
 sapins) et transformer vos dessins en objets uniques grâce à la
-[découpeuse Laser](http://fablab-lannion.org/wiki/index.php?title=D%C3%A9coupeuse_laser_Keyland)
+[découpeuse Laser]({{ site.url }}/wiki/index.php?title=D%C3%A9coupeuse_laser_Keyland)
 
-N'hésitez pas à déssiner vos objets en avance en suivant [le guide](http://wiki.fablab-lannion.org/index.php?title=Chaine_logicielle_pour_d%C3%A9coupeuse_laser) pour réaliser des dessins au format
+N'hésitez pas à déssiner vos objets en avance en suivant [le guide](https://wiki.fablab-lannion.org/index.php?title=Chaine_logicielle_pour_d%C3%A9coupeuse_laser) pour réaliser des dessins au format
 vectoriel avec l'outil [inkscape.](https://inkscape.org/fr/).
 
 Quelques idées...

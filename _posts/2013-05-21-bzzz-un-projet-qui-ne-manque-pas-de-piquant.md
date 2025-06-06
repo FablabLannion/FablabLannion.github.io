@@ -17,8 +17,7 @@ d'un kit de suivi des ruches.
 
 on peut résumer tout ça sous le schéma suivant:
 
-[![Bzzz](https://static.fablab-lannion.org/Bzzz-1024x599.png)](http://fablab-
-lannion.org/wp-content/uploads/2013/05/Bzzz.png)
+[![Bzzz](https://static.fablab-lannion.org/Bzzz-1024x599.png)]({{ site.url }}/wp-content/uploads/2013/05/Bzzz.png)
 
 Comme pour l'Illustrabot, le projet nécessite l'intégration de divers éléments
 et des compétences variées:
@@ -33,7 +32,6 @@ climatiques et être autonome électriquement.
 
 A suivre…
 
-Plus d'infos sur http://fablab-
-lannion.org/wiki/index.php?title=Suivi_des_ruches
+Plus d'infos sur {{ site.url }}/wiki/index.php?title=Suivi_des_ruches
 
 

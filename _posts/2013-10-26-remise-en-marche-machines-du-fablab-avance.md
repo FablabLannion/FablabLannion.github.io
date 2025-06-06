@@ -26,8 +26,8 @@ axes X/Y sont enfin pilotables depuis LinuxCNC ! Cette machine, arrivée sans
 carte de commande, s'est donc vu ajouter une carte de commande de puissance
 avec des ponts en H, le tout dans la méthode DIY (carte entièrement conçu au
 FabLab). Il a aussi fallu trouvé la méthode pour alimenter le tout. Bravo
-[@theo](http://fablab-lannion.org/membres/theo/), épaulé par
-[@pofexpray](http://fablab-lannion.org/membres/pofexpray/) ! Il reste encore
+[@theo]({{ site.url }}/membres/theo/), épaulé par
+[@pofexpray]({{ site.url }}/membres/pofexpray/) ! Il reste encore
 l'axe Z, la finalisation de l’électronique et le carter, mais ça avance vite
 et c'est précis! la preuve:
 

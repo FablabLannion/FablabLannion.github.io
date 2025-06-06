@@ -7,12 +7,12 @@ date: 2022-02-18
 title: "Retour sur l'atelier capteur CO2"
 comments: True
 share: True
-imagefeature: http://www.fablab-lannion.org/images/posts/atelierCo2/atelier-co2-2.jpeg
+imagefeature: https://www.fablab-lannion.org/images/posts/atelierCo2/atelier-co2-2.jpeg
 ---
 
 L'atelier de fabrication de capteurs de CO2 s'est déroulé le 5 février dernier au fablab de Lannion.
 
-![atelier](http://www.fablab-lannion.org/images/posts/atelierCo2/atelier-co2-2.jpeg)
+![atelier](https://www.fablab-lannion.org/images/posts/atelierCo2/atelier-co2-2.jpeg)
 
 6 nouveaux makers avaient répondu présents. 
 On peut noter au passage une grande diversité des profils: les participants avaient de 15 à 64 ans,
@@ -26,12 +26,12 @@ la partie électronique (soudure), découpeuse Laser (fabrication de l'objet) et
 Tous les supports de formation sont disponibles sous [gitlab](https://gitlab.com/fablab-lannion/capteur-co2/-/blob/main/docs/atelier/atelier.md)
 
 Au final, les parties informatique et électronique ont été réalisées sans trop de soucis.
-![soudure](http://www.fablab-lannion.org/images/posts/atelierCo2/atelier-co2-3.jpeg)
+![soudure](https://www.fablab-lannion.org/images/posts/atelierCo2/atelier-co2-3.jpeg)
 
 L'assemblage de l'objet a été un petit peu plus compliqué, provoquant le débranchage involontaire
 de quelques fils nécessitant de refaire quelques soudures.
 
-![assemblage](http://www.fablab-lannion.org/images/posts/atelierCo2/atelier-co2-1.jpeg)
+![assemblage](https://www.fablab-lannion.org/images/posts/atelierCo2/atelier-co2-1.jpeg)
 
 L'ambiance a été joyeuse et studieuse.
 La palme revient à notre Benjamin qui a été le premier à terminer son objet.

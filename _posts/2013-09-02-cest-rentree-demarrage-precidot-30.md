@@ -16,17 +16,14 @@ en route la Precidot 30 (et voir le travail qu'il reste à accomplir pour
 pouvoir l'utiliser).
 
 [![Démarrage de la Precidot
-30](https://static.fablab-lannion.org/IMG_20130902_225911-225x300.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2013/09/IMG_20130902_225911.jpg)
+30](https://static.fablab-lannion.org/IMG_20130902_225911-225x300.jpg)]({{ site.url }}/wp-content/uploads/2013/09/IMG_20130902_225911.jpg)
 
 Comment ca marche ?
 
-La [Novar 33](http://fablab-
-lannion.org/wiki/images/4/4a/F51400.NOVAR33.1003.FR.pdf "Novar 33" ) et la
-[Precidot 30](http://fablab-
-lannion.org/wiki/images/9/9c/F51501.PRECIDOT_30.0903.FR.pdf "Precidot 30" )
+La [Novar 33]({{ site.url }}/wiki/images/4/4a/F51400.NOVAR33.1003.FR.pdf "Novar 33" ) et la
+[Precidot 30]({{ site.url }}/wiki/images/9/9c/F51501.PRECIDOT_30.0903.FR.pdf "Precidot 30" )
 sont deux machines utilisées pour la mise en place automatisée de composants
-[CMS](http://fr.wikipedia.org/wiki/Composant_mont%C3%A9_en_surface "CMS Wiki"
+[CMS](https://fr.wikipedia.org/wiki/Composant_mont%C3%A9_en_surface "CMS Wiki"
 ) sur un circuit imprimé. Celles-ci sont présentes dans les locaux du FabLab
 et ne demandent qu'a reprendre du service. Une première étape a été franchie
 ce soir:
@@ -34,8 +31,7 @@ ce soir:
 
 
 [![Ecran / Caméra de la Precidot
-30](https://static.fablab-lannion.org/IMG_20130902_225921-300x225.jpg)](http://fablab-
-lannion.org/wp-content/uploads/2013/09/IMG_20130902_225921.jpg)
+30](https://static.fablab-lannion.org/IMG_20130902_225921-300x225.jpg)]({{ site.url }}/wp-content/uploads/2013/09/IMG_20130902_225921.jpg)
 
 Ecran / Caméra de la Precidot 30
 

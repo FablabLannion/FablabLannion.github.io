@@ -51,24 +51,18 @@ image="/wiki/images/thumb/c/c2/JPO2013_DBL_08.jpeg/800px-JPO2013_DBL_08.jpeg"
 alt="Apprendre à faire des crêpes, c'est possible !"]
 
 Merci donc aux bénévoles qui ont animé cette jolie journée :
-[@theo](http://fablab-lannion.org/membres/theo/), [@pofexpray](http://fablab-
-lannion.org/membres/pofexpray/), [@jerome](http://fablab-
-lannion.org/membres/jerome/), [@tangi](http://fablab-
-lannion.org/membres/tangi/), [@mael](http://fablab-lannion.org/membres/mael/),
-[@guillaume](http://fablab-lannion.org/membres/guillaume/),
-[@laurent](http://fablab-lannion.org/membres/laurent/),
-[@colvert](http://fablab-lannion.org/membres/colvert/),
-[@david.blaisonneau](http://fablab-lannion.org/membres/david.blaisonneau/),
-[@nico](http://fablab-lannion.org/membres/nico/), [@stef](http://fablab-
-lannion.org/membres/stef/), [@tipouic](http://fablab-
-lannion.org/membres/tipouic/)… and co !
+[@theo]({{ site.url }}/membres/theo/), [@pofexpray]({{ site.url }}/membres/pofexpray/), [@jerome]({{ site.url }}/membres/jerome/), [@tangi]({{ site.url }}/membres/tangi/), [@mael]({{ site.url }}/membres/mael/),
+[@guillaume]({{ site.url }}/membres/guillaume/),
+[@laurent]({{ site.url }}/membres/laurent/),
+[@colvert]({{ site.url }}/membres/colvert/),
+[@david.blaisonneau]({{ site.url }}/membres/david.blaisonneau/),
+[@nico]({{ site.url }}/membres/nico/), [@stef]({{ site.url }}/membres/stef/), [@tipouic]({{ site.url }}/membres/tipouic/)… and co !
 
 Si l'équipe ne peut pas pour autant s'endormir sur ses lauriers — il reste
 encore énormément de choses à faire : terminer le montage de la eShapeoko,
 préparer la tout prochaine I[nitiation à la modélisation
 3D](/evenements/2013/12/modelisation-3d-sur-sketchup-session-dinitiation/) et
-l'[Assemblée Générale de l'association](http://fablab-
-lannion.org/evenements/2013/12/assemblee-generale-2013/), assister aux
+l'[Assemblée Générale de l'association]({{ site.url }}/evenements/2013/12/assemblee-generale-2013/), assister aux
 formations pour les FabManagers… — c'est tout de même avec une grande
 satisfaction que nous avons clôturé cet événement. Merci à tous de votre
 intérêt, et.. rendez-vous lors du [prochain atelier ouvert](/evenements/) ?

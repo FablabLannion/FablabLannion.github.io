@@ -23,7 +23,7 @@ Lannion, infothéma, les petits débrouillards, lycée le Dantec, ENSSAT, PATG,
 Ro'spered) avait organisé une semaine de présentations, d'animations et de
 mini conférences. Cartographie libre, install party, atelier d'initiation au
 code, conférence sur l'open hardware, git ou OSM, présentation d'Ubuntu. La
-semaine [Libre en fête en Trégor](http://libre-en-fete-tregor.fr/) avait été
+semaine [Libre en fête en Trégor](https://libre-en-fete-tregor.fr/) avait été
 riche!
 
 ![](https://pbs.twimg.com/media/B_viyo8WwAA3MDh.jpg)

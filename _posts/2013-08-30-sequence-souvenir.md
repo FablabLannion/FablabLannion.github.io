@@ -11,11 +11,10 @@ comments: True
 Aller, un peu de nostalgie ne fait jamais de mal.
 
 Aujourd'hui, 30 Août 2013 nous pouvons fêter la première année depuis le tweet
-de [@yann](http://fablab-lannion.org/membres/yann/) qui a lancé la machine
+de [@yann]({{ site.url }}/membres/yann/) qui a lancé la machine
 
 [![Le tweet duquel tout est
-parti](https://static.fablab-lannion.org/tweet_original-300x59.png)](http://fablab-
-lannion.org/wp-content/uploads/2013/07/tweet_original.png)
+parti](https://static.fablab-lannion.org/tweet_original-300x59.png)]({{ site.url }}/wp-content/uploads/2013/07/tweet_original.png)
 
 Le tweet duquel tout est parti
 
