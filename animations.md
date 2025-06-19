@@ -1,4 +1,4 @@
----
+fil---
 layout: page
 permalink: /animations/
 title: A Propos
@@ -7,10 +7,7 @@ imagefeature: fourseasons.jpg
 chart: true
 ---
 
-<figure>
-  <img src="{{ site.url }}/images/logoSeul-300x300.jpg" alt="FabLab Lannion">
-  <figcaption>FabLab Lannion</figcaption>
-</figure>
+
 
 {% assign total_words = 0 %}
 {% assign total_readtime = 0 %}
@@ -26,6 +23,8 @@ chart: true
     {% assign featuredcount = featuredcount | plus: 1 %}
     {% endif %}
 {% endfor %}
+
+
 
 
 Attention, cette page est en construction !
