@@ -6,7 +6,10 @@
     {
         "day": "Vendredi",
         "hours": "12h30 - 17h30"
-        "Vendredi 24 Avril ==> Ouverture à 13h30 !"
+    },
+    {
+        "day": "Vendredi 24 Avril",
+        "hours": "==> Ouverture à 13h30 !"
     },
     {
         "day": "Samedi",
