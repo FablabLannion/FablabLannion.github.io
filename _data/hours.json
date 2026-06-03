@@ -7,18 +7,10 @@
         "day": "Vendredi",
         "hours": "12h30 - 17h30"
     },
-    {
-        "day": "Vendredi 22 Mai",
-        "hours": "==> Ouverture de 13h45 à 17h30"
-    },
 
     {
         "day": "Samedi",
         "hours": "9h30 - 12h30"
-    },
-    {
-        "day": "Samedi 23 Mai",
-        "hours": "==> FERMETURE de l'atelier Partagé"
     }
   ]
   
