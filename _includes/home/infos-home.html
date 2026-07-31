@@ -1,21 +1,15 @@
-<div class="infos-home">
-  <div class="infos-box-top">
-
-    {% if site.data.hours %}
-      {% for hour in site.data.hours %}
-        {% if hour.day and hour.hours %}
-        <div class="infos-day"><strong>{{ hour.day }}: </strong>{{ hour.hours }}</div>
-      {% endif %}
-      {% endfor %}
+{% if site.data.hours %}
+  {% assign has_message = false %}
+  {% for hour in site.data.hours %}
+    {% if hour.message %}
+      {% assign has_message = true %}
+      <div class="infos-day infos-message">{{ hour.message }}</div>
+    {% elsif hour.day and hour.hours %}
+      <div class="infos-day"><strong>{{ hour.day }}: </strong>{{ hour.hours }}</div>
     {% endif %}
+  {% endfor %}
+{% endif %}
 
-    <div class="infos-day">À la demande, avec la présence d’un FabManager</div>
-  </div>
-    {% if include.show_buttons %}
-      <div class="infos-box-bottom">
-        <a href="{{ '/horaires-et-acces/#tarifs-2025' | relative_url }}" class="button">Tarifs</a>
-        <a href="{{ '/horaires-et-acces/#contacts' | relative_url }}" class="button">Contact</a>
-        <a href="https://www.helloasso.com/associations/ker-nel-fablab-lannion" class="button">Adhésion</a>
-      </div>
-    {% endif %}
-</div>
+{% unless has_message %}
+  <div class="infos-day">À la demande, avec la présence d'un FabManager</div>
+{% endunless %}
