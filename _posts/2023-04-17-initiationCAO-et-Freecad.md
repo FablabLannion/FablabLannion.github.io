@@ -12,4 +12,3 @@ Venez découvrir et vous initier à la conception de modèles 3D avec [FreeCAD](
 ![exemple de modèle de pignons fait avec FreeCAD](https://www.freecad.org/images/cover-photo.png)
 
 RDV le 3 mai 2023 à 19h au FabLab.
-*Lien à suivre*
