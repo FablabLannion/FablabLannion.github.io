@@ -66,6 +66,10 @@ links:
   - title: Forum
     url: https://forum.fablab-lannion.org
     external: true
+  - title: Club 3D
+    url: /club3d
+  - title: Club Robotique
+    url: /clubrobotique
   - title: OoRoBoT
     url: /oorobot
   - title: Wiki
