@@ -63,9 +63,9 @@ Horaires
 Quel que soit votre niveau de compétence, que vous ayez un projet précis ou que vous soyez simplement curieux, vous êtes bienvenus lors de nos réunions et ateliers hebdomadaires :
 
 * chaque **mercredi** de 18h00 à 23h00 : atelier ouvert
-* chaque **vendredi** de 12h30 à 14h00 : réunion d'échange ouverte à tous 
+* chaque **vendredi** de 12h30 à 14h00 : réunion d'échange ouverte à tous
 * chaque **vendredi** de 12h30 à 17h30 : atelier ouvert
-* chaque **samedi**   de 9h30 à 12h30 : atelier ouvert 
+* chaque **samedi**   de 9h30 à 12h30 : atelier ouvert
 * A la demande, avec la présence d'un FabManager
 
 Si ce n'est déjà fait, n'hésitez pas à vous inscrire sur le site, afin de recevoir les mises-à-jour sur les dates/heures des ateliers. Chacun peut venir avec son matériel, son projet, ses idées ou avec la simple envie d'apprendre...
@@ -83,9 +83,9 @@ Ensuite, il y aura un fléchage, en attendant suivez le couloir sur la gauche ju
 Tarifs 2025
 =============
 
-Vous pouvez retrouver ces tarifs sur le wiki du FabLab: [Tableau des tarifs d'utilisation des équipement](https://wiki.fablab-lannion.org/index.php?title=Tableau_des_tarifs_d%27utilisation_des_%C3%A9quipement).
+Vous pouvez retrouver ces tarifs sur le wiki du FabLab: [Tableau des tarifs d'utilisation des équipement](https://wiki.fablab-lannion.org/books/tarifs).
 
-## Machines de découpe			
+## Machines de découpe
 
 |Prestation|Prix adhérents|Prix Extérieur|Détail|
 |---------|---------|---------|---------|
@@ -93,13 +93,13 @@ Vous pouvez retrouver ces tarifs sur le wiki du FabLab: [Tableau des tarifs d'ut
 |Découpe Plasma|5,50 €|11,00 €|Le quart d'heure d'utilisation (*)|
 |Fraiseuse numérique|5,50 €|11,00 €|Le quart d'heure d'utilisation (*)|
 
-> **Note:** 			
+> **Note:**
 > Les matériaux doivent être fournis par l'utilisateur<br />
->  Se référer à un FabManager ou au Wiki pour connaître la liste des matériaux utilisables pour les différentes prestations	
-> 
-> (*) Toute période entamée est due			
+>  Se référer à un FabManager ou au Wiki pour connaître la liste des matériaux utilisables pour les différentes prestations
+>
+> (*) Toute période entamée est due
 
-## Textiles et Sérigraphie			
+## Textiles et Sérigraphie
 
 |Prestation|Prix adhérents|Prix Extérieur|Détail|
 |---------|---------|---------|---------|
@@ -114,11 +114,11 @@ Vous pouvez retrouver ces tarifs sur le wiki du FabLab: [Tableau des tarifs d'ut
 |Impression photo format A5|1,50 €|3,00 €|La feuille|
 
 > **Notes:**
->	
+>
 > * Une presse à chaud est à disposition pour le flocage textile.
 > * Impression Photos: le papier (glossy ou semi glossy) est fourni
-> 
->(*) Toute période entamée est due			
+>
+>(*) Toute période entamée est due
 
 ## Création 3D
 
@@ -133,27 +133,27 @@ Vous pouvez retrouver ces tarifs sur le wiki du FabLab: [Tableau des tarifs d'ut
 |Thermoformage|4,00 €|8,00 €|La feuille de PETG certifié contact alimentaire de 1mm d'épaisseur|
 
 > **Note:**
-> Lors d'une impression, le tarif final se calcule en additionnant le coût de l'impression forfaitaire avec la quantité de matière utilisée (la pièce est pesée à la suite de l'impression)			
-			
-## Adhésion			
+> Lors d'une impression, le tarif final se calcule en additionnant le coût de l'impression forfaitaire avec la quantité de matière utilisée (la pièce est pesée à la suite de l'impression)
+
+## Adhésion
 
 |Type|Prix|Détail|
 |---------|---------|---------|
 |Adhésion plein tarif|35,00 €|Adhésion a l'année civile|
 |Adhésion tarif social|10,00 €|Adhésion a l'année civile sur présentation de pièces justificative|
 |Adhésion personne morale|35,00 €|Adhésion à l'année civile|
-	
-## Vente d'objets			
+
+## Vente d'objets
 
 |Produit|Prix|Détail|
 |---------|---------|---------|
 |[OORobot en kit](/oorobot)|45,00 €|Le OORobot est à monter par l'utilisateur|
-|[Ecran 15/17" occasion](https://wiki.fablab-lannion.org/index.php?title=Reconditionnement_des_Ordinateurs)|20,00 €|Sous réserve de disponibilité|
-|[Ecran 19/22" occasion](https://wiki.fablab-lannion.org/index.php?title=Reconditionnement_des_Ordinateurs)|30,00 €|Sous réserve de disponibilité|
-|[PC portable reconditionné](https://wiki.fablab-lannion.org/index.php?title=Reconditionnement_des_Ordinateurs)|entre 60€ et 100€|Sous réserve de disponibilité|
-|[PC de bureau reconditionné](https://wiki.fablab-lannion.org/index.php?title=Reconditionnement_des_Ordinateurs)|40,00 €|Sous réserve de disponibilité|
-		
-## Services			
+|Ecran 15/17" occasion|20,00 €|Sous réserve de disponibilité|
+|Ecran 19/22" occasion|30,00 €|Sous réserve de disponibilité|
+|PC portable reconditionné|entre 60€ et 100€|Sous réserve de disponibilité|
+|PC de bureau reconditionné|40,00 €|Sous réserve de disponibilité|
+
+## Services
 
 |Prestation|Prix|Détail|
 |---------|---------|---------|
