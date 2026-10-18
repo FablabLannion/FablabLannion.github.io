@@ -13,8 +13,7 @@
         "picture": "borne2.jpg",
         "title": "Borne d'arcade",
         "subtitle": "par Jérôme",
-        "tags": "recalbox, Retrogaming",
-        "url": "https://wiki.fablab-lannion.org/index.php?title=Borne_d%27arcade"
+        "tags": "recalbox, Retrogaming"
     },
     {
         "picture": "sous-bocs.png",
@@ -29,8 +28,7 @@
     {
         "picture": "theatre.jpg",
         "title": "Maquette de Théâtre",
-        "subtitle": "par Agata",
-        "url": "https://wiki.fablab-lannion.org/index.php?title=Maquette_Sc%C3%A8ne_de_Th%C3%A9%C3%A2tre"
+        "subtitle": "par Agata"
     },
     {
         "picture": "horloge.png",
@@ -73,8 +71,7 @@
         "picture": "ruches.jpg",
         "title": "Ruches connectées",
         "subtitle": "par Bernard",
-        "tags": "LoRa, IoT",
-        "url": "https://wiki.fablab-lannion.org/index.php?title=Suivi_des_ruches"
+        "tags": "LoRa, IoT"
     },
     {
         "picture": "radar.png",
