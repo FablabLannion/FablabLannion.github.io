@@ -61,7 +61,7 @@ bodyClass: "page-home"
         </div>
         {% endif %}
         <div class="team-meta">
-          <h2 class="team-name"><a href="{{ site.wiki_url }}/{{ machine.wiki_url }}">{{ machine.title }}</a></h2>
+          <h2 class="team-name"><a href="{% if machine.url %}{{ machine.url }}{% else %}{{ site.wiki_url }}/{{ machine.wiki_url }}{% endif %}">{{ machine.title }}</a></h2>
           {% if machine.description %}
           <p class="team-description">{{ machine.description }}</p>
           {% endif %}
@@ -72,8 +72,7 @@ bodyClass: "page-home"
   </div>
   <div class="row justify-content-center">
     <div class="col-auto">
-      <a class="button button-primary" href="{{ site.wiki_url }}/index.php?title=Cat%C3%A9gorie:Machine">Voir toutes les
-        machines</a>
+      <a class="button button-primary" href="{{ site.machines_url | default: site.wiki_url | append: '/index.php?title=Cat%C3%A9gorie:Machine' }}">Voir toutes les
     </div>
   </div>
 </div>
