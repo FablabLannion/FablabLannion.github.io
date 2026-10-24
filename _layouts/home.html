@@ -49,6 +49,11 @@ bodyClass: "page-home"
 
 {% if site.data.machines %}
 <div class="page-teams container pt-6 pb-6">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-8 text-center">
+       <p>Envie d'en savoir plus sur les machines du Fablab et sur les projets en cours ? Il suffit d'aller sur <a href="https://wiki.fablab-lannion.org/">le wiki</a> !</p>
+    </div>
+  </div>
   <div class="row pt-6 pb-6">
     {% assign limit = site.home.limit_machines | default: 12 %}
     {% for machine in site.data.machines limit: limit %}
