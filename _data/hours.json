@@ -9,8 +9,13 @@
     },
 
     {
-        "day": "Samedi",
+        "day": "Samedi, en autonomie",
         "hours": "9h30 - 12h30"
+    },
+    
+    {
+        "day": "Fermeture exceptionnelle",
+        "hours": "le 11 Novembre"
     }
   ]
   
