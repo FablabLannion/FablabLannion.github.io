@@ -35,7 +35,7 @@ Adhérer
 -------
 
 Le moyen le plus simple est déjà adhérer à l’association. Vous trouverez toutes les informations sur la
-[page dédiée](https://wiki.fablab-lannion.org//index.php?title=Adh%C3%A9sion).
+[page dédiée](https://wiki.fablab-lannion.org/books/tarifs/page/adhesion).
 Nous faire don de matériel informatique, électronique ou de fabrication numérique en fin de vie
 
 Vous renouvelez votre parc informatique ou électronique, ou votre matériel de fabrication numérique ? Plutôt que d’acheminer ce matériel vers une filière de recyclage où il sera détruit alors qu’ils est encore en état de fonctionnement, vous pouvez nous les proposer afin que nous leur donnions une seconde vie. Nous assurons l’effacement des données éventuellement situées sur les disques des ordinateurs, et proposons ensuite ce matériel à prix préférentiel à des publics concernés par la fracture numérique.
@@ -58,7 +58,7 @@ Informations administratives
 
 L'association a été crée en Décembre 2012 et est déclarée auprès de la sous-préfecture de Lannion
 
-* [Statuts](https://wiki.fablab-lannion.org//index.php?title=Statuts)
+* [Statuts](https://wiki.fablab-lannion.org/books/documents-administratifs/page/les-status)
 * numéro RNA : W223001420 [Récépissé de déclaration](https://static.fablab-lannion.org//Recepisse_CR.pdf)
 * Parution au JO le 22/12/2012 [Annonce](https://www.journal-officiel.gouv.fr/pages/associations-detail-annonce/?q.id=id:201200510384)
 * numéro SIREN : 789 912 854

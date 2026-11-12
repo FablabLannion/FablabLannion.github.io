@@ -18,10 +18,16 @@ The Trender is an objet translating different types of information into light.
 *Read this in other languages: [Français](/trender_fr)*
 
 ## Table of Contents
+- [Table of Contents](#table-of-contents)
 - [Modes](#modes)
   - [Timekeeper](#timekeeper)
+    - [Configuration](#configuration)
   - [Demo](#demo)
   - [Notification](#notification)
+    - [Configure WiFi](#configure-wifi)
+    - [Configure WiFi (No Scan)](#configure-wifi-no-scan)
+    - [Info](#info)
+    - [Reset](#reset)
 - [FAQ](#faq)
 
 Connect your Trender to a power supply through the USB cable, a light cycle will start to indicate that the Trender is properly powered.
@@ -133,9 +139,6 @@ This menu can be used to perform a factory reset. **Be careful! All the previous
 
 Q: Where is the code?
 A: [https://github.com/FablabLannion/Trender](https://github.com/FablabLannion/Trender)
-
-Q: Any other reference?
-A: A wiki page (in French) is available [https://wiki.fablab-lannion.org/index.php?title=Trender](https://wiki.fablab-lannion.org/index.php?title=Trender)
 
 Q: Who may I contact in case of trouble?
 A: mail trender@fablab-lannion.org, [x.com/fablablannion](https://x.com/fablablannion)
